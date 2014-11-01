@@ -7,7 +7,6 @@ tags: [yhdistys]
 toc: false 
 comments: true 
 ads: false 
-redirect_from: "/kerkesix-ry-perustettu" 
 --- 
 
 21.9.2003 pidettiin yhdistyksen perustava kokous Kauniaisten uimahallin
@@ -22,16 +21,12 @@ urheiluhenkeä ja pysyvää harrastusta urheilu- ja ulkoilutoimintaan.
 
 Tarkoituksensa toteuttamiseksi yhdistys:
 
--   <span
-    style="mso-bidi-font-size: 9.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span><span
-    style="font: 7.0pt 'Times New Roman';"> </span></span></span><span>järjestää
-    harjoitus- ja valmennustilaisuuksia</span>
+-   järjestää harjoitus- ja valmennustilaisuuksia
 -   <span>antaa tietopuolista opetusta</span>
 -   <span>järjestää koti- ja ulkomaisia harjoitus- ja kilpailumatkoja
     jäsenilleen</span>
 -   <span>toimeenpanee kilpailuja, näytöksiä, kursseja ja juhlia</span>
--   <span>toimii yhteistyössä muiden urheilu- ja<span> 
-    </span>ulkoiluharrastajien kanssa, sekä ylläpitää yhteyksiä muihin
+-   <span>toimii yhteistyössä muiden urheilu- ja ulkoiluharrastajien kanssa, sekä ylläpitää yhteyksiä muihin
     urheilu- ja ulkoiluyhdistyksiin</span>
 -   <span>hankkii tarvittavia välineitä yhdistyksen käyttöön.</span>
 
