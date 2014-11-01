@@ -1,11 +1,13 @@
 --- 
 layout: article 
 title: "Kerkesix ry" 
+permalink: /kerkesix-ry/ 
 categories: 
 tags: [yhdistys]
 toc: false 
 comments: false 
 ads: false 
+redirect_from: /kerkesix-ry
 --- 
 
 Kerkesix ry on monipuolista urheilua ja ulkoilua harrastavien ihmisten

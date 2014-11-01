@@ -1,6 +1,7 @@
 --- 
 layout: article 
 title: "Sysimusta Satku ohje" 
+permalink: /sysimusta-satku-ohje/ 
 categories: 
 tags: [satku]
 toc: false 

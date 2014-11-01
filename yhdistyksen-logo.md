@@ -1,6 +1,7 @@
 --- 
 layout: article 
 title: "Yhdistyksen logo" 
+permalink: /yhdistyksen-logo/ 
 categories: 
 tags: [yhdistys,logo]
 toc: false 

@@ -1,6 +1,7 @@
 --- 
 layout: article 
 title: "Kokemuksia ja vinkkejä Sysimustalta Satkulta" 
+permalink: /kokemuksia-ja-vinkkeja-sysimustalta-satkulta/ 
 categories: 
 tags: [satku]
 toc: false 

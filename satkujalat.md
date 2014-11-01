@@ -1,6 +1,7 @@
 --- 
 layout: article 
 title: "Satkujalat" 
+permalink: /satkujalat/ 
 categories: 
 tags: [satku]
 toc: false 

@@ -1,6 +1,7 @@
 --- 
 layout: article 
 title: "Yhteystiedot" 
+permalink: /yhteystiedot/ 
 categories: 
 tags: [yhdistys]
 toc: false 

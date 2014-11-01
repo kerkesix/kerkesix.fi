@@ -1,6 +1,7 @@
 --- 
 layout: article 
 title: "Sysimusta Satku" 
+permalink: /sysimusta-satku/ 
 categories: 
 tags: [satku]
 toc: false 

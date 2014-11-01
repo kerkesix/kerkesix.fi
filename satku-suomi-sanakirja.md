@@ -1,6 +1,7 @@
 --- 
 layout: article 
 title: "Satku - Suomi -sanakirja" 
+permalink: /satku-suomi-sanakirja/ 
 categories: 
 tags: [satku]
 toc: false 
