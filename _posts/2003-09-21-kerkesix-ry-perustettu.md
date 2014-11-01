@@ -1,6 +1,6 @@
 --- 
 layout: article 
-title: Kerkesix ry on perustettu 21.9.2003 
+title: "Kerkesix ry on perustettu 21.9.2003" 
 categories: 
 modified: 2003-09-11 
 tags: [yhdistys]
