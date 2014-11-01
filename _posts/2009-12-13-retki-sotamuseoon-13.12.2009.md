@@ -2,7 +2,6 @@
 layout: article 
 title: "Retki sotamuseoon 13.12.2009" 
 categories: 
-modified: 2009-12-01 
 tags: [historia,kulttuurijaos]
 toc: false 
 comments: true 

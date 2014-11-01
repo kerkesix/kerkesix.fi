@@ -2,7 +2,6 @@
 layout: article 
 title: "Lepakkomiehen haaste, eli kalliokiipeilyä Kvarnbyssä 19.05.2005" 
 categories: 
-modified: 2005-05-10 
 tags: [kiipeily]
 toc: false 
 comments: true 

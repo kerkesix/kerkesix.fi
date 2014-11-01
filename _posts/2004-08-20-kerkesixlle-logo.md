@@ -2,7 +2,6 @@
 layout: article 
 title: "Kerkesix ry:lle logo" 
 categories: 
-modified: 2004-08-02 
 tags: [yhdistys,logo]
 toc: false 
 comments: true 

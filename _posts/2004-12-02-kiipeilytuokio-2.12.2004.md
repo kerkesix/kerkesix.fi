@@ -2,7 +2,6 @@
 layout: article 
 title: "Kiipeilytuokio 2.12.2004" 
 categories: 
-modified: 2004-12-02 
 tags: [kiipeily]
 toc: false 
 comments: true 

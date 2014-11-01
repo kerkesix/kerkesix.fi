@@ -2,7 +2,6 @@
 layout: article 
 title: "Valio-Jukola 16.-17.6.2012" 
 categories: 
-modified: 2012-06-09 
 tags: [suunnistus,jukola]
 toc: false 
 comments: true 

@@ -2,7 +2,6 @@
 layout: article 
 title: "Sinitiaiset murmeleiksi!" 
 categories: 
-modified: 2004-08-02 
 tags: [erä-sm]
 toc: false 
 comments: true 

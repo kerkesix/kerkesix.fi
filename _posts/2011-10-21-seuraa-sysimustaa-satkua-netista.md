@@ -2,7 +2,6 @@
 layout: article 
 title: "Seuraa Sysimustaa Satkua netistä" 
 categories: 
-modified: 2011-10-02 
 tags: [satku]
 toc: false 
 comments: true 

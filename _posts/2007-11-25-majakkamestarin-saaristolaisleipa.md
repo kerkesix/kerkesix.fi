@@ -2,7 +2,6 @@
 layout: article 
 title: "Majakkamestarin saaristolaisleipä" 
 categories: 
-modified: 2007-11-02 
 tags: [ruoka]
 toc: false 
 comments: true 

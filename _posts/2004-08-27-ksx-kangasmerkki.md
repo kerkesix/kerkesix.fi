@@ -2,7 +2,6 @@
 layout: article 
 title: "KSX-kangasmerkki" 
 categories: 
-modified: 2004-08-03 
 tags: [varusteet,logo]
 toc: false 
 comments: true 

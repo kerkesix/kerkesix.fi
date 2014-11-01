@@ -2,7 +2,6 @@
 layout: article 
 title: "Palauttava pyöräily 2.7.2007" 
 categories: 
-modified: 2007-07-03 
 tags: [pyöräily]
 toc: false 
 comments: true 

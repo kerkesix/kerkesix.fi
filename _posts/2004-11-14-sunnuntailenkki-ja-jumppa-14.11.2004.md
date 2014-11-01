@@ -2,7 +2,6 @@
 layout: article 
 title: "Sunnuntailenkki ja jumppa 14.11.2004" 
 categories: 
-modified: 2004-11-03 
 tags: [juoksu]
 toc: false 
 comments: true 

@@ -2,7 +2,6 @@
 layout: article 
 title: "Köysitoimintaa Vanjarvellä" 
 categories: 
-modified: 2007-05-03 
 tags: [kiipeily]
 toc: false 
 comments: true 

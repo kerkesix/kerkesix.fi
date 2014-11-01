@@ -2,7 +2,6 @@
 layout: article 
 title: "Alle 12 tuntia Sysimusta Satkun X ilmoittautumisen alkuun" 
 categories: 
-modified: 2011-08-12 
 tags: [satku]
 toc: false 
 comments: true 

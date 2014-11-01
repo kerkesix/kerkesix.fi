@@ -2,7 +2,6 @@
 layout: article 
 title: "Matalakiipeilyä maan alla 22.1.2004" 
 categories: 
-modified: 2004-01-09 
 tags: [kiipeily,boulderointi]
 toc: false 
 comments: true 

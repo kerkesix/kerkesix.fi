@@ -2,7 +2,6 @@
 layout: article 
 title: "Lauantaikiipeily Tapanilassa 8.12.2007" 
 categories: 
-modified: 2007-12-02 
 tags: [kiipeily]
 toc: false 
 comments: true 

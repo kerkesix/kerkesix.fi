@@ -2,7 +2,6 @@
 layout: article 
 title: "Merimelonta Suvisaaristossa 28.-29.5.2005" 
 categories: 
-modified: 2005-05-10 
 tags: [melonta,saaristo]
 toc: false 
 comments: true 

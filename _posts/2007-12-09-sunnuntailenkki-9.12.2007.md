@@ -2,7 +2,6 @@
 layout: article 
 title: "Sunnuntailenkki 9.12.2007" 
 categories: 
-modified: 2007-12-02 
 tags: [juoksu]
 toc: false 
 comments: true 

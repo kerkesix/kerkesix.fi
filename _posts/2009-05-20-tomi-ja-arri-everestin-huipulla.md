@@ -2,7 +2,6 @@
 layout: article 
 title: "Tomi ja Arri Everestin huipulla!" 
 categories: 
-modified: 2009-05-03 
 tags: [vuoristovaellus,kiipeily]
 toc: false 
 comments: true 

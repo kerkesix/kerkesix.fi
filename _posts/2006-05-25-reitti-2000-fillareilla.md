@@ -2,7 +2,6 @@
 layout: article 
 title: "Reitti 2000 fillareilla" 
 categories: 
-modified: 2006-05-11 
 tags: [pyöräily]
 toc: false 
 comments: true 

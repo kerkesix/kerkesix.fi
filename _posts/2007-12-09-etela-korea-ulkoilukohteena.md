@@ -2,7 +2,6 @@
 layout: article 
 title: "Etelä-Korea ulkoilukohteena" 
 categories: 
-modified: 2007-12-02 
 tags: [ulkoilukohteet]
 toc: false 
 comments: true 

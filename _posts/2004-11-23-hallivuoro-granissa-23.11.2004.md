@@ -2,7 +2,6 @@
 layout: article 
 title: "Hallivuoro Granissa 23.11.2004" 
 categories: 
-modified: 2004-11-03 
 tags: [uinti,melonta]
 toc: false 
 comments: true 

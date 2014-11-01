@@ -2,7 +2,6 @@
 layout: article 
 title: "Pyöräilyä Turun maastossa" 
 categories: 
-modified: 2007-08-03 
 tags: [pyöräily]
 toc: false 
 comments: true 

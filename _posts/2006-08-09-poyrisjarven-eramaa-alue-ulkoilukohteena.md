@@ -2,7 +2,6 @@
 layout: article 
 title: "Pöyrisjärven erämaa-alue ulkoilukohteena" 
 categories: 
-modified: 2006-08-03 
 tags: [ulkoilukohteet]
 toc: false 
 comments: true 

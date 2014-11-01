@@ -2,7 +2,6 @@
 layout: article 
 title: "Ampumapäällikkökilpailu 2004" 
 categories: 
-modified: 2004-08-11 
 tags: [ampumapäällikkö]
 toc: false 
 comments: true 

@@ -2,7 +2,6 @@
 layout: article 
 title: "Seinäkiipeily Tapanilassa 10.11.2007" 
 categories: 
-modified: 2007-11-02 
 tags: [kiipeily]
 toc: false 
 comments: true 

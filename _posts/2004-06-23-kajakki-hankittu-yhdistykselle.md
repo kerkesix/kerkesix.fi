@@ -2,7 +2,6 @@
 layout: article 
 title: "Kajakki hankittu yhdistykselle" 
 categories: 
-modified: 2004-06-03 
 tags: [varusteet]
 toc: false 
 comments: true 

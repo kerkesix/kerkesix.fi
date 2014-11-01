@@ -2,7 +2,6 @@
 layout: article 
 title: "Kerkesix-laavuja yhdistykselle" 
 categories: 
-modified: 2004-11-02 
 tags: [laavu,varusteet]
 toc: false 
 comments: true 

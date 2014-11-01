@@ -2,7 +2,6 @@
 layout: article 
 title: "Melontakeskus avoinna heinäkuussa" 
 categories: 
-modified: 2006-07-03 
 tags: [melonta,saaristo]
 toc: false 
 comments: true 

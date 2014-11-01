@@ -2,7 +2,6 @@
 layout: article 
 title: "Kiipeily Liikuntamylly 12.03.2005" 
 categories: 
-modified: 2005-03-11 
 tags: [kiipeily]
 toc: false 
 comments: true 

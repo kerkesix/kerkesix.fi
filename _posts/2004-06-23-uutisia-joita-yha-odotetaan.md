@@ -2,7 +2,6 @@
 layout: article 
 title: "Uutisia joita yhä odotetaan" 
 categories: 
-modified: 2004-06-06 
 tags: []
 toc: false 
 comments: true 

@@ -2,7 +2,6 @@
 layout: article 
 title: "Lumikenkävaelluksen SM 7.-8.2.2004" 
 categories: 
-modified: 2004-02-11 
 tags: [lumikenkäily,vaellus]
 toc: false 
 comments: true 

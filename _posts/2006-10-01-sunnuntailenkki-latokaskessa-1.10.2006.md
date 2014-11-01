@@ -2,7 +2,6 @@
 layout: article 
 title: "Sunnuntailenkki Latokaskessa 1.10.2006" 
 categories: 
-modified: 2006-10-05 
 tags: [juoksu]
 toc: false 
 comments: true 

@@ -2,7 +2,6 @@
 layout: article 
 title: "Sysimusta Satku II - 23.4.2004" 
 categories: 
-modified: 2004-04-11 
 tags: [satku]
 toc: false 
 comments: true 

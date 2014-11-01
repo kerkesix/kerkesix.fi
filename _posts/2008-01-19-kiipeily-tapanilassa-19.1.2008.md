@@ -2,7 +2,6 @@
 layout: article 
 title: "Kiipeily Tapanilassa 19.1.2008" 
 categories: 
-modified: 2008-01-01 
 tags: [kiipeily]
 toc: false 
 comments: true 

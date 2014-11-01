@@ -2,7 +2,6 @@
 layout: article 
 title: "Keväinen sunnuntailenkki" 
 categories: 
-modified: 2007-03-02 
 tags: [ulkoilu]
 toc: false 
 comments: true 

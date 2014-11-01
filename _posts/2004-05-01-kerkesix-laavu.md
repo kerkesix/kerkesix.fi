@@ -2,7 +2,6 @@
 layout: article 
 title: "Kerkesix-laavu" 
 categories: 
-modified: 2004-05-10 
 tags: [laavu]
 toc: false 
 comments: true 

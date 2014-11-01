@@ -2,7 +2,6 @@
 layout: article 
 title: "Maissikeitto" 
 categories: 
-modified: 2008-11-02 
 tags: [ruoka]
 toc: false 
 comments: true 

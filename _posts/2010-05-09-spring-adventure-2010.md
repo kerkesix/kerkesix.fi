@@ -2,7 +2,6 @@
 layout: article 
 title: "Spring Adventure 2010" 
 categories: 
-modified: 2010-05-01 
 tags: [multisport,suunnistus,juoksu,pyöräily]
 toc: false 
 comments: true 

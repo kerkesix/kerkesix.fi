@@ -2,7 +2,6 @@
 layout: article 
 title: "Saariston Rengasreitti (lyhyt) 30.6.2013" 
 categories: 
-modified: 2013-06-07 
 tags: []
 toc: false 
 comments: true 

@@ -2,7 +2,6 @@
 layout: article 
 title: "Sysimusta Satku XI käynnissä" 
 categories: 
-modified: 2012-10-07 
 tags: [satku]
 toc: false 
 comments: true 

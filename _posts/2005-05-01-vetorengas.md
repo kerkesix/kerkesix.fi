@@ -2,7 +2,6 @@
 layout: article 
 title: "Näin valmistat vetorenkaan" 
 categories: 
-modified: 2005-05-12 
 tags: [varusteet,renkaanveto]
 toc: false 
 comments: true 

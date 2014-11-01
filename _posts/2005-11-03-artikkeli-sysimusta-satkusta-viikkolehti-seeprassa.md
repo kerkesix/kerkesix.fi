@@ -2,7 +2,6 @@
 layout: article 
 title: "Artikkeli Sysimusta Satkusta viikkolehti Seeprassa" 
 categories: 
-modified: 2005-11-02 
 tags: [satku,ksx-mediassa]
 toc: false 
 comments: true 

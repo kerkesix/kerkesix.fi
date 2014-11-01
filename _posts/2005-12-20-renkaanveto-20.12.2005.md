@@ -2,7 +2,6 @@
 layout: article 
 title: "Jarru taakse ja menoksi - Renkaanvetoa 20.12.2005" 
 categories: 
-modified: 2005-12-08 
 tags: [renkaanveto]
 toc: false 
 comments: true 

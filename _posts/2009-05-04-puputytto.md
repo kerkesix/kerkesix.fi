@@ -2,7 +2,6 @@
 layout: article 
 title: "Puputyttö" 
 categories: 
-modified: 2009-05-02 
 tags: [kulttuurijaos]
 toc: false 
 comments: true 

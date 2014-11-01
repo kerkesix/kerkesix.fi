@@ -2,7 +2,6 @@
 layout: article 
 title: "Tero ja Toni pohjoisnavalla" 
 categories: 
-modified: 2006-04-03 
 tags: [hiihto,vaellus]
 toc: false 
 comments: true 

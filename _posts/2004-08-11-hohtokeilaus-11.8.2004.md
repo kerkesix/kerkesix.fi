@@ -2,7 +2,6 @@
 layout: article 
 title: "Hohtokeilaus 11.8.2004" 
 categories: 
-modified: 2004-08-11 
 tags: [keilaus]
 toc: false 
 comments: true 

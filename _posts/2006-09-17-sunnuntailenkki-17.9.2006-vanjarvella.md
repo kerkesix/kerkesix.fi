@@ -2,7 +2,6 @@
 layout: article 
 title: "Sunnuntailenkki 17.9.2006 Vanjarvella" 
 categories: 
-modified: 2006-09-05 
 tags: [juoksu]
 toc: false 
 comments: true 

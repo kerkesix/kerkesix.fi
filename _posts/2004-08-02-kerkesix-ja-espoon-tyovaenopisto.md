@@ -2,7 +2,6 @@
 layout: article 
 title: "Kerkesix ja Espoon työväenopisto" 
 categories: 
-modified: 2004-08-02 
 tags: [suunnistus,ulkoilu]
 toc: false 
 comments: true 

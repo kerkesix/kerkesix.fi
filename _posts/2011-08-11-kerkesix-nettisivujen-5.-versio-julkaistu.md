@@ -2,7 +2,6 @@
 layout: article 
 title: "Kerkesix nettisivujen 5. versio julkaistu!" 
 categories: 
-modified: 2011-08-10 
 tags: [kerkesix.fi]
 toc: false 
 comments: true 

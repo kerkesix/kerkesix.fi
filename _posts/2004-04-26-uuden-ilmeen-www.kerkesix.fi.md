@@ -2,7 +2,6 @@
 layout: article 
 title: "Uuden ilmeen www.kerkesix.fi" 
 categories: 
-modified: 2004-04-02 
 tags: [kerkesix.fi]
 toc: false 
 comments: true 

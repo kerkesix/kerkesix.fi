@@ -2,7 +2,6 @@
 layout: article 
 title: "Melonta Kiskonjoella 5.5.2005" 
 categories: 
-modified: 2005-05-11 
 tags: [melonta]
 toc: false 
 comments: true 

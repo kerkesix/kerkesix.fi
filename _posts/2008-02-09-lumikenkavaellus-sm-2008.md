@@ -2,7 +2,6 @@
 layout: article 
 title: "Lumikenkävaelluksen SM 2008" 
 categories: 
-modified: 2008-02-03 
 tags: [lumikenkäily]
 toc: false 
 comments: true 

@@ -2,7 +2,6 @@
 layout: article 
 title: "KSX -logotarrat saatavilla" 
 categories: 
-modified: 2007-09-03 
 tags: [varusteet]
 toc: false 
 comments: true 

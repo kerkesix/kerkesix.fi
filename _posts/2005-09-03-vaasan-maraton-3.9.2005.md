@@ -2,7 +2,6 @@
 layout: article 
 title: "Vaasan Maraton 3.9.2005" 
 categories: 
-modified: 2005-09-09 
 tags: [juoksu,maraton]
 toc: false 
 comments: true 

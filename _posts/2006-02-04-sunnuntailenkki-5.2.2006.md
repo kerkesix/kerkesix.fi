@@ -2,7 +2,6 @@
 layout: article 
 title: "Sunnuntailenkki 5.2.2006" 
 categories: 
-modified: 2006-02-11 
 tags: [juoksu]
 toc: false 
 comments: true 

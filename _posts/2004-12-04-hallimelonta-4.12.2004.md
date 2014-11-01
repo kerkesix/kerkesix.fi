@@ -2,7 +2,6 @@
 layout: article 
 title: "Hallimelonta 4.12.2004" 
 categories: 
-modified: 2004-12-02 
 tags: [melonta]
 toc: false 
 comments: true 

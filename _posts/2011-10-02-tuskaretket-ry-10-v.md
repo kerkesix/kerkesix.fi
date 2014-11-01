@@ -2,7 +2,6 @@
 layout: article 
 title: "Tuskaretket ry 10 vuotta" 
 categories: 
-modified: 2011-10-08 
 tags: [juhlat]
 toc: false 
 comments: true 

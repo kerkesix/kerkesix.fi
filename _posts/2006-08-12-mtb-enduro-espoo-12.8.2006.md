@@ -2,7 +2,6 @@
 layout: article 
 title: "MTB Enduro Espoo 12.8.2006" 
 categories: 
-modified: 2006-08-09 
 tags: [pyöräily]
 toc: false 
 comments: true 

@@ -2,7 +2,6 @@
 layout: article 
 title: "Erämelonnan SM 2009" 
 categories: 
-modified: 2009-05-02 
 tags: [melonta,erämelonnan-sm]
 toc: false 
 comments: true 

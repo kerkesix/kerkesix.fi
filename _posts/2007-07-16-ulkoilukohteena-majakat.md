@@ -2,7 +2,6 @@
 layout: article 
 title: "Ulkoilukohteena majakat" 
 categories: 
-modified: 2007-07-03 
 tags: [ulkoilukohteet,saaristo]
 toc: false 
 comments: true 

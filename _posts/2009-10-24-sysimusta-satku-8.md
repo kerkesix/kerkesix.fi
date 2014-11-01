@@ -2,7 +2,6 @@
 layout: article 
 title: "Sysimusta Satku VIII - 24.10.2009" 
 categories: 
-modified: 2009-10-11 
 tags: [satku]
 toc: false 
 comments: true 

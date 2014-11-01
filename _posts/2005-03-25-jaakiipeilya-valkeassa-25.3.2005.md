@@ -2,7 +2,6 @@
 layout: article 
 title: "Jääkiipeily Valkealassa 25.3.2005" 
 categories: 
-modified: 2005-03-11 
 tags: [kiipeily]
 toc: false 
 comments: true 

@@ -2,7 +2,6 @@
 layout: article 
 title: "Erämelonnan SM 2008" 
 categories: 
-modified: 2008-05-02 
 tags: [erämelonnan-sm,melonta]
 toc: false 
 comments: true 

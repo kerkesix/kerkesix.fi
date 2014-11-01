@@ -2,7 +2,6 @@
 layout: article 
 title: "Sysimusta Satku XII - enää 10 vuorokautta alkuun" 
 categories: 
-modified: 2013-10-11 
 tags: [satku]
 toc: false 
 comments: true 

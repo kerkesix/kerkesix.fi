@@ -2,7 +2,6 @@
 layout: article 
 title: "Tour de Orimattila 2007" 
 categories: 
-modified: 2007-06-03 
 tags: [pyöräily]
 toc: false 
 comments: true 

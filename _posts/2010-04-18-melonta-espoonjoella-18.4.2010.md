@@ -2,7 +2,6 @@
 layout: article 
 title: "Melonta Espoonjoella 18.4.2010" 
 categories: 
-modified: 2010-04-01 
 tags: [melonta]
 toc: false 
 comments: true 

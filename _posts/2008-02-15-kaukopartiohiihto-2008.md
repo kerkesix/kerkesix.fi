@@ -2,7 +2,6 @@
 layout: article 
 title: "Kaukopartiohiihto 2008 - 15.2.2008" 
 categories: 
-modified: 2008-02-03 
 tags: [hiihto]
 toc: false 
 comments: true 

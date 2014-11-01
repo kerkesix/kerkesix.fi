@@ -2,7 +2,6 @@
 layout: article 
 title: "Tukholman Maraton 2008" 
 categories: 
-modified: 2008-05-02 
 tags: [juoksu,maraton]
 toc: false 
 comments: true 

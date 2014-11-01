@@ -2,7 +2,6 @@
 layout: article 
 title: "Kerkesix lukijamatka 2008 Gran Canarialle - päivä 3" 
 categories: 
-modified: 2008-03-02 
 tags: [lukijamatka]
 toc: false 
 comments: true 

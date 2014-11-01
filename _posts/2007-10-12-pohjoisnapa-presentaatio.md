@@ -2,7 +2,6 @@
 layout: article 
 title: "Pohjoisnapa-presentaatio" 
 categories: 
-modified: 2007-10-03 
 tags: [luennot]
 toc: false 
 comments: true 

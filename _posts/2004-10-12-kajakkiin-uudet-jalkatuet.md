@@ -2,7 +2,6 @@
 layout: article 
 title: "Kajakkiin uudet jalkatuet" 
 categories: 
-modified: 2004-10-03 
 tags: [varusteet,melonta]
 toc: false 
 comments: true 

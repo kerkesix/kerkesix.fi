@@ -2,7 +2,6 @@
 layout: article 
 title: "Harvaluodon melonta 3.-4.6.2011" 
 categories: 
-modified: 2011-06-02 
 tags: [melonta,saaristo]
 toc: false 
 comments: true 

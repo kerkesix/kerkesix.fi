@@ -2,7 +2,6 @@
 layout: article 
 title: "Tero ja Toni kohti Pohjoisnapaa" 
 categories: 
-modified: 2006-02-02 
 tags: [vaellus,hiihto]
 toc: false 
 comments: true 

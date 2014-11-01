@@ -2,7 +2,6 @@
 layout: article 
 title: "KSX-suunnistuspaita" 
 categories: 
-modified: 2004-04-03 
 tags: [varusteet]
 toc: false 
 comments: true 

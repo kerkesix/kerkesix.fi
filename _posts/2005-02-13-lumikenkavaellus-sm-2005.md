@@ -2,7 +2,6 @@
 layout: article 
 title: "Lumikenkävaelluksen SM 12.-13.2.2005" 
 categories: 
-modified: 2005-02-12 
 tags: [lumikenkäily]
 toc: false 
 comments: true 

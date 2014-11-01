@@ -2,7 +2,6 @@
 layout: article 
 title: "Talvi Tuska Sika Triathlon VII - 22.1.2012" 
 categories: 
-modified: 2012-02-08 
 tags: [uinti,triathlon,suunnistus,pyöräily]
 toc: false 
 comments: true 

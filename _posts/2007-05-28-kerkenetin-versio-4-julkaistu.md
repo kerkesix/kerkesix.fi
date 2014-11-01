@@ -2,7 +2,6 @@
 layout: article 
 title: "Kerkenetin versio 4 julkaistu" 
 categories: 
-modified: 2007-05-04 
 tags: [kerkesix.fi]
 toc: false 
 comments: true 

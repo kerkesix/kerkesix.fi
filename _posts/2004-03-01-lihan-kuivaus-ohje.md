@@ -2,7 +2,6 @@
 layout: article 
 title: "Kuivalihan tekeminen kotioloissa" 
 categories: 
-modified: 2004-03-02 
 tags: [ruoka]
 toc: false 
 comments: true 

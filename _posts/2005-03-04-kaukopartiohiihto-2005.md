@@ -2,7 +2,6 @@
 layout: article 
 title: "Kaukopartiohiihto 4.3.2005" 
 categories: 
-modified: 2005-03-12 
 tags: [hiihto]
 toc: false 
 comments: true 

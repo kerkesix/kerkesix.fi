@@ -2,7 +2,6 @@
 layout: article 
 title: "Umpihankihiihdon MM ja Lumikenkävaelluksen SM 2006" 
 categories: 
-modified: 2006-02-11 
 tags: [lumikenkäily,hiihto]
 toc: false 
 comments: true 

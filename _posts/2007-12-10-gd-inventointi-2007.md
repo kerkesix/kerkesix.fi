@@ -2,7 +2,6 @@
 layout: article 
 title: "GD inventointi 2007" 
 categories: 
-modified: 2007-12-02 
 tags: []
 toc: false 
 comments: true 

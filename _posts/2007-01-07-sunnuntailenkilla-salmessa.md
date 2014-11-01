@@ -2,7 +2,6 @@
 layout: article 
 title: "Sunnuntailenkillä Salmessa" 
 categories: 
-modified: 2007-01-03 
 tags: [ulkoilu]
 toc: false 
 comments: true 

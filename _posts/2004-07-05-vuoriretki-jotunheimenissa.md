@@ -2,7 +2,6 @@
 layout: article 
 title: "Vuoriretki Jotunheimenissa" 
 categories: 
-modified: 2004-07-11 
 tags: [vaellus,vuoristovaellus]
 toc: false 
 comments: true 

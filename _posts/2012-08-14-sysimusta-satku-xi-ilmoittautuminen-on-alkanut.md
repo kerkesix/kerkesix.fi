@@ -2,7 +2,6 @@
 layout: article 
 title: "Sysimusta Satku XI ilmoittautuminen on alkanut!" 
 categories: 
-modified: 2012-08-10 
 tags: [satku]
 toc: false 
 comments: true 

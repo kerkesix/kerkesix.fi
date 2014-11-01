@@ -2,7 +2,6 @@
 layout: article 
 title: "Talvi Tuska Sika Triathlon V - 6.2.2010" 
 categories: 
-modified: 2010-02-01 
 tags: [pyöräily,retkiluistelu,juoksu,triathlon]
 toc: false 
 comments: true 

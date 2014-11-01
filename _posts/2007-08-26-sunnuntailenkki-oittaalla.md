@@ -2,7 +2,6 @@
 layout: article 
 title: "Sunnuntailenkki Oittaalla" 
 categories: 
-modified: 2007-08-03 
 tags: [juoksu]
 toc: false 
 comments: true 

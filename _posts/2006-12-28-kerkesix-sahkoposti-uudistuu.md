@@ -2,7 +2,6 @@
 layout: article 
 title: "Kerkesix sähköposti uudistuu" 
 categories: 
-modified: 2006-12-03 
 tags: [kerkesix.fi]
 toc: false 
 comments: true 

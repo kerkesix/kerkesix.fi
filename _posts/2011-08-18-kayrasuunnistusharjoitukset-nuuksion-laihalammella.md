@@ -2,7 +2,6 @@
 layout: article 
 title: "Käyräsuunnistusharjoitukset Nuuksion Laihalammella" 
 categories: 
-modified: 2011-08-04 
 tags: [suunnistus,nuuksio]
 toc: false 
 comments: true 

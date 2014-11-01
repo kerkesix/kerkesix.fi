@@ -2,7 +2,6 @@
 layout: article 
 title: "Kanariansaaret ulkoilukohteena" 
 categories: 
-modified: 2007-07-03 
 tags: [ulkoilukohteet]
 toc: false 
 comments: true 

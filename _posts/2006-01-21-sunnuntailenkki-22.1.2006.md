@@ -2,7 +2,6 @@
 layout: article 
 title: "Sunnuntailenkki 22.1.2006" 
 categories: 
-modified: 2006-01-11 
 tags: [hiihto,juoksu]
 toc: false 
 comments: true 

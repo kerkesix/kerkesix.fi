@@ -2,7 +2,6 @@
 layout: article 
 title: "Suunnistuskoulutus 15.06.2005" 
 categories: 
-modified: 2005-06-10 
 tags: [suunnistus]
 toc: false 
 comments: true 

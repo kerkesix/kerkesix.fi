@@ -2,7 +2,6 @@
 layout: article 
 title: "MTB-koulu Nummelassa" 
 categories: 
-modified: 2007-05-03 
 tags: [pyöräily]
 toc: false 
 comments: true 

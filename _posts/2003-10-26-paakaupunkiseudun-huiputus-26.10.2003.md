@@ -2,7 +2,6 @@
 layout: article 
 title: "Pääkaupunkiseudun huiputus - 26.10.2003" 
 categories: 
-modified: 2003-10-08 
 tags: [ulkoilu,vuoristovaellus]
 toc: false 
 comments: true 

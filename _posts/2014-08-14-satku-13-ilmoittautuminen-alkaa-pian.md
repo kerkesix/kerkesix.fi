@@ -2,7 +2,6 @@
 layout: article 
 title: "Vuoden 2014 Sysimusta Satku - ilmoittautuminen alkaa noin 16 tunnin kuluttua." 
 categories: 
-modified: 2014-08-07 
 tags: [satku]
 toc: false 
 comments: true 

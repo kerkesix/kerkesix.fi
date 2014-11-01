@@ -2,7 +2,6 @@
 layout: article 
 title: "Jukolaan tänä vuonna 2 joukkuetta." 
 categories: 
-modified: 2012-06-11 
 tags: [suunnistus,jukola]
 toc: false 
 comments: true 

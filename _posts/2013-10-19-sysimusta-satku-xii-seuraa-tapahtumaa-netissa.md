@@ -2,7 +2,6 @@
 layout: article 
 title: "Sysimusta Satku XII - seuraa tapahtumaa netissä" 
 categories: 
-modified: 2013-10-07 
 tags: [satku]
 toc: false 
 comments: true 

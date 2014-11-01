@@ -2,7 +2,6 @@
 layout: article 
 title: "Lumikenkäilyä Nuuksiossa 10.1.2010" 
 categories: 
-modified: 2010-01-01 
 tags: [lumikenkäily,nuuksio]
 toc: false 
 comments: true 

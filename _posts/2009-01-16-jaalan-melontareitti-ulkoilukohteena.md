@@ -2,7 +2,6 @@
 layout: article 
 title: "Jaalan melontareitti  ulkoilukohteena" 
 categories: 
-modified: 2009-01-02 
 tags: [ulkoilukohteet,melonta]
 toc: false 
 comments: true 

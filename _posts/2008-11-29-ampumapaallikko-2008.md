@@ -2,7 +2,6 @@
 layout: article 
 title: "Ampumapäällikkökilpailu 2008" 
 categories: 
-modified: 2008-11-12 
 tags: [ampumapäällikkö]
 toc: false 
 comments: true 

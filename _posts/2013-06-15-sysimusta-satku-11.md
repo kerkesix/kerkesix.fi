@@ -2,7 +2,6 @@
 layout: article 
 title: "Sysimusta Satku XI - 20.10.2012" 
 categories: 
-modified: 2013-06-08 
 tags: [satku]
 toc: false 
 comments: true 

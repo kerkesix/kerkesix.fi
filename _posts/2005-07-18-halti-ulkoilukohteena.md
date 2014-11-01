@@ -2,7 +2,6 @@
 layout: article 
 title: "Halti ulkoilukohteena" 
 categories: 
-modified: 2005-07-03 
 tags: [ulkoilukohteet]
 toc: false 
 comments: true 

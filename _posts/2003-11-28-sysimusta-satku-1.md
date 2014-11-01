@@ -2,7 +2,6 @@
 layout: article 
 title: "Sysimusta Satku I - 28.11.2003" 
 categories: 
-modified: 2003-11-10 
 tags: [satku]
 toc: false 
 comments: true 

@@ -2,7 +2,6 @@
 layout: article 
 title: "Retkiluistelu Nuuksiossa 18.1.2009" 
 categories: 
-modified: 2009-01-01 
 tags: [retkiluistelu,nuuksio]
 toc: false 
 comments: true 

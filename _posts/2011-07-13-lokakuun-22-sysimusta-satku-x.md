@@ -2,7 +2,6 @@
 layout: article 
 title: "Lokakuun 22. päivänä kävellään: SYSIMUSTA SATKU X" 
 categories: 
-modified: 2011-07-11 
 tags: [satku]
 toc: false 
 comments: true 

@@ -2,7 +2,6 @@
 layout: article 
 title: "Arri 8630 metrin korkeudessa Everestillä" 
 categories: 
-modified: 2005-05-03 
 tags: [vuoristovaellus]
 toc: false 
 comments: true 

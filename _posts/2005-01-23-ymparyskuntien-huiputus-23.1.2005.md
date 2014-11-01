@@ -2,7 +2,6 @@
 layout: article 
 title: "Ympäryskuntien huiputus 23.1.2005" 
 categories: 
-modified: 2005-01-12 
 tags: [vuoristovaellus,ulkoilu]
 toc: false 
 comments: true 

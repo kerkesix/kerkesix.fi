@@ -2,7 +2,6 @@
 layout: article 
 title: "Sunnuntailenkki Pirttimäessä 9.4.2006" 
 categories: 
-modified: 2006-04-11 
 tags: [juoksu,ulkoilu]
 toc: false 
 comments: true 

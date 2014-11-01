@@ -2,7 +2,6 @@
 layout: article 
 title: "Linnun jalkarengas museolle." 
 categories: 
-modified: 2005-07-03 
 tags: [melonta,saaristo]
 toc: false 
 comments: true 

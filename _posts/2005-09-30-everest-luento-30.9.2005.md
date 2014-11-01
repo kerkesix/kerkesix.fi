@@ -2,7 +2,6 @@
 layout: article 
 title: "Everest-luento 30.9.2005" 
 categories: 
-modified: 2005-09-09 
 tags: [luennot,vuoristovaellus]
 toc: false 
 comments: true 

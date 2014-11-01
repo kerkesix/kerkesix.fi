@@ -2,7 +2,6 @@
 layout: article 
 title: "Piparkakku-suklaajäädyke" 
 categories: 
-modified: 2004-11-02 
 tags: [ruoka]
 toc: false 
 comments: true 

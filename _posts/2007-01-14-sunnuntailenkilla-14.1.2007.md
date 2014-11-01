@@ -2,7 +2,6 @@
 layout: article 
 title: "Sunnuntailenkillä 14.1.2007" 
 categories: 
-modified: 2007-01-03 
 tags: [juoksu]
 toc: false 
 comments: true 

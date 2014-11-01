@@ -2,7 +2,6 @@
 layout: article 
 title: "Sysimusta Satku XI kävellään 20.-21.10.2012" 
 categories: 
-modified: 2012-06-09 
 tags: [satku]
 toc: false 
 comments: true 

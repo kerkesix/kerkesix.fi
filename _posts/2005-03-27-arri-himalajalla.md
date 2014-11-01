@@ -2,7 +2,6 @@
 layout: article 
 title: "Arri Himalajalla" 
 categories: 
-modified: 2005-03-03 
 tags: [vuoristovaellus]
 toc: false 
 comments: true 

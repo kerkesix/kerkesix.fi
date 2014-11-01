@@ -2,7 +2,6 @@
 layout: article 
 title: "Kanarisotto koko porukalle" 
 categories: 
-modified: 2005-11-02 
 tags: [ruoka]
 toc: false 
 comments: true 

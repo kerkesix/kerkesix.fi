@@ -2,7 +2,6 @@
 layout: article 
 title: "Ile Rock Golfin Suomen mestariksi" 
 categories: 
-modified: 2009-09-03 
 tags: [golf]
 toc: false 
 comments: true 

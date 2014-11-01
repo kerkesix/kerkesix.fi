@@ -2,7 +2,6 @@
 layout: article 
 title: "Laituritalkoot 1.7.2004" 
 categories: 
-modified: 2004-07-11 
 tags: [melonta]
 toc: false 
 comments: true 

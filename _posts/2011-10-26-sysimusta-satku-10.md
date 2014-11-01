@@ -2,7 +2,6 @@
 layout: article 
 title: "Sysimusta Satku X - 22.10.2011" 
 categories: 
-modified: 2011-10-10 
 tags: [satku]
 toc: false 
 comments: true 

@@ -2,7 +2,6 @@
 layout: article 
 title: "Kaukopartiohiihto 5.2.2004" 
 categories: 
-modified: 2004-02-11 
 tags: [hiihto,vaellus]
 toc: false 
 comments: true 

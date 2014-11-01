@@ -2,7 +2,6 @@
 layout: article 
 title: "Köysitreeni Käärmekalliolla 29.10.2004" 
 categories: 
-modified: 2004-10-10 
 tags: [kiipeily]
 toc: false 
 comments: true 

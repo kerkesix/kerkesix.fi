@@ -2,7 +2,6 @@
 layout: article 
 title: "Suunnistuskoulutus Latokaskessa" 
 categories: 
-modified: 2006-05-11 
 tags: [suunnistus]
 toc: false 
 comments: true 

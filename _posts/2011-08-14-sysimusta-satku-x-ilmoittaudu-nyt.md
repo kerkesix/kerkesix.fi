@@ -2,7 +2,6 @@
 layout: article 
 title: "Sysimusta Satku X - Ilmoittaudu nyt" 
 categories: 
-modified: 2011-08-11 
 tags: [satku]
 toc: false 
 comments: true 

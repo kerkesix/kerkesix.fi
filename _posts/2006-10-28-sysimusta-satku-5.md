@@ -2,7 +2,6 @@
 layout: article 
 title: "Sysimusta Satku V - 28.10.2006" 
 categories: 
-modified: 2006-10-11 
 tags: [satku]
 toc: false 
 comments: true 

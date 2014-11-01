@@ -2,7 +2,6 @@
 layout: article 
 title: "Vuoden 2008 ensimmäinen Sunnuntailenkki" 
 categories: 
-modified: 2008-01-01 
 tags: [juoksu]
 toc: false 
 comments: true 

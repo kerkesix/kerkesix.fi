@@ -2,7 +2,6 @@
 layout: article 
 title: "Kerke-Buff" 
 categories: 
-modified: 2005-09-03 
 tags: [varusteet]
 toc: false 
 comments: true 

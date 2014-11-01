@@ -2,7 +2,6 @@
 layout: article 
 title: "Saariston lyhyt rengasreitti pyöräillen 29.5.2010" 
 categories: 
-modified: 2010-05-01 
 tags: [pyöräily,saaristo]
 toc: false 
 comments: true 

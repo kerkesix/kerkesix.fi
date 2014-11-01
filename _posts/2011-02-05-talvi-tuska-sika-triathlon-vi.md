@@ -2,7 +2,6 @@
 layout: article 
 title: "Talvi Tuska Sika Triathlon VI - 5.2.2011" 
 categories: 
-modified: 2011-02-10 
 tags: [hiihto,retkiluistelu,pyöräily,triathlon]
 toc: false 
 comments: true 

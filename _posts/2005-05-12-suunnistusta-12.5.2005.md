@@ -2,7 +2,6 @@
 layout: article 
 title: "Suunnistusta 12.5.2005" 
 categories: 
-modified: 2005-05-11 
 tags: [suunnistus]
 toc: false 
 comments: true 

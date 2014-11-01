@@ -2,7 +2,6 @@
 layout: article 
 title: "Fjällräven Classic 2008" 
 categories: 
-modified: 2008-08-02 
 tags: [vaellus]
 toc: false 
 comments: true 

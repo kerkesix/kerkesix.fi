@@ -2,7 +2,6 @@
 layout: article 
 title: "Kalliokiipeily Jaanankalliolla 28.07.2005" 
 categories: 
-modified: 2005-07-10 
 tags: [kiipeily]
 toc: false 
 comments: true 

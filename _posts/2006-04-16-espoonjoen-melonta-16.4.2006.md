@@ -2,7 +2,6 @@
 layout: article 
 title: "Espoonjoen melonta 16.4.2006" 
 categories: 
-modified: 2006-04-11 
 tags: [melonta]
 toc: false 
 comments: true 

@@ -2,7 +2,6 @@
 layout: article 
 title: "Kaukopartiohiihto Pajulahti-Utti 25.2.2006" 
 categories: 
-modified: 2006-02-10 
 tags: [hiihto]
 toc: false 
 comments: true 

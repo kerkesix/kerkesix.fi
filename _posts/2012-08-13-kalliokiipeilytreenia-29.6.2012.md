@@ -2,7 +2,6 @@
 layout: article 
 title: "Kalliokiipeilytreeniä Käärmekalliolla 29.6.2012" 
 categories: 
-modified: 2012-08-10 
 tags: [kiipeily]
 toc: false 
 comments: true 

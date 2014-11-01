@@ -2,7 +2,6 @@
 layout: article 
 title: "Merimelonta 12.8.2007" 
 categories: 
-modified: 2007-08-03 
 tags: [melonta,saaristo]
 toc: false 
 comments: true 

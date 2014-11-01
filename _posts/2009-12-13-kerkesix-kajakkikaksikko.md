@@ -2,7 +2,6 @@
 layout: article 
 title: "Kerkesix kajakkikaksikko" 
 categories: 
-modified: 2009-12-02 
 tags: [varusteet,melonta]
 toc: false 
 comments: true 

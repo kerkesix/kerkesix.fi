@@ -2,7 +2,6 @@
 layout: article 
 title: "Sunnuntailenkki Lohjalla" 
 categories: 
-modified: 2011-10-09 
 tags: [juoksu]
 toc: false 
 comments: true 

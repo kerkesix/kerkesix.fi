@@ -2,7 +2,6 @@
 layout: article 
 title: "Jämsä-Jukola 15.-16.6.2013" 
 categories: 
-modified: 2013-06-09 
 tags: [suunnistus]
 toc: false 
 comments: true 

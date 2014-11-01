@@ -2,7 +2,6 @@
 layout: article 
 title: "Kerkesix edustus KY City Challengessa palkinnoille" 
 categories: 
-modified: 2008-06-03 
 tags: [melonta,pyöräily,suunnistus]
 toc: false 
 comments: true 

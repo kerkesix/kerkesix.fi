@@ -2,7 +2,6 @@
 layout: article 
 title: "Jääkiipeily Nuuksiossa 3.3.2005" 
 categories: 
-modified: 2005-03-12 
 tags: [kiipeily,nuuksio]
 toc: false 
 comments: true 

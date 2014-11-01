@@ -2,7 +2,6 @@
 layout: article 
 title: "TalviTuskaSikaTriatlon IV - 10.1.2009" 
 categories: 
-modified: 2009-01-01 
 tags: [triathlon,pyöräily,juoksu,uinti]
 toc: false 
 comments: true 

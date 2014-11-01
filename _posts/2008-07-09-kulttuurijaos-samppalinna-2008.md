@@ -2,7 +2,6 @@
 layout: article 
 title: "Kulttuurijaos Samppalinnan kesäteatterissa 9.7.2008" 
 categories: 
-modified: 2008-07-02 
 tags: [kulttuurijaos]
 toc: false 
 comments: true 

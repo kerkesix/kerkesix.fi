@@ -2,7 +2,6 @@
 layout: article 
 title: "Kerkesix-köysistö Ranskan Alpeilla 21.7-6.8.2006" 
 categories: 
-modified: 2006-08-09 
 tags: [vuoristovaellus]
 toc: false 
 comments: true 

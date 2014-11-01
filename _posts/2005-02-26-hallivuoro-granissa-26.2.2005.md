@@ -2,7 +2,6 @@
 layout: article 
 title: "Hallivuoro Granissa 26.2.2005" 
 categories: 
-modified: 2005-02-12 
 tags: [uinti]
 toc: false 
 comments: true 
