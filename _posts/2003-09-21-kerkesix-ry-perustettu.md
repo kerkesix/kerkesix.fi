@@ -22,14 +22,18 @@ urheiluhenkeä ja pysyvää harrastusta urheilu- ja ulkoilutoimintaan.
 
 Tarkoituksensa toteuttamiseksi yhdistys:
 
--   järjestää harjoitus- ja valmennustilaisuuksia
--   antaa tietopuolista opetusta
--   järjestää koti- ja ulkomaisia harjoitus- ja kilpailumatkoja
-    jäsenilleen
--   toimeenpanee kilpailuja, näytöksiä, kursseja ja juhlia
--   toimii yhteistyössä muiden urheilu- ja ulkoiluharrastajien kanssa, sekä ylläpitää yhteyksiä muihin
-    urheilu- ja ulkoiluyhdistyksiin
--   hankkii tarvittavia välineitä yhdistyksen käyttöön.
+-   <span
+    style="mso-bidi-font-size: 9.0pt; font-family: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol;"><span><span
+    style="font: 7.0pt 'Times New Roman';"> </span></span></span><span>järjestää
+    harjoitus- ja valmennustilaisuuksia</span>
+-   <span>antaa tietopuolista opetusta</span>
+-   <span>järjestää koti- ja ulkomaisia harjoitus- ja kilpailumatkoja
+    jäsenilleen</span>
+-   <span>toimeenpanee kilpailuja, näytöksiä, kursseja ja juhlia</span>
+-   <span>toimii yhteistyössä muiden urheilu- ja<span> 
+    </span>ulkoiluharrastajien kanssa, sekä ylläpitää yhteyksiä muihin
+    urheilu- ja ulkoiluyhdistyksiin</span>
+-   <span>hankkii tarvittavia välineitä yhdistyksen käyttöön.</span>
 
 Tästä on hyvä jatkaa.
 
