@@ -7,7 +7,7 @@ tags: [yhdistys]
 toc: false 
 comments: true 
 ads: false 
-redirect_from: /kerkesix-ry-perustettu
+redirect_from: /kerkesix-ry-perustettu/
 --- 
 
 21.9.2003 pidettiin yhdistyksen perustava kokous Kauniaisten uimahallin
