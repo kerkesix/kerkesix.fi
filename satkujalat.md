@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Satkujalat" 
 permalink: /satkujalat/ 

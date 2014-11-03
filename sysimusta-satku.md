@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Sysimusta Satku" 
 permalink: /sysimusta-satku/ 

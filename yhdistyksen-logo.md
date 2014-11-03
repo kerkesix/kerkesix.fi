@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Yhdistyksen logo" 
 permalink: /yhdistyksen-logo/ 

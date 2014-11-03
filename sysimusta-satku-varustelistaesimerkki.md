@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Esimerkki varustelistasta Sysimustaa Satkua varten" 
 permalink: /sysimusta-satku-varustelistaesimerkki/ 
