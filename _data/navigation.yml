@@ -1,6 +1,21 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
+- title: Yhdistys
+  url: /kerkesix-ry/
+  excerpt: "Tietoa yhdistyksestä"
+  image:
+  
+- title: Sysimusta Satku
+  url: /sysimusta-satku/
+  excerpt: "Matka oman mieleen tummiin sävyihin"
+  image:
+  
+- title: Aihepiireittäin
+  url: /posts-by-tag/
+  excerpt: "Kaikki kirjoitukset listattuna aihepiirien mukaan"
+  image:
+  
+- title: Kaikki
+  url: /posts/
+  excerpt: "Kaikki kirjoitukset aikojen alusta asti"
   image:
