@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Sysimusta Satku XII ilmoittautuminen alkaa 15.8.2013 klo 00.00" 
 categories: 
@@ -6,7 +6,7 @@ tags: []
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Jep jep. Kyllä se Sysimusta Satku tulee taas lokakuun lopulla. Ja
 ilmoittatutuminen aukeaa elokuun puolessa välissä. Perinteisesti

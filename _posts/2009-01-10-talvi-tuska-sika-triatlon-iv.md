@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "TalviTuskaSikaTriatlon IV - 10.1.2009" 
 categories: 
@@ -6,7 +6,7 @@ tags: [triathlon,pyöräily,juoksu,uinti]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Tammikuinen lauantai aamu kauniissa Turussa, meren ääressä. Kirkas
 taivas, pikku pakkanen! Voisiko olla asiat paremmin…KYLLÄ! Virkistävän 2
@@ -48,24 +48,24 @@ kuvat! Kiitokset erinomaisen tapahtuman järjestämisestä Tuskaretkille!
 Allekirjoittanut (Flash) sai ainakin pienen kipinän lajiin ja
 suosittelee vastaavan liikunnan harjoittamista kaikelle Kerke-kansalle.
 
-<div class="image-gallery">
+<div class="image-gallery" markdown="1">
 
--   [![](/Media/Default/ImageGalleries/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20016.jpg)](/Media/Default/ImageGalleries/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20016.jpg)
--   [![](/Media/Default/ImageGalleries/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20018.jpg)](/Media/Default/ImageGalleries/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20018.jpg)
--   [![](/Media/Default/ImageGalleries/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20043.jpg)](/Media/Default/ImageGalleries/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20043.jpg)
--   [![](/Media/Default/ImageGalleries/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20057.jpg)](/Media/Default/ImageGalleries/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20057.jpg)
--   [![](/Media/Default/ImageGalleries/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20059.jpg)](/Media/Default/ImageGalleries/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20059.jpg)
--   [![](/Media/Default/ImageGalleries/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20066.jpg)](/Media/Default/ImageGalleries/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20066.jpg)
--   [![](/Media/Default/ImageGalleries/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20078.jpg)](/Media/Default/ImageGalleries/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20078.jpg)
--   [![](/Media/Default/ImageGalleries/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20080.jpg)](/Media/Default/ImageGalleries/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20080.jpg)
--   [![](/Media/Default/ImageGalleries/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20113.jpg)](/Media/Default/ImageGalleries/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20113.jpg)
--   [![](/Media/Default/ImageGalleries/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20114.jpg)](/Media/Default/ImageGalleries/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20114.jpg)
--   [![](/Media/Default/ImageGalleries/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20122.jpg)](/Media/Default/ImageGalleries/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20122.jpg)
--   [![](/Media/Default/ImageGalleries/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20125.jpg)](/Media/Default/ImageGalleries/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20125.jpg)
--   [![](/Media/Default/ImageGalleries/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20131.jpg)](/Media/Default/ImageGalleries/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20131.jpg)
--   [![](/Media/Default/ImageGalleries/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20166.jpg)](/Media/Default/ImageGalleries/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20166.jpg)
--   [![](/Media/Default/ImageGalleries/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20276.jpg)](/Media/Default/ImageGalleries/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20276.jpg)
--   [![](/Media/Default/ImageGalleries/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20288.jpg)](/Media/Default/ImageGalleries/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20288.jpg)
--   [![](/Media/Default/ImageGalleries/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20329.jpg)](/Media/Default/ImageGalleries/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20329.jpg)
+-   [![](/images/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20016.jpg)](/images/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20016.jpg)
+-   [![](/images/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20018.jpg)](/images/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20018.jpg)
+-   [![](/images/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20043.jpg)](/images/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20043.jpg)
+-   [![](/images/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20057.jpg)](/images/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20057.jpg)
+-   [![](/images/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20059.jpg)](/images/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20059.jpg)
+-   [![](/images/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20066.jpg)](/images/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20066.jpg)
+-   [![](/images/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20078.jpg)](/images/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20078.jpg)
+-   [![](/images/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20080.jpg)](/images/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20080.jpg)
+-   [![](/images/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20113.jpg)](/images/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20113.jpg)
+-   [![](/images/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20114.jpg)](/images/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20114.jpg)
+-   [![](/images/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20122.jpg)](/images/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20122.jpg)
+-   [![](/images/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20125.jpg)](/images/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20125.jpg)
+-   [![](/images/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20131.jpg)](/images/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20131.jpg)
+-   [![](/images/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20166.jpg)](/images/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20166.jpg)
+-   [![](/images/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20276.jpg)](/images/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20276.jpg)
+-   [![](/images/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20288.jpg)](/images/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20288.jpg)
+-   [![](/images/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20329.jpg)](/images/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20329.jpg)
 
 </div>

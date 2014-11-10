@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Kajakkiin uudet jalkatuet" 
 categories: 
@@ -6,7 +6,7 @@ tags: [varusteet,melonta]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Kajakkihuoltoryhmä on saanut kiinnitettyä yhdistyksen kajakkiin uudet
 Keeper-jalkatuet, jotka nopeuttavat kajakin säätöä erikokoisten melojien

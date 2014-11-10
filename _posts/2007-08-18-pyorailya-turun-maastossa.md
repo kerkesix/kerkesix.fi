@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Pyöräilyä Turun maastossa" 
 categories: 
@@ -6,7 +6,7 @@ tags: [pyöräily]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Lauantai
 --------
@@ -49,48 +49,48 @@ hankintoja varten
 Sunnuntain ajoaika oli 2 tuntia 30 minuuttia ja kokonaisaika 3 tuntia 30
 minuuttia. Matka oli 36.7 km.
 
-<div class="image-gallery">
+<div class="image-gallery" markdown="1">
 
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20003.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20003.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20004.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20004.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20006.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20006.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20007.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20007.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20011.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20011.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20012.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20012.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20014.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20014.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20015.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20015.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20016b.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20016b.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20020.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20020.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20026.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20026.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20027.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20027.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20028.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20028.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20030.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20030.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20031.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20031.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20032.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20032.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20033.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20033.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20034.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20034.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20035.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20035.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20001.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/raision%20pyöräily%20001.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20004.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/raision%20pyöräily%20004.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20006.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/raision%20pyöräily%20006.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20007.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/raision%20pyöräily%20007.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20008.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/raision%20pyöräily%20008.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20011.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/raision%20pyöräily%20011.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20013.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/raision%20pyöräily%20013.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20014.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/raision%20pyöräily%20014.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20017.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/raision%20pyöräily%20017.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20020.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/raision%20pyöräily%20020.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20021.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/raision%20pyöräily%20021.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20025.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/raision%20pyöräily%20025.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20026.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/raision%20pyöräily%20026.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20028.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/raision%20pyöräily%20028.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20033.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/raision%20pyöräily%20033.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20046.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/raision%20pyöräily%20046.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20049.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/raision%20pyöräily%20049.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20050.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/raision%20pyöräily%20050.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20059.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/raision%20pyöräily%20059.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20063.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/raision%20pyöräily%20063.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20065.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/raision%20pyöräily%20065.jpg)
--   [![](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20068.jpg)](/Media/Default/ImageGalleries/pyorailya-turun-maastossa/raision%20pyöräily%20068.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20003.jpg)](/images/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20003.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20004.jpg)](/images/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20004.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20006.jpg)](/images/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20006.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20007.jpg)](/images/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20007.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20011.jpg)](/images/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20011.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20012.jpg)](/images/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20012.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20014.jpg)](/images/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20014.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20015.jpg)](/images/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20015.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20016b.jpg)](/images/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20016b.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20020.jpg)](/images/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20020.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20026.jpg)](/images/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20026.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20027.jpg)](/images/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20027.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20028.jpg)](/images/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20028.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20030.jpg)](/images/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20030.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20031.jpg)](/images/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20031.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20032.jpg)](/images/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20032.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20033.jpg)](/images/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20033.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20034.jpg)](/images/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20034.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20035.jpg)](/images/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20035.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20001.jpg)](/images/pyorailya-turun-maastossa/raision%20pyöräily%20001.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20004.jpg)](/images/pyorailya-turun-maastossa/raision%20pyöräily%20004.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20006.jpg)](/images/pyorailya-turun-maastossa/raision%20pyöräily%20006.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20007.jpg)](/images/pyorailya-turun-maastossa/raision%20pyöräily%20007.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20008.jpg)](/images/pyorailya-turun-maastossa/raision%20pyöräily%20008.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20011.jpg)](/images/pyorailya-turun-maastossa/raision%20pyöräily%20011.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20013.jpg)](/images/pyorailya-turun-maastossa/raision%20pyöräily%20013.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20014.jpg)](/images/pyorailya-turun-maastossa/raision%20pyöräily%20014.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20017.jpg)](/images/pyorailya-turun-maastossa/raision%20pyöräily%20017.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20020.jpg)](/images/pyorailya-turun-maastossa/raision%20pyöräily%20020.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20021.jpg)](/images/pyorailya-turun-maastossa/raision%20pyöräily%20021.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20025.jpg)](/images/pyorailya-turun-maastossa/raision%20pyöräily%20025.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20026.jpg)](/images/pyorailya-turun-maastossa/raision%20pyöräily%20026.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20028.jpg)](/images/pyorailya-turun-maastossa/raision%20pyöräily%20028.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20033.jpg)](/images/pyorailya-turun-maastossa/raision%20pyöräily%20033.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20046.jpg)](/images/pyorailya-turun-maastossa/raision%20pyöräily%20046.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20049.jpg)](/images/pyorailya-turun-maastossa/raision%20pyöräily%20049.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20050.jpg)](/images/pyorailya-turun-maastossa/raision%20pyöräily%20050.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20059.jpg)](/images/pyorailya-turun-maastossa/raision%20pyöräily%20059.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20063.jpg)](/images/pyorailya-turun-maastossa/raision%20pyöräily%20063.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20065.jpg)](/images/pyorailya-turun-maastossa/raision%20pyöräily%20065.jpg)
+-   [![](/images/pyorailya-turun-maastossa/Thumbnails/raision%20pyöräily%20068.jpg)](/images/pyorailya-turun-maastossa/raision%20pyöräily%20068.jpg)
 
 </div>

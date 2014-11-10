@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Harvaluodon melonta 3.-4.6.2011" 
 categories: 
@@ -6,7 +6,7 @@ tags: [melonta,saaristo]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Pihvi järjesti Turun suunnalla melontatuokion 3.-4.6.2011. Ohjelmassa
 oli kiertää Harvaluoto meloen. Ja jotta matka ei olisi liian rasittava
@@ -34,22 +34,22 @@ aloitus- ja päätöspistettä.
 
 Ei ollut turha reissu.
 
-<div class="image-gallery">
+<div class="image-gallery" markdown="1">
 
--   [![](/Media/Default/ImageGalleries/harvaluodon-melonta-3.6.2011/Thumbnails/303.JPG)](/Media/Default/ImageGalleries/harvaluodon-melonta-3.6.2011/303.JPG)
--   [![](/Media/Default/ImageGalleries/harvaluodon-melonta-3.6.2011/Thumbnails/307.JPG)](/Media/Default/ImageGalleries/harvaluodon-melonta-3.6.2011/307.JPG)
--   [![](/Media/Default/ImageGalleries/harvaluodon-melonta-3.6.2011/Thumbnails/311.JPG)](/Media/Default/ImageGalleries/harvaluodon-melonta-3.6.2011/311.JPG)
--   [![](/Media/Default/ImageGalleries/harvaluodon-melonta-3.6.2011/Thumbnails/317.JPG)](/Media/Default/ImageGalleries/harvaluodon-melonta-3.6.2011/317.JPG)
--   [![](/Media/Default/ImageGalleries/harvaluodon-melonta-3.6.2011/Thumbnails/318.JPG)](/Media/Default/ImageGalleries/harvaluodon-melonta-3.6.2011/318.JPG)
--   [![](/Media/Default/ImageGalleries/harvaluodon-melonta-3.6.2011/Thumbnails/319.JPG)](/Media/Default/ImageGalleries/harvaluodon-melonta-3.6.2011/319.JPG)
--   [![](/Media/Default/ImageGalleries/harvaluodon-melonta-3.6.2011/Thumbnails/325.JPG)](/Media/Default/ImageGalleries/harvaluodon-melonta-3.6.2011/325.JPG)
--   [![](/Media/Default/ImageGalleries/harvaluodon-melonta-3.6.2011/Thumbnails/329.JPG)](/Media/Default/ImageGalleries/harvaluodon-melonta-3.6.2011/329.JPG)
--   [![](/Media/Default/ImageGalleries/harvaluodon-melonta-3.6.2011/Thumbnails/332.JPG)](/Media/Default/ImageGalleries/harvaluodon-melonta-3.6.2011/332.JPG)
--   [![](/Media/Default/ImageGalleries/harvaluodon-melonta-3.6.2011/Thumbnails/336.JPG)](/Media/Default/ImageGalleries/harvaluodon-melonta-3.6.2011/336.JPG)
--   [![](/Media/Default/ImageGalleries/harvaluodon-melonta-3.6.2011/Thumbnails/350.JPG)](/Media/Default/ImageGalleries/harvaluodon-melonta-3.6.2011/350.JPG)
--   [![](/Media/Default/ImageGalleries/harvaluodon-melonta-3.6.2011/Thumbnails/351.JPG)](/Media/Default/ImageGalleries/harvaluodon-melonta-3.6.2011/351.JPG)
--   [![](/Media/Default/ImageGalleries/harvaluodon-melonta-3.6.2011/Thumbnails/355.JPG)](/Media/Default/ImageGalleries/harvaluodon-melonta-3.6.2011/355.JPG)
--   [![](/Media/Default/ImageGalleries/harvaluodon-melonta-3.6.2011/Thumbnails/357.JPG)](/Media/Default/ImageGalleries/harvaluodon-melonta-3.6.2011/357.JPG)
--   [![](/Media/Default/ImageGalleries/harvaluodon-melonta-3.6.2011/Thumbnails/359.JPG)](/Media/Default/ImageGalleries/harvaluodon-melonta-3.6.2011/359.JPG)
+-   [![](/images/harvaluodon-melonta-3.6.2011/Thumbnails/303.JPG)](/images/harvaluodon-melonta-3.6.2011/303.JPG)
+-   [![](/images/harvaluodon-melonta-3.6.2011/Thumbnails/307.JPG)](/images/harvaluodon-melonta-3.6.2011/307.JPG)
+-   [![](/images/harvaluodon-melonta-3.6.2011/Thumbnails/311.JPG)](/images/harvaluodon-melonta-3.6.2011/311.JPG)
+-   [![](/images/harvaluodon-melonta-3.6.2011/Thumbnails/317.JPG)](/images/harvaluodon-melonta-3.6.2011/317.JPG)
+-   [![](/images/harvaluodon-melonta-3.6.2011/Thumbnails/318.JPG)](/images/harvaluodon-melonta-3.6.2011/318.JPG)
+-   [![](/images/harvaluodon-melonta-3.6.2011/Thumbnails/319.JPG)](/images/harvaluodon-melonta-3.6.2011/319.JPG)
+-   [![](/images/harvaluodon-melonta-3.6.2011/Thumbnails/325.JPG)](/images/harvaluodon-melonta-3.6.2011/325.JPG)
+-   [![](/images/harvaluodon-melonta-3.6.2011/Thumbnails/329.JPG)](/images/harvaluodon-melonta-3.6.2011/329.JPG)
+-   [![](/images/harvaluodon-melonta-3.6.2011/Thumbnails/332.JPG)](/images/harvaluodon-melonta-3.6.2011/332.JPG)
+-   [![](/images/harvaluodon-melonta-3.6.2011/Thumbnails/336.JPG)](/images/harvaluodon-melonta-3.6.2011/336.JPG)
+-   [![](/images/harvaluodon-melonta-3.6.2011/Thumbnails/350.JPG)](/images/harvaluodon-melonta-3.6.2011/350.JPG)
+-   [![](/images/harvaluodon-melonta-3.6.2011/Thumbnails/351.JPG)](/images/harvaluodon-melonta-3.6.2011/351.JPG)
+-   [![](/images/harvaluodon-melonta-3.6.2011/Thumbnails/355.JPG)](/images/harvaluodon-melonta-3.6.2011/355.JPG)
+-   [![](/images/harvaluodon-melonta-3.6.2011/Thumbnails/357.JPG)](/images/harvaluodon-melonta-3.6.2011/357.JPG)
+-   [![](/images/harvaluodon-melonta-3.6.2011/Thumbnails/359.JPG)](/images/harvaluodon-melonta-3.6.2011/359.JPG)
 
 </div>

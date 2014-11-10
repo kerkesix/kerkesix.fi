@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Merimelonta 12.8.2007" 
 categories: 
@@ -6,7 +6,7 @@ tags: [melonta,saaristo]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Koko viikko hellettä ja aurinkoa, parasta mahdollista melontasäätä. Ja
 saman viikon sunnuntaina (jolloin oli sovittu melontaa) satoi ja ukosti.
@@ -43,21 +43,21 @@ Kajakit kuljetettiin Vasikkasaaren ja Miessaaren ympäri, jonka jälkeen
 oli hyvä palata takaisin melontakeskukselle. Reissun saldo oli kokemusta
 melonnasta, bongattu haikaroita, merimetsoja ja lokki-veijareita.
 
-<div class="image-gallery">
+<div class="image-gallery" markdown="1">
 
--   [![](/Media/Default/ImageGalleries/merimelonta-12.8.2007/Thumbnails/melonta%20004.jpg)](/Media/Default/ImageGalleries/merimelonta-12.8.2007/melonta%20004.jpg)
--   [![](/Media/Default/ImageGalleries/merimelonta-12.8.2007/Thumbnails/melonta%20011.jpg)](/Media/Default/ImageGalleries/merimelonta-12.8.2007/melonta%20011.jpg)
--   [![](/Media/Default/ImageGalleries/merimelonta-12.8.2007/Thumbnails/melonta%20013.jpg)](/Media/Default/ImageGalleries/merimelonta-12.8.2007/melonta%20013.jpg)
--   [![](/Media/Default/ImageGalleries/merimelonta-12.8.2007/Thumbnails/melonta%20016.jpg)](/Media/Default/ImageGalleries/merimelonta-12.8.2007/melonta%20016.jpg)
--   [![](/Media/Default/ImageGalleries/merimelonta-12.8.2007/Thumbnails/melonta%20017.jpg)](/Media/Default/ImageGalleries/merimelonta-12.8.2007/melonta%20017.jpg)
--   [![](/Media/Default/ImageGalleries/merimelonta-12.8.2007/Thumbnails/melonta%20025.jpg)](/Media/Default/ImageGalleries/merimelonta-12.8.2007/melonta%20025.jpg)
--   [![](/Media/Default/ImageGalleries/merimelonta-12.8.2007/Thumbnails/melonta%20026.jpg)](/Media/Default/ImageGalleries/merimelonta-12.8.2007/melonta%20026.jpg)
--   [![](/Media/Default/ImageGalleries/merimelonta-12.8.2007/Thumbnails/melonta%20027.jpg)](/Media/Default/ImageGalleries/merimelonta-12.8.2007/melonta%20027.jpg)
--   [![](/Media/Default/ImageGalleries/merimelonta-12.8.2007/Thumbnails/melonta%20028.jpg)](/Media/Default/ImageGalleries/merimelonta-12.8.2007/melonta%20028.jpg)
--   [![](/Media/Default/ImageGalleries/merimelonta-12.8.2007/Thumbnails/melonta%20030.jpg)](/Media/Default/ImageGalleries/merimelonta-12.8.2007/melonta%20030.jpg)
--   [![](/Media/Default/ImageGalleries/merimelonta-12.8.2007/Thumbnails/melonta%20033.jpg)](/Media/Default/ImageGalleries/merimelonta-12.8.2007/melonta%20033.jpg)
--   [![](/Media/Default/ImageGalleries/merimelonta-12.8.2007/Thumbnails/melonta%20034.jpg)](/Media/Default/ImageGalleries/merimelonta-12.8.2007/melonta%20034.jpg)
--   [![](/Media/Default/ImageGalleries/merimelonta-12.8.2007/Thumbnails/melonta%20035.jpg)](/Media/Default/ImageGalleries/merimelonta-12.8.2007/melonta%20035.jpg)
--   [![](/Media/Default/ImageGalleries/merimelonta-12.8.2007/Thumbnails/melonta%20037.jpg)](/Media/Default/ImageGalleries/merimelonta-12.8.2007/melonta%20037.jpg)
+-   [![](/images/merimelonta-12.8.2007/Thumbnails/melonta%20004.jpg)](/images/merimelonta-12.8.2007/melonta%20004.jpg)
+-   [![](/images/merimelonta-12.8.2007/Thumbnails/melonta%20011.jpg)](/images/merimelonta-12.8.2007/melonta%20011.jpg)
+-   [![](/images/merimelonta-12.8.2007/Thumbnails/melonta%20013.jpg)](/images/merimelonta-12.8.2007/melonta%20013.jpg)
+-   [![](/images/merimelonta-12.8.2007/Thumbnails/melonta%20016.jpg)](/images/merimelonta-12.8.2007/melonta%20016.jpg)
+-   [![](/images/merimelonta-12.8.2007/Thumbnails/melonta%20017.jpg)](/images/merimelonta-12.8.2007/melonta%20017.jpg)
+-   [![](/images/merimelonta-12.8.2007/Thumbnails/melonta%20025.jpg)](/images/merimelonta-12.8.2007/melonta%20025.jpg)
+-   [![](/images/merimelonta-12.8.2007/Thumbnails/melonta%20026.jpg)](/images/merimelonta-12.8.2007/melonta%20026.jpg)
+-   [![](/images/merimelonta-12.8.2007/Thumbnails/melonta%20027.jpg)](/images/merimelonta-12.8.2007/melonta%20027.jpg)
+-   [![](/images/merimelonta-12.8.2007/Thumbnails/melonta%20028.jpg)](/images/merimelonta-12.8.2007/melonta%20028.jpg)
+-   [![](/images/merimelonta-12.8.2007/Thumbnails/melonta%20030.jpg)](/images/merimelonta-12.8.2007/melonta%20030.jpg)
+-   [![](/images/merimelonta-12.8.2007/Thumbnails/melonta%20033.jpg)](/images/merimelonta-12.8.2007/melonta%20033.jpg)
+-   [![](/images/merimelonta-12.8.2007/Thumbnails/melonta%20034.jpg)](/images/merimelonta-12.8.2007/melonta%20034.jpg)
+-   [![](/images/merimelonta-12.8.2007/Thumbnails/melonta%20035.jpg)](/images/merimelonta-12.8.2007/melonta%20035.jpg)
+-   [![](/images/merimelonta-12.8.2007/Thumbnails/melonta%20037.jpg)](/images/merimelonta-12.8.2007/melonta%20037.jpg)
 
 </div>

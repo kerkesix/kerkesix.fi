@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Piparkakku-suklaajäädyke" 
 categories: 
@@ -6,7 +6,7 @@ tags: [ruoka]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Vuosijuhlassa 27.11.2004 (resepti 8 annokselle)
 

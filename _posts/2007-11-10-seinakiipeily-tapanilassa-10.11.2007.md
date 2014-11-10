@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Seinäkiipeily Tapanilassa 10.11.2007" 
 categories: 
@@ -6,7 +6,7 @@ tags: [kiipeily]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Kello 9.00 alkaneeseen sessioon tarkkaan paikalla taisi olla ainoastaan
 Jukkis ja Raakis. Allekirjoittanut ja Arri ehdittiin paikalle hiukan
@@ -36,13 +36,13 @@ liikuntakeskuksessa.
 
 -Pete-
 
-<div class="image-gallery">
+<div class="image-gallery" markdown="1">
 
--   [![](/Media/Default/ImageGalleries/seinakiipeily-tapanilassa-10.11.2007/Thumbnails/CIMG7075.JPG)](/Media/Default/ImageGalleries/seinakiipeily-tapanilassa-10.11.2007/CIMG7075.JPG)
--   [![](/Media/Default/ImageGalleries/seinakiipeily-tapanilassa-10.11.2007/Thumbnails/CIMG7078.JPG)](/Media/Default/ImageGalleries/seinakiipeily-tapanilassa-10.11.2007/CIMG7078.JPG)
--   [![](/Media/Default/ImageGalleries/seinakiipeily-tapanilassa-10.11.2007/Thumbnails/CIMG7086.JPG)](/Media/Default/ImageGalleries/seinakiipeily-tapanilassa-10.11.2007/CIMG7086.JPG)
--   [![](/Media/Default/ImageGalleries/seinakiipeily-tapanilassa-10.11.2007/Thumbnails/CIMG7087.JPG)](/Media/Default/ImageGalleries/seinakiipeily-tapanilassa-10.11.2007/CIMG7087.JPG)
--   [![](/Media/Default/ImageGalleries/seinakiipeily-tapanilassa-10.11.2007/Thumbnails/CIMG7088.JPG)](/Media/Default/ImageGalleries/seinakiipeily-tapanilassa-10.11.2007/CIMG7088.JPG)
--   [![](/Media/Default/ImageGalleries/seinakiipeily-tapanilassa-10.11.2007/Thumbnails/CIMG7091b.jpg)](/Media/Default/ImageGalleries/seinakiipeily-tapanilassa-10.11.2007/CIMG7091b.jpg)
+-   [![](/images/seinakiipeily-tapanilassa-10.11.2007/Thumbnails/CIMG7075.JPG)](/images/seinakiipeily-tapanilassa-10.11.2007/CIMG7075.JPG)
+-   [![](/images/seinakiipeily-tapanilassa-10.11.2007/Thumbnails/CIMG7078.JPG)](/images/seinakiipeily-tapanilassa-10.11.2007/CIMG7078.JPG)
+-   [![](/images/seinakiipeily-tapanilassa-10.11.2007/Thumbnails/CIMG7086.JPG)](/images/seinakiipeily-tapanilassa-10.11.2007/CIMG7086.JPG)
+-   [![](/images/seinakiipeily-tapanilassa-10.11.2007/Thumbnails/CIMG7087.JPG)](/images/seinakiipeily-tapanilassa-10.11.2007/CIMG7087.JPG)
+-   [![](/images/seinakiipeily-tapanilassa-10.11.2007/Thumbnails/CIMG7088.JPG)](/images/seinakiipeily-tapanilassa-10.11.2007/CIMG7088.JPG)
+-   [![](/images/seinakiipeily-tapanilassa-10.11.2007/Thumbnails/CIMG7091b.jpg)](/images/seinakiipeily-tapanilassa-10.11.2007/CIMG7091b.jpg)
 
 </div>

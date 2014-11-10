@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Kalliokiipeily Jaanankalliolla 28.07.2005" 
 categories: 
@@ -6,7 +6,7 @@ tags: [kiipeily]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Jälleen Hyvinkääläinen kivi kutsui Kerkesix ry:n Jaanankalliolle.
 Aurinko oli paistanut koko päivän ja matka kohti kalliota sujui
@@ -26,11 +26,11 @@ Stonea (5+) ja Velliä (5+), jonka jälkeen Käkimassaa (6) Yläköydellä.
 Onnistumisia oli kaikilla ja jokaiselle jäi vielä jotain hampaankoloon
 ensikertaa varten...
 
-<div class="image-gallery">
+<div class="image-gallery" markdown="1">
 
--   [![](/Media/Default/ImageGalleries/kalliokiipeily-jaanankalliolla-28.07.2005/Thumbnails/kiipeilykalliolla20050728_01b.jpg)](/Media/Default/ImageGalleries/kalliokiipeily-jaanankalliolla-28.07.2005/kiipeilykalliolla20050728_01b.jpg)
--   [![](/Media/Default/ImageGalleries/kalliokiipeily-jaanankalliolla-28.07.2005/Thumbnails/kiipeilykalliolla20050728_02b.jpg)](/Media/Default/ImageGalleries/kalliokiipeily-jaanankalliolla-28.07.2005/kiipeilykalliolla20050728_02b.jpg)
--   [![](/Media/Default/ImageGalleries/kalliokiipeily-jaanankalliolla-28.07.2005/Thumbnails/kiipeilykalliolla20050728_03b.jpg)](/Media/Default/ImageGalleries/kalliokiipeily-jaanankalliolla-28.07.2005/kiipeilykalliolla20050728_03b.jpg)
--   [![](/Media/Default/ImageGalleries/kalliokiipeily-jaanankalliolla-28.07.2005/Thumbnails/kiipeilykalliolla20050728_04b.jpg)](/Media/Default/ImageGalleries/kalliokiipeily-jaanankalliolla-28.07.2005/kiipeilykalliolla20050728_04b.jpg)
+-   [![](/images/kalliokiipeily-jaanankalliolla-28.07.2005/Thumbnails/kiipeilykalliolla20050728_01b.jpg)](/images/kalliokiipeily-jaanankalliolla-28.07.2005/kiipeilykalliolla20050728_01b.jpg)
+-   [![](/images/kalliokiipeily-jaanankalliolla-28.07.2005/Thumbnails/kiipeilykalliolla20050728_02b.jpg)](/images/kalliokiipeily-jaanankalliolla-28.07.2005/kiipeilykalliolla20050728_02b.jpg)
+-   [![](/images/kalliokiipeily-jaanankalliolla-28.07.2005/Thumbnails/kiipeilykalliolla20050728_03b.jpg)](/images/kalliokiipeily-jaanankalliolla-28.07.2005/kiipeilykalliolla20050728_03b.jpg)
+-   [![](/images/kalliokiipeily-jaanankalliolla-28.07.2005/Thumbnails/kiipeilykalliolla20050728_04b.jpg)](/images/kalliokiipeily-jaanankalliolla-28.07.2005/kiipeilykalliolla20050728_04b.jpg)
 
 </div>

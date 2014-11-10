@@ -2,12 +2,11 @@
 layout: article 
 title: "Esimerkki varustelistasta Sysimustaa Satkua varten" 
 permalink: /sysimusta-satku-varustelistaesimerkki/ 
-categories: 
 tags: [satku]
 toc: false 
 comments: false 
 ads: false 
---- 
+---
 
 Varusteet päällä
 ----------------

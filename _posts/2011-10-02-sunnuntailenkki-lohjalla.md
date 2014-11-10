@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Sunnuntailenkki Lohjalla" 
 categories: 
@@ -6,9 +6,9 @@ tags: [juoksu]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
-![](/Media/Default/BlogPost/blog/sunnuntailenkki-lohjalla/02102011092.jpg)TT:n
+![](/images/sunnuntailenkki-lohjalla/02102011092.jpg)TT:n
 sanoin:
 
 "Oli aika jolloin Kerkesix juoksi säännöllisesti

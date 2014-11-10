@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Jukolaan tänä vuonna 2 joukkuetta." 
 categories: 
@@ -6,7 +6,7 @@ tags: [suunnistus,jukola]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 ValioJukolaan 2012 on lähdössä 2 joukkuetta Kerkesix nimellä.  Mukavaa,
 että on saatu porukkaa kasaan. Pääkaupunkiseudulla asuvilla on tänä

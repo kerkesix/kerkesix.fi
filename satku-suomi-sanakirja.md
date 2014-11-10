@@ -2,12 +2,11 @@
 layout: article 
 title: "Satku - Suomi -sanakirja" 
 permalink: /satku-suomi-sanakirja/ 
-categories: 
 tags: [satku]
 toc: false 
 comments: false 
 ads: false 
---- 
+---
 
 Helpottaaksemme osallistujien sopeutumista huoltajien kanssa
 kommunikoimiseen olemme listanneet muutamia tärkeitä termejä ja niiden

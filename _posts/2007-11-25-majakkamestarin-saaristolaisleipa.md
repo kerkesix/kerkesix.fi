@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Majakkamestarin saaristolaisleipä" 
 categories: 
@@ -6,7 +6,7 @@ tags: [ruoka]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Vuosijuhlassa 24.11.2007
 

@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Tero ja Toni kohti Pohjoisnapaa" 
 categories: 
@@ -6,7 +6,7 @@ tags: [vaellus,hiihto]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 22.2.2006 lähtee [Laskuvarjojääkärikillan](http://www.lsvjkilta.fi)
 [Pohjoisnaparetkikunta](http://www.pohjoisnapa.fi/) kohti Kanadaa, josta

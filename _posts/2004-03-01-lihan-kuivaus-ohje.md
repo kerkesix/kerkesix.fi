@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Kuivalihan tekeminen kotioloissa" 
 categories: 
@@ -6,9 +6,9 @@ tags: [ruoka]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
-[![](/Media/Default/BlogPost/blog/lihankuivausohje/Kuivaliha_08.jpg)](/Media/Default/BlogPost/blog/lihankuivausohje/Kuivaliha_08.jpg)
+[![](/images/lihankuivausohje/Kuivaliha_08.jpg)](/images/lihankuivausohje/Kuivaliha_08.jpg)
 
 Ravintoarvoiltaan liha ei ole retkioloissa välttämätöntä, mutta pään
 kunnossapitämiseen se on hyvä lääke. Koska liha on kosteana ikävän
@@ -23,7 +23,7 @@ puhutaan lihan, ei soijan kuivaamisesta. Soijarouheella pystyy
 välttävästi korvaamaan kuivatun jauhelihan, mutta kuivattua kokolihaa
 siitä ei saa hyvällä mielikuvituksellakaan. Tässä siis: lihan kuivatus.
 
-[![](/Media/Default/BlogPost/blog/lihankuivausohje/Kuivaliha_01.jpg)](/Media/Default/BlogPost/blog/lihankuivausohje/Kuivaliha_01.jpg)
+[![](/images/lihankuivausohje/Kuivaliha_01.jpg)](/images/lihankuivausohje/Kuivaliha_01.jpg)
 
 Otetaan riittävästi lihaa. Nauta on yleisintä ja halvinta, mutta myös
 hevonen, poro, kauris tms. ovat hyviä kuivatettavaksi. Naudan lihasta
@@ -36,7 +36,7 @@ kalvot pois.
 
  
 
-[![](/Media/Default/BlogPost/blog/lihankuivausohje/Kuivaliha_02.jpg)](/Media/Default/BlogPost/blog/lihankuivausohje/Kuivaliha_02.jpg)Liha
+[![](/images/lihankuivausohje/Kuivaliha_02.jpg)](/images/lihankuivausohje/Kuivaliha_02.jpg)Liha
 leikataan syiden suuntaisesti, noin 0,5 cm paksuiksi, 5 cm leveiksi ja
 15-20 cm pitkiksi suikaleiksi. Liha leikataan pitkittäissyyhyn, koska
 tällöin saa nätimpiä ja kestävämpiä palasia. Kuivaamisen kannalta ei ole
@@ -46,7 +46,7 @@ nestettä imevämpää.
 
  
 
-[![](http://uusi.kerkesix.fi/Media/Default/BlogPost/blog/lihankuivausohje/Kuivaliha_04.jpg)](/Media/Default/BlogPost/blog/lihankuivausohje/Kuivaliha_04.jpg)Lihan
+[![](http://uusi.kerkesix.fi/images/lihankuivausohje/Kuivaliha_04.jpg)](/images/lihankuivausohje/Kuivaliha_04.jpg)Lihan
 voi [marinoida](http://www.kolumbus.fi/rahola/sanastot/m.html#mari).
 Marinoinnilla saa lihaan pieniä makueroja. Marinadiksi sopii mikä vain
 öljytön marinadi. Usein käytetty versio saadaan suolasta, chilistä,
@@ -58,7 +58,7 @@ tehokasta.
 
  
 
-[![](/Media/Default/BlogPost/blog/lihankuivausohje/Kuivaliha_05.jpg)](/Media/Default/BlogPost/blog/lihankuivausohje/Kuivaliha_05.jpg)Lihan
+[![](/images/lihankuivausohje/Kuivaliha_05.jpg)](/images/lihankuivausohje/Kuivaliha_05.jpg)Lihan
 voi kuivata kotioloissa kahdella tavalla: uunissa tai
 kuivurilla. Kotikuivureiden käyttöohjeissa tuskin koskaan mainitaan
 lihaa, lievätkö valmistajat liian varovaisia. Tästä ei kannata
@@ -74,14 +74,14 @@ ohjeissa mainitut lihat kuivuvat noin 12-16 tunnissa.
 
  
 
-[![](/Media/Default/BlogPost/blog/lihankuivausohje/Kuivaliha_06.jpg)](/Media/Default/BlogPost/blog/lihankuivausohje/Kuivaliha_06.jpg)Kuivurilla
+[![](/images/lihankuivausohje/Kuivaliha_06.jpg)](/images/lihankuivausohje/Kuivaliha_06.jpg)Kuivurilla
 kuivattaessa lihat ladotaan ritilöille niin, että väleihin jää jonkin
 verran tilaa ilman liikkua. Sitten vain kuivataan kuivurin ohjeiden ja
 ominaisuuksien mukaan. Kuivurissa olevien ritilöiden paikkoja kannattaa
 välillä vaihdella, ja ritilöillä olevia lihoja käännellä. Esimerkiksi
 Severin-kuivurilla täysi annos lihaa kestää noin 10 tuntia kuivua.
 
-[![](/Media/Default/BlogPost/blog/lihankuivausohje/Kuivaliha_09.jpg)](/Media/Default/BlogPost/blog/lihankuivausohje/Kuivaliha_09.jpg)Kuivuneen
+[![](/images/lihankuivausohje/Kuivaliha_09.jpg)](/images/lihankuivausohje/Kuivaliha_09.jpg)Kuivuneen
 lihan pitäisi olla tummaa ja melko lailla kovaa. Anna kuivuneen lihan
 jäähtyä, ja säilö ilmatiiviiseen paikkaan, esim. Minigrip-pussiin.
 Säilytä pussia kuivassa paikassa ja valolta suojattuna.

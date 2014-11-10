@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Sysimusta Satku V - 28.10.2006" 
 categories: 
@@ -6,7 +6,7 @@ tags: [satku]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Muutama päivä ennen kävelyreissun alkua oli tiedossa että loppuviikon
 aikana tulee Suomen yli kulkemaan erittäin voimakas syysmyrsky. Tätä
@@ -115,39 +115,39 @@ Ei muuta kuin tossua toisen eteen siellä sysimustassa syksyssä.
 
 Jukka
 
-<div class="image-gallery">
+<div class="image-gallery" markdown="1">
 
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-5/Thumbnails/sysimustasatku5_01b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-5/sysimustasatku5_01b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-5/Thumbnails/sysimustasatku5_02b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-5/sysimustasatku5_02b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-5/Thumbnails/sysimustasatku5_03b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-5/sysimustasatku5_03b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-5/Thumbnails/sysimustasatku5_04b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-5/sysimustasatku5_04b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-5/Thumbnails/sysimustasatku5_05b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-5/sysimustasatku5_05b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-5/Thumbnails/sysimustasatku5_06b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-5/sysimustasatku5_06b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-5/Thumbnails/sysimustasatku5_07b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-5/sysimustasatku5_07b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-5/Thumbnails/sysimustasatku5_08b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-5/sysimustasatku5_08b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-5/Thumbnails/sysimustasatku5_09b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-5/sysimustasatku5_09b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-5/Thumbnails/sysimustasatku5_10b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-5/sysimustasatku5_10b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-5/Thumbnails/sysimustasatku5_11b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-5/sysimustasatku5_11b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-5/Thumbnails/sysimustasatku5_12b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-5/sysimustasatku5_12b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-5/Thumbnails/sysimustasatku5_13b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-5/sysimustasatku5_13b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-5/Thumbnails/sysimustasatku5_14b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-5/sysimustasatku5_14b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-5/Thumbnails/sysimustasatku5_15b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-5/sysimustasatku5_15b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-5/Thumbnails/sysimustasatku5_16b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-5/sysimustasatku5_16b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-5/Thumbnails/sysimustasatku5_17b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-5/sysimustasatku5_17b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-5/Thumbnails/sysimustasatku5_18b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-5/sysimustasatku5_18b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-5/Thumbnails/sysimustasatku5_19b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-5/sysimustasatku5_19b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-5/Thumbnails/sysimustasatku5_20b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-5/sysimustasatku5_20b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-5/Thumbnails/sysimustasatku5_21b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-5/sysimustasatku5_21b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-5/Thumbnails/sysimustasatku5_22b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-5/sysimustasatku5_22b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-5/Thumbnails/sysimustasatku5_23b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-5/sysimustasatku5_23b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-5/Thumbnails/sysimustasatku5_24b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-5/sysimustasatku5_24b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-5/Thumbnails/sysimustasatku5_25b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-5/sysimustasatku5_25b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-5/Thumbnails/sysimustasatku5_26b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-5/sysimustasatku5_26b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-5/Thumbnails/sysimustasatku5_27b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-5/sysimustasatku5_27b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-5/Thumbnails/sysimustasatku5_28b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-5/sysimustasatku5_28b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-5/Thumbnails/sysimustasatku5_29b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-5/sysimustasatku5_29b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-5/Thumbnails/sysimustasatku5_30b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-5/sysimustasatku5_30b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-5/Thumbnails/sysimustasatku5_31b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-5/sysimustasatku5_31b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-5/Thumbnails/sysimustasatku5_32b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-5/sysimustasatku5_32b.jpg)
+-   [![](/images/sysimusta-satku-5/Thumbnails/sysimustasatku5_01b.jpg)](/images/sysimusta-satku-5/sysimustasatku5_01b.jpg)
+-   [![](/images/sysimusta-satku-5/Thumbnails/sysimustasatku5_02b.jpg)](/images/sysimusta-satku-5/sysimustasatku5_02b.jpg)
+-   [![](/images/sysimusta-satku-5/Thumbnails/sysimustasatku5_03b.jpg)](/images/sysimusta-satku-5/sysimustasatku5_03b.jpg)
+-   [![](/images/sysimusta-satku-5/Thumbnails/sysimustasatku5_04b.jpg)](/images/sysimusta-satku-5/sysimustasatku5_04b.jpg)
+-   [![](/images/sysimusta-satku-5/Thumbnails/sysimustasatku5_05b.jpg)](/images/sysimusta-satku-5/sysimustasatku5_05b.jpg)
+-   [![](/images/sysimusta-satku-5/Thumbnails/sysimustasatku5_06b.jpg)](/images/sysimusta-satku-5/sysimustasatku5_06b.jpg)
+-   [![](/images/sysimusta-satku-5/Thumbnails/sysimustasatku5_07b.jpg)](/images/sysimusta-satku-5/sysimustasatku5_07b.jpg)
+-   [![](/images/sysimusta-satku-5/Thumbnails/sysimustasatku5_08b.jpg)](/images/sysimusta-satku-5/sysimustasatku5_08b.jpg)
+-   [![](/images/sysimusta-satku-5/Thumbnails/sysimustasatku5_09b.jpg)](/images/sysimusta-satku-5/sysimustasatku5_09b.jpg)
+-   [![](/images/sysimusta-satku-5/Thumbnails/sysimustasatku5_10b.jpg)](/images/sysimusta-satku-5/sysimustasatku5_10b.jpg)
+-   [![](/images/sysimusta-satku-5/Thumbnails/sysimustasatku5_11b.jpg)](/images/sysimusta-satku-5/sysimustasatku5_11b.jpg)
+-   [![](/images/sysimusta-satku-5/Thumbnails/sysimustasatku5_12b.jpg)](/images/sysimusta-satku-5/sysimustasatku5_12b.jpg)
+-   [![](/images/sysimusta-satku-5/Thumbnails/sysimustasatku5_13b.jpg)](/images/sysimusta-satku-5/sysimustasatku5_13b.jpg)
+-   [![](/images/sysimusta-satku-5/Thumbnails/sysimustasatku5_14b.jpg)](/images/sysimusta-satku-5/sysimustasatku5_14b.jpg)
+-   [![](/images/sysimusta-satku-5/Thumbnails/sysimustasatku5_15b.jpg)](/images/sysimusta-satku-5/sysimustasatku5_15b.jpg)
+-   [![](/images/sysimusta-satku-5/Thumbnails/sysimustasatku5_16b.jpg)](/images/sysimusta-satku-5/sysimustasatku5_16b.jpg)
+-   [![](/images/sysimusta-satku-5/Thumbnails/sysimustasatku5_17b.jpg)](/images/sysimusta-satku-5/sysimustasatku5_17b.jpg)
+-   [![](/images/sysimusta-satku-5/Thumbnails/sysimustasatku5_18b.jpg)](/images/sysimusta-satku-5/sysimustasatku5_18b.jpg)
+-   [![](/images/sysimusta-satku-5/Thumbnails/sysimustasatku5_19b.jpg)](/images/sysimusta-satku-5/sysimustasatku5_19b.jpg)
+-   [![](/images/sysimusta-satku-5/Thumbnails/sysimustasatku5_20b.jpg)](/images/sysimusta-satku-5/sysimustasatku5_20b.jpg)
+-   [![](/images/sysimusta-satku-5/Thumbnails/sysimustasatku5_21b.jpg)](/images/sysimusta-satku-5/sysimustasatku5_21b.jpg)
+-   [![](/images/sysimusta-satku-5/Thumbnails/sysimustasatku5_22b.jpg)](/images/sysimusta-satku-5/sysimustasatku5_22b.jpg)
+-   [![](/images/sysimusta-satku-5/Thumbnails/sysimustasatku5_23b.jpg)](/images/sysimusta-satku-5/sysimustasatku5_23b.jpg)
+-   [![](/images/sysimusta-satku-5/Thumbnails/sysimustasatku5_24b.jpg)](/images/sysimusta-satku-5/sysimustasatku5_24b.jpg)
+-   [![](/images/sysimusta-satku-5/Thumbnails/sysimustasatku5_25b.jpg)](/images/sysimusta-satku-5/sysimustasatku5_25b.jpg)
+-   [![](/images/sysimusta-satku-5/Thumbnails/sysimustasatku5_26b.jpg)](/images/sysimusta-satku-5/sysimustasatku5_26b.jpg)
+-   [![](/images/sysimusta-satku-5/Thumbnails/sysimustasatku5_27b.jpg)](/images/sysimusta-satku-5/sysimustasatku5_27b.jpg)
+-   [![](/images/sysimusta-satku-5/Thumbnails/sysimustasatku5_28b.jpg)](/images/sysimusta-satku-5/sysimustasatku5_28b.jpg)
+-   [![](/images/sysimusta-satku-5/Thumbnails/sysimustasatku5_29b.jpg)](/images/sysimusta-satku-5/sysimustasatku5_29b.jpg)
+-   [![](/images/sysimusta-satku-5/Thumbnails/sysimustasatku5_30b.jpg)](/images/sysimusta-satku-5/sysimustasatku5_30b.jpg)
+-   [![](/images/sysimusta-satku-5/Thumbnails/sysimustasatku5_31b.jpg)](/images/sysimusta-satku-5/sysimustasatku5_31b.jpg)
+-   [![](/images/sysimusta-satku-5/Thumbnails/sysimustasatku5_32b.jpg)](/images/sysimusta-satku-5/sysimustasatku5_32b.jpg)
 
 </div>

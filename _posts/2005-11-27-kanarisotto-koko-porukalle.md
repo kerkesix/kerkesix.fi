@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Kanarisotto koko porukalle" 
 categories: 
@@ -6,7 +6,7 @@ tags: [ruoka]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Vuosijuhlassa 26.11.2005 (18 annosta)
 

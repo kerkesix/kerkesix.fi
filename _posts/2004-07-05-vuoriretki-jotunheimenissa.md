@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Vuoriretki Jotunheimenissa" 
 categories: 
@@ -6,7 +6,7 @@ tags: [vaellus,vuoristovaellus]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Kesän 2004 vuoriretki suuntautui Norjaan Jotunheimenin
 kansallispuistoon. Retken aikana oli tarkoitus huiputtaa ainakin toinen
@@ -118,24 +118,24 @@ Usealle mukana olleelle tämä oli ensimmäinen visiitti Jotunheimenissa.
 Alueelle jäi vielä niin paljon nähtävää, että tuskin tämä jää myöskään
 viimeiseksi kerraksi kun vierailemme täällä.
 
-<div class="image-gallery">
+<div class="image-gallery" markdown="1">
 
--   [![](/Media/Default/ImageGalleries/vuoriretki-jotunheimenissa/Thumbnails/Vuoriretki%202004%20112.jpg)](/Media/Default/ImageGalleries/vuoriretki-jotunheimenissa/Vuoriretki%202004%20112.jpg)
--   [![](/Media/Default/ImageGalleries/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_01b.jpg)](/Media/Default/ImageGalleries/vuoriretki-jotunheimenissa/vuoriretki2004_01b.jpg)
--   [![](/Media/Default/ImageGalleries/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_02b.jpg)](/Media/Default/ImageGalleries/vuoriretki-jotunheimenissa/vuoriretki2004_02b.jpg)
--   [![](/Media/Default/ImageGalleries/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_05b.jpg)](/Media/Default/ImageGalleries/vuoriretki-jotunheimenissa/vuoriretki2004_05b.jpg)
--   [![](/Media/Default/ImageGalleries/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_06b.jpg)](/Media/Default/ImageGalleries/vuoriretki-jotunheimenissa/vuoriretki2004_06b.jpg)
--   [![](/Media/Default/ImageGalleries/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_07b.jpg)](/Media/Default/ImageGalleries/vuoriretki-jotunheimenissa/vuoriretki2004_07b.jpg)
--   [![](/Media/Default/ImageGalleries/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_08b.jpg)](/Media/Default/ImageGalleries/vuoriretki-jotunheimenissa/vuoriretki2004_08b.jpg)
--   [![](/Media/Default/ImageGalleries/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_09b.jpg)](/Media/Default/ImageGalleries/vuoriretki-jotunheimenissa/vuoriretki2004_09b.jpg)
--   [![](/Media/Default/ImageGalleries/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_10b.jpg)](/Media/Default/ImageGalleries/vuoriretki-jotunheimenissa/vuoriretki2004_10b.jpg)
--   [![](/Media/Default/ImageGalleries/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_11b.jpg)](/Media/Default/ImageGalleries/vuoriretki-jotunheimenissa/vuoriretki2004_11b.jpg)
--   [![](/Media/Default/ImageGalleries/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_12b.jpg)](/Media/Default/ImageGalleries/vuoriretki-jotunheimenissa/vuoriretki2004_12b.jpg)
--   [![](/Media/Default/ImageGalleries/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_14b.jpg)](/Media/Default/ImageGalleries/vuoriretki-jotunheimenissa/vuoriretki2004_14b.jpg)
--   [![](/Media/Default/ImageGalleries/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_15b.jpg)](/Media/Default/ImageGalleries/vuoriretki-jotunheimenissa/vuoriretki2004_15b.jpg)
--   [![](/Media/Default/ImageGalleries/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_16b.jpg)](/Media/Default/ImageGalleries/vuoriretki-jotunheimenissa/vuoriretki2004_16b.jpg)
--   [![](/Media/Default/ImageGalleries/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_17b.jpg)](/Media/Default/ImageGalleries/vuoriretki-jotunheimenissa/vuoriretki2004_17b.jpg)
--   [![](/Media/Default/ImageGalleries/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_18b.jpg)](/Media/Default/ImageGalleries/vuoriretki-jotunheimenissa/vuoriretki2004_18b.jpg)
--   [![](/Media/Default/ImageGalleries/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_19b.jpg)](/Media/Default/ImageGalleries/vuoriretki-jotunheimenissa/vuoriretki2004_19b.jpg)
+-   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/Vuoriretki%202004%20112.jpg)](/images/vuoriretki-jotunheimenissa/Vuoriretki%202004%20112.jpg)
+-   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_01b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_01b.jpg)
+-   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_02b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_02b.jpg)
+-   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_05b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_05b.jpg)
+-   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_06b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_06b.jpg)
+-   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_07b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_07b.jpg)
+-   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_08b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_08b.jpg)
+-   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_09b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_09b.jpg)
+-   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_10b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_10b.jpg)
+-   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_11b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_11b.jpg)
+-   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_12b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_12b.jpg)
+-   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_14b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_14b.jpg)
+-   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_15b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_15b.jpg)
+-   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_16b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_16b.jpg)
+-   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_17b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_17b.jpg)
+-   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_18b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_18b.jpg)
+-   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_19b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_19b.jpg)
 
 </div>

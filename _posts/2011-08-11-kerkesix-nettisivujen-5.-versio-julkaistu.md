@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Kerkesix nettisivujen 5. versio julkaistu!" 
 categories: 
@@ -6,7 +6,7 @@ tags: [kerkesix.fi]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Kerke-netin uusin ja 5. versio on ulkona kaikkien käytettävänä. Uutta
 entiseen on mm. tunnisteiden käyttö artikkelien hakuun sekä kirjoitusten

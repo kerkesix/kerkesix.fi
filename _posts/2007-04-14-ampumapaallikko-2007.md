@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Ampumapäällikkökilpailu 2007" 
 categories: 
@@ -6,7 +6,7 @@ tags: [ampumapäällikkö]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Halkiassa paistoi aurinko. Pornaisissa oli melkein kesä. Siinä oli hyvät
 perusteet tapahtuman onnistumiselle. Paljoa muuta ei vaadittu, kuin että
@@ -49,56 +49,56 @@ ampumamestari, Ampumapäällikkö 2007.
 2.  Jappe
 3.  Tero
 
-<div class="image-gallery">
+<div class="image-gallery" markdown="1">
 
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20005b4.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20005b4.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20005b5.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20005b5.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20007.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20007.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20007b6.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20007b6.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20008.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20008.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20008b1.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20008b1.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20008b2.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20008b2.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20008b4.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20008b4.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20009b1.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20009b1.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20013.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20013.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20016.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20016.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20018.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20018.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20019b1.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20019b1.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20020b19.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20020b19.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20021b1.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20021b1.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20022.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20022.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20025.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20025.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20028.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20028.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20029.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20029.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20029b3.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20029b3.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20029b5.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20029b5.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20029b8.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20029b8.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20029b92.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20029b92.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20029b93.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20029b93.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20029b95.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20029b95.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20030.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20030.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20031b1.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20031b1.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20031b2.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20031b2.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20032.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20032.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20032b1.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20032b1.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20033b1.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20033b1.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20033b2.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20033b2.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20035.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20035.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20036.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20036.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20038.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20038.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20039.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20039.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20041.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20041.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20042.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20042.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20043.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20043.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20044.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20044.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20047.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20047.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20048.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20048.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20049.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20049.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20050.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20050.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20053.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20053.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20059.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20059.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20065.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20065.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20070.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20070.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20070b1.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2007/Ampupäällikkö%202007%20070b1.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20005b4.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20005b4.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20005b5.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20005b5.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20007.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20007.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20007b6.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20007b6.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20008.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20008.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20008b1.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20008b1.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20008b2.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20008b2.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20008b4.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20008b4.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20009b1.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20009b1.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20013.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20013.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20016.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20016.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20018.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20018.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20019b1.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20019b1.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20020b19.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20020b19.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20021b1.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20021b1.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20022.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20022.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20025.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20025.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20028.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20028.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20029.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20029.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20029b3.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20029b3.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20029b5.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20029b5.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20029b8.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20029b8.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20029b92.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20029b92.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20029b93.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20029b93.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20029b95.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20029b95.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20030.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20030.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20031b1.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20031b1.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20031b2.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20031b2.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20032.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20032.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20032b1.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20032b1.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20033b1.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20033b1.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20033b2.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20033b2.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20035.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20035.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20036.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20036.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20038.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20038.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20039.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20039.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20041.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20041.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20042.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20042.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20043.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20043.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20044.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20044.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20047.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20047.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20048.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20048.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20049.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20049.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20050.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20050.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20053.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20053.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20059.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20059.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20065.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20065.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20070.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20070.jpg)
+-   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20070b1.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20070b1.jpg)
 
 </div>

@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Spring Adventure 2010" 
 categories: 
@@ -6,7 +6,7 @@ tags: [multisport,suunnistus,juoksu,pyöräily]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 KSX edustusta nähtiin Lohjan maisemissa kevään ensimmäisessä multisport
 cupin skabassa, kun Pete ja Jukkis osallistuivat kuntosarjaan.
@@ -15,7 +15,7 @@ melkoisesti ja laji on selkeästi nostanut suosiotaan. Kuntosarjaan
 starttasi kaiken kaikkiaan 21 joukkuetta eikä reitillä tarvinnut tällä
 kertaa olla todellakaan yksin.
 
-![](/Media/Default/BlogPost/blog/spring-adventure-2010/Image0003%20(1).jpg)
+![](/images/spring-adventure-2010/Image0003%20(1).jpg)
 
 <div>
 

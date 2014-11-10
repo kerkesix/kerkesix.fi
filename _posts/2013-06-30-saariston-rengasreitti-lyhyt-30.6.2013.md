@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Saariston Rengasreitti (lyhyt) 30.6.2013" 
 categories: 
@@ -6,7 +6,7 @@ tags: []
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Pihvi houkutteli porukkaa fillaroimaan Turun saaristoon. Pyöräilykeli
 näyttää oivalliselta, joten lähdetään liikkeelle!

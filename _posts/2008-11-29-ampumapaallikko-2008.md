@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Ampumapäällikkökilpailu 2008" 
 categories: 
@@ -6,7 +6,7 @@ tags: [ampumapäällikkö]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Vuoden 2008 Ampumapäällikkökllpailu kisattiin sopivan kosteassa
 marraskuisessa loskasäässä. Liian kylmää ei ollut, kisaajat olivat
@@ -36,26 +36,26 @@ Ampumapäällikkyys eli Kerkesix ry:n kokonaismestaruus:
 2.  Eerikki Rundgren 144
 3.  Seppo Aho 142
 
-<div class="image-gallery">
+<div class="image-gallery" markdown="1">
 
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20012.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20012.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20015.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20015.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20019.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20019.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20020.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20020.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20022.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20022.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20026.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20026.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20027.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20027.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20031.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20031.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20033.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20033.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20034.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20034.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20038.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20038.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20045.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20045.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20046.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20046.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20048.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20048.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20051.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20051.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20057.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20057.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20059.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20059.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20063.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20063.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20074.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20074.jpg)
+-   [![](/images/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20012.jpg)](/images/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20012.jpg)
+-   [![](/images/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20015.jpg)](/images/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20015.jpg)
+-   [![](/images/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20019.jpg)](/images/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20019.jpg)
+-   [![](/images/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20020.jpg)](/images/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20020.jpg)
+-   [![](/images/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20022.jpg)](/images/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20022.jpg)
+-   [![](/images/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20026.jpg)](/images/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20026.jpg)
+-   [![](/images/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20027.jpg)](/images/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20027.jpg)
+-   [![](/images/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20031.jpg)](/images/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20031.jpg)
+-   [![](/images/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20033.jpg)](/images/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20033.jpg)
+-   [![](/images/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20034.jpg)](/images/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20034.jpg)
+-   [![](/images/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20038.jpg)](/images/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20038.jpg)
+-   [![](/images/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20045.jpg)](/images/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20045.jpg)
+-   [![](/images/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20046.jpg)](/images/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20046.jpg)
+-   [![](/images/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20048.jpg)](/images/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20048.jpg)
+-   [![](/images/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20051.jpg)](/images/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20051.jpg)
+-   [![](/images/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20057.jpg)](/images/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20057.jpg)
+-   [![](/images/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20059.jpg)](/images/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20059.jpg)
+-   [![](/images/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20063.jpg)](/images/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20063.jpg)
+-   [![](/images/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20074.jpg)](/images/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20074.jpg)
 
 </div>

@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Iivaara kohteena" 
 categories: 
@@ -6,7 +6,7 @@ tags: [ulkoilukohteet]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Kuusamossa sijaitseva  Iivaara (korkeus 469,4 m) löytyi hieman
 sattumalta pyöräilyretken kohteeksi.

@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Melonta Kiskonjoella 5.5.2005" 
 categories: 
@@ -6,7 +6,7 @@ tags: [melonta]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Koska Helatorstaina Suomi meni kiinni, piti kehittää jotain tekemistä.
 Yhdistyksen tuorein kasvo näytti kyntensä ja organisoi Kerkesix ry:lle
@@ -32,14 +32,14 @@ Retki oli kaikin puolin onnistunut ja siitä kiitos järjestävälle
 organisaattorille. Tästä on Kerkesix ry:n hyvä ponnistaa kohti itse
 järjestettyjä melontaseikkailuja.
 
-<div class="image-gallery">
+<div class="image-gallery" markdown="1">
 
--   [![](/Media/Default/ImageGalleries/melonta-kiskonjoella-5.5.2005/Thumbnails/melontakiskonjoki20050505_01b.jpg)](/Media/Default/ImageGalleries/melonta-kiskonjoella-5.5.2005/melontakiskonjoki20050505_01b.jpg)
--   [![](/Media/Default/ImageGalleries/melonta-kiskonjoella-5.5.2005/Thumbnails/melontakiskonjoki20050505_02b.jpg)](/Media/Default/ImageGalleries/melonta-kiskonjoella-5.5.2005/melontakiskonjoki20050505_02b.jpg)
--   [![](/Media/Default/ImageGalleries/melonta-kiskonjoella-5.5.2005/Thumbnails/melontakiskonjoki20050505_03b.jpg)](/Media/Default/ImageGalleries/melonta-kiskonjoella-5.5.2005/melontakiskonjoki20050505_03b.jpg)
--   [![](/Media/Default/ImageGalleries/melonta-kiskonjoella-5.5.2005/Thumbnails/melontakiskonjoki20050505_04b.jpg)](/Media/Default/ImageGalleries/melonta-kiskonjoella-5.5.2005/melontakiskonjoki20050505_04b.jpg)
--   [![](/Media/Default/ImageGalleries/melonta-kiskonjoella-5.5.2005/Thumbnails/melontakiskonjoki20050505_05b.jpg)](/Media/Default/ImageGalleries/melonta-kiskonjoella-5.5.2005/melontakiskonjoki20050505_05b.jpg)
--   [![](/Media/Default/ImageGalleries/melonta-kiskonjoella-5.5.2005/Thumbnails/melontakiskonjoki20050505_06b.jpg)](/Media/Default/ImageGalleries/melonta-kiskonjoella-5.5.2005/melontakiskonjoki20050505_06b.jpg)
--   [![](/Media/Default/ImageGalleries/melonta-kiskonjoella-5.5.2005/Thumbnails/melontakiskonjoki20050505_07b.jpg)](/Media/Default/ImageGalleries/melonta-kiskonjoella-5.5.2005/melontakiskonjoki20050505_07b.jpg)
+-   [![](/images/melonta-kiskonjoella-5.5.2005/Thumbnails/melontakiskonjoki20050505_01b.jpg)](/images/melonta-kiskonjoella-5.5.2005/melontakiskonjoki20050505_01b.jpg)
+-   [![](/images/melonta-kiskonjoella-5.5.2005/Thumbnails/melontakiskonjoki20050505_02b.jpg)](/images/melonta-kiskonjoella-5.5.2005/melontakiskonjoki20050505_02b.jpg)
+-   [![](/images/melonta-kiskonjoella-5.5.2005/Thumbnails/melontakiskonjoki20050505_03b.jpg)](/images/melonta-kiskonjoella-5.5.2005/melontakiskonjoki20050505_03b.jpg)
+-   [![](/images/melonta-kiskonjoella-5.5.2005/Thumbnails/melontakiskonjoki20050505_04b.jpg)](/images/melonta-kiskonjoella-5.5.2005/melontakiskonjoki20050505_04b.jpg)
+-   [![](/images/melonta-kiskonjoella-5.5.2005/Thumbnails/melontakiskonjoki20050505_05b.jpg)](/images/melonta-kiskonjoella-5.5.2005/melontakiskonjoki20050505_05b.jpg)
+-   [![](/images/melonta-kiskonjoella-5.5.2005/Thumbnails/melontakiskonjoki20050505_06b.jpg)](/images/melonta-kiskonjoella-5.5.2005/melontakiskonjoki20050505_06b.jpg)
+-   [![](/images/melonta-kiskonjoella-5.5.2005/Thumbnails/melontakiskonjoki20050505_07b.jpg)](/images/melonta-kiskonjoella-5.5.2005/melontakiskonjoki20050505_07b.jpg)
 
 </div>

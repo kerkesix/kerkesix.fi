@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Kalliokiipeilytreeniä Käärmekalliolla 29.6.2012" 
 categories: 
@@ -6,7 +6,7 @@ tags: [kiipeily]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 <span
 style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: FI;">”Arska
@@ -39,10 +39,10 @@ style="font-family: 'Times New Roman', serif; font-size: 12pt;"> </span>
 <span
 style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: FI;"> </span>
 
-<div class="image-gallery">
+<div class="image-gallery" markdown="1">
 
--   [![](/Media/Default/ImageGalleries/kalliokiipeilytreenia-29.6.2012/Thumbnails/CIMG1146.JPG)](/Media/Default/ImageGalleries/kalliokiipeilytreenia-29.6.2012/CIMG1146.JPG)
--   [![](/Media/Default/ImageGalleries/kalliokiipeilytreenia-29.6.2012/Thumbnails/CIMG1155.JPG)](/Media/Default/ImageGalleries/kalliokiipeilytreenia-29.6.2012/CIMG1155.JPG)
--   [![](/Media/Default/ImageGalleries/kalliokiipeilytreenia-29.6.2012/Thumbnails/CIMG1161.JPG)](/Media/Default/ImageGalleries/kalliokiipeilytreenia-29.6.2012/CIMG1161.JPG)
+-   [![](/images/kalliokiipeilytreenia-29.6.2012/Thumbnails/CIMG1146.JPG)](/images/kalliokiipeilytreenia-29.6.2012/CIMG1146.JPG)
+-   [![](/images/kalliokiipeilytreenia-29.6.2012/Thumbnails/CIMG1155.JPG)](/images/kalliokiipeilytreenia-29.6.2012/CIMG1155.JPG)
+-   [![](/images/kalliokiipeilytreenia-29.6.2012/Thumbnails/CIMG1161.JPG)](/images/kalliokiipeilytreenia-29.6.2012/CIMG1161.JPG)
 
 </div>

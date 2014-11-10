@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Talvi Tuska Sika Triathlon VII - 22.1.2012" 
 categories: 
@@ -6,10 +6,10 @@ tags: [uinti,triathlon,suunnistus,pyöräily]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 <span
-style="color: #222222; font-family: arial, sans-serif; font-size: 13px; background-color: rgba(255, 255, 255, 0.917969);">![](/Media/Default/BlogPost/blog/talvi-tuska-sika-triathlon-vii-22.1.2012/P1220692.JPG)TTST
+style="color: #222222; font-family: arial, sans-serif; font-size: 13px; background-color: rgba(255, 255, 255, 0.917969);">![](/images/talvi-tuska-sika-triathlon-vii-22.1.2012/P1220692.JPG)TTST
 VII (eli TalviTuskaSikaTriatlon 7) käytiin Turku-Kaarinan alueella 22.1.
 viileässä mutta selkeässä säässä. Alkuvalmistelut aloitettiin
 kerketyyliin jo hyvissä ajoin noin kuukautta etukäteen erilaisten
@@ -21,7 +21,7 @@ lähtöviivalle säästyisi loppuun saakka.</span>
 
 <span
 style="color: #222222; font-family: arial, sans-serif; font-size: 13px; background-color: rgba(255, 255, 255, 0.917969);"></span><span
-style="color: #222222; font-family: arial, sans-serif; font-size: 13px; background-color: rgba(255, 255, 255, 0.917969);">![](/Media/Default/BlogPost/blog/talvi-tuska-sika-triathlon-vii-22.1.2012/P1220688.JPG)Sairastumiset
+style="color: #222222; font-family: arial, sans-serif; font-size: 13px; background-color: rgba(255, 255, 255, 0.917969);">![](/images/talvi-tuska-sika-triathlon-vii-22.1.2012/P1220688.JPG)Sairastumiset
 ym. selitykset kutistivat Kerken alun perin seitsemän Taistelijan
 osaston lopulta neljään Karpaasiin, joista Allekirjoittanut, Pihvi ja
 Jukkis kävivät (salaa) pyöräilemässä kisareitin jo edellisenä päivänä.
@@ -34,7 +34,7 @@ triatlonisti oli sijoiteltuna kumpaankin ryhmään. Paikka oli siis
 uimahalli jossakin päin Turkua.</span>\
 \
 <span
-style="color: #222222; font-family: arial, sans-serif; font-size: 13px; background-color: rgba(255, 255, 255, 0.917969);">![](/Media/Default/BlogPost/blog/talvi-tuska-sika-triathlon-vii-22.1.2012/ttst-fillarointia.png)Ilahduttavasti
+style="color: #222222; font-family: arial, sans-serif; font-size: 13px; background-color: rgba(255, 255, 255, 0.917969);">![](/images/talvi-tuska-sika-triathlon-vii-22.1.2012/ttst-fillarointia.png)Ilahduttavasti
 hukkuneiden määrä ei edellisistä vuosista päässyt kasvamaan ja kaikki
 pääsivät nopeammin tai hitaammin pyöräilyosuudelle (n. 35 km). Muiden
 osalta en osaa sen kummemmin näitä tunnelmia kuvailla, koska kärki oli

@@ -1,13 +1,12 @@
---- 
+---
 layout: article 
 title: "Kokemuksia ja vinkkejä Sysimustalta Satkulta" 
 permalink: /kokemuksia-ja-vinkkeja-sysimustalta-satkulta/ 
-categories: 
 tags: [satku]
 toc: false 
 comments: false 
 ads: false 
---- 
+---
 
 Sysimustalle Satkulle osallistuneilta on kysytty palautetta ja ohessa on
 muutamia kommentteja kohdasta "Minkä ohjeen antaisit Sysimustalle

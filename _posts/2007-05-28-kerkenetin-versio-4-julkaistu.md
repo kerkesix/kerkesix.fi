@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Kerkenetin versio 4 julkaistu" 
 categories: 
@@ -6,7 +6,7 @@ tags: [kerkesix.fi]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Hitaasti mutta sitäkin epävarmemmin kerhon nettisivut kehittyvät. Nyt on
 viimein saatu uusi leiska ulos ja sisältöä täydennetään pikkuhiljaa

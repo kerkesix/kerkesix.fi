@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Sunnuntailenkki Pirttimäessä 9.4.2006" 
 categories: 
@@ -6,7 +6,7 @@ tags: [juoksu,ulkoilu]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Huhtikuun ensimmäinen sunnuntailenkki pidettiin Pirttimäen
 ulkoilualueella. Tapahtuma sisälsi hieman tutustumista Pirttimäen
@@ -27,12 +27,12 @@ olikin suojaisia paikkoja joissa lumi oli säilynyt paksuna kerroksena.
 Vaikka lumet eivät olleet vielä kaikilta osin sulaneet pois, huomattiin,
 että keväinen luonto oli jälleen tutustumisen arvoinen paikka.
 
-<div class="image-gallery">
+<div class="image-gallery" markdown="1">
 
--   [![](/Media/Default/ImageGalleries/sunnuntailenkki-9.4.2006/Thumbnails/peruskuntosl20060409_01b.jpg)](/Media/Default/ImageGalleries/sunnuntailenkki-9.4.2006/peruskuntosl20060409_01b.jpg)
--   [![](/Media/Default/ImageGalleries/sunnuntailenkki-9.4.2006/Thumbnails/peruskuntosl20060409_02b.jpg)](/Media/Default/ImageGalleries/sunnuntailenkki-9.4.2006/peruskuntosl20060409_02b.jpg)
--   [![](/Media/Default/ImageGalleries/sunnuntailenkki-9.4.2006/Thumbnails/peruskuntosl20060409_03b.jpg)](/Media/Default/ImageGalleries/sunnuntailenkki-9.4.2006/peruskuntosl20060409_03b.jpg)
--   [![](/Media/Default/ImageGalleries/sunnuntailenkki-9.4.2006/Thumbnails/peruskuntosl20060409_04b.jpg)](/Media/Default/ImageGalleries/sunnuntailenkki-9.4.2006/peruskuntosl20060409_04b.jpg)
--   [![](/Media/Default/ImageGalleries/sunnuntailenkki-9.4.2006/Thumbnails/peruskuntosl20060409_05b.jpg)](/Media/Default/ImageGalleries/sunnuntailenkki-9.4.2006/peruskuntosl20060409_05b.jpg)
+-   [![](/images/sunnuntailenkki-9.4.2006/Thumbnails/peruskuntosl20060409_01b.jpg)](/images/sunnuntailenkki-9.4.2006/peruskuntosl20060409_01b.jpg)
+-   [![](/images/sunnuntailenkki-9.4.2006/Thumbnails/peruskuntosl20060409_02b.jpg)](/images/sunnuntailenkki-9.4.2006/peruskuntosl20060409_02b.jpg)
+-   [![](/images/sunnuntailenkki-9.4.2006/Thumbnails/peruskuntosl20060409_03b.jpg)](/images/sunnuntailenkki-9.4.2006/peruskuntosl20060409_03b.jpg)
+-   [![](/images/sunnuntailenkki-9.4.2006/Thumbnails/peruskuntosl20060409_04b.jpg)](/images/sunnuntailenkki-9.4.2006/peruskuntosl20060409_04b.jpg)
+-   [![](/images/sunnuntailenkki-9.4.2006/Thumbnails/peruskuntosl20060409_05b.jpg)](/images/sunnuntailenkki-9.4.2006/peruskuntosl20060409_05b.jpg)
 
 </div>

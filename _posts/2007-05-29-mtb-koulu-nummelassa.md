@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "MTB-koulu Nummelassa" 
 categories: 
@@ -6,7 +6,7 @@ tags: [pyöräily]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 [Nummelan Kesport](http://www.kesport-nummela.com/) järjesti
 yhteistyössä [MTB-Lohjan](http://www.mtb-lohja.com/)kanssa
@@ -34,22 +34,22 @@ Kouluttajamme Hanna, Jukka, Mika ja Simo antoivat kannustavaa opetusta
 ja ryhmästä huolehdittiin todella mallikkaasti. Tästä iso kiitos
 järjestäjille!
 
-<div class="image-gallery">
+<div class="image-gallery" markdown="1">
 
--   [![](/Media/Default/ImageGalleries/mtb-koulu-nummelassa/Thumbnails/MTB-koulu%20004.jpg)](/Media/Default/ImageGalleries/mtb-koulu-nummelassa/MTB-koulu%20004.jpg)
--   [![](/Media/Default/ImageGalleries/mtb-koulu-nummelassa/Thumbnails/MTB-koulu%20005.jpg)](/Media/Default/ImageGalleries/mtb-koulu-nummelassa/MTB-koulu%20005.jpg)
--   [![](/Media/Default/ImageGalleries/mtb-koulu-nummelassa/Thumbnails/MTB-koulu%20006.jpg)](/Media/Default/ImageGalleries/mtb-koulu-nummelassa/MTB-koulu%20006.jpg)
--   [![](/Media/Default/ImageGalleries/mtb-koulu-nummelassa/Thumbnails/MTB-koulu%20007.jpg)](/Media/Default/ImageGalleries/mtb-koulu-nummelassa/MTB-koulu%20007.jpg)
--   [![](/Media/Default/ImageGalleries/mtb-koulu-nummelassa/Thumbnails/MTB-koulu%20008.jpg)](/Media/Default/ImageGalleries/mtb-koulu-nummelassa/MTB-koulu%20008.jpg)
--   [![](/Media/Default/ImageGalleries/mtb-koulu-nummelassa/Thumbnails/MTB-koulu%20010.jpg)](/Media/Default/ImageGalleries/mtb-koulu-nummelassa/MTB-koulu%20010.jpg)
--   [![](/Media/Default/ImageGalleries/mtb-koulu-nummelassa/Thumbnails/MTB-koulu%20011.jpg)](/Media/Default/ImageGalleries/mtb-koulu-nummelassa/MTB-koulu%20011.jpg)
--   [![](/Media/Default/ImageGalleries/mtb-koulu-nummelassa/Thumbnails/MTB-koulu%20016.jpg)](/Media/Default/ImageGalleries/mtb-koulu-nummelassa/MTB-koulu%20016.jpg)
--   [![](/Media/Default/ImageGalleries/mtb-koulu-nummelassa/Thumbnails/MTB-koulu%20017.jpg)](/Media/Default/ImageGalleries/mtb-koulu-nummelassa/MTB-koulu%20017.jpg)
--   [![](/Media/Default/ImageGalleries/mtb-koulu-nummelassa/Thumbnails/MTB-koulu%20018.jpg)](/Media/Default/ImageGalleries/mtb-koulu-nummelassa/MTB-koulu%20018.jpg)
--   [![](/Media/Default/ImageGalleries/mtb-koulu-nummelassa/Thumbnails/MTB-koulu%20019.jpg)](/Media/Default/ImageGalleries/mtb-koulu-nummelassa/MTB-koulu%20019.jpg)
--   [![](/Media/Default/ImageGalleries/mtb-koulu-nummelassa/Thumbnails/MTB-koulu%20020.jpg)](/Media/Default/ImageGalleries/mtb-koulu-nummelassa/MTB-koulu%20020.jpg)
--   [![](/Media/Default/ImageGalleries/mtb-koulu-nummelassa/Thumbnails/MTB-koulu%20021.jpg)](/Media/Default/ImageGalleries/mtb-koulu-nummelassa/MTB-koulu%20021.jpg)
--   [![](/Media/Default/ImageGalleries/mtb-koulu-nummelassa/Thumbnails/MTB-koulu%20022.jpg)](/Media/Default/ImageGalleries/mtb-koulu-nummelassa/MTB-koulu%20022.jpg)
--   [![](/Media/Default/ImageGalleries/mtb-koulu-nummelassa/Thumbnails/MTB-koulu%20024.jpg)](/Media/Default/ImageGalleries/mtb-koulu-nummelassa/MTB-koulu%20024.jpg)
+-   [![](/images/mtb-koulu-nummelassa/Thumbnails/MTB-koulu%20004.jpg)](/images/mtb-koulu-nummelassa/MTB-koulu%20004.jpg)
+-   [![](/images/mtb-koulu-nummelassa/Thumbnails/MTB-koulu%20005.jpg)](/images/mtb-koulu-nummelassa/MTB-koulu%20005.jpg)
+-   [![](/images/mtb-koulu-nummelassa/Thumbnails/MTB-koulu%20006.jpg)](/images/mtb-koulu-nummelassa/MTB-koulu%20006.jpg)
+-   [![](/images/mtb-koulu-nummelassa/Thumbnails/MTB-koulu%20007.jpg)](/images/mtb-koulu-nummelassa/MTB-koulu%20007.jpg)
+-   [![](/images/mtb-koulu-nummelassa/Thumbnails/MTB-koulu%20008.jpg)](/images/mtb-koulu-nummelassa/MTB-koulu%20008.jpg)
+-   [![](/images/mtb-koulu-nummelassa/Thumbnails/MTB-koulu%20010.jpg)](/images/mtb-koulu-nummelassa/MTB-koulu%20010.jpg)
+-   [![](/images/mtb-koulu-nummelassa/Thumbnails/MTB-koulu%20011.jpg)](/images/mtb-koulu-nummelassa/MTB-koulu%20011.jpg)
+-   [![](/images/mtb-koulu-nummelassa/Thumbnails/MTB-koulu%20016.jpg)](/images/mtb-koulu-nummelassa/MTB-koulu%20016.jpg)
+-   [![](/images/mtb-koulu-nummelassa/Thumbnails/MTB-koulu%20017.jpg)](/images/mtb-koulu-nummelassa/MTB-koulu%20017.jpg)
+-   [![](/images/mtb-koulu-nummelassa/Thumbnails/MTB-koulu%20018.jpg)](/images/mtb-koulu-nummelassa/MTB-koulu%20018.jpg)
+-   [![](/images/mtb-koulu-nummelassa/Thumbnails/MTB-koulu%20019.jpg)](/images/mtb-koulu-nummelassa/MTB-koulu%20019.jpg)
+-   [![](/images/mtb-koulu-nummelassa/Thumbnails/MTB-koulu%20020.jpg)](/images/mtb-koulu-nummelassa/MTB-koulu%20020.jpg)
+-   [![](/images/mtb-koulu-nummelassa/Thumbnails/MTB-koulu%20021.jpg)](/images/mtb-koulu-nummelassa/MTB-koulu%20021.jpg)
+-   [![](/images/mtb-koulu-nummelassa/Thumbnails/MTB-koulu%20022.jpg)](/images/mtb-koulu-nummelassa/MTB-koulu%20022.jpg)
+-   [![](/images/mtb-koulu-nummelassa/Thumbnails/MTB-koulu%20024.jpg)](/images/mtb-koulu-nummelassa/MTB-koulu%20024.jpg)
 
 </div>

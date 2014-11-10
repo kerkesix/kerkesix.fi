@@ -2,12 +2,11 @@
 layout: article 
 title: "Yhdistyksen logo" 
 permalink: /yhdistyksen-logo/ 
-categories: 
 tags: [yhdistys,logo]
 toc: false 
 comments: false 
 ads: false 
---- 
+---
 
 Logon muoto sekä värimaailma on määritelty ja näillä perusteilla on
 erilaiseen käyttöön luotu vaihtoehtoisia tunnuksia. Ohessa on esitelty
@@ -46,7 +45,7 @@ jonka s-kirjain on väritetty oranssiksi:
 
 <div>
 
-![KSX\_logo\_varit\_teksti](/Media/Default/Page/yhdistyksen-logo/ker_mure_hapo_ors.jpg)
+![KSX\_logo\_varit\_teksti](/images/yhdistyksen-logo/ker_mure_hapo_ors.jpg)
 
 </div>
 
@@ -62,6 +61,6 @@ KSX-logon mitat:
 
 <div>
 
-![](/Media/Default/Page/yhdistyksen-logo/mitat.jpg)
+![](/images/yhdistyksen-logo/mitat.jpg)
 
 </div>

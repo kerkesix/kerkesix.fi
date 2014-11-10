@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Sunnuntailenkki 5.2.2006" 
 categories: 
@@ -6,7 +6,7 @@ tags: [juoksu]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Helmikuun ensimmäiselle sunnuntailenkille oli tarkoitus lähteä vetämään
 rengasta, mutta suunnitelmat muuttuivat 15 minuuttia ennen starttia, kun

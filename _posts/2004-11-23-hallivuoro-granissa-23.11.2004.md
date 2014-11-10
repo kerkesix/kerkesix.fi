@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Hallivuoro Granissa 23.11.2004" 
 categories: 
@@ -6,7 +6,7 @@ tags: [uinti,melonta]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Yhdistyksen hallivuorolla oli tarjolla monipuolista ohjelmaa. Tällä
 kertaa treenit sisälsivät uintitekniikan harjoittelua, vesijuoksua,

@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Halti ulkoilukohteena" 
 categories: 
@@ -6,19 +6,19 @@ tags: [ulkoilukohteet]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Suomen korkein maantieteellinen piste hijaitsee [Käsivarren
 erämaa-alueella](http://www.luontoon.fi/Retkikohteet/eramaaalueet/kasivarsi/Sivut/Default.aspx) norjan
 vastaisella rajalla Haltilla. Tässä kohde-esittelyssä kerrotaan hieman
 alueesta ja esitellään yksi retki alueelle. 
 
-![](/Media/Default/BlogPost/blog/halti-ulkoilukohteena/Haltilla%2020050715%20086.jpg)  ![](/Media/Default/BlogPost/blog/halti-ulkoilukohteena/Haltilla%2020050715%20043.jpg)
+![](/images/halti-ulkoilukohteena/Haltilla%2020050715%20086.jpg)  ![](/images/halti-ulkoilukohteena/Haltilla%2020050715%20043.jpg)
 
 Reitti
 ------
 
-![](/Media/Default/BlogPost/blog/halti-ulkoilukohteena/Haltilla%2020050715%20007.jpg)Kalottireitti
+![](/images/halti-ulkoilukohteena/Haltilla%2020050715%20007.jpg)Kalottireitti
 on selkeästi merkitty vajaa puoli metriä korkeilla oranssipäisillä
 tolpilla, joita oli helppo seurata, tosin välillä jäi muutama tolppa
 laskematta. Ura oli vaihtelevaa, ensimmäiset pari kilometriä
@@ -81,14 +81,14 @@ menopaluureittiin.
 Auto-juna ratkaisulla Helsinki – Kolari. Ilma sopivan kesäinen, pilvetön
 taivas, ilman lämpötila +28 oC Helsingin rautatieasemalla klo 20.20.
 
-![](/Media/Default/BlogPost/blog/halti-ulkoilukohteena/Haltilla%2020050715%200003.jpg) 
- ![](http://uusi.kerkesix.fi/Media/Default/BlogPost/blog/halti-ulkoilukohteena/Haltilla%2020050715%200004.jpg)
+![](/images/halti-ulkoilukohteena/Haltilla%2020050715%200003.jpg) 
+ ![](http://uusi.kerkesix.fi/images/halti-ulkoilukohteena/Haltilla%2020050715%200004.jpg)
 
 ### 14.7.2005 torstai,
 
 #### Autolla Kolari - Kilpisjärvi
 
-![](/Media/Default/BlogPost/blog/halti-ulkoilukohteena/Haltilla%2020050715%20041.jpg)Aurinkoinen
+![](/images/halti-ulkoilukohteena/Haltilla%2020050715%20041.jpg)Aurinkoinen
 aamu huonosti nukutun yön jälkeen, naapuriosastossa harrastettiin
 maailmanparannusta aamuun asti. Autolla matkaa 270 km Kilpisjärvelle.
 Ensimmäiset porot laidunsivat tiellä heti muutaman kymmenen kilometrin
@@ -100,7 +100,7 @@ pysäköintipaikalle, ”Kilpisjärven perusleiriin”.
 
 #### Kilpisjärvi – Kuonjarjoki n. 21 km
 
-![](/Media/Default/BlogPost/blog/halti-ulkoilukohteena/Haltilla%2020050715%20040a.jpg)\
+![](/images/halti-ulkoilukohteena/Haltilla%2020050715%20040a.jpg)\
 Matkaan, kun kello näytti vähän yli 15, ilma mukavan tuntuinen,
 sopivasti tarkeni teepaita päällä. Alkutavoite oli mennä Saarijärven
 autiotuvalle n. 12 km. Tsahkaljärven rannalla riekkopoikue, 2+4 päätä,
@@ -114,13 +114,13 @@ paikkaan, toinen sukka jalkaan, kengät tiukemmalle ja menoksi. Homma
 toimi. Samalla kevyt tuulipusakka päälle, sopivan viileä tuuli pitää
 hyttyset loitolla.
 
-![](/Media/Default/BlogPost/blog/halti-ulkoilukohteena/Haltilla%2020050715%20040b.jpg) 
- ![](/Media/Default/BlogPost/blog/halti-ulkoilukohteena/Haltilla%2020050715%20040d.jpg)
+![](/images/halti-ulkoilukohteena/Haltilla%2020050715%20040b.jpg) 
+ ![](/images/halti-ulkoilukohteena/Haltilla%2020050715%20040d.jpg)
 
 <div>
 
 \
-![](/Media/Default/BlogPost/blog/halti-ulkoilukohteena/Haltilla%2020050715%20040c.jpg)Alkumatkasta
+![](/images/halti-ulkoilukohteena/Haltilla%2020050715%20040c.jpg)Alkumatkasta
 pari kalamiestä tuli vastaan, kehuivat saaneensa saalista juhlavasti,
 itselläni ei ollut kalavehkeitä mukana, ongitaan joku toinen kerta.
 
@@ -133,8 +133,8 @@ klo 20.30.
 Tupa oli siisti, vain kolme kaveria levyttivät sisällä, pari telttaa oli
 pihalla.
 
-![](/Media/Default/BlogPost/blog/halti-ulkoilukohteena/Haltilla%2020050715%20040e.jpg) 
- ![](/Media/Default/BlogPost/blog/halti-ulkoilukohteena/Haltilla%2020050715%20066.jpg)
+![](/images/halti-ulkoilukohteena/Haltilla%2020050715%20040e.jpg) 
+ ![](/images/halti-ulkoilukohteena/Haltilla%2020050715%20066.jpg)
 
   
 
@@ -151,7 +151,7 @@ käveltävää, välissä melkein kahlattava Kahperusjoki. Lopussa aika
 tiukka, pitkä lasku Meekonjärvelle, varmaan aika mielenkiintoinen
 paluumatkalla, voi panna puhaltamaan hiukan.
 
-![](http://uusi.kerkesix.fi/Media/Default/BlogPost/blog/halti-ulkoilukohteena/Haltilla%2020050715%20073.jpg)
+![](http://uusi.kerkesix.fi/images/halti-ulkoilukohteena/Haltilla%2020050715%20073.jpg)
 
 Vuolaana koskena Meekonjärveen laskevan Bierfejoen yli oli mukavan kapea
 silta ja Meekonjärven rannalla oli kiva istua ja katsella maisemaa.

@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Sysimusta Satku VI - 27.10.2007" 
 categories: 
@@ -6,7 +6,7 @@ tags: [satku]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Lokakuun viimeisenä viikonloppuna ei nukuttu tänäkään vuonna. Tammelan
 ja Espoon väliset tienpinnat kuluivat hieman epätasaisesti mutta
@@ -37,52 +37,52 @@ Reissu oli perinteinen myös haastavuutensa suhteen. Matkaan lähti 44
 kävelijää ja 12 (27 %) saapui jalkapatikalla Pirttimäkeen. Kaksi
 kolmasosaa keskeytyksistä tapahtui 60-70 kilometrin kohdalla.
 
-<div class="image-gallery">
+<div class="image-gallery" markdown="1">
 
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/001.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/001.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/002.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/002.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/003.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/003.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/004.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/004.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/005.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/005.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/006.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/006.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/007.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/007.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/008.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/008.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/009.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/009.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/010.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/010.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/012.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/012.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/013.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/013.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/014.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/014.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/015.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/015.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/016.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/016.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/017.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/017.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/018.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/018.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/019.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/019.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/020.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/020.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/021.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/021.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/022.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/022.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/023.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/023.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/024.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/024.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/025.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/025.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/026.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/026.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/027.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/027.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/028.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/028.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/029.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/029.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/030.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/030.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/031.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/031.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/032.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/032.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/033.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/033.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/034.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/034.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/035.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/035.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/036.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/036.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/037.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/037.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/038.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/038.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/039.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/039.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/040.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/040.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/041.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/041.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/042.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/042.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/043.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/043.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/044.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/044.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/045.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/045.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-6/Thumbnails/046.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-6/046.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/001.jpg)](/images/sysimusta-satku-6/001.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/002.jpg)](/images/sysimusta-satku-6/002.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/003.jpg)](/images/sysimusta-satku-6/003.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/004.jpg)](/images/sysimusta-satku-6/004.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/005.jpg)](/images/sysimusta-satku-6/005.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/006.jpg)](/images/sysimusta-satku-6/006.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/007.jpg)](/images/sysimusta-satku-6/007.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/008.jpg)](/images/sysimusta-satku-6/008.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/009.jpg)](/images/sysimusta-satku-6/009.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/010.jpg)](/images/sysimusta-satku-6/010.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/012.jpg)](/images/sysimusta-satku-6/012.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/013.jpg)](/images/sysimusta-satku-6/013.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/014.jpg)](/images/sysimusta-satku-6/014.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/015.jpg)](/images/sysimusta-satku-6/015.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/016.jpg)](/images/sysimusta-satku-6/016.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/017.jpg)](/images/sysimusta-satku-6/017.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/018.jpg)](/images/sysimusta-satku-6/018.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/019.jpg)](/images/sysimusta-satku-6/019.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/020.jpg)](/images/sysimusta-satku-6/020.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/021.jpg)](/images/sysimusta-satku-6/021.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/022.jpg)](/images/sysimusta-satku-6/022.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/023.jpg)](/images/sysimusta-satku-6/023.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/024.jpg)](/images/sysimusta-satku-6/024.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/025.jpg)](/images/sysimusta-satku-6/025.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/026.jpg)](/images/sysimusta-satku-6/026.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/027.jpg)](/images/sysimusta-satku-6/027.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/028.jpg)](/images/sysimusta-satku-6/028.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/029.jpg)](/images/sysimusta-satku-6/029.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/030.jpg)](/images/sysimusta-satku-6/030.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/031.jpg)](/images/sysimusta-satku-6/031.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/032.jpg)](/images/sysimusta-satku-6/032.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/033.jpg)](/images/sysimusta-satku-6/033.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/034.jpg)](/images/sysimusta-satku-6/034.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/035.jpg)](/images/sysimusta-satku-6/035.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/036.jpg)](/images/sysimusta-satku-6/036.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/037.jpg)](/images/sysimusta-satku-6/037.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/038.jpg)](/images/sysimusta-satku-6/038.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/039.jpg)](/images/sysimusta-satku-6/039.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/040.jpg)](/images/sysimusta-satku-6/040.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/041.jpg)](/images/sysimusta-satku-6/041.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/042.jpg)](/images/sysimusta-satku-6/042.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/043.jpg)](/images/sysimusta-satku-6/043.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/044.jpg)](/images/sysimusta-satku-6/044.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/045.jpg)](/images/sysimusta-satku-6/045.jpg)
+-   [![](/images/sysimusta-satku-6/Thumbnails/046.jpg)](/images/sysimusta-satku-6/046.jpg)
 
 </div>

@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Sysimusta Satku X - Ilmoittaudu nyt" 
 categories: 
@@ -6,7 +6,7 @@ tags: [satku]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Ilmoittautuminen kymmenennelle Sysimustalle Satkulle alkoi. Täytä
 ilmoittautumislomake ja aloita kävelymaaottelu omaa pahaa mieltä
@@ -27,5 +27,5 @@ Ilmoittautumislomakkeeseen pääset tästä!
 Sysimustalla Satkulla mukana
 myös [Powerade](http://www.powerade.com/nordic/home.html).
 
-![](http://kerkesix.fi/Media/Default/BlogPost/blog/Powerade.jpg)
+![](http://kerkesix.fi/images/Powerade.jpg)
 

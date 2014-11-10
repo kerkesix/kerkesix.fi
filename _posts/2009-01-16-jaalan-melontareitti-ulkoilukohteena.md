@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Jaalan melontareitti  ulkoilukohteena" 
 categories: 
@@ -6,7 +6,7 @@ tags: [ulkoilukohteet,melonta]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Entisen Jaalan kunnan sivuilla oli kuvailtuna kolme melontareittiä,
 joista tässä korkattu Auvo-kaksikolla yksi vaihtoehto.
@@ -37,26 +37,26 @@ Tämä ympyrälenkki sopii yhden päivän reissuksi, matkaa kertyi n. 25 km.
 Soveltunee parhaiten toteutettavaksi vilkkaimman mökkikauden
 ulkopuolella, esim. viikko 37 oli ajankohtana ok.
 
-<div class="image-gallery">
+<div class="image-gallery" markdown="1">
 
--   [![](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J01.jpg)](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/J01.jpg)
--   [![](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J02.jpg)](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/J02.jpg)
--   [![](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J03.jpg)](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/J03.jpg)
--   [![](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J04.jpg)](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/J04.jpg)
--   [![](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J05.jpg)](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/J05.jpg)
--   [![](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J06.jpg)](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/J06.jpg)
--   [![](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J07.jpg)](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/J07.jpg)
--   [![](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J08.jpg)](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/J08.jpg)
--   [![](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J09.jpg)](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/J09.jpg)
--   [![](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J11.jpg)](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/J11.jpg)
--   [![](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J12.jpg)](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/J12.jpg)
--   [![](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J13.jpg)](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/J13.jpg)
--   [![](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J14.jpg)](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/J14.jpg)
--   [![](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J15.jpg)](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/J15.jpg)
--   [![](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J16.jpg)](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/J16.jpg)
--   [![](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J17.jpg)](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/J17.jpg)
--   [![](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J18.jpg)](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/J18.jpg)
--   [![](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J19.jpg)](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/J19.jpg)
--   [![](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J20.jpg)](/Media/Default/ImageGalleries/jaalan-melontareitti-ulkoilukohteena/J20.jpg)
+-   [![](/images/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J01.jpg)](/images/jaalan-melontareitti-ulkoilukohteena/J01.jpg)
+-   [![](/images/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J02.jpg)](/images/jaalan-melontareitti-ulkoilukohteena/J02.jpg)
+-   [![](/images/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J03.jpg)](/images/jaalan-melontareitti-ulkoilukohteena/J03.jpg)
+-   [![](/images/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J04.jpg)](/images/jaalan-melontareitti-ulkoilukohteena/J04.jpg)
+-   [![](/images/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J05.jpg)](/images/jaalan-melontareitti-ulkoilukohteena/J05.jpg)
+-   [![](/images/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J06.jpg)](/images/jaalan-melontareitti-ulkoilukohteena/J06.jpg)
+-   [![](/images/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J07.jpg)](/images/jaalan-melontareitti-ulkoilukohteena/J07.jpg)
+-   [![](/images/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J08.jpg)](/images/jaalan-melontareitti-ulkoilukohteena/J08.jpg)
+-   [![](/images/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J09.jpg)](/images/jaalan-melontareitti-ulkoilukohteena/J09.jpg)
+-   [![](/images/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J11.jpg)](/images/jaalan-melontareitti-ulkoilukohteena/J11.jpg)
+-   [![](/images/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J12.jpg)](/images/jaalan-melontareitti-ulkoilukohteena/J12.jpg)
+-   [![](/images/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J13.jpg)](/images/jaalan-melontareitti-ulkoilukohteena/J13.jpg)
+-   [![](/images/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J14.jpg)](/images/jaalan-melontareitti-ulkoilukohteena/J14.jpg)
+-   [![](/images/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J15.jpg)](/images/jaalan-melontareitti-ulkoilukohteena/J15.jpg)
+-   [![](/images/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J16.jpg)](/images/jaalan-melontareitti-ulkoilukohteena/J16.jpg)
+-   [![](/images/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J17.jpg)](/images/jaalan-melontareitti-ulkoilukohteena/J17.jpg)
+-   [![](/images/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J18.jpg)](/images/jaalan-melontareitti-ulkoilukohteena/J18.jpg)
+-   [![](/images/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J19.jpg)](/images/jaalan-melontareitti-ulkoilukohteena/J19.jpg)
+-   [![](/images/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J20.jpg)](/images/jaalan-melontareitti-ulkoilukohteena/J20.jpg)
 
 </div>

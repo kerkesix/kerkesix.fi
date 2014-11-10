@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Suunnistuskoulutus 15.06.2005" 
 categories: 
@@ -6,7 +6,7 @@ tags: [suunnistus]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Suunnistuksen perusteita käytiin läpi jäsenille tarkoitetulla
 suunnistuskurssilla Kauniaisissa. Jo perinteiseen malliin Iltsu oli
@@ -34,11 +34,11 @@ ilmoittautuu. Valmennusta on myös saatavilla kesän suunnistustapahtumien
 yhteydessä. Tällöin voidaan järjestää niin perusopetusta kartan ja
 kompassin käytöstä kuin myös reitinvalintatekniikasta.
 
-<div class="image-gallery">
+<div class="image-gallery" markdown="1">
 
--   [![](/Media/Default/ImageGalleries/suunnistuskoulutus-15.06.2005/Thumbnails/suunnistuskoulutus200500615_01b.jpg)](/Media/Default/ImageGalleries/suunnistuskoulutus-15.06.2005/suunnistuskoulutus200500615_01b.jpg)
--   [![](/Media/Default/ImageGalleries/suunnistuskoulutus-15.06.2005/Thumbnails/suunnistuskoulutus200500615_02b.jpg)](/Media/Default/ImageGalleries/suunnistuskoulutus-15.06.2005/suunnistuskoulutus200500615_02b.jpg)
--   [![](/Media/Default/ImageGalleries/suunnistuskoulutus-15.06.2005/Thumbnails/suunnistuskoulutus200500615_03b.jpg)](/Media/Default/ImageGalleries/suunnistuskoulutus-15.06.2005/suunnistuskoulutus200500615_03b.jpg)
--   [![](/Media/Default/ImageGalleries/suunnistuskoulutus-15.06.2005/Thumbnails/suunnistuskoulutus200500615_04b.jpg)](/Media/Default/ImageGalleries/suunnistuskoulutus-15.06.2005/suunnistuskoulutus200500615_04b.jpg)
+-   [![](/images/suunnistuskoulutus-15.06.2005/Thumbnails/suunnistuskoulutus200500615_01b.jpg)](/images/suunnistuskoulutus-15.06.2005/suunnistuskoulutus200500615_01b.jpg)
+-   [![](/images/suunnistuskoulutus-15.06.2005/Thumbnails/suunnistuskoulutus200500615_02b.jpg)](/images/suunnistuskoulutus-15.06.2005/suunnistuskoulutus200500615_02b.jpg)
+-   [![](/images/suunnistuskoulutus-15.06.2005/Thumbnails/suunnistuskoulutus200500615_03b.jpg)](/images/suunnistuskoulutus-15.06.2005/suunnistuskoulutus200500615_03b.jpg)
+-   [![](/images/suunnistuskoulutus-15.06.2005/Thumbnails/suunnistuskoulutus200500615_04b.jpg)](/images/suunnistuskoulutus-15.06.2005/suunnistuskoulutus200500615_04b.jpg)
 
 </div>

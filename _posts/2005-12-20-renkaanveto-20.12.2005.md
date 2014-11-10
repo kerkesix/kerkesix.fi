@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Jarru taakse ja menoksi - Renkaanvetoa 20.12.2005" 
 categories: 
@@ -6,9 +6,9 @@ tags: [renkaanveto]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
-![](http://uusi.kerkesix.fi/Media/Default/BlogPost/blog/renkaanveto-20.12.2005/peruskuntorengas20051220_02b.jpg)
+![](http://uusi.kerkesix.fi/images/renkaanveto-20.12.2005/peruskuntorengas20051220_02b.jpg)
 
 Peruskuntotoimintaa joulun alla vähälumisessa etelässä on renkaanveto.
 Sauvakävelystä seuraava vaihe. Kun kävely ei enää riitä, on aika
@@ -22,7 +22,7 @@ lähteville ennakkoharjoitteeksi. Rauhallisella temmolla suoritettuna
 harjoituksen aikana voi pitää vaikka yhdistyksen hallituksen
 kokouksia...
 
-![](/Media/Default/BlogPost/blog/renkaanveto-20.12.2005/peruskuntorengas20051220_01b.jpg)Renkaanveto
+![](/images/renkaanveto-20.12.2005/peruskuntorengas20051220_01b.jpg)Renkaanveto
 kuuluu kevättalvella 2006 [pohjoisnavalle](http://pohjoisnapa.fi/)
 suuntaavan [Laskuvarjojääkärikillan](http://lsvjkilta.fi/) retkikunnan
 harjoitusohjelmaan.

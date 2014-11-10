@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Sunrise Avenuen Popgasm levyjulkkarikeikka" 
 categories: 
@@ -6,7 +6,7 @@ tags: [kulttuurijaos]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 13.5.2009 kohteena oli musiikillinen ilottelu, kun [Sunrise
 Avenue](http://www.sunriseave.com/) juhlisti uutta levyään "Popgasm"

@@ -2,23 +2,17 @@
 layout: article 
 title: "Kerkesix ry" 
 permalink: /kerkesix-ry/ 
-redirect_from: 
-    - /yhteystiedot/
-categories: 
 tags: [yhdistys]
 toc: false 
 comments: false 
 ads: false 
---- 
-
-**info (ät) kerkesix (piste) fi - Espoo - 1862358-0**
+---
 
 Kerkesix ry on monipuolista urheilua ja ulkoilua harrastavien ihmisten
 seura, joka pyrkii kehittämään jäsentensä fyysistä ja henkistä
 hyvinvointia tarjoamalla mahdollisuuksia toteuttaa itseään mukavassa
 seurassa. Tapahtumia järjestetään tai muitten järjestämiin osallistutaan
 sitä mukaan kun aktiivisuutta löytyy.
-
 
 Jäseneksi
 ---------

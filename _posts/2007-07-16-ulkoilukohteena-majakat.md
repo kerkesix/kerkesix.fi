@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Ulkoilukohteena majakat" 
 categories: 
@@ -6,9 +6,9 @@ tags: [ulkoilukohteet,saaristo]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
-[![](/Media/Default/BlogPost/blog/ulkoilukohteena-majakat/marjaniemi2.jpg)](/Media/Default/BlogPost/blog/ulkoilukohteena-majakat/marjaniemi2.jpg)Majakat
+[![](/images/ulkoilukohteena-majakat/marjaniemi2.jpg)](/images/ulkoilukohteena-majakat/marjaniemi2.jpg)Majakat
 ovat arvoituksellisuudessaan kiehtoneet ihmisten mieltä aina. Valtavan
 infrastruktuurin näkeminen keskellä aavaa merta tai öisessä horisontissa
 vilkkuva valo saa mielikuvituksen liikkeelle. Majakoihin liittyy
@@ -29,7 +29,7 @@ Vaikeina pidetyt kulkuyhteydet kaukaisille valoille ovat kuitenkin
 estäneet monen kiinnostuneen pääsyn paikanpäälle ja näin onkin tyydytty
 ihailemaan majakoita kirjoista, artikkeleista ja dokumenttiohjelmista.
 
-[![](/Media/Default/BlogPost/blog/ulkoilukohteena-majakat/market2.jpg)](/Media/Default/BlogPost/blog/ulkoilukohteena-majakat/market2.jpg)Mutta
+[![](/images/ulkoilukohteena-majakat/market2.jpg)](/images/ulkoilukohteena-majakat/market2.jpg)Mutta
 jos hiukankaan näkee vaivaa, monet majakat ovat hyvinkin
 saavutettavissa. Oma vene ei ole välttämättömyys vaan perille voi päästä
 niin yhteysaluksilla, meloen tai yllättävää kyllä myös autolla.
@@ -40,7 +40,7 @@ tai ruokit eivät perus-eteläsuomalaisessa mäntymetsässä kovin usein tule
 vastaan. Miljöö, joka inspiroi valokuvaukseen, rauhoittumiseen tai ihan
 vaan oman elämänsä pohdintaan on olemassa saaristossa.
 
-[![](/Media/Default/BlogPost/blog/ulkoilukohteena-majakat/salskar2b.jpg)](/Media/Default/BlogPost/blog/ulkoilukohteena-majakat/salskar2b.jpg)Seuraavassa
+[![](/images/ulkoilukohteena-majakat/salskar2b.jpg)](/images/ulkoilukohteena-majakat/salskar2b.jpg)Seuraavassa
 on esitelty muutamia majakoita, joissa on tullut viime aikoina käytyä.
 Majakoilla on pääsääntöisesti hyvät kotisivut ja niiden historia on
 kirjallisuudessa niin hyvin dokumentoitu, että olen jättänyt majakoiden
@@ -66,8 +66,8 @@ tarjoaa vierailleen vaihtelevan kokemuksen ja punkkien ja käärmeiden
 vältteleminen on myös ohjelmanumero sinänsä. Saarella toimii kahvila ja
 bed&breakfast jos ei halua virittää omaa telttaa rannalle.
 
-[](/Media/Default/BlogPost/blog/ulkoilukohteena-majakat/************><img%20src=) 
- [![](/Media/Default/BlogPost/blog/ulkoilukohteena-majakat/isokari2.jpg)](/Media/Default/BlogPost/blog/ulkoilukohteena-majakat/isokari2.jpg)
+[](/images/ulkoilukohteena-majakat/************><img%20src=) 
+ [![](/images/ulkoilukohteena-majakat/isokari2.jpg)](/images/ulkoilukohteena-majakat/isokari2.jpg)
 
  
 
@@ -86,15 +86,15 @@ rapuissa ja seinissä. Majakalla on hyvät
 kotisivut [www.bengtskar.fi](http://www.bengtskar.fi/) joista saa lisää
 tietoa kuljetuksista, hinnoista ja majoituksista.
 
-[![](/Media/Default/BlogPost/blog/ulkoilukohteena-majakat/bengtskar1.jpg)](/Media/Default/BlogPost/blog/ulkoilukohteena-majakat/bengtskar1.jpg) 
- [![](/Media/Default/BlogPost/blog/ulkoilukohteena-majakat/bengtskar2.jpg)](/Media/Default/BlogPost/blog/ulkoilukohteena-majakat/bengtskar2.jpg)
+[![](/images/ulkoilukohteena-majakat/bengtskar1.jpg)](/images/ulkoilukohteena-majakat/bengtskar1.jpg) 
+ [![](/images/ulkoilukohteena-majakat/bengtskar2.jpg)](/images/ulkoilukohteena-majakat/bengtskar2.jpg)
 
  
 
 Märket
 ------
 
-[![](/Media/Default/BlogPost/blog/ulkoilukohteena-majakat/market1.jpg)](/Media/Default/BlogPost/blog/ulkoilukohteena-majakat/market1.jpg)Märketin
+[![](/images/ulkoilukohteena-majakat/market1.jpg)](/images/ulkoilukohteena-majakat/market1.jpg)Märketin
 majakka Ahvenanmaan länsipuolella avautui turisteille vuonna 2007, kun
 Suomen Majakkaseura ry. vuokrasi rapistuneen majakan tarkoituksenaan
 kunnostaa se. Saaren tekee mielenkiintoiseksi se, että Suomen ja Ruotsin
@@ -116,7 +116,7 @@ kuljetuksista veneenkuljettaja Bengt Granbergiltä (på svenska 0457 313
 Marjaniemi
 ----------
 
-[![](http://uusi.kerkesix.fi/Media/Default/BlogPost/blog/ulkoilukohteena-majakat/marjaniemi1.jpg)](/Media/Default/BlogPost/blog/ulkoilukohteena-majakat/marjaniemi1.jpg)Marjaniemen
+[![](http://uusi.kerkesix.fi/images/ulkoilukohteena-majakat/marjaniemi1.jpg)](/images/ulkoilukohteena-majakat/marjaniemi1.jpg)Marjaniemen
 majakka sijaitsee Oulun kupeessa yhteysaluksen päässä Hailuodossa.
 Marjaniemessä on luotsilaitos, maatilamajoitusta sekä tunnelmallinen
 kalastajakylä. Majakalle pääsee omalla autolla. Retkeen kannattaa
@@ -128,7 +128,7 @@ hiekkarannoilta saaren sisäosien lammille ja autiotupiin.
 Sälskär
 -------
 
-[![](/Media/Default/BlogPost/blog/ulkoilukohteena-majakat/salskar1.jpg)](/Media/Default/BlogPost/blog/ulkoilukohteena-majakat/salskar1.jpg)Sälskärin
+[![](/images/ulkoilukohteena-majakat/salskar1.jpg)](/images/ulkoilukohteena-majakat/salskar1.jpg)Sälskärin
 majakka sijaitsee Ahvenanmaan luoteisosassa. Kuljetukset majakalle
 lähtevät kesä-keskiviikkoisin Hammarlandista. Säävaraus pitää huomioida,
 kuten tavallista, kun kyseessä on ulkomerellä sijaitseva majakka.
@@ -161,8 +161,8 @@ Kalatalouden tutkimuslaitos, jonka henkilöstö valvoo maihinnousukieltoa.
 alkaen myös ympäryssaarilla liikkuminen on sallittua. Katso majakan
 kotisivut [www.soderskar.fi](http://www.soderskar.fi/).
 
-[![](/Media/Default/BlogPost/blog/ulkoilukohteena-majakat/soderskar1.jpg)](/Media/Default/BlogPost/blog/ulkoilukohteena-majakat/soderskar1.jpg) 
- [![](/Media/Default/BlogPost/blog/ulkoilukohteena-majakat/soderskar2.jpg)](/Media/Default/BlogPost/blog/ulkoilukohteena-majakat/soderskar2.jpg)
+[![](/images/ulkoilukohteena-majakat/soderskar1.jpg)](/images/ulkoilukohteena-majakat/soderskar1.jpg) 
+ [![](/images/ulkoilukohteena-majakat/soderskar2.jpg)](/images/ulkoilukohteena-majakat/soderskar2.jpg)
 
  
 
@@ -182,15 +182,15 @@ ranskalais-englantilainen laivasto lähestyi saarta ja linnoitusta
 hallinneet venäläiset pakenivat saarelta ja räjäyttivät mennessään
 suuren osan muuria.
 
-[![](/Media/Default/BlogPost/blog/ulkoilukohteena-majakat/gustafsvarn1.jpg)](/Media/Default/BlogPost/blog/ulkoilukohteena-majakat/gustafsvarn1.jpg) 
- [![](/Media/Default/BlogPost/blog/ulkoilukohteena-majakat/gustafsvarn2.jpg)](/Media/Default/BlogPost/blog/ulkoilukohteena-majakat/gustafsvarn2.jpg)
+[![](/images/ulkoilukohteena-majakat/gustafsvarn1.jpg)](/images/ulkoilukohteena-majakat/gustafsvarn1.jpg) 
+ [![](/images/ulkoilukohteena-majakat/gustafsvarn2.jpg)](/images/ulkoilukohteena-majakat/gustafsvarn2.jpg)
 
  
 
 Jussarö {style="color: #000000; font-size: 16px;"}
 =======
 
-[![](/Media/Default/BlogPost/blog/ulkoilukohteena-majakat/jussaro1.jpg)](/Media/Default/BlogPost/blog/ulkoilukohteena-majakat/jussaro1.jpg)Jussärön
+[![](/images/ulkoilukohteena-majakat/jussaro1.jpg)](/images/ulkoilukohteena-majakat/jussaro1.jpg)Jussärön
 majakka Tammisaaren saaristossa on hyvä hiihtokohde talvella. Autolla
 kannattaa ajaa Baggön kylään rannalle, josta on noin 12 km
 hiihtoetäisyys Jussarön majakalle. Oman mausteensa meren jäällä
@@ -215,6 +215,6 @@ selkäydintulehduksia, eli siis ihan sopivasti extremeä, mutta ikävä
 kyllä siihen epämiellyttävämpään suuntaan. Keskustele pätevän lääkärin
 kanssa!
 
-[![](/Media/Default/BlogPost/blog/ulkoilukohteena-majakat/punkki1.jpg)](/Media/Default/BlogPost/blog/ulkoilukohteena-majakat/punkki1.jpg) 
- [![](/Media/Default/BlogPost/blog/ulkoilukohteena-majakat/punkki2.jpg)](/Media/Default/BlogPost/blog/ulkoilukohteena-majakat/punkki2.jpg)
+[![](/images/ulkoilukohteena-majakat/punkki1.jpg)](/images/ulkoilukohteena-majakat/punkki1.jpg) 
+ [![](/images/ulkoilukohteena-majakat/punkki2.jpg)](/images/ulkoilukohteena-majakat/punkki2.jpg)
 

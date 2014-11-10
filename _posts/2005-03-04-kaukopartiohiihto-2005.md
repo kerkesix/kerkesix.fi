@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Kaukopartiohiihto 4.3.2005" 
 categories: 
@@ -6,7 +6,7 @@ tags: [hiihto]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Kaukopartiohiihto houkutteli jälleen Salpausselälle väkeä ympäri Suomen.
 Myös Kerkesix ry:n edustajat kunnioittivat tapahtumaa läsnäolollaan.
@@ -61,11 +61,11 @@ takia meni taas aika myöhäiseksi. Se oli kyllä taas yhtä pitkä se vika
 parin kilsan järvipätkä, kuin muistin. Pajulahti ei meinannu lähestyä
 millään vaikka kuinka hiihti."
 
-<div class="image-gallery">
+<div class="image-gallery" markdown="1">
 
--   [![](/Media/Default/ImageGalleries/kaukopartiohiihto-2005/Thumbnails/vaelluskaukopartio2005_01b.jpg)](/Media/Default/ImageGalleries/kaukopartiohiihto-2005/vaelluskaukopartio2005_01b.jpg)
--   [![](/Media/Default/ImageGalleries/kaukopartiohiihto-2005/Thumbnails/vaelluskaukopartio2005_02b.jpg)](/Media/Default/ImageGalleries/kaukopartiohiihto-2005/vaelluskaukopartio2005_02b.jpg)
--   [![](/Media/Default/ImageGalleries/kaukopartiohiihto-2005/Thumbnails/vaelluskaukopartio2005_03b.jpg)](/Media/Default/ImageGalleries/kaukopartiohiihto-2005/vaelluskaukopartio2005_03b.jpg)
--   [![](/Media/Default/ImageGalleries/kaukopartiohiihto-2005/Thumbnails/vaelluskaukopartio2005_04b.jpg)](/Media/Default/ImageGalleries/kaukopartiohiihto-2005/vaelluskaukopartio2005_04b.jpg)
+-   [![](/images/kaukopartiohiihto-2005/Thumbnails/vaelluskaukopartio2005_01b.jpg)](/images/kaukopartiohiihto-2005/vaelluskaukopartio2005_01b.jpg)
+-   [![](/images/kaukopartiohiihto-2005/Thumbnails/vaelluskaukopartio2005_02b.jpg)](/images/kaukopartiohiihto-2005/vaelluskaukopartio2005_02b.jpg)
+-   [![](/images/kaukopartiohiihto-2005/Thumbnails/vaelluskaukopartio2005_03b.jpg)](/images/kaukopartiohiihto-2005/vaelluskaukopartio2005_03b.jpg)
+-   [![](/images/kaukopartiohiihto-2005/Thumbnails/vaelluskaukopartio2005_04b.jpg)](/images/kaukopartiohiihto-2005/vaelluskaukopartio2005_04b.jpg)
 
 </div>

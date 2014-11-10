@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Kanariansaaret ulkoilukohteena" 
 categories: 
@@ -6,7 +6,7 @@ tags: [ulkoilukohteet]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Heipähei, ja tervehdys Gran Canarialta. Jokohan olisi aika kirjoitella
 kuulumisia KSX:n Kanaria-osastolta… Johan siitä on kohta kaksi vuotta
@@ -63,12 +63,12 @@ Terveisin,
 
 Tiina ”Tipu”, jäsennro 0311
 
-<div class="image-gallery">
+<div class="image-gallery" markdown="1">
 
--   [![](/Media/Default/ImageGalleries/kanariansaaret-ulkoilukohteena/Thumbnails/1%20snorklaus.JPG)](/Media/Default/ImageGalleries/kanariansaaret-ulkoilukohteena/1%20snorklaus.JPG)
--   [![](/Media/Default/ImageGalleries/kanariansaaret-ulkoilukohteena/Thumbnails/2%20kraateri.JPG)](/Media/Default/ImageGalleries/kanariansaaret-ulkoilukohteena/2%20kraateri.JPG)
--   [![](/Media/Default/ImageGalleries/kanariansaaret-ulkoilukohteena/Thumbnails/3%20Aki,%20Tipu,%20John%20Lennon%20ja%20Sussi.JPG)](/Media/Default/ImageGalleries/kanariansaaret-ulkoilukohteena/3%20Aki,%20Tipu,%20John%20Lennon%20ja%20Sussi.JPG)
--   [![](/Media/Default/ImageGalleries/kanariansaaret-ulkoilukohteena/Thumbnails/5%20Palmitos%20Park%20palon%20jalkeen.JPG)](/Media/Default/ImageGalleries/kanariansaaret-ulkoilukohteena/5%20Palmitos%20Park%20palon%20jalkeen.JPG)
--   [![](/Media/Default/ImageGalleries/kanariansaaret-ulkoilukohteena/Thumbnails/kabanossi.JPG)](/Media/Default/ImageGalleries/kanariansaaret-ulkoilukohteena/kabanossi.JPG)
+-   [![](/images/kanariansaaret-ulkoilukohteena/Thumbnails/1%20snorklaus.JPG)](/images/kanariansaaret-ulkoilukohteena/1%20snorklaus.JPG)
+-   [![](/images/kanariansaaret-ulkoilukohteena/Thumbnails/2%20kraateri.JPG)](/images/kanariansaaret-ulkoilukohteena/2%20kraateri.JPG)
+-   [![](/images/kanariansaaret-ulkoilukohteena/Thumbnails/3%20Aki,%20Tipu,%20John%20Lennon%20ja%20Sussi.JPG)](/images/kanariansaaret-ulkoilukohteena/3%20Aki,%20Tipu,%20John%20Lennon%20ja%20Sussi.JPG)
+-   [![](/images/kanariansaaret-ulkoilukohteena/Thumbnails/5%20Palmitos%20Park%20palon%20jalkeen.JPG)](/images/kanariansaaret-ulkoilukohteena/5%20Palmitos%20Park%20palon%20jalkeen.JPG)
+-   [![](/images/kanariansaaret-ulkoilukohteena/Thumbnails/kabanossi.JPG)](/images/kanariansaaret-ulkoilukohteena/kabanossi.JPG)
 
 </div>

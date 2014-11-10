@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Etelä-Korea ulkoilukohteena" 
 categories: 
@@ -6,7 +6,7 @@ tags: [ulkoilukohteet]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Morientes Etelä-Koreasta! Tai paikallisella murteella ”anjonghasioo”.
 Muutimme tänne Ulsaniin, Hyundain kotikaupunkiin, melkein neljä

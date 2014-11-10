@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Lumikenkävaelluksen SM 7.-8.2.2004" 
 categories: 
@@ -6,7 +6,7 @@ tags: [lumikenkäily,vaellus]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Kerkesix lähetti kaksi partiota osallistumaan Umpihankihiidon
 MM-kilpailujen yhteydessä järjestettyihin Lumikenkävaelluksen
@@ -41,12 +41,12 @@ yllätys. Tällaista lisää, ensivuonna uudestaan!
 [Lumikenkävaelluksen ja umpihankihiihdon
 kotisivut](http://www.umpihankihiihto.pudasjarvi.fi/)
 
-<div class="image-gallery">
+<div class="image-gallery" markdown="1">
 
--   [![](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2004/Thumbnails/Lumik-SM04_011b.jpg)](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2004/Lumik-SM04_011b.jpg)
--   [![](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2004/Thumbnails/Lumik-SM04_017b.jpg)](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2004/Lumik-SM04_017b.jpg)
--   [![](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2004/Thumbnails/Lumik-SM04_048b.jpg)](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2004/Lumik-SM04_048b.jpg)
--   [![](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2004/Thumbnails/Lumik-SM04_053b.jpg)](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2004/Lumik-SM04_053b.jpg)
--   [![](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2004/Thumbnails/Lumik-SM04_057b.jpg)](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2004/Lumik-SM04_057b.jpg)
+-   [![](/images/lumikenkavaellus-sm-2004/Thumbnails/Lumik-SM04_011b.jpg)](/images/lumikenkavaellus-sm-2004/Lumik-SM04_011b.jpg)
+-   [![](/images/lumikenkavaellus-sm-2004/Thumbnails/Lumik-SM04_017b.jpg)](/images/lumikenkavaellus-sm-2004/Lumik-SM04_017b.jpg)
+-   [![](/images/lumikenkavaellus-sm-2004/Thumbnails/Lumik-SM04_048b.jpg)](/images/lumikenkavaellus-sm-2004/Lumik-SM04_048b.jpg)
+-   [![](/images/lumikenkavaellus-sm-2004/Thumbnails/Lumik-SM04_053b.jpg)](/images/lumikenkavaellus-sm-2004/Lumik-SM04_053b.jpg)
+-   [![](/images/lumikenkavaellus-sm-2004/Thumbnails/Lumik-SM04_057b.jpg)](/images/lumikenkavaellus-sm-2004/Lumik-SM04_057b.jpg)
 
 </div>

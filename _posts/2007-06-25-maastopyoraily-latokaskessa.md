@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Maastopyöräily Latokaskessa" 
 categories: 
@@ -6,7 +6,7 @@ tags: [pyöräily]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Fillareiden selässä alueella Latokaski - Saarniraivio - Mikkelä -
 Kauklahti - Tillinmäki. Kokonaisreitti oli noin 20 km ja maaston

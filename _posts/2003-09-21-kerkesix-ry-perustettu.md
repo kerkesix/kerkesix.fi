@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Kerkesix ry on perustettu 21.9.2003" 
 categories: 
@@ -6,7 +6,7 @@ tags: [yhdistys]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 21.9.2003 pidettiin yhdistyksen perustava kokous Kauniaisten uimahallin
 takkahuoneessa. Paikalla perustamiskokouksessa olivat: Jarmo Aho, Tiina

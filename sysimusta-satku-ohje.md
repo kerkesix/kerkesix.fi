@@ -2,12 +2,11 @@
 layout: article 
 title: "Sysimusta Satku ohje" 
 permalink: /sysimusta-satku-ohje/ 
-categories: 
 tags: [satku]
 toc: false 
 comments: false 
 ads: false 
---- 
+---
 
 Ohjeita, mihin?
 ---------------

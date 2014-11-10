@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Jääkiipeily Nuuksiossa 3.3.2005" 
 categories: 
@@ -6,7 +6,7 @@ tags: [kiipeily,nuuksio]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Kerkesix ry:n kiipeilyharjoitus siirtyi Liikuntamyllystä Nöykkiön kautta
 Nuuksioon, samalla kun osallistujamäärä putosi ääntä nopeammin, vaikka
@@ -33,12 +33,12 @@ Kun järven toisella puolella, Solvalla
 Sumnerin](http://fi.wikipedia.org/wiki/Sting) musiikki, oli meidän aika
 jatkaa matkaa.
 
-<div class="image-gallery">
+<div class="image-gallery" markdown="1">
 
--   [![](/Media/Default/ImageGalleries/jaakiipeily-nuuksiossa-3.3.2005/Thumbnails/kiipeilyjaa20050303_01b.jpg)](/Media/Default/ImageGalleries/jaakiipeily-nuuksiossa-3.3.2005/kiipeilyjaa20050303_01b.jpg)
--   [![](/Media/Default/ImageGalleries/jaakiipeily-nuuksiossa-3.3.2005/Thumbnails/kiipeilyjaa20050303_02b.jpg)](/Media/Default/ImageGalleries/jaakiipeily-nuuksiossa-3.3.2005/kiipeilyjaa20050303_02b.jpg)
--   [![](/Media/Default/ImageGalleries/jaakiipeily-nuuksiossa-3.3.2005/Thumbnails/kiipeilyjaa20050303_03b.jpg)](/Media/Default/ImageGalleries/jaakiipeily-nuuksiossa-3.3.2005/kiipeilyjaa20050303_03b.jpg)
--   [![](/Media/Default/ImageGalleries/jaakiipeily-nuuksiossa-3.3.2005/Thumbnails/kiipeilyjaa20050303_04b.jpg)](/Media/Default/ImageGalleries/jaakiipeily-nuuksiossa-3.3.2005/kiipeilyjaa20050303_04b.jpg)
--   [![](/Media/Default/ImageGalleries/jaakiipeily-nuuksiossa-3.3.2005/Thumbnails/kiipeilyjaa20050303_05b.jpg)](/Media/Default/ImageGalleries/jaakiipeily-nuuksiossa-3.3.2005/kiipeilyjaa20050303_05b.jpg)
+-   [![](/images/jaakiipeily-nuuksiossa-3.3.2005/Thumbnails/kiipeilyjaa20050303_01b.jpg)](/images/jaakiipeily-nuuksiossa-3.3.2005/kiipeilyjaa20050303_01b.jpg)
+-   [![](/images/jaakiipeily-nuuksiossa-3.3.2005/Thumbnails/kiipeilyjaa20050303_02b.jpg)](/images/jaakiipeily-nuuksiossa-3.3.2005/kiipeilyjaa20050303_02b.jpg)
+-   [![](/images/jaakiipeily-nuuksiossa-3.3.2005/Thumbnails/kiipeilyjaa20050303_03b.jpg)](/images/jaakiipeily-nuuksiossa-3.3.2005/kiipeilyjaa20050303_03b.jpg)
+-   [![](/images/jaakiipeily-nuuksiossa-3.3.2005/Thumbnails/kiipeilyjaa20050303_04b.jpg)](/images/jaakiipeily-nuuksiossa-3.3.2005/kiipeilyjaa20050303_04b.jpg)
+-   [![](/images/jaakiipeily-nuuksiossa-3.3.2005/Thumbnails/kiipeilyjaa20050303_05b.jpg)](/images/jaakiipeily-nuuksiossa-3.3.2005/kiipeilyjaa20050303_05b.jpg)
 
 </div>

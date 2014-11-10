@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Kerkesix-köysistö Ranskan Alpeilla 21.7-6.8.2006" 
 categories: 
@@ -6,7 +6,7 @@ tags: [vuoristovaellus]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Yhteistyötään Kouvolassa kovasti hionut Kerkesix-köysistö, Heidi, Arde,
 Jussi ja Timo osallistuivat Laskuvarjojääkärikillan jatkokurssille

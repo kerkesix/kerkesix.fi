@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Sunnuntailenkki Latokaskessa 1.10.2006" 
 categories: 
@@ -6,7 +6,7 @@ tags: [juoksu]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Sunnuntai-iltojen Kerkelenkki on muodostunut vuosien saatossa
 perinteeksi, joka unohdetaan ja herätetään uudelleen ja uudelleen.

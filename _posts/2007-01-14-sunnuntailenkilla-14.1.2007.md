@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Sunnuntailenkillä 14.1.2007" 
 categories: 
@@ -6,7 +6,7 @@ tags: [juoksu]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Valoisan ajan sunnuntailenkkejä jatkettiin ja tällä kertaa
 suorituspaikkana oli Luukkaan ulkoilualue. Sää suosi meitä urheita:

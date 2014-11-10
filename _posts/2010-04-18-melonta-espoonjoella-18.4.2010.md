@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Melonta Espoonjoella 18.4.2010" 
 categories: 
@@ -6,7 +6,7 @@ tags: [melonta]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Pahimmat jäät olivat sulaneet pois, joten oli aika korkata melontakausi.
 Laiskoina veijareina kohteeksi valittiin virtaava joki, niin ei
@@ -28,15 +28,15 @@ Muutaman kerran pääsi oikein mukavaan surffiinkin. Reissu päättyi
 melonnan osalta Kallvikin uimarannalle, jossa ei aurinkoisesta säästä
 huolimatta ollut ketään makoilemassa.
 
-<div class="image-gallery">
+<div class="image-gallery" markdown="1">
 
--   [![](/Media/Default/ImageGalleries/melonta-espoonjoella-18.4.2010/Thumbnails/IMG_0656.JPG)](/Media/Default/ImageGalleries/melonta-espoonjoella-18.4.2010/IMG_0656.JPG)
--   [![](/Media/Default/ImageGalleries/melonta-espoonjoella-18.4.2010/Thumbnails/IMG_0661.JPG)](/Media/Default/ImageGalleries/melonta-espoonjoella-18.4.2010/IMG_0661.JPG)
--   [![](/Media/Default/ImageGalleries/melonta-espoonjoella-18.4.2010/Thumbnails/IMG_0671.JPG)](/Media/Default/ImageGalleries/melonta-espoonjoella-18.4.2010/IMG_0671.JPG)
--   [![](/Media/Default/ImageGalleries/melonta-espoonjoella-18.4.2010/Thumbnails/IMG_0679.JPG)](/Media/Default/ImageGalleries/melonta-espoonjoella-18.4.2010/IMG_0679.JPG)
--   [![](/Media/Default/ImageGalleries/melonta-espoonjoella-18.4.2010/Thumbnails/IMG_0681.JPG)](/Media/Default/ImageGalleries/melonta-espoonjoella-18.4.2010/IMG_0681.JPG)
--   [![](/Media/Default/ImageGalleries/melonta-espoonjoella-18.4.2010/Thumbnails/IMG_0684.JPG)](/Media/Default/ImageGalleries/melonta-espoonjoella-18.4.2010/IMG_0684.JPG)
--   [![](/Media/Default/ImageGalleries/melonta-espoonjoella-18.4.2010/Thumbnails/IMG_0690.JPG)](/Media/Default/ImageGalleries/melonta-espoonjoella-18.4.2010/IMG_0690.JPG)
--   [![](/Media/Default/ImageGalleries/melonta-espoonjoella-18.4.2010/Thumbnails/IMG_0698.JPG)](/Media/Default/ImageGalleries/melonta-espoonjoella-18.4.2010/IMG_0698.JPG)
+-   [![](/images/melonta-espoonjoella-18.4.2010/Thumbnails/IMG_0656.JPG)](/images/melonta-espoonjoella-18.4.2010/IMG_0656.JPG)
+-   [![](/images/melonta-espoonjoella-18.4.2010/Thumbnails/IMG_0661.JPG)](/images/melonta-espoonjoella-18.4.2010/IMG_0661.JPG)
+-   [![](/images/melonta-espoonjoella-18.4.2010/Thumbnails/IMG_0671.JPG)](/images/melonta-espoonjoella-18.4.2010/IMG_0671.JPG)
+-   [![](/images/melonta-espoonjoella-18.4.2010/Thumbnails/IMG_0679.JPG)](/images/melonta-espoonjoella-18.4.2010/IMG_0679.JPG)
+-   [![](/images/melonta-espoonjoella-18.4.2010/Thumbnails/IMG_0681.JPG)](/images/melonta-espoonjoella-18.4.2010/IMG_0681.JPG)
+-   [![](/images/melonta-espoonjoella-18.4.2010/Thumbnails/IMG_0684.JPG)](/images/melonta-espoonjoella-18.4.2010/IMG_0684.JPG)
+-   [![](/images/melonta-espoonjoella-18.4.2010/Thumbnails/IMG_0690.JPG)](/images/melonta-espoonjoella-18.4.2010/IMG_0690.JPG)
+-   [![](/images/melonta-espoonjoella-18.4.2010/Thumbnails/IMG_0698.JPG)](/images/melonta-espoonjoella-18.4.2010/IMG_0698.JPG)
 
 </div>

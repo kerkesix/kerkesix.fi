@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Valio-Jukola 16.-17.6.2012" 
 categories: 
@@ -6,7 +6,7 @@ tags: [suunnistus,jukola]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Jukolan Viesti Vantaalla sai porukkaa kokoontumaan noin 50 000 kpl
 Hakunilaan. Myös Kerkesix-osallistuminen oli aktiivista, sillä [2

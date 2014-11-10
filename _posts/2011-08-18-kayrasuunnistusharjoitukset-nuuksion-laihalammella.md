@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Käyräsuunnistusharjoitukset Nuuksion Laihalammella" 
 categories: 
@@ -6,10 +6,10 @@ tags: [suunnistus,nuuksio]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 <span class="Apple-style-span"
-style="font-family: arial, sans-serif; font-size: 13px;">![](/Media/Default/BlogPost/blog/17082011049.jpg)Jappe,
+style="font-family: arial, sans-serif; font-size: 13px;">![](/images/17082011049.jpg)Jappe,
 Emmi, Jukkis ja Heidi järjestivät itselleen tekemistä kauniina
 keskiviikkoiltana. Ohjelmanumerona oli suunnistaa vanhat rastit (rastit
 oli korjattu jo pois, mutta olivat mainiosti Emmin ja Japen muistissa)

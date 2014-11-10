@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Panna Cotta ja mansikka-vadelmamelba" 
 categories: 
@@ -6,7 +6,7 @@ tags: [ruoka]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Vuosijuhlassa 24.11.2007
 

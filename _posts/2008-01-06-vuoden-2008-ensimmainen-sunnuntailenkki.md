@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Vuoden 2008 ensimmäinen Sunnuntailenkki" 
 categories: 
@@ -6,7 +6,7 @@ tags: [juoksu]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Latokaskesta lähdettiin liikkeelle kahdessa osastossa, juoksuryhmä ja
 sauvakävelyosasto. Lenkkien kestot olivat noin tunnin kumpikin ja

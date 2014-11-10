@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Sunnuntailenkillä Salmessa" 
 categories: 
@@ -6,7 +6,7 @@ tags: [ulkoilu]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Vuoden 2007 alusta sunnuntailenkit siirrettiin valoisan aikaan alkamaan
 kello 14.00. Harjoitteena on 60-120 minuuttia kävelyä sauvojen ja repun
@@ -20,9 +20,9 @@ vihreän reitin ja aikaa käytettiin tähän hauskuuteen pari tuntia. Keli
 oli hieman sateinen mutta kylmää ei kukaan tainnut valitella, lämpö
 riitti hyvin.
 
-<div class="image-gallery">
+<div class="image-gallery" markdown="1">
 
--   [![](/Media/Default/ImageGalleries/sunnuntailenkilla-salmessa/Thumbnails/peruskuntosl20070107_01b.jpg)](/Media/Default/ImageGalleries/sunnuntailenkilla-salmessa/peruskuntosl20070107_01b.jpg)
--   [![](/Media/Default/ImageGalleries/sunnuntailenkilla-salmessa/Thumbnails/peruskuntosl20070107_02b.jpg)](/Media/Default/ImageGalleries/sunnuntailenkilla-salmessa/peruskuntosl20070107_02b.jpg)
+-   [![](/images/sunnuntailenkilla-salmessa/Thumbnails/peruskuntosl20070107_01b.jpg)](/images/sunnuntailenkilla-salmessa/peruskuntosl20070107_01b.jpg)
+-   [![](/images/sunnuntailenkilla-salmessa/Thumbnails/peruskuntosl20070107_02b.jpg)](/images/sunnuntailenkilla-salmessa/peruskuntosl20070107_02b.jpg)
 
 </div>

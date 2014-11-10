@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Ampumapäällikkökilpailu 2006" 
 categories: 
@@ -6,7 +6,7 @@ tags: [ampumapäällikkö]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Vuoden 2006 Ampumapäällikkökilpailu ammuttiin tutussa maastossa Halkian
 ampumaradalla. Sää suosi toimintaa viileänä, muttei liian sateisena.
@@ -23,23 +23,23 @@ Ampumapäällikkö 2006 kolmen kärki
 2.  Passe
 3.  Kimmo
 
-<div class="image-gallery">
+<div class="image-gallery" markdown="1">
 
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2006/Thumbnails/luokittelematonampumapaallikko2006_01b.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2006/luokittelematonampumapaallikko2006_01b.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2006/Thumbnails/luokittelematonampumapaallikko2006_02b.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2006/luokittelematonampumapaallikko2006_02b.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2006/Thumbnails/luokittelematonampumapaallikko2006_03b.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2006/luokittelematonampumapaallikko2006_03b.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2006/Thumbnails/luokittelematonampumapaallikko2006_04b.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2006/luokittelematonampumapaallikko2006_04b.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2006/Thumbnails/luokittelematonampumapaallikko2006_05b.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2006/luokittelematonampumapaallikko2006_05b.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2006/Thumbnails/luokittelematonampumapaallikko2006_06b.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2006/luokittelematonampumapaallikko2006_06b.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2006/Thumbnails/luokittelematonampumapaallikko2006_07b.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2006/luokittelematonampumapaallikko2006_07b.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2006/Thumbnails/luokittelematonampumapaallikko2006_08b.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2006/luokittelematonampumapaallikko2006_08b.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2006/Thumbnails/luokittelematonampumapaallikko2006_09b.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2006/luokittelematonampumapaallikko2006_09b.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2006/Thumbnails/luokittelematonampumapaallikko2006_10b.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2006/luokittelematonampumapaallikko2006_10b.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2006/Thumbnails/luokittelematonampumapaallikko2006_11b.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2006/luokittelematonampumapaallikko2006_11b.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2006/Thumbnails/luokittelematonampumapaallikko2006_12b.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2006/luokittelematonampumapaallikko2006_12b.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2006/Thumbnails/luokittelematonampumapaallikko2006_13b.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2006/luokittelematonampumapaallikko2006_13b.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2006/Thumbnails/luokittelematonampumapaallikko2006_14b.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2006/luokittelematonampumapaallikko2006_14b.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2006/Thumbnails/luokittelematonampumapaallikko2006_15b.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2006/luokittelematonampumapaallikko2006_15b.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2006/Thumbnails/luokittelematonampumapaallikko2006_16b.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2006/luokittelematonampumapaallikko2006_16b.jpg)
+-   [![](/images/ampumapaallikko-2006/Thumbnails/luokittelematonampumapaallikko2006_01b.jpg)](/images/ampumapaallikko-2006/luokittelematonampumapaallikko2006_01b.jpg)
+-   [![](/images/ampumapaallikko-2006/Thumbnails/luokittelematonampumapaallikko2006_02b.jpg)](/images/ampumapaallikko-2006/luokittelematonampumapaallikko2006_02b.jpg)
+-   [![](/images/ampumapaallikko-2006/Thumbnails/luokittelematonampumapaallikko2006_03b.jpg)](/images/ampumapaallikko-2006/luokittelematonampumapaallikko2006_03b.jpg)
+-   [![](/images/ampumapaallikko-2006/Thumbnails/luokittelematonampumapaallikko2006_04b.jpg)](/images/ampumapaallikko-2006/luokittelematonampumapaallikko2006_04b.jpg)
+-   [![](/images/ampumapaallikko-2006/Thumbnails/luokittelematonampumapaallikko2006_05b.jpg)](/images/ampumapaallikko-2006/luokittelematonampumapaallikko2006_05b.jpg)
+-   [![](/images/ampumapaallikko-2006/Thumbnails/luokittelematonampumapaallikko2006_06b.jpg)](/images/ampumapaallikko-2006/luokittelematonampumapaallikko2006_06b.jpg)
+-   [![](/images/ampumapaallikko-2006/Thumbnails/luokittelematonampumapaallikko2006_07b.jpg)](/images/ampumapaallikko-2006/luokittelematonampumapaallikko2006_07b.jpg)
+-   [![](/images/ampumapaallikko-2006/Thumbnails/luokittelematonampumapaallikko2006_08b.jpg)](/images/ampumapaallikko-2006/luokittelematonampumapaallikko2006_08b.jpg)
+-   [![](/images/ampumapaallikko-2006/Thumbnails/luokittelematonampumapaallikko2006_09b.jpg)](/images/ampumapaallikko-2006/luokittelematonampumapaallikko2006_09b.jpg)
+-   [![](/images/ampumapaallikko-2006/Thumbnails/luokittelematonampumapaallikko2006_10b.jpg)](/images/ampumapaallikko-2006/luokittelematonampumapaallikko2006_10b.jpg)
+-   [![](/images/ampumapaallikko-2006/Thumbnails/luokittelematonampumapaallikko2006_11b.jpg)](/images/ampumapaallikko-2006/luokittelematonampumapaallikko2006_11b.jpg)
+-   [![](/images/ampumapaallikko-2006/Thumbnails/luokittelematonampumapaallikko2006_12b.jpg)](/images/ampumapaallikko-2006/luokittelematonampumapaallikko2006_12b.jpg)
+-   [![](/images/ampumapaallikko-2006/Thumbnails/luokittelematonampumapaallikko2006_13b.jpg)](/images/ampumapaallikko-2006/luokittelematonampumapaallikko2006_13b.jpg)
+-   [![](/images/ampumapaallikko-2006/Thumbnails/luokittelematonampumapaallikko2006_14b.jpg)](/images/ampumapaallikko-2006/luokittelematonampumapaallikko2006_14b.jpg)
+-   [![](/images/ampumapaallikko-2006/Thumbnails/luokittelematonampumapaallikko2006_15b.jpg)](/images/ampumapaallikko-2006/luokittelematonampumapaallikko2006_15b.jpg)
+-   [![](/images/ampumapaallikko-2006/Thumbnails/luokittelematonampumapaallikko2006_16b.jpg)](/images/ampumapaallikko-2006/luokittelematonampumapaallikko2006_16b.jpg)
 
 </div>

@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Hallivuoro Granissa 26.2.2005" 
 categories: 
@@ -6,7 +6,7 @@ tags: [uinti]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Hallivuoro Granissa sai jälleen paikalle aktiivisia harrastajia.
 Toimintaa oli tällä kerralla niin veden pinnalla kuin pinnan alla. Tällä
@@ -47,13 +47,13 @@ Ohjeiden mukaisesti rauhallisesti toimien laskeuduttiin pinnan alle ja
 kierrettiin allas pohjaa pitkin, jonka jälkeen noustiin pinnalle
 takaisin paineistamattoman ilman luo.
 
-<div class="image-gallery">
+<div class="image-gallery" markdown="1">
 
--   [![](/Media/Default/ImageGalleries/hallivuoro-granissa-26.2.2005/Thumbnails/vesihallia20050226_01b.jpg)](/Media/Default/ImageGalleries/hallivuoro-granissa-26.2.2005/vesihallia20050226_01b.jpg)
--   [![](/Media/Default/ImageGalleries/hallivuoro-granissa-26.2.2005/Thumbnails/vesihallia20050226_02b.jpg)](/Media/Default/ImageGalleries/hallivuoro-granissa-26.2.2005/vesihallia20050226_02b.jpg)
--   [![](/Media/Default/ImageGalleries/hallivuoro-granissa-26.2.2005/Thumbnails/vesihallia20050226_03b.jpg)](/Media/Default/ImageGalleries/hallivuoro-granissa-26.2.2005/vesihallia20050226_03b.jpg)
--   [![](/Media/Default/ImageGalleries/hallivuoro-granissa-26.2.2005/Thumbnails/vesihallia20050226_04b.jpg)](/Media/Default/ImageGalleries/hallivuoro-granissa-26.2.2005/vesihallia20050226_04b.jpg)
--   [![](/Media/Default/ImageGalleries/hallivuoro-granissa-26.2.2005/Thumbnails/vesihallia20050226_05b.jpg)](/Media/Default/ImageGalleries/hallivuoro-granissa-26.2.2005/vesihallia20050226_05b.jpg)
--   [![](/Media/Default/ImageGalleries/hallivuoro-granissa-26.2.2005/Thumbnails/vesihallia20050226_06b.jpg)](/Media/Default/ImageGalleries/hallivuoro-granissa-26.2.2005/vesihallia20050226_06b.jpg)
+-   [![](/images/hallivuoro-granissa-26.2.2005/Thumbnails/vesihallia20050226_01b.jpg)](/images/hallivuoro-granissa-26.2.2005/vesihallia20050226_01b.jpg)
+-   [![](/images/hallivuoro-granissa-26.2.2005/Thumbnails/vesihallia20050226_02b.jpg)](/images/hallivuoro-granissa-26.2.2005/vesihallia20050226_02b.jpg)
+-   [![](/images/hallivuoro-granissa-26.2.2005/Thumbnails/vesihallia20050226_03b.jpg)](/images/hallivuoro-granissa-26.2.2005/vesihallia20050226_03b.jpg)
+-   [![](/images/hallivuoro-granissa-26.2.2005/Thumbnails/vesihallia20050226_04b.jpg)](/images/hallivuoro-granissa-26.2.2005/vesihallia20050226_04b.jpg)
+-   [![](/images/hallivuoro-granissa-26.2.2005/Thumbnails/vesihallia20050226_05b.jpg)](/images/hallivuoro-granissa-26.2.2005/vesihallia20050226_05b.jpg)
+-   [![](/images/hallivuoro-granissa-26.2.2005/Thumbnails/vesihallia20050226_06b.jpg)](/images/hallivuoro-granissa-26.2.2005/vesihallia20050226_06b.jpg)
 
 </div>

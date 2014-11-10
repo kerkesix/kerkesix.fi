@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Sunnuntailenkki 9.12.2007" 
 categories: 
@@ -6,7 +6,7 @@ tags: [juoksu]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Kirmausta sateessa. Parasta. Eikö totta. Tätä oli tarjolla koko rahalla,
 kun sunnuntailenkki vei Martinlaaksosta Petikon kautta Keimolaan,
@@ -17,11 +17,11 @@ kun kerran Keimolassa oltiin, niin pitihän sitä käydä kääntymässä myös
 Tosin  nopeudet ovat joskus muinoin olleet hieman nopeampia kuin
 lenkillämme...
 
-<div class="image-gallery">
+<div class="image-gallery" markdown="1">
 
--   [![](/Media/Default/ImageGalleries/sunnuntailenkki-9.12.2007/Thumbnails/lenkki%20001.jpg)](/Media/Default/ImageGalleries/sunnuntailenkki-9.12.2007/lenkki%20001.jpg)
--   [![](/Media/Default/ImageGalleries/sunnuntailenkki-9.12.2007/Thumbnails/lenkki%20002.jpg)](/Media/Default/ImageGalleries/sunnuntailenkki-9.12.2007/lenkki%20002.jpg)
--   [![](/Media/Default/ImageGalleries/sunnuntailenkki-9.12.2007/Thumbnails/lenkki%20003.jpg)](/Media/Default/ImageGalleries/sunnuntailenkki-9.12.2007/lenkki%20003.jpg)
--   [![](/Media/Default/ImageGalleries/sunnuntailenkki-9.12.2007/Thumbnails/lenkki%20004.jpg)](/Media/Default/ImageGalleries/sunnuntailenkki-9.12.2007/lenkki%20004.jpg)
+-   [![](/images/sunnuntailenkki-9.12.2007/Thumbnails/lenkki%20001.jpg)](/images/sunnuntailenkki-9.12.2007/lenkki%20001.jpg)
+-   [![](/images/sunnuntailenkki-9.12.2007/Thumbnails/lenkki%20002.jpg)](/images/sunnuntailenkki-9.12.2007/lenkki%20002.jpg)
+-   [![](/images/sunnuntailenkki-9.12.2007/Thumbnails/lenkki%20003.jpg)](/images/sunnuntailenkki-9.12.2007/lenkki%20003.jpg)
+-   [![](/images/sunnuntailenkki-9.12.2007/Thumbnails/lenkki%20004.jpg)](/images/sunnuntailenkki-9.12.2007/lenkki%20004.jpg)
 
 </div>

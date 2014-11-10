@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Tukholman Maraton 2008" 
 categories: 
@@ -6,7 +6,7 @@ tags: [juoksu,maraton]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Jukkiksen, Anun ja Maken tunnelmia naapurimaan kirmailutapahtumasta:
 
@@ -57,9 +57,9 @@ kännykkäänsä ja puhui lyhyehkön puhelun. Ohittaessani kaveria, tokaisin
 hänelle "otit sitten kännykän mukaan maratonille". Kaverin kääntäessä
 päänsä puoleeni, huomasin että siinähän oli Eki itse...
 
-<div class="image-gallery">
+<div class="image-gallery" markdown="1">
 
--   [![](/Media/Default/ImageGalleries/tukholman-maraton-2008/Thumbnails/marakäyrä.JPG)](/Media/Default/ImageGalleries/tukholman-maraton-2008/marakäyrä.JPG)
--   [![](/Media/Default/ImageGalleries/tukholman-maraton-2008/Thumbnails/Sto08.jpg)](/Media/Default/ImageGalleries/tukholman-maraton-2008/Sto08.jpg)
+-   [![](/images/tukholman-maraton-2008/Thumbnails/marakäyrä.JPG)](/images/tukholman-maraton-2008/marakäyrä.JPG)
+-   [![](/images/tukholman-maraton-2008/Thumbnails/Sto08.jpg)](/images/tukholman-maraton-2008/Sto08.jpg)
 
 </div>

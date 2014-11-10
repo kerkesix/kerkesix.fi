@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Sysimusta Satku XII - seuraa tapahtumaa netissä" 
 categories: 
@@ -6,7 +6,7 @@ tags: [satku]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Satkuseuranta on sivusto, jonne päivittyy kävelijöiden eteneminen.
 Sivustolta näkee millä huoltopisteellä kävelijä on käynyt ja milloin.

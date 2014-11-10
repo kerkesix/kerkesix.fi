@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Talvi Tuska Sika Triathlon V - 6.2.2010" 
 categories: 
@@ -6,7 +6,7 @@ tags: [pyöräily,retkiluistelu,juoksu,triathlon]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Aktiivisena kehonräkkäyksen kannattajana Pihvi oli järjestämässä
 Tuskaretket ry:n Talvi Tuska Sika Triathlon V -tapahtumaa. Tätä kautta

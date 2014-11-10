@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Linnun jalkarengas museolle." 
 categories: 
@@ -6,7 +6,7 @@ tags: [melonta,saaristo]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 28-29.5 järjestetyn melontaretken yhteydessä löydettiin majoituspaikan
 läheisyydestä kuollut lintu, jolla havaittiin olevan rengas kiinni

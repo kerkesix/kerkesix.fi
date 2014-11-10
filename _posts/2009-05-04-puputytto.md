@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Puputyttö" 
 categories: 
@@ -6,7 +6,7 @@ tags: [kulttuurijaos]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 4.5.2009 Kerkesix kulttuurijaos kävi katsastamassa Helsingin
 kaupunginteatterin Studio Pasilassa näytelmän nimeltään

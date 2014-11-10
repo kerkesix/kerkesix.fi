@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Kerkesix lukijamatka 2008 Gran Canarialle - päivä 1" 
 categories: 
@@ -6,7 +6,7 @@ tags: [lukijamatka]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Kerke-netin kevään 2008 lukijamatka suuntautui Gran Canarialle, jossa
 paikallisopas Tipu emännöi ryhmää rautaisella otteella.
@@ -29,20 +29,20 @@ suoritettiin tupa, kaappi ja siisteystarkastus. Läpäisty.
 Viimeinen rasti ensimmäisenä iltana oli Saluuna. Sielläkin pärjäsi
 erinomaisesti ensimmäisellä kotimaisella. Ei tarvinnut hablaa.
 
-<div class="image-gallery">
+<div class="image-gallery" markdown="1">
 
--   [![](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-1/Thumbnails/1.JPG)](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-1/1.JPG)
--   [![](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-1/Thumbnails/2.JPG)](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-1/2.JPG)
--   [![](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-1/Thumbnails/3.JPG)](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-1/3.JPG)
--   [![](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-1/Thumbnails/4.JPG)](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-1/4.JPG)
--   [![](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-1/Thumbnails/5.JPG)](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-1/5.JPG)
--   [![](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-1/Thumbnails/6.JPG)](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-1/6.JPG)
--   [![](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-1/Thumbnails/7.JPG)](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-1/7.JPG)
--   [![](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-1/Thumbnails/8.JPG)](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-1/8.JPG)
--   [![](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-1/Thumbnails/9.JPG)](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-1/9.JPG)
--   [![](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-1/Thumbnails/91.JPG)](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-1/91.JPG)
--   [![](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-1/Thumbnails/92.JPG)](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-1/92.JPG)
--   [![](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-1/Thumbnails/93.JPG)](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-1/93.JPG)
--   [![](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-1/Thumbnails/94.JPG)](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-1/94.JPG)
+-   [![](/images/kerkesix-lukijamatka-2008-paiva-1/Thumbnails/1.JPG)](/images/kerkesix-lukijamatka-2008-paiva-1/1.JPG)
+-   [![](/images/kerkesix-lukijamatka-2008-paiva-1/Thumbnails/2.JPG)](/images/kerkesix-lukijamatka-2008-paiva-1/2.JPG)
+-   [![](/images/kerkesix-lukijamatka-2008-paiva-1/Thumbnails/3.JPG)](/images/kerkesix-lukijamatka-2008-paiva-1/3.JPG)
+-   [![](/images/kerkesix-lukijamatka-2008-paiva-1/Thumbnails/4.JPG)](/images/kerkesix-lukijamatka-2008-paiva-1/4.JPG)
+-   [![](/images/kerkesix-lukijamatka-2008-paiva-1/Thumbnails/5.JPG)](/images/kerkesix-lukijamatka-2008-paiva-1/5.JPG)
+-   [![](/images/kerkesix-lukijamatka-2008-paiva-1/Thumbnails/6.JPG)](/images/kerkesix-lukijamatka-2008-paiva-1/6.JPG)
+-   [![](/images/kerkesix-lukijamatka-2008-paiva-1/Thumbnails/7.JPG)](/images/kerkesix-lukijamatka-2008-paiva-1/7.JPG)
+-   [![](/images/kerkesix-lukijamatka-2008-paiva-1/Thumbnails/8.JPG)](/images/kerkesix-lukijamatka-2008-paiva-1/8.JPG)
+-   [![](/images/kerkesix-lukijamatka-2008-paiva-1/Thumbnails/9.JPG)](/images/kerkesix-lukijamatka-2008-paiva-1/9.JPG)
+-   [![](/images/kerkesix-lukijamatka-2008-paiva-1/Thumbnails/91.JPG)](/images/kerkesix-lukijamatka-2008-paiva-1/91.JPG)
+-   [![](/images/kerkesix-lukijamatka-2008-paiva-1/Thumbnails/92.JPG)](/images/kerkesix-lukijamatka-2008-paiva-1/92.JPG)
+-   [![](/images/kerkesix-lukijamatka-2008-paiva-1/Thumbnails/93.JPG)](/images/kerkesix-lukijamatka-2008-paiva-1/93.JPG)
+-   [![](/images/kerkesix-lukijamatka-2008-paiva-1/Thumbnails/94.JPG)](/images/kerkesix-lukijamatka-2008-paiva-1/94.JPG)
 
 </div>

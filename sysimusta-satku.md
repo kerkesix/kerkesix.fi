@@ -2,14 +2,13 @@
 layout: article 
 title: "Sysimusta Satku" 
 permalink: /sysimusta-satku/ 
-categories: 
 tags: [satku]
 toc: false 
 comments: false 
 ads: false 
---- 
+---
 
-![](/Media/Default/Page/sysimusta-satku/satkuIV1.jpg)Sysimusta Satku on
+![](/images/sysimusta-satku/satkuIV1.jpg)Sysimusta Satku on
 reipashenkinen kävelymaaottelu omaa pahaa mieltä vastaan, jossa
 jokaisella on mahdollisuus voittaa itsensä. Tarkoituksena on kulkea
 jalan 100 km:n matka vuorokauden aikana ohjeistettua reittiä pitkin.
@@ -25,7 +24,7 @@ matkan varrella 10 - 15 km välein. Kannattaa kuitenkin varautua
 kuljettamaan tarpeelliseksi katsomiansa varusteita, juomaa ja ravintoa
 repussa huoltopisteiden välillä.
 
-![](/Media/Default/Page/sysimusta-satku/satkuVI1.JPG)
+![](/images/sysimusta-satku/satkuVI1.JPG)
 
 Sysimustan Satkun reitti on rengasreitti, joten aloitus ja lopetus ovat
 samassa paikassa Espoon Kivenlahdessa. Reittiä ei ole merkitty maastoon,
@@ -47,7 +46,7 @@ riittävä aika kulkea 100 km:n matka myös rauhallisesti. Sopiva vauhti ja
 itsestään ja kavereista huolehtiminen matkan aikana antaa hyvän
 tuloksen.
 
-![](/Media/Default/Page/sysimusta-satku/satkuVII1.jpg)
+![](/images/sysimusta-satku/satkuVII1.jpg)
 
 Rationaalisesti ajatellen Sysimusta Satku on pahimman luokan
 ajantuhlausta, jossa ei ole pienintäkään järjen hiventä. Kuitenkin jokin

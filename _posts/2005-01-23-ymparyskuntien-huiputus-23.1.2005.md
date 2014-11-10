@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Ympäryskuntien huiputus 23.1.2005" 
 categories: 
@@ -6,9 +6,9 @@ tags: [vuoristovaellus,ulkoilu]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
-[![](/Media/Default/BlogPost/blog/ymparyskuntien-huiputus-23.1.2005/luokittelematonhuiputus20050123_2b.jpg)](/Media/Default/BlogPost/blog/ymparyskuntien-huiputus-23.1.2005/luokittelematonhuiputus20050123_2b.jpg)Kerkesix
+[![](/images/ymparyskuntien-huiputus-23.1.2005/luokittelematonhuiputus20050123_2b.jpg)](/images/ymparyskuntien-huiputus-23.1.2005/luokittelematonhuiputus20050123_2b.jpg)Kerkesix
 ry jatkoi huiputuksien sarjaa 23.1.2005 etenemällä
 pääkaupunkiseutukuntien rajanaapureiden korkeimmille kohdille. Vuorossa
 olivat Sipoo, Kerava, Tuusula, Nurmijärvi, Vihti ja Kirkkonummi.
@@ -17,7 +17,7 @@ ja 11702 risteyksen maastossa Pohjois-Paippisissa, Sipoossa.
 Alppilähdöllä oli tarkoitus ostaa valoisaa aikaa viimeisiin
 huiputuksiin.
 
-[![](/Media/Default/BlogPost/blog/ymp-auml-ryskuntien-huiputus-23.1.2005/luokittelematonhuiputus20050123_1b%203.jpg)](/Media/Default/BlogPost/blog/ymp-auml-ryskuntien-huiputus-23.1.2005/luokittelematonhuiputus20050123_1b%203.jpg)Kokoontumisen
+[![](/images/ympryskuntien-huiputus-23.1.2005/luokittelematonhuiputus20050123_1b%203.jpg)](/images/ympryskuntien-huiputus-23.1.2005/luokittelematonhuiputus20050123_1b%203.jpg)Kokoontumisen
 jälkeen ensimmäiselle huuiputusyritykselle lähdettiin Sipoon korkeimman
 kohdan Kummelbergenin päälle, joka nousee 95,6 metrin korkeuteen
 merenpinnasta mitattuna. Retkikunta lähestyi massiivia Pornaisten
@@ -26,7 +26,7 @@ Haasteellisia krukseja reitillä toki oli, muttei mitää
 ylitsepääsemätöntä. Näin ollen Kummelbergenin huippu saavutettiin 09.47
 paikallista aikaa.
 
-[![](/Media/Default/BlogPost/blog/ymparyskuntien-huiputus-23.1.2005/luokittelematonhuiputus20050123_4b.jpg)](/Media/Default/BlogPost/blog/ymparyskuntien-huiputus-23.1.2005/luokittelematonhuiputus20050123_4b.jpg)Sipoosta
+[![](/images/ymparyskuntien-huiputus-23.1.2005/luokittelematonhuiputus20050123_4b.jpg)](/images/ymparyskuntien-huiputus-23.1.2005/luokittelematonhuiputus20050123_4b.jpg)Sipoosta
 retkikunta jatkoi matkaa auringon viitoittamaa tietä idästä kohti länttä
 ja saapui matkan seuraavalle kiintopisteelle, Keravalle. Keravan korkein
 kohta paikallistettiin karttatiedustelun jälkeen Koukkukallion päällä
@@ -40,7 +40,7 @@ kolmiomittaustornin jäännökset. Keravan korkein kohta huiputettiin
 kun yksi retkikunnan jäsen joutui keskeyttämään huiputukset. Vahvoja
 epäilyksiä keuhkoödeemasta esitettiin.
 
-[![](/Media/Default/BlogPost/blog/ymparyskuntien-huiputus-23.1.2005/luokittelematonhuiputus20050123_5b.jpg)](/Media/Default/BlogPost/blog/ymparyskuntien-huiputus-23.1.2005/luokittelematonhuiputus20050123_5b.jpg)Loppu
+[![](/images/ymparyskuntien-huiputus-23.1.2005/luokittelematonhuiputus20050123_5b.jpg)](/images/ymparyskuntien-huiputus-23.1.2005/luokittelematonhuiputus20050123_5b.jpg)Loppu
 retkikunta jatkoi kuitenkin sinnikkäästi eteenpäin ja siirtyminen kohti
 pohjoista vei osaston Tuusulan Jokelaan, jossa kunnan korkein kohta
 Temmonmäki (97,1 m) sijaitsee. Tällekään huipulle ei tarvinnut jalkaisin
@@ -49,7 +49,7 @@ huipulla sijaitseva vesitorni oli oiva maamerkki jonka löytäminen
 osoittautui luultua hankalammaksi. Huippu löytyi ja osasto nousi
 Tuusulan korkeimmalle kohdalle 12.02.
 
-[![](/Media/Default/BlogPost/blog/ymparyskuntien-huiputus-23.1.2005/luokittelematonhuiputus20050123_6b.jpg)](/Media/Default/BlogPost/blog/ymparyskuntien-huiputus-23.1.2005/luokittelematonhuiputus20050123_6b.jpg)Retkikunnan
+[![](/images/ymparyskuntien-huiputus-23.1.2005/luokittelematonhuiputus20050123_6b.jpg)](/images/ymparyskuntien-huiputus-23.1.2005/luokittelematonhuiputus20050123_6b.jpg)Retkikunnan
 vaikeudet eivät kuitenkaan olleet ohi. Nurmijärven korkeimmasta kohdasta
 tiedettiin nimi: Palosenkallio, korkeus: 137,0 metriä ja sijainti:
 merkitty karttaan. Kyseinen kartta oli kuitenkin salaperäisesti
@@ -63,7 +63,7 @@ kuviorajana maastossa, joten korkein kohta oli helposti löydettävissä.
 Loppujen lopuksi retkikunta pääsi Nurmijärven korkeimmalle kohdalle
 kello 13.21.
 
-[![](/Media/Default/BlogPost/blog/ymparyskuntien-huiputus-23.1.2005/luokittelematonhuiputus20050123_7b.jpg)](/Media/Default/BlogPost/blog/ymparyskuntien-huiputus-23.1.2005/luokittelematonhuiputus20050123_7b.jpg)Enää
+[![](/images/ymparyskuntien-huiputus-23.1.2005/luokittelematonhuiputus20050123_7b.jpg)](/images/ymparyskuntien-huiputus-23.1.2005/luokittelematonhuiputus20050123_7b.jpg)Enää
 oli jäljellä kaksi kohdetta, joista ensimmäinen Vihdin Rokokallio kohoaa
 156,0 metrin korkeuteen merenpinnasta. Kyseinen huippu on ennalta
 kunnanvirastosta saatujen tietojen mukaan ollut viimeisen jääkauden
@@ -74,7 +74,7 @@ oli muutamaan edelliseen reittiin nähden miellyttävää vaihtelua.
 Rokokallion huipulla sijaitsee kota, jonka vieraskirjaan jätettiin
 merkintä retkikunnan vierailusta paikalla. Huippu saavutettiin 14.35.
 
-[![](/Media/Default/BlogPost/blog/ymparyskuntien-huiputus-23.1.2005/luokittelematonhuiputus20050123_8b.jpg)](/Media/Default/BlogPost/blog/ymparyskuntien-huiputus-23.1.2005/luokittelematonhuiputus20050123_8b.jpg)Tässä
+[![](/images/ymparyskuntien-huiputus-23.1.2005/luokittelematonhuiputus20050123_8b.jpg)](/images/ymparyskuntien-huiputus-23.1.2005/luokittelematonhuiputus20050123_8b.jpg)Tässä
 vaiheessa edettiin kilpaa kellon kanssa: ehdittäisiinkö ennen pimeyden
 laskeutumista nousemaan vielä viimeisen tavoitteen, Kirkkonummen
 huipulle. Tämä kohta nousee n.101 metriä merenpinnan yläpuolelle ja

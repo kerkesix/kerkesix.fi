@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Kajakki hankittu yhdistykselle" 
 categories: 
@@ -6,7 +6,7 @@ tags: [varusteet]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Yhdistys on hankkinut kajakin jäsentensä käyttöön. Kyseessä on väriltään
 keltainen lasikuituinen yksikkö, jonka varustukseen kuuluu myös mela,

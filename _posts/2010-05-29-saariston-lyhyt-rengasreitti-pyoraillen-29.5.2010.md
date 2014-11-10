@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Saariston lyhyt rengasreitti pyöräillen 29.5.2010" 
 categories: 
@@ -6,7 +6,7 @@ tags: [pyöräily,saaristo]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Pihvi oli kutsunut Kerke-kansaa pyöräretkelle Turun saaristoon.
 Ohjelmanumeroksi oli kaavailtu Saariston lyhyt rengasreitti pyörillä

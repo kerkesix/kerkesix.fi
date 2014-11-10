@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Keväinen sunnuntailenkki" 
 categories: 
@@ -6,7 +6,7 @@ tags: [ulkoilu]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Ihan aito kevätpäivä. Aurinko paistoi ja lumi suli. Hiihtomahdollisuudet
 alkavat olla hyvinkin rajoitettuja, joten nyt on taas hyvä mahdollisuus
@@ -20,10 +20,10 @@ pohtia helpompiakin tapoja kuljettaa rattaita.
 
 Mukavaa ulkoilua keväisessä ulkoilmassa.
 
-<div class="image-gallery">
+<div class="image-gallery" markdown="1">
 
--   [![](/Media/Default/ImageGalleries/kevainen-sunnuntailenkki/Thumbnails/peruskuntosl20070311_01b.jpg)](/Media/Default/ImageGalleries/kevainen-sunnuntailenkki/peruskuntosl20070311_01b.jpg)
--   [![](/Media/Default/ImageGalleries/kevainen-sunnuntailenkki/Thumbnails/peruskuntosl20070311_02b.jpg)](/Media/Default/ImageGalleries/kevainen-sunnuntailenkki/peruskuntosl20070311_02b.jpg)
--   [![](/Media/Default/ImageGalleries/kevainen-sunnuntailenkki/Thumbnails/peruskuntosl20070311_03b.jpg)](/Media/Default/ImageGalleries/kevainen-sunnuntailenkki/peruskuntosl20070311_03b.jpg)
+-   [![](/images/kevainen-sunnuntailenkki/Thumbnails/peruskuntosl20070311_01b.jpg)](/images/kevainen-sunnuntailenkki/peruskuntosl20070311_01b.jpg)
+-   [![](/images/kevainen-sunnuntailenkki/Thumbnails/peruskuntosl20070311_02b.jpg)](/images/kevainen-sunnuntailenkki/peruskuntosl20070311_02b.jpg)
+-   [![](/images/kevainen-sunnuntailenkki/Thumbnails/peruskuntosl20070311_03b.jpg)](/images/kevainen-sunnuntailenkki/peruskuntosl20070311_03b.jpg)
 
 </div>

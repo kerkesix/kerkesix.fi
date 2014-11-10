@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Lumikenkävaelluksen SM 2008" 
 categories: 
@@ -6,7 +6,7 @@ tags: [lumikenkäily]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 KSX tietää mitä on lumikenkäily!
 --------------------------------
@@ -133,37 +133,37 @@ osanottajajoukko ja kunnon kilpailuhenki. Kerkesix:n suomenmestaruutta
 ei silti kukaan voi kiistää! Kiitokset kaikille kannustajille ja
 erityisesti kisan järjestäjille. Ensi vuonna tavataan... ehkä?!?
 
-<div class="image-gallery">
+<div class="image-gallery" markdown="1">
 
--   [![](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/Thumbnails/IMG_108.jpg)](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/IMG_108.jpg)
--   [![](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/Thumbnails/IMG_109.JPG)](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/IMG_109.JPG)
--   [![](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/Thumbnails/IMG_110.jpg)](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/IMG_110.jpg)
--   [![](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/Thumbnails/IMG_208.jpg)](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/IMG_208.jpg)
--   [![](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/Thumbnails/IMG_210.JPG)](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/IMG_210.JPG)
--   [![](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/Thumbnails/IMG_211.JPG)](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/IMG_211.JPG)
--   [![](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/Thumbnails/IMG_212.JPG)](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/IMG_212.JPG)
--   [![](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/Thumbnails/IMG_213.JPG)](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/IMG_213.JPG)
--   [![](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/Thumbnails/IMG_214.JPG)](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/IMG_214.JPG)
--   [![](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/Thumbnails/IMG_215.jpg)](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/IMG_215.jpg)
--   [![](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/Thumbnails/IMG_216.jpg)](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/IMG_216.jpg)
--   [![](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/Thumbnails/IMG_217.jpg)](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/IMG_217.jpg)
--   [![](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/Thumbnails/IMG_218.jpg)](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/IMG_218.jpg)
--   [![](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/Thumbnails/IMG_219.jpg)](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/IMG_219.jpg)
--   [![](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/Thumbnails/IMG_221.jpg)](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/IMG_221.jpg)
--   [![](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/Thumbnails/IMG_222.JPG)](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/IMG_222.JPG)
--   [![](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/Thumbnails/IMG_223.JPG)](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/IMG_223.JPG)
--   [![](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/Thumbnails/IMG_224.jpg)](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/IMG_224.jpg)
--   [![](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/Thumbnails/IMG_225.jpg)](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/IMG_225.jpg)
--   [![](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/Thumbnails/IMG_226.jpg)](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/IMG_226.jpg)
--   [![](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/Thumbnails/IMG_227.jpg)](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/IMG_227.jpg)
--   [![](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/Thumbnails/IMG_228.jpg)](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/IMG_228.jpg)
--   [![](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/Thumbnails/IMG_229.jpg)](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/IMG_229.jpg)
--   [![](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/Thumbnails/IMG_230.jpg)](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/IMG_230.jpg)
--   [![](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/Thumbnails/IMG_508.JPG)](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/IMG_508.JPG)
--   [![](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/Thumbnails/IMG_608.jpg)](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/IMG_608.jpg)
--   [![](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/Thumbnails/IMG_708.jpg)](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/IMG_708.jpg)
--   [![](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/Thumbnails/IMG_709.jpg)](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/IMG_709.jpg)
--   [![](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/Thumbnails/IMG_710.jpg)](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/IMG_710.jpg)
--   [![](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/Thumbnails/IMG_901.JPG)](/Media/Default/ImageGalleries/lumikenkavaellus-sm-2008/IMG_901.JPG)
+-   [![](/images/lumikenkavaellus-sm-2008/Thumbnails/IMG_108.jpg)](/images/lumikenkavaellus-sm-2008/IMG_108.jpg)
+-   [![](/images/lumikenkavaellus-sm-2008/Thumbnails/IMG_109.JPG)](/images/lumikenkavaellus-sm-2008/IMG_109.JPG)
+-   [![](/images/lumikenkavaellus-sm-2008/Thumbnails/IMG_110.jpg)](/images/lumikenkavaellus-sm-2008/IMG_110.jpg)
+-   [![](/images/lumikenkavaellus-sm-2008/Thumbnails/IMG_208.jpg)](/images/lumikenkavaellus-sm-2008/IMG_208.jpg)
+-   [![](/images/lumikenkavaellus-sm-2008/Thumbnails/IMG_210.JPG)](/images/lumikenkavaellus-sm-2008/IMG_210.JPG)
+-   [![](/images/lumikenkavaellus-sm-2008/Thumbnails/IMG_211.JPG)](/images/lumikenkavaellus-sm-2008/IMG_211.JPG)
+-   [![](/images/lumikenkavaellus-sm-2008/Thumbnails/IMG_212.JPG)](/images/lumikenkavaellus-sm-2008/IMG_212.JPG)
+-   [![](/images/lumikenkavaellus-sm-2008/Thumbnails/IMG_213.JPG)](/images/lumikenkavaellus-sm-2008/IMG_213.JPG)
+-   [![](/images/lumikenkavaellus-sm-2008/Thumbnails/IMG_214.JPG)](/images/lumikenkavaellus-sm-2008/IMG_214.JPG)
+-   [![](/images/lumikenkavaellus-sm-2008/Thumbnails/IMG_215.jpg)](/images/lumikenkavaellus-sm-2008/IMG_215.jpg)
+-   [![](/images/lumikenkavaellus-sm-2008/Thumbnails/IMG_216.jpg)](/images/lumikenkavaellus-sm-2008/IMG_216.jpg)
+-   [![](/images/lumikenkavaellus-sm-2008/Thumbnails/IMG_217.jpg)](/images/lumikenkavaellus-sm-2008/IMG_217.jpg)
+-   [![](/images/lumikenkavaellus-sm-2008/Thumbnails/IMG_218.jpg)](/images/lumikenkavaellus-sm-2008/IMG_218.jpg)
+-   [![](/images/lumikenkavaellus-sm-2008/Thumbnails/IMG_219.jpg)](/images/lumikenkavaellus-sm-2008/IMG_219.jpg)
+-   [![](/images/lumikenkavaellus-sm-2008/Thumbnails/IMG_221.jpg)](/images/lumikenkavaellus-sm-2008/IMG_221.jpg)
+-   [![](/images/lumikenkavaellus-sm-2008/Thumbnails/IMG_222.JPG)](/images/lumikenkavaellus-sm-2008/IMG_222.JPG)
+-   [![](/images/lumikenkavaellus-sm-2008/Thumbnails/IMG_223.JPG)](/images/lumikenkavaellus-sm-2008/IMG_223.JPG)
+-   [![](/images/lumikenkavaellus-sm-2008/Thumbnails/IMG_224.jpg)](/images/lumikenkavaellus-sm-2008/IMG_224.jpg)
+-   [![](/images/lumikenkavaellus-sm-2008/Thumbnails/IMG_225.jpg)](/images/lumikenkavaellus-sm-2008/IMG_225.jpg)
+-   [![](/images/lumikenkavaellus-sm-2008/Thumbnails/IMG_226.jpg)](/images/lumikenkavaellus-sm-2008/IMG_226.jpg)
+-   [![](/images/lumikenkavaellus-sm-2008/Thumbnails/IMG_227.jpg)](/images/lumikenkavaellus-sm-2008/IMG_227.jpg)
+-   [![](/images/lumikenkavaellus-sm-2008/Thumbnails/IMG_228.jpg)](/images/lumikenkavaellus-sm-2008/IMG_228.jpg)
+-   [![](/images/lumikenkavaellus-sm-2008/Thumbnails/IMG_229.jpg)](/images/lumikenkavaellus-sm-2008/IMG_229.jpg)
+-   [![](/images/lumikenkavaellus-sm-2008/Thumbnails/IMG_230.jpg)](/images/lumikenkavaellus-sm-2008/IMG_230.jpg)
+-   [![](/images/lumikenkavaellus-sm-2008/Thumbnails/IMG_508.JPG)](/images/lumikenkavaellus-sm-2008/IMG_508.JPG)
+-   [![](/images/lumikenkavaellus-sm-2008/Thumbnails/IMG_608.jpg)](/images/lumikenkavaellus-sm-2008/IMG_608.jpg)
+-   [![](/images/lumikenkavaellus-sm-2008/Thumbnails/IMG_708.jpg)](/images/lumikenkavaellus-sm-2008/IMG_708.jpg)
+-   [![](/images/lumikenkavaellus-sm-2008/Thumbnails/IMG_709.jpg)](/images/lumikenkavaellus-sm-2008/IMG_709.jpg)
+-   [![](/images/lumikenkavaellus-sm-2008/Thumbnails/IMG_710.jpg)](/images/lumikenkavaellus-sm-2008/IMG_710.jpg)
+-   [![](/images/lumikenkavaellus-sm-2008/Thumbnails/IMG_901.JPG)](/images/lumikenkavaellus-sm-2008/IMG_901.JPG)
 
 </div>

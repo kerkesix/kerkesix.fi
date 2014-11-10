@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Kaukopartiohiihto Pajulahti-Utti 25.2.2006" 
 categories: 
@@ -6,7 +6,7 @@ tags: [hiihto]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Olimme liikkeellä kolmen miehen partiolla (2 turkulaista ja 1
 salolainen). Muita Kerkesixläisiä ei näkynyt, mutta niitä saattoi olla

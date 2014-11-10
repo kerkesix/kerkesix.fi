@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Tomi ja Arri Everestin huipulla!" 
 categories: 
@@ -6,7 +6,7 @@ tags: [vuoristovaellus,kiipeily]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Tänään 20.5.2009 aamuyöstä Suomen aikaa, KSX-jäsenet Tomi Myllys ja Arri
 Leino ovat nousseet Laskuvarjojääkärikillan retkikunnan osana Mt.

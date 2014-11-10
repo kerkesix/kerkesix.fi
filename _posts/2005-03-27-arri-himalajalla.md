@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Arri Himalajalla" 
 categories: 
@@ -6,7 +6,7 @@ tags: [vuoristovaellus]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Yhdistyksen jäsen Arri on tällä hetkellä matkalla kohti Mount Everestiä
 osana [Laskuvarjojääkärikillan](http://www.lsvjkilta.fi/) retkikuntaa.

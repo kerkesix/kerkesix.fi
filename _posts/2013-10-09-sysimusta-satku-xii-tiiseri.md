@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Sysimusta Satku XII - enää 10 vuorokautta alkuun" 
 categories: 
@@ -6,7 +6,7 @@ tags: [satku]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Reilun viikon kuluttua jalat tikkaavat asfalttia huolella ja kilsat
 kuluvat...

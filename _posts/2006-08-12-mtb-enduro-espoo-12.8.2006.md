@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "MTB Enduro Espoo 12.8.2006" 
 categories: 
@@ -6,7 +6,7 @@ tags: [pyöräily]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Maastopyöräenduro toimii lähes samoin kuin moottorisoitu versiokin. On
 siirtymätaipaleita ja erikoiskokeita. Siirtymät voi mennä
@@ -22,11 +22,11 @@ Latokasken toimipisteeltä.
 
 Tapahtuma oli oivallisesti järjestetty ja aikataulu toimi minuutilleen.
 
-<div class="image-gallery">
+<div class="image-gallery" markdown="1">
 
--   [![](/Media/Default/ImageGalleries/mtb-enduro-espoo-12.8.2006/Thumbnails/peruskuntofillarienduro20060812_01b.jpg)](/Media/Default/ImageGalleries/mtb-enduro-espoo-12.8.2006/peruskuntofillarienduro20060812_01b.jpg)
--   [![](/Media/Default/ImageGalleries/mtb-enduro-espoo-12.8.2006/Thumbnails/peruskuntofillarienduro20060812_02b.jpg)](/Media/Default/ImageGalleries/mtb-enduro-espoo-12.8.2006/peruskuntofillarienduro20060812_02b.jpg)
--   [![](/Media/Default/ImageGalleries/mtb-enduro-espoo-12.8.2006/Thumbnails/peruskuntofillarienduro20060812_03b.jpg)](/Media/Default/ImageGalleries/mtb-enduro-espoo-12.8.2006/peruskuntofillarienduro20060812_03b.jpg)
--   [![](/Media/Default/ImageGalleries/mtb-enduro-espoo-12.8.2006/Thumbnails/peruskuntofillarienduro20060812_04b.jpg)](/Media/Default/ImageGalleries/mtb-enduro-espoo-12.8.2006/peruskuntofillarienduro20060812_04b.jpg)
+-   [![](/images/mtb-enduro-espoo-12.8.2006/Thumbnails/peruskuntofillarienduro20060812_01b.jpg)](/images/mtb-enduro-espoo-12.8.2006/peruskuntofillarienduro20060812_01b.jpg)
+-   [![](/images/mtb-enduro-espoo-12.8.2006/Thumbnails/peruskuntofillarienduro20060812_02b.jpg)](/images/mtb-enduro-espoo-12.8.2006/peruskuntofillarienduro20060812_02b.jpg)
+-   [![](/images/mtb-enduro-espoo-12.8.2006/Thumbnails/peruskuntofillarienduro20060812_03b.jpg)](/images/mtb-enduro-espoo-12.8.2006/peruskuntofillarienduro20060812_03b.jpg)
+-   [![](/images/mtb-enduro-espoo-12.8.2006/Thumbnails/peruskuntofillarienduro20060812_04b.jpg)](/images/mtb-enduro-espoo-12.8.2006/peruskuntofillarienduro20060812_04b.jpg)
 
 </div>

@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Näin valmistat vetorenkaan" 
 categories: 
@@ -6,7 +6,7 @@ tags: [varusteet,renkaanveto]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 ### Vetorengas - mikä ja miksi?
 
@@ -14,7 +14,7 @@ Termi vetorengas saattaa olla lukijalle hieman tuntematon ja siksi on
 hyvä aluksi avata hieman minkä takia ylipäänsä kukaan haluaisi sellaista
 valmistaa. Syvemmin lajin historiaa käsittelemättä harjoitusmuotona
 renkaanvetoa on
-![](/Media/Default/BlogPost/blog/vetorengas/ohjevetorengas_24b.jpg)käytetty
+![](/images/vetorengas/ohjevetorengas_24b.jpg)käytetty
 simuloimaan ahkion vaikutusta etenemiseen ja siten kehittämään
 esimerkiksi arktisella vaelluksella tarvittavaa peruskuntoa ja voimaa.
 Jotta voisi tehdä itselleen hyvää rengasta vetämällä ei tarvitse
@@ -41,7 +41,7 @@ kuluttaa aikaa tarvikkeiden ja työkalujen hankintaan on taas jokaisen
 oma asia.
 
 Valmistusaineet, ingredients (per
-serving):![](/Media/Default/BlogPost/blog/vetorengas/ohjevetorengas_01b.jpg)
+serving):![](/images/vetorengas/ohjevetorengas_01b.jpg)
 
 -   1 auton rengas (koville jätkille nastarengas)
 -   6 m 8-10 mm halkaisijan narua
@@ -62,7 +62,7 @@ melontaliikkeistä. Vetoköydeksi kelpaa lähes mikä tahansa naru, kunhan
 muistaa riittävän vetolujuuden.
 
 Tarvittavat
-työkalut:![](/Media/Default/BlogPost/blog/vetorengas/ohjevetorengas_02b.jpg)
+työkalut:![](/images/vetorengas/ohjevetorengas_02b.jpg)
 
 -   puukko mallia saa tuhoutua
 -   saha
@@ -80,7 +80,7 @@ vetorenkaan ja etäisyys vetäjästä on noin 2,5 metriä. Katkaise köysi
 sopivan mittaiseksi ja estä köyden pään rispaantuminen esimerkiksi
 sulattamalla.
 
-![](/Media/Default/BlogPost/blog/vetorengas/ohjevetorengas_07b.jpg)  ![](/Media/Default/BlogPost/blog/vetorengas/ohjevetorengas_08b.jpg) 
+![](/images/vetorengas/ohjevetorengas_07b.jpg)  ![](/images/vetorengas/ohjevetorengas_08b.jpg) 
 
 Vetopisteen rakentaminen aloitetaan tekemällä renkaan kitkapinnan ja
 sivun liittymäkohtaan kaksi letkun mentävää reikää noin 25 cm:n päähän
@@ -89,8 +89,8 @@ mutta poran käyttöä puoltaa poralla tehdyn reiän reunojen pyöreys.
 Mikäli puukolla tehdään liian syvä viilto, voi rengas revetä viillon
 suuntaan, kun vetoharjoituksessa voima kohdistuu vetopisteeseen. 
 
-![](/Media/Default/BlogPost/blog/vetorengas/ohjevetorengas_05b.jpg) 
- ![](/Media/Default/BlogPost/blog/vetorengas/ohjevetorengas_06b.jpg)
+![](/images/vetorengas/ohjevetorengas_05b.jpg) 
+ ![](/images/vetorengas/ohjevetorengas_06b.jpg)
 
 <div>
 
@@ -102,13 +102,13 @@ rengas jäävät köyden puoliväliin. Vetoköyden molempiin päihin tehdään
 solmu, johon kiinnitetyillä sulkurenkailla vetorengas kiinnitetään
 vetovaljaisiin. Hyvä solmu tähän käyttöön on kasisolmu.
 
-![](/Media/Default/BlogPost/blog/vetorengas/ohjevetorengas_09b.jpg) 
- ![](/Media/Default/BlogPost/blog/vetorengas/ohjevetorengas_16b.jpg)
+![](/images/vetorengas/ohjevetorengas_09b.jpg) 
+ ![](/images/vetorengas/ohjevetorengas_16b.jpg)
 
 Jos et koe tarvitsevasi omaan vetorenkaaseesi juomapullotelinettä voit
 siirtyä suoraan seuraavaan kappaleeseen.
 
-![](/Media/Default/BlogPost/blog/vetorengas/ohjevetorengas_10b.jpg)
+![](/images/vetorengas/ohjevetorengas_10b.jpg)
 Ne renkaanvetäjät, joille juomapullon helppo mukanakuljetettavuus on
 tärkeää, sen sijaan mitoittavat kuminauhasta oman juomapullonsa
 ympärysmitan verran lisättynä 20 cm:llä. Muista jälleen estää nauhan
@@ -122,10 +122,10 @@ ulos. Juomapulloteline on hyvä sijoittaa siten ettei se häiritse
 vetotoimintaa. Oheisista valokuvista näkee esimerkin omasta
 ratkaisustamme.
 
-![](/Media/Default/BlogPost/blog/vetorengas/ohjevetorengas_11b.jpg) 
- ![](/Media/Default/BlogPost/blog/vetorengas/ohjevetorengas_12b.jpg)
+![](/images/vetorengas/ohjevetorengas_11b.jpg) 
+ ![](/images/vetorengas/ohjevetorengas_12b.jpg)
 
-![](/Media/Default/BlogPost/blog/vetorengas/ohjevetorengas_13b.jpg)
+![](/images/vetorengas/ohjevetorengas_13b.jpg)
 
 Mitoita laudasta/levystä renkaalle pohja, jonka päälle painot tullaan
 kasaamaan. Mitoittaessasi ota huomioon, että pohjan täytyy mahtua sisään
@@ -137,8 +137,8 @@ poikittain asetetulla laudalla. Ruuvien avulla saat pohjasta tukevan.
 Ruuvit kannattaa mitoittaa siten etteivät ne pistä esiin lautojen läpi
 ja raavi maata.
 
-![](/Media/Default/BlogPost/blog/vetorengas/ohjevetorengas_15b.jpg) 
- ![](/Media/Default/BlogPost/blog/vetorengas/ohjevetorengas_20b.jpg)
+![](/images/vetorengas/ohjevetorengas_15b.jpg) 
+ ![](/images/vetorengas/ohjevetorengas_20b.jpg)
 
 <span class="Apple-style-span">\
 </span>
@@ -154,8 +154,8 @@ kiinnitetty toisiinsa selän takana sulkurenkaalla. Huomioi, että repun
 ja etenkin lantiovyön on oltava riittävän kestävä </span>^3^<span
 class="Apple-style-span">.</span>
 
-![](/Media/Default/BlogPost/blog/vetorengas/ohjevetorengas_18b.jpg) 
- ![](/Media/Default/BlogPost/blog/vetorengas/ohjevetorengas_23b.jpg)
+![](/images/vetorengas/ohjevetorengas_18b.jpg) 
+ ![](/images/vetorengas/ohjevetorengas_23b.jpg)
 
 Tässä vaiheessa vetorengas on käyttöä vaille valmis. Renkaaseen
 kannattaa lisätä painoksi kiviä tai muuta painavaa tavaraa, jonka
@@ -163,8 +163,8 @@ jälkeen matka harjoituspoluille on avoin. Noin 80 kiloiselle miehelle
 hyvä aloituspaino on 25 kg. Yksi rengas kestää puhkeamatta noin 100
 kaksituntista harjoitusta. Oivallisia vetoja!
 
-![](/Media/Default/BlogPost/blog/vetorengas/ohjevetorengas_21b.jpg) 
- ![](/Media/Default/BlogPost/blog/vetorengas/ohjevetorengas_22b.jpg)
+![](/images/vetorengas/ohjevetorengas_21b.jpg) 
+ ![](/images/vetorengas/ohjevetorengas_22b.jpg)
 
 *^1^ Jos haluaa kikkailla niin jotain ainetta laudan tai levyn
 suojaamiseen kosteudelta, myös maalina tunnettua.\

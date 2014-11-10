@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Kerkesix lukijamatka 2008 Gran Canarialle - päivä 8" 
 categories: 
@@ -6,7 +6,7 @@ tags: [lukijamatka]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Kohtuullisen nopeasti menneen viikon jälkeen oli hyvä todeta, että
 tänään matkustetaan kotiin. Lento oli aikataulutettu lähtemään kello
@@ -28,12 +28,12 @@ pääsi liikkeelle 1,5 tuntia myöhässä.
 
 Kaikkinensa kelvollinen reissu.
 
-<div class="image-gallery">
+<div class="image-gallery" markdown="1">
 
--   [![](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-8/Thumbnails/DSC00946.JPG)](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-8/DSC00946.JPG)
--   [![](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-8/Thumbnails/DSC_1034.JPG)](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-8/DSC_1034.JPG)
--   [![](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-8/Thumbnails/DSC_1051.JPG)](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-8/DSC_1051.JPG)
--   [![](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-8/Thumbnails/DSC_1081.JPG)](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-8/DSC_1081.JPG)
--   [![](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-8/Thumbnails/DSC_1097.JPG)](/Media/Default/ImageGalleries/kerkesix-lukijamatka-2008-paiva-8/DSC_1097.JPG)
+-   [![](/images/kerkesix-lukijamatka-2008-paiva-8/Thumbnails/DSC00946.JPG)](/images/kerkesix-lukijamatka-2008-paiva-8/DSC00946.JPG)
+-   [![](/images/kerkesix-lukijamatka-2008-paiva-8/Thumbnails/DSC_1034.JPG)](/images/kerkesix-lukijamatka-2008-paiva-8/DSC_1034.JPG)
+-   [![](/images/kerkesix-lukijamatka-2008-paiva-8/Thumbnails/DSC_1051.JPG)](/images/kerkesix-lukijamatka-2008-paiva-8/DSC_1051.JPG)
+-   [![](/images/kerkesix-lukijamatka-2008-paiva-8/Thumbnails/DSC_1081.JPG)](/images/kerkesix-lukijamatka-2008-paiva-8/DSC_1081.JPG)
+-   [![](/images/kerkesix-lukijamatka-2008-paiva-8/Thumbnails/DSC_1097.JPG)](/images/kerkesix-lukijamatka-2008-paiva-8/DSC_1097.JPG)
 
 </div>

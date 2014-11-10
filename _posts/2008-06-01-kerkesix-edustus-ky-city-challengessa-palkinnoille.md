@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Kerkesix edustus KY City Challengessa palkinnoille" 
 categories: 
@@ -6,7 +6,7 @@ tags: [melonta,pyöräily,suunnistus]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Kerkesix edustusta KY City Challengessa   Opiskelijoille tarkoitettu
 urbaani seikkailukisa KY City Challenge oli tänä tänä vuonna edustettuna

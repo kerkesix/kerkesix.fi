@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Vaasan Maraton 3.9.2005" 
 categories: 
@@ -6,12 +6,12 @@ tags: [juoksu,maraton]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Vaasan Maraton syyskuun ensimmäisenä viikonloppuna sai vastaanottaa
 Kerkesix ry:n delegaation. Ohessa Minnan kertomus tapahtumasta:
 
-[![](/Media/Default/BlogPost/blog/vaasan-maraton-3.9.2005/peruskuntovaasanmaraton2005_01b.jpg)](/Media/Default/BlogPost/blog/vaasan-maraton-3.9.2005/peruskuntovaasanmaraton2005_01b.jpg)Ajatus
+[![](/images/vaasan-maraton-3.9.2005/peruskuntovaasanmaraton2005_01b.jpg)](/images/vaasan-maraton-3.9.2005/peruskuntovaasanmaraton2005_01b.jpg)Ajatus
 Maratonin juoksemisesta oli muhinut päässäni jo muutamia vuosia ja
 vihdoin päätin lähteä yrittämään. Ensin suunnitelmissani oli mennä
 elokuussa Helsinkiin, mutta sitten päädyinkin harkinnan jälkeen
@@ -50,7 +50,7 @@ kilometritolpan kohdalla koin pienen kuoleman: "Ei voi olla enää viittä
 kilometriä jäljellä... varmasti on tultu jo ainakin kolme kilsaa
 edellisestä merkistä, nyt minua huijataan..."
 
-[![](/Media/Default/BlogPost/blog/vaasan-maraton-3.9.2005/peruskuntovaasanmaraton2005_02b.jpg)](/Media/Default/BlogPost/blog/vaasan-maraton-3.9.2005/peruskuntovaasanmaraton2005_02b.jpg)Tuntui
+[![](/images/vaasan-maraton-3.9.2005/peruskuntovaasanmaraton2005_02b.jpg)](/images/vaasan-maraton-3.9.2005/peruskuntovaasanmaraton2005_02b.jpg)Tuntui
 kuin jalat voisivat sanoa sopimuksen irti ihan millä askeleella tahansa,
 mutta päätin että niin kauan mennään kun jalat vaan liikkuu ja liikkui
 ne lopulta maaliin saakka, sittenkin. Aikakaan ei ollut

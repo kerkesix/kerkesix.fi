@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Tuskaretket ry 10 vuotta" 
 categories: 
@@ -6,9 +6,9 @@ tags: [juhlat]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
-[![](/Media/Default/BlogPost/blog/tuskaretket-ry-10-vuotta-v/1.JPG)Tuskaretket
+[![](/images/tuskaretket-ry-10-vuotta-v/1.JPG)Tuskaretket
 ry](http://www.tuskaretket.fi/) täytti 10 vuotta ja juhlallisuudet
 tapahtumaan liittyen järjestettiin 1.10.2011 Turussa. Juhlaan oli
 kutsuttu myös edustus Kerkesix ry:stä. Viralliseen delegaatioon kuului

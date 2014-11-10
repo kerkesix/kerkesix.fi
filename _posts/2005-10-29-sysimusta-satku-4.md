@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Sysimusta Satku IV - 29.10.2005" 
 categories: 
@@ -6,7 +6,7 @@ tags: [satku]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Aurinko paistoi petollisesti pilvettömältä taivaalta samoihin aikoihin,
 kun 31 lähtökuoppiin kaivautunutta innokasta kävelijää valmistautui
@@ -67,40 +67,40 @@ aerobic-askelia lämpimänä pysymiseksi.
 Kerkesix ry kiittää kaikkia kävelyyn ja huoltoon osallistuneita hyvästä
 tapahtumasta.
 
-<div class="image-gallery">
+<div class="image-gallery" markdown="1">
 
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-4/Thumbnails/vaellussatku4_01b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-4/vaellussatku4_01b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-4/Thumbnails/vaellussatku4_02b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-4/vaellussatku4_02b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-4/Thumbnails/vaellussatku4_03b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-4/vaellussatku4_03b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-4/Thumbnails/vaellussatku4_04b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-4/vaellussatku4_04b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-4/Thumbnails/vaellussatku4_06b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-4/vaellussatku4_06b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-4/Thumbnails/vaellussatku4_07b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-4/vaellussatku4_07b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-4/Thumbnails/vaellussatku4_08b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-4/vaellussatku4_08b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-4/Thumbnails/vaellussatku4_09b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-4/vaellussatku4_09b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-4/Thumbnails/vaellussatku4_10b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-4/vaellussatku4_10b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-4/Thumbnails/vaellussatku4_11b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-4/vaellussatku4_11b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-4/Thumbnails/vaellussatku4_12b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-4/vaellussatku4_12b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-4/Thumbnails/vaellussatku4_13b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-4/vaellussatku4_13b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-4/Thumbnails/vaellussatku4_14b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-4/vaellussatku4_14b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-4/Thumbnails/vaellussatku4_15b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-4/vaellussatku4_15b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-4/Thumbnails/vaellussatku4_16b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-4/vaellussatku4_16b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-4/Thumbnails/vaellussatku4_17b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-4/vaellussatku4_17b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-4/Thumbnails/vaellussatku4_18b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-4/vaellussatku4_18b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-4/Thumbnails/vaellussatku4_19b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-4/vaellussatku4_19b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-4/Thumbnails/vaellussatku4_20b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-4/vaellussatku4_20b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-4/Thumbnails/vaellussatku4_21b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-4/vaellussatku4_21b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-4/Thumbnails/vaellussatku4_22b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-4/vaellussatku4_22b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-4/Thumbnails/vaellussatku4_23b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-4/vaellussatku4_23b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-4/Thumbnails/vaellussatku4_24b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-4/vaellussatku4_24b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-4/Thumbnails/vaellussatku4_25b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-4/vaellussatku4_25b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-4/Thumbnails/vaellussatku4_26b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-4/vaellussatku4_26b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-4/Thumbnails/vaellussatku4_27b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-4/vaellussatku4_27b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-4/Thumbnails/vaellussatku4_28b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-4/vaellussatku4_28b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-4/Thumbnails/vaellussatku4_29b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-4/vaellussatku4_29b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-4/Thumbnails/vaellussatku4_30b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-4/vaellussatku4_30b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-4/Thumbnails/vaellussatku4_31b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-4/vaellussatku4_31b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-4/Thumbnails/vaellussatku4_32b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-4/vaellussatku4_32b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-4/Thumbnails/vaellussatku4_33b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-4/vaellussatku4_33b.jpg)
--   [![](/Media/Default/ImageGalleries/sysimusta-satku-4/Thumbnails/vaellussatkuohjeet_03b.jpg)](/Media/Default/ImageGalleries/sysimusta-satku-4/vaellussatkuohjeet_03b.jpg)
+-   [![](/images/sysimusta-satku-4/Thumbnails/vaellussatku4_01b.jpg)](/images/sysimusta-satku-4/vaellussatku4_01b.jpg)
+-   [![](/images/sysimusta-satku-4/Thumbnails/vaellussatku4_02b.jpg)](/images/sysimusta-satku-4/vaellussatku4_02b.jpg)
+-   [![](/images/sysimusta-satku-4/Thumbnails/vaellussatku4_03b.jpg)](/images/sysimusta-satku-4/vaellussatku4_03b.jpg)
+-   [![](/images/sysimusta-satku-4/Thumbnails/vaellussatku4_04b.jpg)](/images/sysimusta-satku-4/vaellussatku4_04b.jpg)
+-   [![](/images/sysimusta-satku-4/Thumbnails/vaellussatku4_06b.jpg)](/images/sysimusta-satku-4/vaellussatku4_06b.jpg)
+-   [![](/images/sysimusta-satku-4/Thumbnails/vaellussatku4_07b.jpg)](/images/sysimusta-satku-4/vaellussatku4_07b.jpg)
+-   [![](/images/sysimusta-satku-4/Thumbnails/vaellussatku4_08b.jpg)](/images/sysimusta-satku-4/vaellussatku4_08b.jpg)
+-   [![](/images/sysimusta-satku-4/Thumbnails/vaellussatku4_09b.jpg)](/images/sysimusta-satku-4/vaellussatku4_09b.jpg)
+-   [![](/images/sysimusta-satku-4/Thumbnails/vaellussatku4_10b.jpg)](/images/sysimusta-satku-4/vaellussatku4_10b.jpg)
+-   [![](/images/sysimusta-satku-4/Thumbnails/vaellussatku4_11b.jpg)](/images/sysimusta-satku-4/vaellussatku4_11b.jpg)
+-   [![](/images/sysimusta-satku-4/Thumbnails/vaellussatku4_12b.jpg)](/images/sysimusta-satku-4/vaellussatku4_12b.jpg)
+-   [![](/images/sysimusta-satku-4/Thumbnails/vaellussatku4_13b.jpg)](/images/sysimusta-satku-4/vaellussatku4_13b.jpg)
+-   [![](/images/sysimusta-satku-4/Thumbnails/vaellussatku4_14b.jpg)](/images/sysimusta-satku-4/vaellussatku4_14b.jpg)
+-   [![](/images/sysimusta-satku-4/Thumbnails/vaellussatku4_15b.jpg)](/images/sysimusta-satku-4/vaellussatku4_15b.jpg)
+-   [![](/images/sysimusta-satku-4/Thumbnails/vaellussatku4_16b.jpg)](/images/sysimusta-satku-4/vaellussatku4_16b.jpg)
+-   [![](/images/sysimusta-satku-4/Thumbnails/vaellussatku4_17b.jpg)](/images/sysimusta-satku-4/vaellussatku4_17b.jpg)
+-   [![](/images/sysimusta-satku-4/Thumbnails/vaellussatku4_18b.jpg)](/images/sysimusta-satku-4/vaellussatku4_18b.jpg)
+-   [![](/images/sysimusta-satku-4/Thumbnails/vaellussatku4_19b.jpg)](/images/sysimusta-satku-4/vaellussatku4_19b.jpg)
+-   [![](/images/sysimusta-satku-4/Thumbnails/vaellussatku4_20b.jpg)](/images/sysimusta-satku-4/vaellussatku4_20b.jpg)
+-   [![](/images/sysimusta-satku-4/Thumbnails/vaellussatku4_21b.jpg)](/images/sysimusta-satku-4/vaellussatku4_21b.jpg)
+-   [![](/images/sysimusta-satku-4/Thumbnails/vaellussatku4_22b.jpg)](/images/sysimusta-satku-4/vaellussatku4_22b.jpg)
+-   [![](/images/sysimusta-satku-4/Thumbnails/vaellussatku4_23b.jpg)](/images/sysimusta-satku-4/vaellussatku4_23b.jpg)
+-   [![](/images/sysimusta-satku-4/Thumbnails/vaellussatku4_24b.jpg)](/images/sysimusta-satku-4/vaellussatku4_24b.jpg)
+-   [![](/images/sysimusta-satku-4/Thumbnails/vaellussatku4_25b.jpg)](/images/sysimusta-satku-4/vaellussatku4_25b.jpg)
+-   [![](/images/sysimusta-satku-4/Thumbnails/vaellussatku4_26b.jpg)](/images/sysimusta-satku-4/vaellussatku4_26b.jpg)
+-   [![](/images/sysimusta-satku-4/Thumbnails/vaellussatku4_27b.jpg)](/images/sysimusta-satku-4/vaellussatku4_27b.jpg)
+-   [![](/images/sysimusta-satku-4/Thumbnails/vaellussatku4_28b.jpg)](/images/sysimusta-satku-4/vaellussatku4_28b.jpg)
+-   [![](/images/sysimusta-satku-4/Thumbnails/vaellussatku4_29b.jpg)](/images/sysimusta-satku-4/vaellussatku4_29b.jpg)
+-   [![](/images/sysimusta-satku-4/Thumbnails/vaellussatku4_30b.jpg)](/images/sysimusta-satku-4/vaellussatku4_30b.jpg)
+-   [![](/images/sysimusta-satku-4/Thumbnails/vaellussatku4_31b.jpg)](/images/sysimusta-satku-4/vaellussatku4_31b.jpg)
+-   [![](/images/sysimusta-satku-4/Thumbnails/vaellussatku4_32b.jpg)](/images/sysimusta-satku-4/vaellussatku4_32b.jpg)
+-   [![](/images/sysimusta-satku-4/Thumbnails/vaellussatku4_33b.jpg)](/images/sysimusta-satku-4/vaellussatku4_33b.jpg)
+-   [![](/images/sysimusta-satku-4/Thumbnails/vaellussatkuohjeet_03b.jpg)](/images/sysimusta-satku-4/vaellussatkuohjeet_03b.jpg)
 
 </div>

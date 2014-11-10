@@ -1,4 +1,4 @@
---- 
+---
 layout: article 
 title: "Ampumapäällikkökilpailu 2004" 
 categories: 
@@ -6,7 +6,7 @@ tags: [ampumapäällikkö]
 toc: false 
 comments: true 
 ads: false 
---- 
+---
 
 Jo ensimmäisen kerran järjestetty Kerkesix Ampumapäällikkökilpailu
 osoittautui jälleen loistavaksi tapahtumaksi. Kaikkiaan 10 kilpailijaa
@@ -53,22 +53,22 @@ saunaa ja iltapalaa. Oivallista!
 2.  Tero 46 pistettä
 3.  Jappe 41 pistettä
 
-<div class="image-gallery">
+<div class="image-gallery" markdown="1">
 
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2004/Thumbnails/ampupaal2004_01b.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2004/ampupaal2004_01b.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2004/Thumbnails/ampupaal2004_02b.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2004/ampupaal2004_02b.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2004/Thumbnails/ampupaal2004_03b.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2004/ampupaal2004_03b.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2004/Thumbnails/ampupaal2004_04b.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2004/ampupaal2004_04b.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2004/Thumbnails/ampupaal2004_05b.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2004/ampupaal2004_05b.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2004/Thumbnails/ampupaal2004_06b.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2004/ampupaal2004_06b.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2004/Thumbnails/ampupaal2004_07b.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2004/ampupaal2004_07b.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2004/Thumbnails/ampupaal2004_08b.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2004/ampupaal2004_08b.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2004/Thumbnails/ampupaal2004_09b.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2004/ampupaal2004_09b.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2004/Thumbnails/ampupaal2004_12b.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2004/ampupaal2004_12b.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2004/Thumbnails/ampupaal2004_13b.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2004/ampupaal2004_13b.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2004/Thumbnails/ampupaal2004_14b.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2004/ampupaal2004_14b.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2004/Thumbnails/ampupaal2004_15b.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2004/ampupaal2004_15b.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2004/Thumbnails/ampupaal2004_16b.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2004/ampupaal2004_16b.jpg)
--   [![](/Media/Default/ImageGalleries/ampumapaallikko-2004/Thumbnails/ampupaal2004_17b.jpg)](/Media/Default/ImageGalleries/ampumapaallikko-2004/ampupaal2004_17b.jpg)
+-   [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_01b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_01b.jpg)
+-   [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_02b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_02b.jpg)
+-   [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_03b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_03b.jpg)
+-   [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_04b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_04b.jpg)
+-   [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_05b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_05b.jpg)
+-   [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_06b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_06b.jpg)
+-   [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_07b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_07b.jpg)
+-   [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_08b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_08b.jpg)
+-   [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_09b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_09b.jpg)
+-   [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_12b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_12b.jpg)
+-   [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_13b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_13b.jpg)
+-   [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_14b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_14b.jpg)
+-   [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_15b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_15b.jpg)
+-   [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_16b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_16b.jpg)
+-   [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_17b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_17b.jpg)
 
 </div>
