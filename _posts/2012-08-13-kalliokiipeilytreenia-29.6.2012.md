@@ -1,43 +1,26 @@
 ---
-layout: article 
-title: "Kalliokiipeilytreeniä Käärmekalliolla 29.6.2012" 
-categories: 
+layout: article
+title: "Kalliokiipeilytreeniä Käärmekalliolla 29.6.2012"
+categories:
 tags: [kiipeily]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
+ads: false
 ---
 
-<span
-style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: FI;">”Arska
-paistaa ja kalliot kutsuvat kiipeilijöitä! </span><span
-style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: FI;">Jotta
+Arska paistaa ja kalliot kutsuvat kiipeilijöitä! Jotta
 ankkuripisteet, solmut ja muut köysitaidot sujuvat turvallisesti, on
-hyvä opetella asiat kerralla oikein.”</span>
+hyvä opetella asiat kerralla oikein.
 
-<span
-style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: FI;"></span>
-
-<span
-style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: FI;">Tällaisilla
-spekseillä Jukkis veti yläankkuritreenit Käärmekalliolla perjantaina
-29.6.2012. </span><span
-style="font-family: 'Times New Roman', serif; font-size: 12pt;">Ikean
-P-paikalla kokoontuivat Jukkiksen lisäksi Heidi, BB, Iltsu, Noora ja
+Tällaisilla spekseillä Jukkis veti yläankkuritreenit Käärmekalliolla perjantaina
+29.6.2012. Ikean P-paikalla kokoontuivat Jukkiksen lisäksi Heidi, BB, Iltsu, Noora ja
 Mirka. Kurssin sisältö vastasi SKIL:n peruskurssia, joten aloitimme
 valjaista, solmuista ja varmistamisesta. Tämän jälkeen rakentelimme
 ankkuripisteitä läheisiin puihin. Ankkuritreenit jatkuivat Käärmekallion
 kalliopätkällä. Jokainen sai tehtyä yläankkurin, jonka varassa uskalsi
-(itse) laskeutua alas. Loppuun</span><span
-style="font-family: 'Times New Roman', serif; font-size: 12pt;"> 
-</span><span
-style="font-family: 'Times New Roman', serif; font-size: 12pt;">tietenkin
+(itse) laskeutua alas. Loppuun tietenkin
 yläköysittelyä vasta tehdyillä ankkureilla. Näillä taidoilla itsenäistä
-kiipeilyä onkin hyvä jatkaa!</span><span
-style="font-family: 'Times New Roman', serif; font-size: 12pt;"> </span>
-
-<span
-style="font-size: 12.0pt; font-family: 'Times New Roman','serif'; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: FI;"> </span>
+kiipeilyä onkin hyvä jatkaa!
 
 <div class="image-gallery" markdown="1">
 

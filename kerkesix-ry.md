@@ -1,11 +1,13 @@
 ---
-layout: article 
-title: "Kerkesix ry" 
-permalink: /kerkesix-ry/ 
+layout: article
+title: "Kerkesix ry"
+permalink: /kerkesix-ry/
 tags: [yhdistys]
-toc: false 
-comments: false 
-ads: false 
+toc: false
+comments: false
+ads: false
+image:
+  feature: kerkesix-ry/feature.jpg
 ---
 
 Kerkesix ry on monipuolista urheilua ja ulkoilua harrastavien ihmisten
@@ -30,5 +32,4 @@ tapahtumiin, sekä käyttämään yhdistyksen toimintaansa varten hankkimia
 varusteita. Jäsenellä on myös mahdollisuus hankkia yhdistyksen
 verkkotunnuspäätteisen sähköpostiosoitteen.
 
-[Yhdistyksen logo](yhdistyksen-logo "Yhdistyksen logo")
-
+[Yhdistyksen logo](/yhdistyksen-logo "Yhdistyksen logo")

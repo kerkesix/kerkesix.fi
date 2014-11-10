@@ -1,11 +1,11 @@
 ---
-layout: article 
-title: "Yhdistyksen logo" 
-permalink: /yhdistyksen-logo/ 
+layout: article
+title: "Yhdistyksen logo"
+permalink: /yhdistyksen-logo/
 tags: [yhdistys,logo]
-toc: false 
-comments: false 
-ads: false 
+toc: false
+comments: false
+ads: false
 ---
 
 Logon muoto sekä värimaailma on määritelty ja näillä perusteilla on
@@ -32,35 +32,12 @@ Ohessa viralliset Kerkesix-värit:
 -   harmaa: Pantone (PMS 7457) RGB (R=214 G=227 B=230)
 -   musta: Pantone (Skin Tone 30) RGB (R=0 G=0 B=0)
 
-<div>
-
-</div>
-
-<div>
-
 Mustalla reunuksella rajattu harmaalla pohjalla oleva musta KSX-teksti,
 jonka s-kirjain on väritetty oranssiksi:
 
-</div>
 
-<div>
-
-![KSX\_logo\_varit\_teksti](/images/yhdistyksen-logo/ker_mure_hapo_ors.jpg)
-
-</div>
-
-<div>
-
-</div>
-
-<div>
+![Värillinen logo](/images/yhdistyksen-logo/ker_mure_hapo_ors.jpg)
 
 KSX-logon mitat:
 
-</div>
-
-<div>
-
 ![](/images/yhdistyksen-logo/mitat.jpg)
-
-</div>

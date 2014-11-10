@@ -1,11 +1,11 @@
 ---
-layout: article 
-title: "Espoonjoen melonta 16.4.2006" 
-categories: 
+layout: article
+title: "Espoonjoen melonta 16.4.2006"
+categories:
 tags: [melonta]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
+ads: false
 ---
 
 [Espoonjoki](http://koti.mbnet.fi/ugo/espoonkuvat/joki.html) on
@@ -14,8 +14,7 @@ säälittävä syy, miksi melonta on jäänyt tekemättä. Tällä kertaa 11.
 käsky: "Älä selitä", muistettiin hyvin ja melonta saatiin suoritettua.
 
 Reitillisesti tavoitteena oli meloa Espoonjoki. Tähän samaan settiin
-yhdistettiin vielä Kvarnbyån<span class="Apple-style-span"
-style="font-size: 8px;"> </span>ja Glimsjoki, jolloin melontamatkaksi
+yhdistettiin vielä Kvarnbyån ja Glimsjoki, jolloin melontamatkaksi
 saatiin yhtenäinen jokiosuus Pitkäjärvestä merelle. Tällä tavalla
 melontareissulle saatiin myöskin pituutta koko päiväksi. Kvarnbyån oli
 mutkittelevaa ja viehättävää metsämaastoa ja Glimsjoki tarjosi

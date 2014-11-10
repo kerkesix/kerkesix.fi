@@ -3,18 +3,18 @@
 - title: Yhdistys
   url: /kerkesix-ry/
   excerpt: "Tietoa yhdistyksestä"
-  image:
-  
+  image: navigation-ksx.jpg
+
 - title: Sysimusta Satku
   url: /sysimusta-satku/
   excerpt: "Matka oman mieleen tummiin sävyihin"
-  image:
-  
+  image: navigation-satku.jpg
+
 - title: Aihepiireittäin
   url: /posts-by-tag/
   excerpt: "Kaikki kirjoitukset listattuna aihepiirien mukaan"
   image:
-  
+
 - title: Kaikki
   url: /posts/
   excerpt: "Kaikki kirjoitukset aikojen alusta asti"

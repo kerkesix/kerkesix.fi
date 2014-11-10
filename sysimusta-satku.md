@@ -1,15 +1,16 @@
 ---
-layout: article 
-title: "Sysimusta Satku" 
-permalink: /sysimusta-satku/ 
+layout: article
+title: "Sysimusta Satku"
+permalink: /sysimusta-satku/
 tags: [satku]
-toc: false 
-comments: false 
-ads: false 
+toc: false
+comments: false
+ads: false
+image:
+  feature: sysimusta-satku/satku-feature.jpg
 ---
 
-![](/images/sysimusta-satku/satkuIV1.jpg)Sysimusta Satku on
-reipashenkinen kävelymaaottelu omaa pahaa mieltä vastaan, jossa
+Sysimusta Satku on reipashenkinen kävelymaaottelu omaa pahaa mieltä vastaan, jossa
 jokaisella on mahdollisuus voittaa itsensä. Tarkoituksena on kulkea
 jalan 100 km:n matka vuorokauden aikana ohjeistettua reittiä pitkin.
 Satku on parhaimmillaan matkantekoa hyvässä seurassa.
@@ -53,13 +54,8 @@ ajantuhlausta, jossa ei ole pienintäkään järjen hiventä. Kuitenkin jokin
 saa ihmiset palaamaan yhä uudestaan samalle uralle tutustumaan omiin
 rajoihinsa.
 
--   [Ohjeita Sysimustalle Satkulle aikovalle](sysimusta-satku-ohje)
--   [Esimerkki varustelistasta](sysimusta-satku-varustelistaesimerkki)
+-   [Ohjeita Sysimustalle Satkulle aikovalle](/sysimusta-satku-ohje)
+-   [Esimerkki varustelistasta](/sysimusta-satku-varustelistaesimerkki)
 -   [Kokemuksia ja vinkkejä entisiltä
-    kävelijöiltä](kokemuksia-ja-vinkkeja-sysimustalta-satkulta)
--   [Satku-Suomi -sanakirja](http://kerkesix.fi/satku-suomi-sanakirja)
--   [Tästä kaikki satkumateriaali](/Tags/satku)
-
-<div>
-
-</div>
+    kävelijöiltä](/kokemuksia-ja-vinkkeja-sysimustalta-satkulta)
+-   [Satku-Suomi -sanakirja](/satku-suomi-sanakirja)

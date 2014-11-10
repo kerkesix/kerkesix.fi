@@ -1,11 +1,11 @@
 ---
-layout: article 
-title: "Näin valmistat vetorenkaan" 
-categories: 
+layout: article
+title: "Näin valmistat vetorenkaan"
+categories:
 tags: [varusteet,renkaanveto]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
+ads: false
 ---
 
 ### Vetorengas - mikä ja miksi?
@@ -92,7 +92,6 @@ suuntaan, kun vetoharjoituksessa voima kohdistuu vetopisteeseen. 
 ![](/images/vetorengas/ohjevetorengas_05b.jpg) 
  ![](/images/vetorengas/ohjevetorengas_06b.jpg)
 
-<div>
 
 Mikäli letku on köyteen nähden ahdas, pujota köyden pää letkun läpi
 ennen kuin alat asettaa letkua paikalleen. Työnnä Letku renkaaseen
@@ -140,8 +139,6 @@ ja raavi maata.
 ![](/images/vetorengas/ohjevetorengas_15b.jpg) 
  ![](/images/vetorengas/ohjevetorengas_20b.jpg)
 
-<span class="Apple-style-span">\
-</span>
 
 <span class="Apple-style-span">Vetorenkaan vetämiseen kannattaa virittää
 tukeva järjestelmä. Oivallisin valjasratkaisu on ehkäpä juuri
@@ -172,5 +169,3 @@ suojaamiseen kosteudelta, myös maalina tunnettua.\
 ^3^ Kerkesix ry ei vastaa hajonneista repuista. Mikäli näitä ohjeita
 seurannut henkilö on arvioinut oman kantolaitteensa kestokyvyn väärin,
 on vastuu yksinomaan käyttäjällä.*
-
-</div>

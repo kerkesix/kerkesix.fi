@@ -1,15 +1,14 @@
 ---
-layout: article 
-title: "Satkujalat" 
-permalink: /satkujalat/ 
+layout: article
+title: "Satkujalat"
+permalink: /satkujalat/
 tags: [satku]
-toc: false 
-comments: false 
-ads: false 
+toc: false
+comments: false
+ads: false
 ---
 
 Näiden kuvien tunnelmissa voi motivoitua huoltamaan jalkojaan
 Sysimustalla Satkulla.
 
-[![](/images/CIMG4081.JPG)](/images/CIMG4081.JPG) [![](/images/IMG_0978.JPG)](/images/IMG_0978.JPG)[![](/images/IMG_0979.JPG)](/images/IMG_0979.JPG) [![](/images/satku3%20043.jpg)](/images/satku3%20043.jpg)[![](/images/PA305379.JPG)](/images/PA305379.JPG) [![](/images/Satku%20VII%20163.jpg)](/images/Satku%20VII%20163.jpg)[![](/images/Satkumanikyyri%20002.jpg)](/images/Satkumanikyyri%20002.jpg) [![](/images/Sysimusta%20Satku%20046.jpg)](/images/Sysimusta%20Satku%20046.jpg)
-
+[![](/images/satkujalat/CIMG4081.JPG)](/images/satkujalat/CIMG4081.JPG) [![](/images/satkujalat/IMG_0978.JPG)](/images/satkujalat/IMG_0978.JPG)[![](/images/satkujalat/IMG_0979.JPG)](/images/satkujalat/IMG_0979.JPG) [![](/images/satkujalat/satku3%20043.jpg)](/images/satkujalat/satku3%20043.jpg)[![](/images/satkujalat/PA305379.JPG)](/images/satkujalat/PA305379.JPG) [![](/images/satkujalat/Satku%20VII%20163.jpg)](/images/satkujalat/Satku%20VII%20163.jpg)[![](/images/satkujalat/Satkumanikyyri%20002.jpg)](/images/satkujalat/Satkumanikyyri%20002.jpg) [![](/images/satkujalat/Sysimusta%20Satku%20046.jpg)](/images/satkujalat/Sysimusta%20Satku%20046.jpg)

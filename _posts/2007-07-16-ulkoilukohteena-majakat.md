@@ -1,11 +1,13 @@
 ---
-layout: article 
-title: "Ulkoilukohteena majakat" 
-categories: 
+layout: article
+title: "Ulkoilukohteena majakat"
+categories:
 tags: [ulkoilukohteet,saaristo]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
+ads: false
+image:
+  feature: ulkoilukohteena-majakat/bengtskar2.jpg
 ---
 
 [![](/images/ulkoilukohteena-majakat/marjaniemi2.jpg)](/images/ulkoilukohteena-majakat/marjaniemi2.jpg)Majakat
@@ -17,7 +19,7 @@ tulenjohto- tai rannikkovalvonta-asemina ja osana suomalaista
 sotahistoriaa. Bengtskärin taistelu kesällä 1941 jätti jälkensä
 majakalle kranaatin sirpaleina hirsissä ja iskeminä graniitissa.
 Jääkärit tulivat Orrengrundin tunnusmajakan kautta Saksasta suomeen
-1918. Ja kuinka usein ne ovatkaan inspiroineet kirjailijoita ja
+1918\. Ja kuinka usein ne ovatkaan inspiroineet kirjailijoita ja
 käsikirjoittajia tarinoihin. Raid tappeli Porkkalan Kallbådan majakalla.
 Porvoon Pellingin saaristossa Klovaharunissa elämänsä viettänyt Tove
 Jansson käytti viereistä Glosholmin majakkaa ja sen kartiokattoa
@@ -66,9 +68,7 @@ tarjoaa vierailleen vaihtelevan kokemuksen ja punkkien ja käärmeiden
 vältteleminen on myös ohjelmanumero sinänsä. Saarella toimii kahvila ja
 bed&breakfast jos ei halua virittää omaa telttaa rannalle.
 
-[](/images/ulkoilukohteena-majakat/************><img%20src=) 
  [![](/images/ulkoilukohteena-majakat/isokari2.jpg)](/images/ulkoilukohteena-majakat/isokari2.jpg)
-
  
 
 Bengtskär
@@ -143,7 +143,7 @@ lauttakuski Jan-Anders Hägeriltä på svenska (tel. 0400 229 149).
 
  
 
-Söderskär {style="color: #000000; font-size: 16px;"}
+Söderskär
 ---------
 
 Söderskär ei enää loista. Valo on sammutettu 1989. Majakka toimii
@@ -166,7 +166,7 @@ kotisivut [www.soderskar.fi](http://www.soderskar.fi/).
 
  
 
-Gustafsvärn {style="color: #000000; font-size: 16px;"}
+Gustafsvärn
 ===========
 
 Gustafsvärnin majakka sijaitsee aivan Hangon kaupungin edustalla.
@@ -187,7 +187,7 @@ suuren osan muuria.
 
  
 
-Jussarö {style="color: #000000; font-size: 16px;"}
+Jussarö 
 =======
 
 [![](/images/ulkoilukohteena-majakat/jussaro1.jpg)](/images/ulkoilukohteena-majakat/jussaro1.jpg)Jussärön
@@ -217,4 +217,3 @@ kanssa!
 
 [![](/images/ulkoilukohteena-majakat/punkki1.jpg)](/images/ulkoilukohteena-majakat/punkki1.jpg) 
  [![](/images/ulkoilukohteena-majakat/punkki2.jpg)](/images/ulkoilukohteena-majakat/punkki2.jpg)
-

@@ -1,11 +1,13 @@
 ---
-layout: article 
-title: "Spring Adventure 2010" 
-categories: 
+layout: article
+title: "Spring Adventure 2010"
+categories:
 tags: [multisport,suunnistus,juoksu,pyöräily]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
+ads: false
+image:
+  feature: spring-adventure-2010/Image0003.jpg
 ---
 
 KSX edustusta nähtiin Lohjan maisemissa kevään ensimmäisessä multisport
@@ -14,10 +16,6 @@ Kisailijoita oli tähän vuoden ensimmäiseen kilpailuun kerääntynytkin
 melkoisesti ja laji on selkeästi nostanut suosiotaan. Kuntosarjaan
 starttasi kaiken kaikkiaan 21 joukkuetta eikä reitillä tarvinnut tällä
 kertaa olla todellakaan yksin.
-
-![](/images/spring-adventure-2010/Image0003%20(1).jpg)
-
-<div>
 
 Kisa alkoi juoksulla ja lyhyehkön pyrähdyksen jälkeen odottikin jo
 ensimmäinen Quest-tehtävä. 10 x 10 muotoiselle aluelle oli levitetty 100
@@ -51,5 +49,3 @@ Maalissa Emit oli kuitenkin eri mieltä eikä suostunut enää toimimaan.
 Näinpä vuoden ensimmäisessä kilpailussa KSX sedät hylättiin ja saimme
 tulokseksi vain DNQ. Hauskaa kuitenkin oli jälleen kerran ja tiimimme
 toimi loistavasti!
-
-</div>

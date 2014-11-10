@@ -1,11 +1,11 @@
 ---
-layout: article 
-title: "Halti ulkoilukohteena" 
-categories: 
+layout: article
+title: "Halti ulkoilukohteena"
+categories:
 tags: [ulkoilukohteet]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
+ads: false
 ---
 
 Suomen korkein maantieteellinen piste hijaitsee [Käsivarren
@@ -117,9 +117,6 @@ hyttyset loitolla.
 ![](/images/halti-ulkoilukohteena/Haltilla%2020050715%20040b.jpg) 
  ![](/images/halti-ulkoilukohteena/Haltilla%2020050715%20040d.jpg)
 
-<div>
-
-\
 ![](/images/halti-ulkoilukohteena/Haltilla%2020050715%20040c.jpg)Alkumatkasta
 pari kalamiestä tuli vastaan, kehuivat saaneensa saalista juhlavasti,
 itselläni ei ollut kalavehkeitä mukana, ongitaan joku toinen kerta.
