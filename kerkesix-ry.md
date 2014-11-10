@@ -27,7 +27,7 @@ yhdistyksen osoitteeseen. Hallituksen hyväksynnän jälkeen hakija
 vahvistaa jäsenyytensä maksamalla kuluvan vuoden liittymis- ja
 jäsenmaksut yhdistyksen tilille.
 
-Kerkesix ry: jäsen on oikeutettu osallistumaan yhdistyksen järjestämiin
+Kerkesix ry:n jäsen on oikeutettu osallistumaan yhdistyksen järjestämiin
 tapahtumiin, sekä käyttämään yhdistyksen toimintaansa varten hankkimia
 varusteita. Jäsenellä on myös mahdollisuus hankkia yhdistyksen
 verkkotunnuspäätteisen sähköpostiosoitteen.
