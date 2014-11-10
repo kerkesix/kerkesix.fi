@@ -1,4 +1,3 @@
-
 ---
 layout: article
 title: "Kokemuksia ja vinkkejä Sysimustalta Satkulta"
@@ -139,7 +138,7 @@ alamäet, jos pystyt"
 > "Kävelyreeniä, ei juoksureenejä. Kenkävalinta on erittäin tärkeä. Itse
 onnistuin munaamaan sen."
 
-> "Vanha viisaus, ei matka tapa vaan vauhti, ja kengänvalinta: Isohkot lenkkarit, 
+> "Vanha viisaus, ei matka tapa vaan vauhti, ja kengänvalinta: Isohkot lenkkarit,
 joilla kävelty reilusti ja matkalla sukkia vähemmäksi [jalan](/satkujalat) turpoamisen mukaan."
 
 > "Hyvät kengät, lyhyet tauot, riittävästi eväitä, joka taukopaikalta
