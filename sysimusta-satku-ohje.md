@@ -1,11 +1,11 @@
 ---
-layout: article 
-title: "Sysimusta Satku ohje" 
-permalink: /sysimusta-satku-ohje/ 
+layout: article
+title: "Sysimusta Satku ohje"
+permalink: /sysimusta-satku-ohje/
 tags: [satku]
-toc: false 
-comments: false 
-ads: false 
+toc: true
+comments: false
+ads: false
 ---
 
 Ohjeita, mihin?
@@ -51,7 +51,7 @@ hiertymiä. Alussukkien tehtävä on siirtää kosteutta mahdollisimman
 tehokkaasti pois jalan pinnasta pitäen jalan pintaa kuivempana. Samalla
 alussukka toimii jalan suojana ja hiertyminen tapahtuu alussukan ja
 toisen sukan välillä, eikä jalan ihon ja sukan välillä. Jalkahuollon
-tärkeydestä voi motivoitua [satkujalkojen](satkujalat) sivulla.
+tärkeydestä voi motivoitua [satkujalkojen](/satkujalat) sivulla.
 
 Koska Sysimustalla Satkulla reitti kulkee kestopäällystettyjä teitä
 pitkin, kannattaa kenkien olla mahdollisimman kevyet ja riittävällä
@@ -74,7 +74,7 @@ pakattuna kuljetuksen lähtöön mennessä. Laatikon ulkomitat ovat 54 cm x
 36 cm x 28 cm, ja tilavuus on 52 l.
 
 Jos kovasti askarruttaa tämä varustepuoli, niin
-[esimerkinomainen varustelista](sysimusta-satku-varustelistaesimerkki) saattaa
+[esimerkinomainen varustelista](/sysimusta-satku-varustelistaesimerkki) saattaa
 auttaa ensihätään.
 
 Entäpä ruoka ja juoma?
@@ -126,6 +126,5 @@ Jokaisella osallistujalla on oltava seuraava pakollinen varustus mukana:
 
 Muu varustus on enemmän tai vähemmän hyödyllistä, mutta aikaisempien
 kokemusten perusteella
-koottu [varustelista](sysimusta-satku-varustelistaesimerkki) antaa
+koottu [varustelista](/sysimusta-satku-varustelistaesimerkki) antaa
 osviittaa siitä, mitä matkan varrella saattaa tarvita.
-
