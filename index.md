@@ -2,9 +2,9 @@
 layout: home
 permalink: /
 title: "Kerkesix ry"
-excerpt: "Hyvän mielen asialla vuodesta 2004."
+excerpt: "Hyvän mielen asialla jo vuodesta 2003."
 image:
-  feature: home-feature2.jpg
+  feature: home-feature.jpg
 ---
 
 <div class="tiles">

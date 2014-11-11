@@ -80,7 +80,7 @@
   }
 }
 // thumbnail image grid oversized
-.th-grid-full {
+.th-grid-full, .image-gallery > ul {
   @include clearfix;
   margin: 0;
   padding: 0;
@@ -91,7 +91,7 @@
     .archive-wrap & {
       margin-right: 0;
     }
-  }  
+  }
   li {
     list-style: none;
     margin-bottom: flex-gutter($grid-columns);
