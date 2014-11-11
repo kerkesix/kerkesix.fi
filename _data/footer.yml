@@ -1,4 +1,13 @@
 # Footer navigation links
 
-- title: 
-  url:
+- title: Yhdistys
+  url: /kerkesix-ry/
+
+- title: Sysimusta Satku
+  url: /sysimusta-satku/
+
+- title: Aihepiireittäin
+  url: /posts-by-tag/
+
+- title: Kaikki
+  url: /posts/
