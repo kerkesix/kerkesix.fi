@@ -6,10 +6,11 @@ tags: [juoksu]
 toc: false
 comments: true
 ads: false
+author: jappe
 ---
 
-![](/images/sunnuntailenkki-lohjalla/02102011092.jpg)TT:n
-sanoin:
+![](/images/sunnuntailenkki-lohjalla/02102011092.jpg)
+[TT:n](http://teelahti.fi) sanoin:
 
 > "Oli aika jolloin Kerkesix juoksi säännöllisesti
 sunnuntailenkkejä. Sitten kaikista tuli lihavia ja laiskoja. Tästä

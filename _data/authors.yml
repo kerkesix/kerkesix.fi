@@ -1,0 +1,14 @@
+jappe:
+  name: Jappe Aho
+  # web:
+  email: jappe@ksx.fi
+  # bio: "What do you want, jewels? I am a very extravagant man."
+  avatar: bio-photo.jpg
+  twitter: jappeaho
+
+tero:
+  name: Tero Teelahti
+  email: tero@ksx.fi
+  # bio: "Kerkenörtti"
+  avatar: bio-photo.jpg
+  twitter: teelahti
