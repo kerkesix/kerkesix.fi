@@ -22,3 +22,12 @@ $(document).ready(function(){
 	// Target your .container, .wrapper, .post, etc.
 	$("#main").fitVids();
 });
+
+// Gallery Popups
+$(document).ready(function(){
+	$('.image-gallery > ul').magnificPopup({
+	  delegate: 'a',
+	  type: 'image',
+	  gallery: { enabled:true }
+	});
+});

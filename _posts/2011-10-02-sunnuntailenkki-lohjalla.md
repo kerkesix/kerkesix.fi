@@ -1,17 +1,17 @@
 ---
-layout: article 
-title: "Sunnuntailenkki Lohjalla" 
-categories: 
+layout: article
+title: "Sunnuntailenkki Lohjalla"
+categories:
 tags: [juoksu]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
+ads: false
 ---
 
 ![](/images/sunnuntailenkki-lohjalla/02102011092.jpg)TT:n
 sanoin:
 
-"Oli aika jolloin Kerkesix juoksi säännöllisesti
+> "Oli aika jolloin Kerkesix juoksi säännöllisesti
 sunnuntailenkkejä. Sitten kaikista tuli lihavia ja laiskoja. Tästä
 huolimatta voitaisiin kokeilla taas elvyttää tätä perinnettä. Ensi
 sunnuntaina juostaan noin puolentoista tunnin lenkki pääosin poluilla ja
@@ -21,4 +21,3 @@ mukavia. (Myös laihat ja aktiiviset saavat tulla.)"
 Ja näin tapahtui, paitsi että laihoja ja aktiivisia ei näkynyt.  Ja
 menihän se juoksu vähän pitkäksikin 1 tunti ja 34 minuuttia... No silti
 oli kivaa.
-
