@@ -1,11 +1,13 @@
 ---
-layout: article 
-title: "Harvaluodon melonta 3.-4.6.2011" 
-categories: 
+layout: article
+title: "Harvaluodon melonta 3.-4.6.2011"
+categories:
 tags: [melonta,saaristo]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
+ads: false
+image:
+  feature: harvaluodon-melonta-3.6.2011/feature.jpg
 ---
 
 Pihvi järjesti Turun suunnalla melontatuokion 3.-4.6.2011. Ohjelmassa

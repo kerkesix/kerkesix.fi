@@ -6,10 +6,11 @@ tags: [juoksu]
 toc: false
 comments: true
 ads: false
+image:
+  feature: sunnuntailenkki-lohjalla/02102011092.jpg
 author: jappe
 ---
 
-![](/images/sunnuntailenkki-lohjalla/02102011092.jpg)
 [TT:n](http://teelahti.fi) sanoin:
 
 > "Oli aika jolloin Kerkesix juoksi säännöllisesti
