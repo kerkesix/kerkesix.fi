@@ -13,9 +13,9 @@
 - title: Aihepiireittäin
   url: /posts-by-tag/
   excerpt: "Kaikki kirjoitukset listattuna aihepiirien mukaan"
-  image:
+  image: navigation-tag.jpg
 
 - title: Kaikki
   url: /posts/
   excerpt: "Kaikki kirjoitukset aikojen alusta asti"
-  image:
+  image: navigation-calendar.jpg
