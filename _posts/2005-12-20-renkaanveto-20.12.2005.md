@@ -1,11 +1,11 @@
 ---
-layout: article 
-title: "Jarru taakse ja menoksi - Renkaanvetoa 20.12.2005" 
-categories: 
+layout: article
+title: "Jarru taakse ja menoksi - Renkaanvetoa 20.12.2005"
+categories:
 tags: [renkaanveto]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
+ads: false
 ---
 
 ![](http://uusi.kerkesix.fi/images/renkaanveto-20.12.2005/peruskuntorengas20051220_02b.jpg)
@@ -29,5 +29,4 @@ harjoitusohjelmaan.
 
 Mikäli renkaanvetovarvasta alkaa poltella, niin sivuiltamme löydät
 testatun ja useilla painoilla palkitun vetorenkaan
-[valmistusohjeen](vetorengas).
-
+[valmistusohjeen](/vetorengas).
