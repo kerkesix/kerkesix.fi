@@ -10,7 +10,7 @@ author: tero
 ---
 
 Mikään ei ole niin varmaa kuin muutos: <http://kerkesix.fi>-sivuista julkaistiin
-tänään kuudes versio. Yhdistyksellä on historiaa takana vajaa 15 vuotta, joten
+tänään kuudes versio. Yhdistyksellä on historiaa takana vajaa 12 vuotta, joten
 yksi versio elää keskimäärin aina pari - kolme vuotta.
 
 Tällä kertaa panostettiin luettavuuteen, nopeuteen, keveyteen, ja parempaan
