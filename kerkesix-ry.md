@@ -7,7 +7,9 @@ toc: false
 comments: false
 ads: false
 image:
-  feature: kerkesix-ry/feature.jpg
+  feature: kerkesix-ry/feature-campfire.jpg
+  credit: Tero Koski
+  creditlink: https://www.flickr.com/photos/tt_koski/10912711933/in/set-72157634740066479
 ---
 
 Kerkesix ry on monipuolista urheilua ja ulkoilua harrastavien ihmisten
