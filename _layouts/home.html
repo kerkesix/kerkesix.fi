@@ -12,9 +12,12 @@
     {% if author.google.plus %}<link rel="author" href="https://plus.google.com/{{ author.google.plus }}"/>{% endif %}
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
-
+    {% if site.feed_url %}
+    <link href="{{ site.feed_url }}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Atom Feed">
+    {% else %}
     <link href="{{ site.url }}/atom.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} Atom Feed">
-
+    {% endif %}
+    
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
