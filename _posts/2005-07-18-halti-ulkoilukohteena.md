@@ -82,7 +82,7 @@ Auto-juna ratkaisulla Helsinki – Kolari. Ilma sopivan kesäinen, pilvetön
 taivas, ilman lämpötila +28 oC Helsingin rautatieasemalla klo 20.20.
 
 ![](/images/halti-ulkoilukohteena/Haltilla%2020050715%200003.jpg) 
- ![](http://uusi.kerkesix.fi/images/halti-ulkoilukohteena/Haltilla%2020050715%200004.jpg)
+ ![](/images/halti-ulkoilukohteena/Haltilla%2020050715%200004.jpg)
 
 ### 14.7.2005 torstai,
 
@@ -148,7 +148,7 @@ käveltävää, välissä melkein kahlattava Kahperusjoki. Lopussa aika
 tiukka, pitkä lasku Meekonjärvelle, varmaan aika mielenkiintoinen
 paluumatkalla, voi panna puhaltamaan hiukan.
 
-![](http://uusi.kerkesix.fi/images/halti-ulkoilukohteena/Haltilla%2020050715%20073.jpg)
+![](/images/halti-ulkoilukohteena/Haltilla%2020050715%20073.jpg)
 
 Vuolaana koskena Meekonjärveen laskevan Bierfejoen yli oli mukavan kapea
 silta ja Meekonjärven rannalla oli kiva istua ja katsella maisemaa.

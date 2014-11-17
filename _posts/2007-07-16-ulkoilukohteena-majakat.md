@@ -116,7 +116,7 @@ kuljetuksista veneenkuljettaja Bengt Granbergiltä (på svenska 0457 313
 Marjaniemi
 ----------
 
-[![](http://uusi.kerkesix.fi/images/ulkoilukohteena-majakat/marjaniemi1.jpg)](/images/ulkoilukohteena-majakat/marjaniemi1.jpg)Marjaniemen
+[![](/images/ulkoilukohteena-majakat/marjaniemi1.jpg)](/images/ulkoilukohteena-majakat/marjaniemi1.jpg)Marjaniemen
 majakka sijaitsee Oulun kupeessa yhteysaluksen päässä Hailuodossa.
 Marjaniemessä on luotsilaitos, maatilamajoitusta sekä tunnelmallinen
 kalastajakylä. Majakalle pääsee omalla autolla. Retkeen kannattaa
@@ -187,7 +187,7 @@ suuren osan muuria.
 
  
 
-Jussarö 
+Jussarö
 =======
 
 [![](/images/ulkoilukohteena-majakat/jussaro1.jpg)](/images/ulkoilukohteena-majakat/jussaro1.jpg)Jussärön

@@ -8,7 +8,7 @@ comments: true
 ads: false
 ---
 
-![](http://uusi.kerkesix.fi/images/renkaanveto-20.12.2005/peruskuntorengas20051220_02b.jpg)
+![](/images/renkaanveto-20.12.2005/peruskuntorengas20051220_02b.jpg)
 
 Peruskuntotoimintaa joulun alla vähälumisessa etelässä on renkaanveto.
 Sauvakävelystä seuraava vaihe. Kun kävely ei enää riitä, on aika

@@ -1,14 +1,15 @@
 ---
-layout: article 
-title: "Kuivalihan tekeminen kotioloissa" 
-categories: 
+layout: article
+title: "Kuivalihan tekeminen kotioloissa"
+categories:
 tags: [ruoka]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
+ads: false
+author: tero
+image:
+  feature: lihankuivausohje/kuivaliha-feature.jpg
 ---
-
-[![](/images/lihankuivausohje/Kuivaliha_08.jpg)](/images/lihankuivausohje/Kuivaliha_08.jpg)
 
 Ravintoarvoiltaan liha ei ole retkioloissa välttämätöntä, mutta pään
 kunnossapitämiseen se on hyvä lääke. Koska liha on kosteana ikävän
@@ -32,22 +33,17 @@ paistit käyvät mainiosti kuivaukseen. Uuniin tai pieneen
 yleensä maksimissaan noin 1-2 kg lihaa. Lihasta siistitään pahimmat
 kalvot pois.
 
- 
 
- 
-
-[![](/images/lihankuivausohje/Kuivaliha_02.jpg)](/images/lihankuivausohje/Kuivaliha_02.jpg)Liha
-leikataan syiden suuntaisesti, noin 0,5 cm paksuiksi, 5 cm leveiksi ja
+[![](/images/lihankuivausohje/Kuivaliha_02.jpg)](/images/lihankuivausohje/Kuivaliha_02.jpg)
+Liha leikataan syiden suuntaisesti, noin 0,5 cm paksuiksi, 5 cm leveiksi ja
 15-20 cm pitkiksi suikaleiksi. Liha leikataan pitkittäissyyhyn, koska
 tällöin saa nätimpiä ja kestävämpiä palasia. Kuivaamisen kannalta ei ole
 mitään syytä miksei voisi leikata myös poikkisyyhyn, eli tyyli on vapaa.
 Poikkisyyhyn leikattu liha liha saattaa olla mureampaa ja nopeammin
 nestettä imevämpää.
 
- 
-
-[![](http://uusi.kerkesix.fi/images/lihankuivausohje/Kuivaliha_04.jpg)](/images/lihankuivausohje/Kuivaliha_04.jpg)Lihan
-voi [marinoida](http://www.kolumbus.fi/rahola/sanastot/m.html#mari).
+[![](/images/lihankuivausohje/Kuivaliha_04.jpg)](/images/lihankuivausohje/Kuivaliha_04.jpg)
+Lihan voi [marinoida](http://www.kolumbus.fi/rahola/sanastot/m.html#mari).
 Marinoinnilla saa lihaan pieniä makueroja. Marinadiksi sopii mikä vain
 öljytön marinadi. Usein käytetty versio saadaan suolasta, chilistä,
 pippurista, sitruunasta, balsamiviinietikasta ja soijakastikkeesta.
@@ -56,10 +52,8 @@ ja laitetaan kylmään. Vuorokauden marinointi on riittävä, lihoja
 kannattaa käydä välillä möyhimässä jotta marinointi on mahdollisimman
 tehokasta.
 
- 
-
-[![](/images/lihankuivausohje/Kuivaliha_05.jpg)](/images/lihankuivausohje/Kuivaliha_05.jpg)Lihan
-voi kuivata kotioloissa kahdella tavalla: uunissa tai
+[![](/images/lihankuivausohje/Kuivaliha_05.jpg)](/images/lihankuivausohje/Kuivaliha_05.jpg)
+Lihan voi kuivata kotioloissa kahdella tavalla: uunissa tai
 kuivurilla. Kotikuivureiden käyttöohjeissa tuskin koskaan mainitaan
 lihaa, lievätkö valmistajat liian varovaisia. Tästä ei kannata
 hämääntyä. Jos kuivaukseen käyttää uunia, voi lihasuikaleet roikuttaa
@@ -72,17 +66,15 @@ jotta ilma kiertää ja kosteus pääsee ulos. Jos käytössä on
 kiertoilmauuni, niin kuivauksen voi tehdä uunin luukku kiinni. Näissä
 ohjeissa mainitut lihat kuivuvat noin 12-16 tunnissa.
 
- 
-
-[![](/images/lihankuivausohje/Kuivaliha_06.jpg)](/images/lihankuivausohje/Kuivaliha_06.jpg)Kuivurilla
-kuivattaessa lihat ladotaan ritilöille niin, että väleihin jää jonkin
+[![](/images/lihankuivausohje/Kuivaliha_06.jpg)](/images/lihankuivausohje/Kuivaliha_06.jpg)
+Kuivurilla kuivattaessa lihat ladotaan ritilöille niin, että väleihin jää jonkin
 verran tilaa ilman liikkua. Sitten vain kuivataan kuivurin ohjeiden ja
 ominaisuuksien mukaan. Kuivurissa olevien ritilöiden paikkoja kannattaa
 välillä vaihdella, ja ritilöillä olevia lihoja käännellä. Esimerkiksi
 Severin-kuivurilla täysi annos lihaa kestää noin 10 tuntia kuivua.
 
-[![](/images/lihankuivausohje/Kuivaliha_09.jpg)](/images/lihankuivausohje/Kuivaliha_09.jpg)Kuivuneen
-lihan pitäisi olla tummaa ja melko lailla kovaa. Anna kuivuneen lihan
+[![](/images/lihankuivausohje/Kuivaliha_09.jpg)](/images/lihankuivausohje/Kuivaliha_09.jpg)
+Kuivuneen lihan pitäisi olla tummaa ja melko lailla kovaa. Anna kuivuneen lihan
 jäähtyä, ja säilö ilmatiiviiseen paikkaan, esim. Minigrip-pussiin.
 Säilytä pussia kuivassa paikassa ja valolta suojattuna.
 
@@ -100,4 +92,3 @@ mielikuvitus rajana. Kokeiltu on ainakin seuraavien lihojen kuivaamista:
 kana, possu, hevonen, poro, kauris, maksa, munuaiset ja sydän.
 Eläinkunnasta myös kalaa ja äyriäisiä voi kuivata. Kasvikunnasta voi
 kuivata käytännössä mitä vain.
-
