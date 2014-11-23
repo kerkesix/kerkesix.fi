@@ -1,11 +1,12 @@
 ---
-layout: article 
-title: "Kanariansaaret ulkoilukohteena" 
-categories: 
+layout: article
+title: "Kanariansaaret ulkoilukohteena"
+categories:
 tags: [ulkoilukohteet]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
+ads: false
+author: tipu
 ---
 
 Heipähei, ja tervehdys Gran Canarialta. Jokohan olisi aika kirjoitella
@@ -58,10 +59,6 @@ lentelee hassun näköisiä lintuja luonnossa.
 Lyhyesti ja ytimekkäästi Kanaria-osasto esittäytyi. Mukavaa kesänjatkoa
 kaikille ja tsemppiä erikoispaljon Satkulle lähtijöille. Mulla on
 tuolloin kalenterissa luonnollisesti ”jotain muuta”…
-
-Terveisin,
-
-Tiina ”Tipu”, jäsennro 0311
 
 <div class="image-gallery" markdown="1">
 
