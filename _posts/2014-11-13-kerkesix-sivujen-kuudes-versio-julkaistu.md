@@ -23,7 +23,7 @@ staattiset: ne luodaan aina muutoshetkellä kerran datatiedostoista, ja sen jäl
 (seuraavaan muutokseen asti) luetaan samoja muuttumattomia tiedostoja uudelleen
 ja uudelleen. Sivustot luodaan [Jekyll-kääntimellä][1], ja ne ylläpidetään
 [Githubin julkisessa säilössä][2]. Kuka vain voi hakea uusimman version
-säilöstä, ja tehdä vaikka oman versionsasa sivustosta.
+säilöstä, ja tehdä vaikka oman versionsa sivustosta.
 
 Onnea uusille sivuille!
 
