@@ -8,6 +8,7 @@ comments: false
 ads: false
 image:
   feature: sysimusta-satku/satku-feature.jpg
+modified: 2015-07-28
 ---
 
 Sysimusta Satku on reipashenkinen kävelymaaottelu omaa pahaa mieltä vastaan, jossa
@@ -16,7 +17,7 @@ jalan 100 km:n matka vuorokauden aikana ohjeistettua reittiä pitkin.
 Satku on parhaimmillaan matkantekoa hyvässä seurassa.
 
 Sysimusta Satku järjestetään vuosittain lokakuun lopulla. Seuraava Sysimusta
-Satku XIV kävellään lokakuussa 2015. Ilmoittautuminen tapahtumaan aukeaa 15.8.2015.
+Satku XIV kävellään 31.10.-1.11.2015. Ilmoittautuminen tapahtumaan aukeaa 15.8.2015.
 
 Tapahtuma on huollettu ja tarkemmat huolto-ohjeet osallistuja saa
 ilmoittautumisen jälkeen. Huolto perustuu huoltopisteisiin, joita on
