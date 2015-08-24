@@ -53,4 +53,3 @@ Jukkikselle kyydeistä ja Japelle kaikesta muusta!
 
 Teemu
 
-<http://www.tuskaretket.fi/tuskafoorumi/viewtopic.php?t=1780>

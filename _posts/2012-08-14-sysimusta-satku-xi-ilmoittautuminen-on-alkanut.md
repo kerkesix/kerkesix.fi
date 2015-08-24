@@ -9,6 +9,6 @@ ads: false
 ---
 
 Ilmoittaudu Sysimustalle Satkulle täyttämällä
-[ilmoittautumislomake](http://www.elisanet.fi/jappemmi/satku-ilmo.htm).
+ilmoittautumislomake (linkki poistettu vanhentuneena).
 50 nopeinta saa paikan.
 

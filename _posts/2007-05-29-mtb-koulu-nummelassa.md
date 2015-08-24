@@ -8,9 +8,8 @@ comments: true
 ads: false 
 ---
 
-[Nummelan Kesport](http://www.kesport-nummela.com/) järjesti
-yhteistyössä [MTB-Lohjan](http://www.mtb-lohja.com/)kanssa
-maastopyöräajokoulun neljänä tiistaina toukokuussa. Tuokiot sisälsivät
+Nummelan Kesport järjesti yhteistyössä [MTB-Lohjan](http://www.mtb-lohja.com/)
+kanssa maastopyöräajokoulun neljänä tiistaina toukokuussa. Tuokiot sisälsivät
 mielenkiintoista ajoa Nummelan maastossa niin harjualueella kuin
 muuallakin.
 

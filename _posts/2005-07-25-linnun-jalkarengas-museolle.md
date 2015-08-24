@@ -19,7 +19,7 @@ eläväiset olivat jo ehtineet aloittaa ruokailun haaskalla. Raato oli
 kuitenkin löydettäessä erittäin hyvässä kunnossa ja paikan päällä lintu
 pystyttiin tunnistamaan naarashaahkaksi. Lisätietoa saatiin myöhemmin
 museon
-[rengastustoimistolta](http://www.fmnh.helsinki.fi/elainmuseo/rengastus/index.php),
+[rengastustoimistolta](http://www.luomus.fi/fi/lintujen-rengastus),
 josta postin välityksellä tullut infopläjäys kertoi onnettomasta
 linnusta jo paljon enemmän. Haahkanaaras oli rengastettu vuosi sitten
 kahden kilometrin päässä löytöpaikalta. Kyseessä oli ennen vuotta 2003

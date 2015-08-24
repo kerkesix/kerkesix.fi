@@ -26,8 +26,7 @@ Sysimustalle Satkulle oli ilmoittautunut 50 innokasta, mutta mm.
 syysflunssa oli kaatanut osan porukasta jo etukäteen. Pirttimäessä
 Satkulle kirjautui kuitenkin 43 sitkeää satkuilijaa, osa ensikertalaisia
 ja osa aikaisempien Satkujen veteraaneja. Ilmoittautumisen yhteydessä
-jokainen kävelijä kuittasi itselleen
-[huoltolaatikon](https://www.niemi.fi/Muuttolaatikoiden_pinoamisohje.655.0.html).
+jokainen kävelijä kuittasi itselleen huoltolaatikon.
 Laatikkoon oli varattu kartta, reittiohje,
 [Nexcare-rakkolaastareita](http://solutions.3m.com/wps/portal/3M/en_US/Nexcare/Home/),
 ja [Play

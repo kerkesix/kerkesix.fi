@@ -40,9 +40,6 @@ poikkeuksellisen hiihdettävällä uralla - jäipä ihmiselle siitä mukava
 mieli. Utin päässä oli vielä kierrettävänä matkaan kuuluva 4 km ojainen
 ja risukkoinen lisälenkki.
 
-[Linkin](http://www.seepra.info/foorumi/viewtopic.php?t=132) takaa
-löytyy tämän vuoden hiihtäjät.
-
 <div class="image-gallery" markdown="1">
 
 -   [![](/images/kaukopartiohiihto-2008/Thumbnails/KP01.jpg)](/images/kaukopartiohiihto-2008/KP01.jpg)

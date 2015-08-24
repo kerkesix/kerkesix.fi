@@ -16,7 +16,7 @@ hallituksen puheenjohtaja Jappe ja hallituksen jäsen Flash. Juhlassa
 käytiin läpi Tuskaretkien historiaa kuvin, filmein ja tarinoin.
 Erinomaisia kertomuksia mielenkiintoisista reissuista. Joitakin täkyjä
 jäi mieleen kokeiltavaksikin... Näistä reissuista voi käydä lukemassa
-raportteja [Tuskafoorumilta](http://www.tuskaretket.fi/tuskafoorumi/).
+raportteja [Tuskafoorumilta](http://www.tuskaretket.fi/?page_id=886).
 
 Tuskaretket ry:n sääntöjen mukaan: "Yhdistyksen tarkoituksena on edistää
 kokeilevaa retkeily- ja liikuntaharrastusta perinteitä kunnioittaen sekä

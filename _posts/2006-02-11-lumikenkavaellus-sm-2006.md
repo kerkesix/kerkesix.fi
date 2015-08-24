@@ -9,7 +9,7 @@ ads: false
 ---
 
 Jälleen oli aika lähteä Syötteen maastoon. [Pudasjärven
-urheilijoiden](http://www.pudasjarvi.fi/pudu) järjestämät
+urheilijoiden](http://pudasjarvenurheilijat.sporttisaitti.com/) järjestämät
 [Umpihankihiihdon MM- ja Lumikenkävaelluksen SM-
 kilpailut](http://www.umpihankihiihto.pudasjarvi.fi/) houkuttelivat
 kolme Kerkesix-joukkuetta metsään kisailemaan. Lumikenkäilyssä oli jo

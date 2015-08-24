@@ -17,7 +17,7 @@ Haltin valloitus kiehtoi molempia, mutta suurtuntureille jo satanut
 ensilumi ei houkutellut. Liukas rakka olisi myös nilkoille murhaa,
 olihan Sysimusta Satku vielä edessä. Tunturit toki kiinnostivat, etenkin
 jos löytyisi ihan uusi paikka. Sellainen löytyikin -
-[Pöyrisjärvi](http://www.luontoon.fi/Retkikohteet/eramaaalueet/poyrisjarvi/Sivut/Default.aspx).
+[Pöyrisjärvi](http://www.luontoon.fi/poyrisjarvi).
 
 Suosittelemme siirtymistä Lappi-osastolle yö aikaan, niin ei mene sekään
 aika hukkaan. Paikallinen Jounin kauppa sai aimo annoksen etelän

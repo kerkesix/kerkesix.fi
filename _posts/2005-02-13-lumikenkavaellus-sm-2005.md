@@ -33,7 +33,7 @@ juuri se auringon kultaus, jota viime vuonna pystyi ihailla.
 
 Varustepuoli oli mietitty tarkkaan ja kyseinen osio toimikin hyvin.
 Majoitteena käytettiin hyväksi havaittua
-[Kerkesix-laavua](kerkesix-laavu), joka toimi talviolosuhteissa
+[Kerkesix-laavua](/kerkesix-laavu/), joka toimi talviolosuhteissa
 optimaalisesti neljän hengen yöpymisvälineenä. Keittimen sijasta
 joukkueella oli mukana kaksi pakkia, jolla voitiin sulattaa tarvittava
 vesi ja valmistaa ruokaa. Myös muu varustus oli optimoitu siten, ettei

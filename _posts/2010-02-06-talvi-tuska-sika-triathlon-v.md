@@ -22,6 +22,4 @@ alueelle.
 Tapahtuma oli järjestetty täsmällisesti, kisan jälkeen uimahalli oli
 käytössä ja ruokaa oli tarjolla. Hiki tuli, mutta kivaa oli. 
 
-Kuvia tapahtumasta löytyy Tuskan
-[kuvagalleriasta](http://www.tuskaretket.fi/tuskafoorumi/album_cat.php?cat_id=74).
 
