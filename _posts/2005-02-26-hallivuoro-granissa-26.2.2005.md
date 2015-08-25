@@ -30,7 +30,7 @@ sukelluksen liukuminen oli hallussa voitiin siirtyä esineiden noutoon
 
 Vähitellen kun erilaiset tekniikat olivat tulleet tutuksi, voitiin
 kokeilla [uinninvalvojan
-testiuintia](http://www.suh.fi/mp/db/file_library/x/IMG/12132/file/2004kilpailujensaanotMR.doc) kokonaisuudessaan.
+testiuintia](http://www.suh.fi/files/1316/Uinninvalvojan_testiuinti_2015.pdf) kokonaisuudessaan.
 Testiuinti on mielenkiintoinen ja monipuolinen kokonaisuus, jossa on
 aikaa 3 minuuttia 40 sekuntia hypätä pelastushyppy, uida 25 metriä
 pelastusuintia, sukeltaa 10 metriä, uida 25 metriä, noutaa 4 metristä
@@ -42,7 +42,7 @@ tutustuminen Flashin opastuksella paineilmalaitesukellukseen. Homma
 toimi siten, että Flash neuvoi perusteet, jonka jälkeen yksi henkilö
 kerrallaan siirryttiin Flashin kanssa pinnan alle. Käytössä oli yksi
 paineilmakalusto, jossa oli kiinni kaksi
-[regulaattoria](http://www.kolumbus.fi/amakela/finnish/varuste/2vaihe.htm).
+[regulaattoria](https://fi.wikipedia.org/wiki/Laitesukellus).
 Ohjeiden mukaisesti rauhallisesti toimien laskeuduttiin pinnan alle ja
 kierrettiin allas pohjaa pitkin, jonka jälkeen noustiin pinnalle
 takaisin paineistamattoman ilman luo.

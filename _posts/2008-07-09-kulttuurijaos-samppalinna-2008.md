@@ -17,8 +17,7 @@ joka sai meidät nauramaan ja nauttimaan esityksestä. Erityisesti olimme
 katsomassa nuorta näyttelijälupausta, Raili Ruutua, joka loisti omaan
 erinomaiseen tapaansa näyttämöllä. Teatteriesityksen kulttuurijaos
 jatkoi ruokailemaan vetten päälle ravintolalaiva
-[Cindyyn](http://www.cindy.fi/www/), josta polku vei [Uuteen
-Apteekkiin](http://www.uusiapteekki.fi/home.html).
+Cindyyn, josta polku vei Uuteen Apteekkiin.
 
 <div class="image-gallery" markdown="1">
 

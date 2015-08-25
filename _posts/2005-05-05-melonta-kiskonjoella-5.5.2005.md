@@ -11,7 +11,7 @@ ads: false
 Koska Helatorstaina Suomi meni kiinni, piti kehittää jotain tekemistä.
 Yhdistyksen tuorein kasvo näytti kyntensä ja organisoi Kerkesix ry:lle
 mahdollisuuden osallistua [Salon Seudun Melamogulit
-ry:n](http://www.salonseutu.fi/liikuntapalvelut/yhdistykset/2342.html) kesäkauden
+ry:n](http://www.melamogulit.com/) kesäkauden
 avajaismelontaan Kiskonjoelle.
 
 Jo lähtöpaikalla huomattiin, ettei kyseessä ollut mikä tahansa retki,

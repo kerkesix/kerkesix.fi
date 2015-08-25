@@ -10,8 +10,8 @@ ads: false
 
 Kerkesix-jäsen Arri Leino on käynyt 8630 metrin korkeudella Mt.
 Everestin rinteillä. Lue Arrin ja Myllyksen Tomin kokemuksia
-[huippuyrityksestä](http://www.lsvjkilta.fi/everest/huippuyritys.html).
+[huippuyrityksestä](http://lsvjkilta.fi/arkisto/everest/paiva58.html).
 Tutustu myös retkikunnan sivuihin osoitteessa
-[www.everest.fi](http://www.lsvjkilta.fi/everest). Onnittelut koko
+[www.everest.fi](http://lsvjkilta.fi/arkisto/everest/index.html). Onnittelut koko
 retkikunnalle hienosta suorituksesta.
 

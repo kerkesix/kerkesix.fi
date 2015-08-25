@@ -21,7 +21,7 @@ mutkittelevaa ja viehättävää metsämaastoa ja Glimsjoki tarjosi
 lehtipuiden reunustamia peltoja ja kosteikkoja.
 
 Lähtöpaikka sijaitsi [Espoon
-pitkäjärven](http://www.nic.fi/~goz/espoonjarvet/pitk.htm)
+pitkäjärven](https://fi.wikipedia.org/wiki/Pitk%C3%A4j%C3%A4rvi_(Espoo))
 lounaispäässä, josta Kvarnbyån alkaa virrata. Heti alkuun meloimme läpi
 [Träskändan
 kartanon](http://fi.wikipedia.org/wiki/Tr%C3%A4sk%C3%A4ndan_kartano) puiston.

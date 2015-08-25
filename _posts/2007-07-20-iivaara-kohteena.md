@@ -10,7 +10,7 @@ ads: false
 
 Kuusamossa sijaitseva  Iivaara (korkeus 469,4 m) löytyi hieman
 sattumalta pyöräilyretken kohteeksi.
-[Karhunkierros](http://www.luontoon.fi/retkikohteet/reitit/karhunkierros80km/Sivut/Default.aspx) on
+[Karhunkierros](http://www.luontoon.fi/karhunkierros) on
 varmasti Kuusamon alueen tunnetuin retkeilykohde, mutta Iivaara tarjoaa
 oivallisen retkimahdollisuuden niin jalkaisin kuin pyöräillekin.
 
@@ -59,10 +59,10 @@ käytimme aikaa 40 minuuttia.
 
 Lisätietoja Iivaarasta seuraavien linkkien takaa:
 
--   [luontoon.fi](http://www.luontoon.fi/Retkikohteet/muutsuojelualueet/iivaara/Sivut/Default.aspx)
+-   [luontoon.fi](http://www.luontoon.fi/iivaara)
 -   [ruka.fi](http://www.ruka.fi/kesa/nahtavyydet/?file=content_exec&id=189)
 -   pohjois-pohjanmaan
-    [ympäristökeskus](http://www.ymparisto.fi/default.asp?contentid=226091&lan=fi&clan=fi)
--   [Ajo-ohje](http://www.luontoon.fi/retkikohteet/muutsuojelualueet/iivaara/kartatjakulkuyhteydet/Sivut/Default.aspx)
+    [ympäristökeskus](http://www.ely-keskus.fi/web/ely/ely-pohjois-pohjanmaa#.Vdy6odOqqko)
+-   [Ajo-ohje](http://www.luontoon.fi/iivaara/kartatjakulkuyhteydet)
     (luontoon.fi)
 
