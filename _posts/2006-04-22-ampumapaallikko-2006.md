@@ -15,7 +15,7 @@ pikahaulikko ja hirvikivääri. Mestaruus ratkaistiin edellä mainittujen
 kolmen lajin yhteissijoitusten perusteella. Kisaajia oli paikalle
 saapunut kiitettävästi 10, joiden joukossa Pasi, joka "[tuli paikalle
 värikkäissä varusteissa. Rikkikin
-olivat...](uutisia-joita-yha-odotetaan)"
+olivat...](/uutisia-joita-yha-odotetaan/)"
 
 Ampumapäällikkö 2006 kolmen kärki
 
