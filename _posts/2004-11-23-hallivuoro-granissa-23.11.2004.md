@@ -11,7 +11,7 @@ ads: false
 Yhdistyksen hallivuorolla oli tarjolla monipuolista ohjelmaa. Tällä
 kertaa treenit sisälsivät uintitekniikan harjoittelua, vesijuoksua,
 [uinninvalvojan
-testiuinnin](http://www.suh.fi/mp/db/file_library/x/IMG/12132/file/2004kilpailujensaanotMR.doc)
+testiuinnin](http://www.suh.fi/files/1316/Uinninvalvojan_testiuinti_2015.pdf)
 harjoittelua sekä eskimokäännöksiä.
 
 Perinteisesti ohjelma alkoi saunalla, jossa tärkeimmät ja kiireisimmät

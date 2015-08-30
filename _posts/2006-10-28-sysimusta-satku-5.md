@@ -62,10 +62,9 @@ Huollon toiminta oli sen sijaan varsin mallikasta. Laatikot olivat
 järjestyksessä ja oma omaisuus löytyi helposti. Muutenkin huolto sai
 piristettä kävelyn nujertaman mielen taas siihen pisteeseen että pystyi
 jatkamaan eteenpäin pienen hengähdyksen jälkeen eteenpäin.
-Huoltopisteillä oli perusasiat kunnossa. [Airamin
-lyhtyvalaisimet](http://airam.fi/tuotesivut%20html/erikoistuotteet/kasivalot/lyhdyt.html)
-valaisivat yötä ja helpottivat toimintaa huoltopisteillä. [JoHe
-Oy:n](http://www.johe.fi/)voimakone nakutti virtaa mm. tietokoneelle,
+Huoltopisteillä oli perusasiat kunnossa. Airamin
+lyhtyvalaisimet valaisivat yötä ja helpottivat toimintaa huoltopisteillä. [JoHe
+Oy:n](http://www.johe.fi/) voimakone nakutti virtaa mm. tietokoneelle,
 jolla ylläpidettiin kävelijöiden etenemisseurantaa. Huollon toiminta sai
 kiitosta kävelijöiltä. Ja huoltajillakin näytti olevan hauskaa...
 

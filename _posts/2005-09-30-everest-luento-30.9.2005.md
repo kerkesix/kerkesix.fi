@@ -26,5 +26,5 @@ Informatiivinen ilta jatkui saunomisella ja siirtymisellä illalliselle
 läheiseen ravintolaan.
 
 Lisätietoja aiheesta retkikunnan
-[nettisivuilta](http://www.lsvjkilta.fi/everest/).
+[nettisivuilta](http://lsvjkilta.fi/arkisto/everest/index.html).
 

@@ -17,7 +17,7 @@ ja 11702 risteyksen maastossa Pohjois-Paippisissa, Sipoossa.
 Alppilähdöllä oli tarkoitus ostaa valoisaa aikaa viimeisiin
 huiputuksiin.
 
-[![](/images/ymparyskuntien-huiputus-23.1.2005/luokittelematonhuiputus20050123_1b%203.jpg)](/images/ympryskuntien-huiputus-23.1.2005/luokittelematonhuiputus20050123_1b%203.jpg)Kokoontumisen
+[![](/images/ymparyskuntien-huiputus-23.1.2005/luokittelematonhuiputus20050123_1b%203.jpg)](/images/ymparyskuntien-huiputus-23.1.2005/luokittelematonhuiputus20050123_1b%203.jpg)Kokoontumisen
 jälkeen ensimmäiselle huuiputusyritykselle lähdettiin Sipoon korkeimman
 kohdan Kummelbergenin päälle, joka nousee 95,6 metrin korkeuteen
 merenpinnasta mitattuna. Retkikunta lähestyi massiivia Pornaisten

@@ -10,7 +10,7 @@ ads: false
 
 [Erämelonnan](http://www.eramelonta.fi/) SM 2008 järjestettiin
 pohjois-Valkealassa [Repoveden
-kansallispuiston](http://www.luontoon.fi/page.asp?Section=367) ympäristössä.
+kansallispuiston](http://www.luontoon.fi/repovesi) ympäristössä.
 Säät suosivat tapahtumaa auringon paistaessa ja tuulen viilentäessä,
 joten väri tarttui melojien kasvoille erinomaisen tehokkaasti. Alueella
 luonto on varsin jylhää ja melomiseen löytyy mainioita reittejä.
