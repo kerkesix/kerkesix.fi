@@ -10,7 +10,7 @@ ads: false
 
 Tero ja Toni kävivät hiihtoretkellä pohjoisnavalle keväällä 2006. Tästä
 reissusta Tero piti erinomaisen luennon
-[AVA-instituutissa](http://www.ava-instituutti.fi/)järjestetyssä
+[AVA-instituutissa](http://ava-instituutti.fi/etusivu) järjestetyssä
 tilaisuudessa. Paikalle oli saapunut 19 kiinnostunutta kuulijaa.
 Kertomus itsessään oli mielenkiintoinen ja esityksen teki vielä
 mielenkiintoisemmaksi havainnollistavat kuva- ja viidiomateriaalit.
