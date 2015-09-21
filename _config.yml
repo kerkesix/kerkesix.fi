@@ -34,7 +34,7 @@ owner:
     ad-slot:
   bio:
   avatar: bio-photo.jpg # 160x160 px image for author byline
-disqus-shortname: kerkesix
+  disqus-shortname: kerkesix
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-24940535-1
