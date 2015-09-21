@@ -118,7 +118,7 @@ Usealle mukana olleelle tämä oli ensimmäinen visiitti Jotunheimenissa.
 Alueelle jäi vielä niin paljon nähtävää, että tuskin tämä jää myöskään
 viimeiseksi kerraksi kun vierailemme täällä.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/Vuoriretki%202004%20112.jpg)](/images/vuoriretki-jotunheimenissa/Vuoriretki%202004%20112.jpg)
 -   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_01b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_01b.jpg)

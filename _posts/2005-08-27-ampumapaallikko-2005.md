@@ -49,7 +49,7 @@ Flashin ja Dalen saunaan.
 
 Flash jatkaa hallitsevana yhdistyksen ampumapäällikkönä!
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/ampumapaallikko-2005/Thumbnails/luokittelematonampumapaallikko2005_02b.jpg)](/images/ampumapaallikko-2005/luokittelematonampumapaallikko2005_02b.jpg)
 -   [![](/images/ampumapaallikko-2005/Thumbnails/luokittelematonampumapaallikko2005_03b.jpg)](/images/ampumapaallikko-2005/luokittelematonampumapaallikko2005_03b.jpg)

@@ -36,7 +36,7 @@ Ampumapäällikkyys eli Kerkesix ry:n kokonaismestaruus:
 2.  Eerikki Rundgren 144
 3.  Seppo Aho 142
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20012.jpg)](/images/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20012.jpg)
 -   [![](/images/ampumapaallikko-2008/Thumbnails/ampu%20ja%20vuosijuhla%202008%20015.jpg)](/images/ampumapaallikko-2008/ampu%20ja%20vuosijuhla%202008%20015.jpg)

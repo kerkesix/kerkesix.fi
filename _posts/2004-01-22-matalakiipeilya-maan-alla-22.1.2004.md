@@ -28,7 +28,7 @@ Seuraava sessio sovittiin samaan paikkaan jo viikon päästä 29.1 klo
 18.00. Joten jos et ehtinyt edellisellä kerralla mukaan, niin
 tärvetoloa!
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/matalakiipeilya-maan-alla-22.1.2004/Thumbnails/1.jpg)](/images/matalakiipeilya-maan-alla-22.1.2004/1.jpg)
 -   [![](/images/matalakiipeilya-maan-alla-22.1.2004/Thumbnails/2.jpg)](/images/matalakiipeilya-maan-alla-22.1.2004/2.jpg)

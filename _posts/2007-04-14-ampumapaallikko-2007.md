@@ -49,7 +49,7 @@ ampumamestari, Ampumapäällikkö 2007.
 2.  Jappe
 3.  Tero
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20005b4.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20005b4.jpg)
 -   [![](/images/ampumapaallikko-2007/Thumbnails/Ampupäällikkö%202007%20005b5.jpg)](/images/ampumapaallikko-2007/Ampupäällikkö%202007%20005b5.jpg)

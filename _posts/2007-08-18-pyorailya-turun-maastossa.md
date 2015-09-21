@@ -49,7 +49,7 @@ hankintoja varten
 Sunnuntain ajoaika oli 2 tuntia 30 minuuttia ja kokonaisaika 3 tuntia 30
 minuuttia. Matka oli 36.7 km.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20003.jpg)](/images/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20003.jpg)
 -   [![](/images/pyorailya-turun-maastossa/Thumbnails/Kaarinan%20pyöräily%20004.jpg)](/images/pyorailya-turun-maastossa/Kaarinan%20pyöräily%20004.jpg)

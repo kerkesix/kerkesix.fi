@@ -34,7 +34,7 @@ ilmoittautuu. Valmennusta on myös saatavilla kesän suunnistustapahtumien
 yhteydessä. Tällöin voidaan järjestää niin perusopetusta kartan ja
 kompassin käytöstä kuin myös reitinvalintatekniikasta.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/suunnistuskoulutus-15.06.2005/Thumbnails/suunnistuskoulutus200500615_01b.jpg)](/images/suunnistuskoulutus-15.06.2005/suunnistuskoulutus200500615_01b.jpg)
 -   [![](/images/suunnistuskoulutus-15.06.2005/Thumbnails/suunnistuskoulutus200500615_02b.jpg)](/images/suunnistuskoulutus-15.06.2005/suunnistuskoulutus200500615_02b.jpg)

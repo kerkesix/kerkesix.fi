@@ -27,7 +27,7 @@ Lisää kuvia löytyy
 [linkin](http://picasaweb.google.com/jappepappe/ErMelonta2008) takaa.
 Kuvia saa ladata itselleen vapaasti.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/eramelonnan-sm-2008/Thumbnails/02.jpg)](/images/eramelonnan-sm-2008/02.jpg)
 -   [![](/images/eramelonnan-sm-2008/Thumbnails/04.jpg)](/images/eramelonnan-sm-2008/04.jpg)

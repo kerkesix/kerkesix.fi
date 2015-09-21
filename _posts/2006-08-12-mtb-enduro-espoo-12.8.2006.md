@@ -22,7 +22,7 @@ Latokasken toimipisteeltä.
 
 Tapahtuma oli oivallisesti järjestetty ja aikataulu toimi minuutilleen.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/mtb-enduro-espoo-12.8.2006/Thumbnails/peruskuntofillarienduro20060812_01b.jpg)](/images/mtb-enduro-espoo-12.8.2006/peruskuntofillarienduro20060812_01b.jpg)
 -   [![](/images/mtb-enduro-espoo-12.8.2006/Thumbnails/peruskuntofillarienduro20060812_02b.jpg)](/images/mtb-enduro-espoo-12.8.2006/peruskuntofillarienduro20060812_02b.jpg)

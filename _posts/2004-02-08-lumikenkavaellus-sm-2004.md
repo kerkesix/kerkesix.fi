@@ -41,7 +41,7 @@ yllätys. Tällaista lisää, ensivuonna uudestaan!
 [Lumikenkävaelluksen ja umpihankihiihdon
 kotisivut](http://www.umpihankihiihto.pudasjarvi.fi/)
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/lumikenkavaellus-sm-2004/Thumbnails/Lumik-SM04_011b.jpg)](/images/lumikenkavaellus-sm-2004/Lumik-SM04_011b.jpg)
 -   [![](/images/lumikenkavaellus-sm-2004/Thumbnails/Lumik-SM04_017b.jpg)](/images/lumikenkavaellus-sm-2004/Lumik-SM04_017b.jpg)

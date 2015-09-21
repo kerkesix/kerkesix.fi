@@ -17,7 +17,7 @@ kun kerran Keimolassa oltiin, niin pitihän sitä käydä kääntymässä myös
 Tosin  nopeudet ovat joskus muinoin olleet hieman nopeampia kuin
 lenkillämme...
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/sunnuntailenkki-9.12.2007/Thumbnails/lenkki%20001.jpg)](/images/sunnuntailenkki-9.12.2007/lenkki%20001.jpg)
 -   [![](/images/sunnuntailenkki-9.12.2007/Thumbnails/lenkki%20002.jpg)](/images/sunnuntailenkki-9.12.2007/lenkki%20002.jpg)

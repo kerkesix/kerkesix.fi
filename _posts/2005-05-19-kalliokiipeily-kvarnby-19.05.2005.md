@@ -16,7 +16,7 @@ puuhun!" -lause oli kovassa käytössä. Tästäkin huolimatta kipuilu-urakka
 saatiin kunnialla päätökseen ja reittejä läpäistyä. Lepakkomies jätti
 jokaiselle jotain haastetta tulevaisuuteen...
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/kalliokiipeily-kvarnby-19.05.2005/Thumbnails/kiipeilykalliolla20050519_01b.jpg)](/images/kalliokiipeily-kvarnby-19.05.2005/kiipeilykalliolla20050519_01b.jpg)
 -   [![](/images/kalliokiipeily-kvarnby-19.05.2005/Thumbnails/kiipeilykalliolla20050519_02b.jpg)](/images/kalliokiipeily-kvarnby-19.05.2005/kiipeilykalliolla20050519_02b.jpg)

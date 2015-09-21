@@ -37,7 +37,7 @@ Tämä ympyrälenkki sopii yhden päivän reissuksi, matkaa kertyi n. 25 km.
 Soveltunee parhaiten toteutettavaksi vilkkaimman mökkikauden
 ulkopuolella, esim. viikko 37 oli ajankohtana ok.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J01.jpg)](/images/jaalan-melontareitti-ulkoilukohteena/J01.jpg)
 -   [![](/images/jaalan-melontareitti-ulkoilukohteena/Thumbnails/J02.jpg)](/images/jaalan-melontareitti-ulkoilukohteena/J02.jpg)

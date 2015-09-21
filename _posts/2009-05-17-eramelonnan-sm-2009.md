@@ -26,7 +26,7 @@ KSX-melojat osansa. Emmi ja Ninnu voittivat naisten kaksikkosarjan ja
 Eerikki sijoittui poikansa kanssa perhesarjassa toiseksi. Jappe ja Tero
 voittivat vain itsensä. Onnittelut mitalisteille.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/eramelonnan-sm-2009/Thumbnails/erämelonta2009%20005.jpg)](/images/eramelonnan-sm-2009/erämelonta2009%20005.jpg)
 -   [![](/images/eramelonnan-sm-2009/Thumbnails/erämelonta2009%20006.jpg)](/images/eramelonnan-sm-2009/erämelonta2009%20006.jpg)

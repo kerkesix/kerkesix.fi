@@ -60,7 +60,7 @@ Kaikille huoltoon osallistuneille suuri kiitos tapahtuman
 mahdollistamisesta ja kaikille kävelijöille suuri onnittelu itsensä
 voittamisesta!
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/sysimusta-satku-3/Thumbnails/1.jpg)](/images/sysimusta-satku-3/1.jpg)
 -   [![](/images/sysimusta-satku-3/Thumbnails/10.jpg)](/images/sysimusta-satku-3/10.jpg)

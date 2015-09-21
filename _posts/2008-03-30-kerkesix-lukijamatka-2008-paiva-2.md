@@ -19,7 +19,7 @@ Saharasta. Kamelit puuttuivat. Ja Keitahat.
 Vaan illalla meidät ruokki Hard Rock Cafe. Ei tullut sinäkään iltana
 nälkä.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/kerkesix-lukijamatka-2008-paiva-2/Thumbnails/1.JPG)](/images/kerkesix-lukijamatka-2008-paiva-2/1.JPG)
 -   [![](/images/kerkesix-lukijamatka-2008-paiva-2/Thumbnails/2.JPG)](/images/kerkesix-lukijamatka-2008-paiva-2/2.JPG)

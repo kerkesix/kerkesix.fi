@@ -47,7 +47,7 @@ Ohjeiden mukaisesti rauhallisesti toimien laskeuduttiin pinnan alle ja
 kierrettiin allas pohjaa pitkin, jonka jälkeen noustiin pinnalle
 takaisin paineistamattoman ilman luo.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/hallivuoro-granissa-26.2.2005/Thumbnails/vesihallia20050226_01b.jpg)](/images/hallivuoro-granissa-26.2.2005/vesihallia20050226_01b.jpg)
 -   [![](/images/hallivuoro-granissa-26.2.2005/Thumbnails/vesihallia20050226_02b.jpg)](/images/hallivuoro-granissa-26.2.2005/vesihallia20050226_02b.jpg)

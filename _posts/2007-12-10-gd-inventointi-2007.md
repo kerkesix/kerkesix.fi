@@ -15,7 +15,7 @@ vipstaakkeleiden laskemista ja tunnistamista. Ei ollut häävi homma,
 mutta eivät olleet kummoisia inventoijatkaan. Joka tapauksessa
 tuotemäärät saattoivat joskus jopa täsmätäkin. Hauskaa oli, kuten aina.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/gd-inventointi-2007/Thumbnails/12122007185.jpg)](/images/gd-inventointi-2007/12122007185.jpg)
 -   [![](/images/gd-inventointi-2007/Thumbnails/12122007186.jpg)](/images/gd-inventointi-2007/12122007186.jpg)

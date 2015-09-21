@@ -22,7 +22,7 @@ kalliopätkällä. Jokainen sai tehtyä yläankkurin, jonka varassa uskalsi
 yläköysittelyä vasta tehdyillä ankkureilla. Näillä taidoilla itsenäistä
 kiipeilyä onkin hyvä jatkaa!
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/kalliokiipeilytreenia-29.6.2012/Thumbnails/CIMG1146.JPG)](/images/kalliokiipeilytreenia-29.6.2012/CIMG1146.JPG)
 -   [![](/images/kalliokiipeilytreenia-29.6.2012/Thumbnails/CIMG1155.JPG)](/images/kalliokiipeilytreenia-29.6.2012/CIMG1155.JPG)

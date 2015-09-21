@@ -20,7 +20,7 @@ jota kaavittiin vielä ajon jälkeenkin niin pyöristä kuin hampaiden
 väleistäkin. Pyörät saivat ajon jälkeen hellää huoltoa seuraavaa kertaa
 varten.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/palauttava-pyoraily-2.7.2007/Thumbnails/kerkepyöräily%20003.jpg)](/images/palauttava-pyoraily-2.7.2007/kerkepyöräily%20003.jpg)
 -   [![](/images/palauttava-pyoraily-2.7.2007/Thumbnails/kerkepyöräily%20004.jpg)](/images/palauttava-pyoraily-2.7.2007/kerkepyöräily%20004.jpg)

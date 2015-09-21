@@ -10,7 +10,7 @@ ads: false
 
 "Oltiin kiipeämässä, tässä todisteet."
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/kiipeily-liikuntamylly-12.03.2005/Thumbnails/kiipeilyseinalla20050312_1b.jpg)](/images/kiipeily-liikuntamylly-12.03.2005/kiipeilyseinalla20050312_1b.jpg)
 -   [![](/images/kiipeily-liikuntamylly-12.03.2005/Thumbnails/kiipeilyseinalla20050312_2b.jpg)](/images/kiipeily-liikuntamylly-12.03.2005/kiipeilyseinalla20050312_2b.jpg)

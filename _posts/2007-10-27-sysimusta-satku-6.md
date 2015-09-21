@@ -37,7 +37,7 @@ Reissu oli perinteinen myös haastavuutensa suhteen. Matkaan lähti 44
 kävelijää ja 12 (27 %) saapui jalkapatikalla Pirttimäkeen. Kaksi
 kolmasosaa keskeytyksistä tapahtui 60-70 kilometrin kohdalla.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/sysimusta-satku-6/Thumbnails/001.jpg)](/images/sysimusta-satku-6/001.jpg)
 -   [![](/images/sysimusta-satku-6/Thumbnails/002.jpg)](/images/sysimusta-satku-6/002.jpg)

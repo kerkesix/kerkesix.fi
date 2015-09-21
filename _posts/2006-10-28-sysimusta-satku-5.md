@@ -113,7 +113,7 @@ Ei muuta kuin tossua toisen eteen siellä sysimustassa syksyssä.
 
 Jukka
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/sysimusta-satku-5/Thumbnails/sysimustasatku5_01b.jpg)](/images/sysimusta-satku-5/sysimustasatku5_01b.jpg)
 -   [![](/images/sysimusta-satku-5/Thumbnails/sysimustasatku5_02b.jpg)](/images/sysimusta-satku-5/sysimustasatku5_02b.jpg)

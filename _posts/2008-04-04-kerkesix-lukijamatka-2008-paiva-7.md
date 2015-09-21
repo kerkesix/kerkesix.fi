@@ -22,7 +22,7 @@ järjestettiin musiikin ja ruokailun yhdistävä show.  Tilaisuudesta
 intoutuneina päätimme esityksen jälkeen irtautua yleisöstä ja siirtyä
 jälleen Karaoken ihmeitä tekevän taian pariin ravintola Savoon.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/kerkesix-lukijamatka-2008-paiva-7/Thumbnails/DSC_0828.JPG)](/images/kerkesix-lukijamatka-2008-paiva-7/DSC_0828.JPG)
 -   [![](/images/kerkesix-lukijamatka-2008-paiva-7/Thumbnails/DSC_0838.JPG)](/images/kerkesix-lukijamatka-2008-paiva-7/DSC_0838.JPG)

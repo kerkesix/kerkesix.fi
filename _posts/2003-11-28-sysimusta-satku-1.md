@@ -67,7 +67,7 @@ Tapahtuma oli varsin onnistunut ja siitä kuuluu kiitos kaikille
 tapahtumaan osallistuneille: huoltajille, kannustajille sekä kävellen
 matkaa taittaneille!
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/sysimusta-satku-1/Thumbnails/Sysimusta%20Satku%20003.jpg)](/images/sysimusta-satku-1/Sysimusta%20Satku%20003.jpg)
 -   [![](/images/sysimusta-satku-1/Thumbnails/Sysimusta%20Satku%20007.jpg)](/images/sysimusta-satku-1/Sysimusta%20Satku%20007.jpg)

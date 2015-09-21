@@ -53,7 +53,7 @@ saunaa ja iltapalaa. Oivallista!
 2.  Tero 46 pistettä
 3.  Jappe 41 pistettä
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_01b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_01b.jpg)
 -   [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_02b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_02b.jpg)

@@ -28,7 +28,7 @@ Muutaman kerran pääsi oikein mukavaan surffiinkin. Reissu päättyi
 melonnan osalta Kallvikin uimarannalle, jossa ei aurinkoisesta säästä
 huolimatta ollut ketään makoilemassa.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/melonta-espoonjoella-18.4.2010/Thumbnails/IMG_0656.JPG)](/images/melonta-espoonjoella-18.4.2010/IMG_0656.JPG)
 -   [![](/images/melonta-espoonjoella-18.4.2010/Thumbnails/IMG_0661.JPG)](/images/melonta-espoonjoella-18.4.2010/IMG_0661.JPG)

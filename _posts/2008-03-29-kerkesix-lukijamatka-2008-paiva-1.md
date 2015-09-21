@@ -29,7 +29,7 @@ suoritettiin tupa, kaappi ja siisteystarkastus. Läpäisty.
 Viimeinen rasti ensimmäisenä iltana oli Saluuna. Sielläkin pärjäsi
 erinomaisesti ensimmäisellä kotimaisella. Ei tarvinnut hablaa.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/kerkesix-lukijamatka-2008-paiva-1/Thumbnails/1.JPG)](/images/kerkesix-lukijamatka-2008-paiva-1/1.JPG)
 -   [![](/images/kerkesix-lukijamatka-2008-paiva-1/Thumbnails/2.JPG)](/images/kerkesix-lukijamatka-2008-paiva-1/2.JPG)

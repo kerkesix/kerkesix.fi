@@ -15,7 +15,7 @@ siirtymisen kultaiseen taitoon. Ja välillä se kiipeily tuntuu jopa ihan
 miellyttävältä. Tarkoitus on jatkaa lauantaiaamuisin. Katso
 toimintakalenterista missä ja mihin aikaan.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/lauantaikiipeily-tapanilassa-8.12.2007/Thumbnails/kipuilu%20001.jpg)](/images/lauantaikiipeily-tapanilassa-8.12.2007/kipuilu%20001.jpg)
 -   [![](/images/lauantaikiipeily-tapanilassa-8.12.2007/Thumbnails/kipuilu%20002.jpg)](/images/lauantaikiipeily-tapanilassa-8.12.2007/kipuilu%20002.jpg)

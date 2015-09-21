@@ -56,7 +56,7 @@ Sepe ja Tero onnistuivat päästä maaliin kolmetoista minuuttia yli yksi
 lauantai iltapäivällä. 100 km:n matkan jälkeen olo oli "huomaa että on
 tehnyt..." Aikaa Sysimustaan Satkuun kului 17 tuntia 47 minuuttia.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20001.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20001.jpg)
 -   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20002.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20002.jpg)

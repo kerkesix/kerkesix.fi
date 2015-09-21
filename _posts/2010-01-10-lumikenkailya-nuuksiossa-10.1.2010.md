@@ -32,7 +32,7 @@ väliin ja nuotiopaikalla istumista harrastettiin noin 17 minuuttia,
 kunnes kollektiivinen päätös sai meidät jatkamaan matkaa takaisin
 Velskolaan.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20005.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20005.jpg)
 -   [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20007.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20007.jpg)

@@ -36,7 +36,7 @@ liikuntakeskuksessa.
 
 -Pete-
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/seinakiipeily-tapanilassa-10.11.2007/Thumbnails/CIMG7075.JPG)](/images/seinakiipeily-tapanilassa-10.11.2007/CIMG7075.JPG)
 -   [![](/images/seinakiipeily-tapanilassa-10.11.2007/Thumbnails/CIMG7078.JPG)](/images/seinakiipeily-tapanilassa-10.11.2007/CIMG7078.JPG)

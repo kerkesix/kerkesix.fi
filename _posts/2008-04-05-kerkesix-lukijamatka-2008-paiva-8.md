@@ -28,7 +28,7 @@ pääsi liikkeelle 1,5 tuntia myöhässä.
 
 Kaikkinensa kelvollinen reissu.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/kerkesix-lukijamatka-2008-paiva-8/Thumbnails/DSC00946.JPG)](/images/kerkesix-lukijamatka-2008-paiva-8/DSC00946.JPG)
 -   [![](/images/kerkesix-lukijamatka-2008-paiva-8/Thumbnails/DSC_1034.JPG)](/images/kerkesix-lukijamatka-2008-paiva-8/DSC_1034.JPG)

@@ -27,7 +27,7 @@ olikin suojaisia paikkoja joissa lumi oli säilynyt paksuna kerroksena.
 Vaikka lumet eivät olleet vielä kaikilta osin sulaneet pois, huomattiin,
 että keväinen luonto oli jälleen tutustumisen arvoinen paikka.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/sunnuntailenkki-9.4.2006/Thumbnails/peruskuntosl20060409_01b.jpg)](/images/sunnuntailenkki-9.4.2006/peruskuntosl20060409_01b.jpg)
 -   [![](/images/sunnuntailenkki-9.4.2006/Thumbnails/peruskuntosl20060409_02b.jpg)](/images/sunnuntailenkki-9.4.2006/peruskuntosl20060409_02b.jpg)

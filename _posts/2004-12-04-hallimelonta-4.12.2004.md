@@ -21,7 +21,7 @@ ylityslauttaa. Eikä siinä vielä kaikki! Lisäksi ahkio on oikein
 käytettynä mitä mainioin kajakin korvike, jolla eskimokäännöskin
 onnistuu!
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/hallimelonta-4.12.2004/Thumbnails/melontahallimelonta_01b.jpg)](/images/hallimelonta-4.12.2004/melontahallimelonta_01b.jpg)
 -   [![](/images/hallimelonta-4.12.2004/Thumbnails/melontahallimelonta_02b.jpg)](/images/hallimelonta-4.12.2004/melontahallimelonta_02b.jpg)

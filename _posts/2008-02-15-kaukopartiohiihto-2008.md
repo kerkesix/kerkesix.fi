@@ -40,7 +40,7 @@ poikkeuksellisen hiihdettävällä uralla - jäipä ihmiselle siitä mukava
 mieli. Utin päässä oli vielä kierrettävänä matkaan kuuluva 4 km ojainen
 ja risukkoinen lisälenkki.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/kaukopartiohiihto-2008/Thumbnails/KP01.jpg)](/images/kaukopartiohiihto-2008/KP01.jpg)
 -   [![](/images/kaukopartiohiihto-2008/Thumbnails/KP02.jpg)](/images/kaukopartiohiihto-2008/KP02.jpg)

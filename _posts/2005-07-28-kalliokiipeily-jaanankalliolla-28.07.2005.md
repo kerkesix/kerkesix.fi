@@ -26,7 +26,7 @@ Stonea (5+) ja Velliä (5+), jonka jälkeen Käkimassaa (6) Yläköydellä.
 Onnistumisia oli kaikilla ja jokaiselle jäi vielä jotain hampaankoloon
 ensikertaa varten...
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/kalliokiipeily-jaanankalliolla-28.07.2005/Thumbnails/kiipeilykalliolla20050728_01b.jpg)](/images/kalliokiipeily-jaanankalliolla-28.07.2005/kiipeilykalliolla20050728_01b.jpg)
 -   [![](/images/kalliokiipeily-jaanankalliolla-28.07.2005/Thumbnails/kiipeilykalliolla20050728_02b.jpg)](/images/kalliokiipeily-jaanankalliolla-28.07.2005/kiipeilykalliolla20050728_02b.jpg)

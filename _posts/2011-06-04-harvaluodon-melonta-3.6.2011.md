@@ -36,7 +36,7 @@ aloitus- ja päätöspistettä.
 
 Ei ollut turha reissu.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/harvaluodon-melonta-3.6.2011/Thumbnails/303.JPG)](/images/harvaluodon-melonta-3.6.2011/303.JPG)
 -   [![](/images/harvaluodon-melonta-3.6.2011/Thumbnails/307.JPG)](/images/harvaluodon-melonta-3.6.2011/307.JPG)

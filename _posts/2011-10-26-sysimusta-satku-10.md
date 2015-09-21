@@ -178,7 +178,7 @@ anttimerilainen 
 mun jalat :) t.Mikko\<\
 mikkoim
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/sysimusta-satku-10/Thumbnails/graafit.jpg)](/images/sysimusta-satku-10/graafit.jpg)
 -   [![](/images/sysimusta-satku-10/Thumbnails/satku10%20001.JPG)](/images/sysimusta-satku-10/satku10%20001.JPG)

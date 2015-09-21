@@ -33,7 +33,7 @@ Kun järven toisella puolella, Solvalla
 Sumnerin](http://fi.wikipedia.org/wiki/Sting) musiikki, oli meidän aika
 jatkaa matkaa.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/jaakiipeily-nuuksiossa-3.3.2005/Thumbnails/kiipeilyjaa20050303_01b.jpg)](/images/jaakiipeily-nuuksiossa-3.3.2005/kiipeilyjaa20050303_01b.jpg)
 -   [![](/images/jaakiipeily-nuuksiossa-3.3.2005/Thumbnails/kiipeilyjaa20050303_02b.jpg)](/images/jaakiipeily-nuuksiossa-3.3.2005/kiipeilyjaa20050303_02b.jpg)

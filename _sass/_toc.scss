@@ -69,3 +69,8 @@
     }
   }
 }
+
+/* Hide 'Table of Contents' -text */
+.sliding-menu-content > h5 > span {
+  display: none;
+}

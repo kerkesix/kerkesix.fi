@@ -110,7 +110,7 @@
    Thumbnail grid (oversized)
    ========================================================================== */
 
-.th-grid-full, .image-gallery > ul {
+.th-grid-full {
   @include clearfix;
   margin: 0;
   padding: 0;

@@ -23,7 +23,7 @@ saapumista ja sieltä eteenpäin lähtöä.
 Jo perinteisesti Satkun aikana kuultiin: "ensi vuonna uudestaan" ja " ei
 enää ikinä" -tyyppisiä kommentteja. Näihin kuviin ja niin edespäin.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/sysimusta-satku-9/Thumbnails/20101023%20Sysimusta%20Satku%20005.jpg)](/images/sysimusta-satku-9/20101023%20Sysimusta%20Satku%20005.jpg)
 -   [![](/images/sysimusta-satku-9/Thumbnails/20101023%20Sysimusta%20Satku%20006.jpg)](/images/sysimusta-satku-9/20101023%20Sysimusta%20Satku%20006.jpg)

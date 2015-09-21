@@ -17,7 +17,7 @@ Testiryhmä ehti vielä saman tien testatakin uuden laiturin ja todeta sen
 toimivaksi. Pikainen pyrähdys merellä ja sen jälkeen rantautuminen
 takaisin laiturille oli oivallista. Tästä voi hyvin jatkaa ilon kautta!
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/laituritalkoot-1.7.2004/Thumbnails/laituritalkoot1b.jpg)](/images/laituritalkoot-1.7.2004/laituritalkoot1b.jpg)
 -   [![](/images/laituritalkoot-1.7.2004/Thumbnails/laituritalkoot3b.jpg)](/images/laituritalkoot-1.7.2004/laituritalkoot3b.jpg)

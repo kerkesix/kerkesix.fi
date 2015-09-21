@@ -19,7 +19,7 @@ melkein kaikille. Melkein.
 Illan ruokaohjelma oli Kreikkalainen. Kuulemma paras mahdollinen sanoi
 Tipu. Uskoimme ja pidimme ruoasta.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/kerkesix-lukijamatka-2008-paiva-5/Thumbnails/1.JPG)](/images/kerkesix-lukijamatka-2008-paiva-5/1.JPG)
 -   [![](/images/kerkesix-lukijamatka-2008-paiva-5/Thumbnails/10.JPG)](/images/kerkesix-lukijamatka-2008-paiva-5/10.JPG)

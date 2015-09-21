@@ -32,7 +32,7 @@ Ja missähän sitä sitten syötiin... Ahh, possunkylkiä hollantilaisten
 ravintolassa. TT olisi myös arvostanut. Hollantilaiset
 tarjoilevat myös oikeasti pieniä tuoppeja.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/kerkesix-lukijamatka-2008-paiva-6/Thumbnails/DSC_0645.JPG)](/images/kerkesix-lukijamatka-2008-paiva-6/DSC_0645.JPG)
 -   [![](/images/kerkesix-lukijamatka-2008-paiva-6/Thumbnails/DSC_0657.JPG)](/images/kerkesix-lukijamatka-2008-paiva-6/DSC_0657.JPG)

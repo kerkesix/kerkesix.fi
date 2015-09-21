@@ -27,7 +27,7 @@ hiertymiä, mutta korvien hiertyminen oli ennen kuulumaton tapaus.
 Jatkossa huolto osaa varoittaa lierihattu-otsalamppu -yhdistelmän
 vaaroista kävelyn aikana.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/sysimusta-satku-8/Thumbnails/satku_8%20001.jpg)](/images/sysimusta-satku-8/satku_8%20001.jpg)
 -   [![](/images/sysimusta-satku-8/Thumbnails/satku_8%20010.jpg)](/images/sysimusta-satku-8/satku_8%20010.jpg)

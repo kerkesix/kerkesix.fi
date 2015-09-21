@@ -24,7 +24,7 @@ viisaasti kallion pohjoispuolelta puiden suojasta, joten jää oli edellä
 kuvatun oivaa eikä taukoilijoillekaan tullut liian kuuma vuoroa
 odotellessa...
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/jaakiipeilya-valkeassa-25.3.2005/Thumbnails/1.JPG)](/images/jaakiipeilya-valkeassa-25.3.2005/1.JPG)
 -   [![](/images/jaakiipeilya-valkeassa-25.3.2005/Thumbnails/2.JPG)](/images/jaakiipeilya-valkeassa-25.3.2005/2.JPG)

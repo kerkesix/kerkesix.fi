@@ -32,7 +32,7 @@ Retki oli kaikin puolin onnistunut ja siitä kiitos järjestävälle
 organisaattorille. Tästä on Kerkesix ry:n hyvä ponnistaa kohti itse
 järjestettyjä melontaseikkailuja.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/melonta-kiskonjoella-5.5.2005/Thumbnails/melontakiskonjoki20050505_01b.jpg)](/images/melonta-kiskonjoella-5.5.2005/melontakiskonjoki20050505_01b.jpg)
 -   [![](/images/melonta-kiskonjoella-5.5.2005/Thumbnails/melontakiskonjoki20050505_02b.jpg)](/images/melonta-kiskonjoella-5.5.2005/melontakiskonjoki20050505_02b.jpg)

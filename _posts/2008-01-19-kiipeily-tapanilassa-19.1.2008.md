@@ -18,7 +18,7 @@ ylöspäin menoon...
 
 Parhaimmillaan aika oli noin 21 sekuntia.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/kiipeily-tapanilassa-19.1.2008/Thumbnails/kipuilu%20001.jpg)](/images/kiipeily-tapanilassa-19.1.2008/kipuilu%20001.jpg)
 -   [![](/images/kiipeily-tapanilassa-19.1.2008/Thumbnails/kipuilu%20002.jpg)](/images/kiipeily-tapanilassa-19.1.2008/kipuilu%20002.jpg)

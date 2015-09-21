@@ -19,7 +19,7 @@ erinomaiseen tapaansa näyttämöllä. Teatteriesityksen kulttuurijaos
 jatkoi ruokailemaan vetten päälle ravintolalaiva
 Cindyyn, josta polku vei Uuteen Apteekkiin.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/kulttuurijaos-samppalinna-2008/Thumbnails/DSC_3108.JPG)](/images/kulttuurijaos-samppalinna-2008/DSC_3108.JPG)
 -   [![](/images/kulttuurijaos-samppalinna-2008/Thumbnails/DSC_3111.JPG)](/images/kulttuurijaos-samppalinna-2008/DSC_3111.JPG)

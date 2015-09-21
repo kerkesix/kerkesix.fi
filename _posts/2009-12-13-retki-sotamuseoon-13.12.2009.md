@@ -20,7 +20,7 @@ läheisessä [korsussa](http://fi.wikipedia.org/wiki/Korsu) sijaitsevaan
 [Sotkuun](http://www.sotilaskotiliitto.fi/), jossa museonjohtaja kävi
 meitä tervehtimässä.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/retki-sotamuseoon-13.12.2009/Thumbnails/1.jpg)](/images/retki-sotamuseoon-13.12.2009/1.jpg)
 -   [![](/images/retki-sotamuseoon-13.12.2009/Thumbnails/2.jpg)](/images/retki-sotamuseoon-13.12.2009/2.jpg)

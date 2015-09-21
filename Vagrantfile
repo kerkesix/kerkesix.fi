@@ -19,5 +19,7 @@ Vagrant::Config.run do |config|
 
   config.ssh.forward_agent = true
   
-  # TODO: Automate running: jekyll server --watch -P 8124
+  # TODO: Automate running: 
+  #      cd /vagrant
+  #      jekyll serve --force_polling -P 8124
 end

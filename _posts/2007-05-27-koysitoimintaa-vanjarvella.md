@@ -24,7 +24,7 @@ joutsenten kansoittama. Lisäksi ennen kuin aurinko päätti käynnistyä,
 vieraili kipuiluijoiden luona useita hyttysveijareita. Varma kesän
 merkki.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/koysitoimintaa-vanjarvella/Thumbnails/kipuilu%20001.jpg)](/images/koysitoimintaa-vanjarvella/kipuilu%20001.jpg)
 -   [![](/images/koysitoimintaa-vanjarvella/Thumbnails/kipuilu%20002.jpg)](/images/koysitoimintaa-vanjarvella/kipuilu%20002.jpg)

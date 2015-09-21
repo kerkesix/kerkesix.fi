@@ -33,7 +33,7 @@ Kouluttajamme Hanna, Jukka, Mika ja Simo antoivat kannustavaa opetusta
 ja ryhmästä huolehdittiin todella mallikkaasti. Tästä iso kiitos
 järjestäjille!
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/mtb-koulu-nummelassa/Thumbnails/MTB-koulu%20004.jpg)](/images/mtb-koulu-nummelassa/MTB-koulu%20004.jpg)
 -   [![](/images/mtb-koulu-nummelassa/Thumbnails/MTB-koulu%20005.jpg)](/images/mtb-koulu-nummelassa/MTB-koulu%20005.jpg)

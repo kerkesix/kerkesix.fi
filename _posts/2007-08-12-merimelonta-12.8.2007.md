@@ -43,7 +43,7 @@ Kajakit kuljetettiin Vasikkasaaren ja Miessaaren ympäri, jonka jälkeen
 oli hyvä palata takaisin melontakeskukselle. Reissun saldo oli kokemusta
 melonnasta, bongattu haikaroita, merimetsoja ja lokki-veijareita.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/merimelonta-12.8.2007/Thumbnails/melonta%20004.jpg)](/images/merimelonta-12.8.2007/melonta%20004.jpg)
 -   [![](/images/merimelonta-12.8.2007/Thumbnails/melonta%20011.jpg)](/images/merimelonta-12.8.2007/melonta%20011.jpg)

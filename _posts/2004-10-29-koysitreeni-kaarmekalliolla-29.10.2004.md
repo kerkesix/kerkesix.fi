@@ -34,7 +34,7 @@ Tavoitteena on myös aktiivisesti harrastaa seinäkiipeilyä ja
 boulderointia. Tarkkaile kalenteria, vastaavia tilaisuuksia on jatkossa
 useita kuukaudessa.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/koysitreeni-kaarmekalliolla-29.10.2004/Thumbnails/kalliolla%20002.jpg)](/images/koysitreeni-kaarmekalliolla-29.10.2004/kalliolla%20002.jpg)
 -   [![](/images/koysitreeni-kaarmekalliolla-29.10.2004/Thumbnails/kalliolla%20003.jpg)](/images/koysitreeni-kaarmekalliolla-29.10.2004/kalliolla%20003.jpg)

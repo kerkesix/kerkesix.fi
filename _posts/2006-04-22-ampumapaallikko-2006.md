@@ -23,7 +23,7 @@ Ampumapäällikkö 2006 kolmen kärki
 2.  Passe
 3.  Kimmo
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/ampumapaallikko-2006/Thumbnails/luokittelematonampumapaallikko2006_01b.jpg)](/images/ampumapaallikko-2006/luokittelematonampumapaallikko2006_01b.jpg)
 -   [![](/images/ampumapaallikko-2006/Thumbnails/luokittelematonampumapaallikko2006_02b.jpg)](/images/ampumapaallikko-2006/luokittelematonampumapaallikko2006_02b.jpg)

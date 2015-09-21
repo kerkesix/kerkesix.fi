@@ -93,7 +93,7 @@ aiheuttaen huollolle kohtuullisen kiertoajelun. 
 Tänä vuonna Sysimustalle Satkulle lähti 56 innokasta, joista 50% saapui
 kävellen Pirttimäkeen.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20001.jpg)](/images/sysimusta-satku-7/Satku%20VII%20001.jpg)
 -   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20003.jpg)](/images/sysimusta-satku-7/Satku%20VII%20003.jpg)

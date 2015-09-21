@@ -56,7 +56,7 @@ Umpihankihiihdon puolella joukkue Kerkesix saavutti sijoituksen 20.
 Lumikenkävaelluksessa Kerkesix Karibut taistelivat pikataipaleella
 hopeasijalle ja Kerkesix Blue Tits tuli maaliin neljäntenä.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_01b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_01b.jpg)
 -   [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_02b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_02b.jpg)

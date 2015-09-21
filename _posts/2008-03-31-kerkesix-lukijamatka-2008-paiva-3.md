@@ -27,7 +27,7 @@ niiin joustava (vatsalaukunkin kohdalta). Hyvin ravitun olon kanssa
 kelpasikin siirtyä kansainväliseen tunnelmaan tulkitsemaan
 Finnkaraokea...
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0355.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0355.JPG)
 -   [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0356.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0356.JPG)

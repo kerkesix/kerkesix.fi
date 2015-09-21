@@ -31,7 +31,7 @@ tituleerata TalviTuskaSiaksi...
 Suurkiitos tapahtuman järjestäjille ja niin kisan aikaiselle kuin
 jälkeiselle huollolle!
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/talvi-tuska-sika-triathlon-vi/Thumbnails/1.jpg)](/images/talvi-tuska-sika-triathlon-vi/1.jpg)
 -   [![](/images/talvi-tuska-sika-triathlon-vi/Thumbnails/2.jpg)](/images/talvi-tuska-sika-triathlon-vi/2.jpg)

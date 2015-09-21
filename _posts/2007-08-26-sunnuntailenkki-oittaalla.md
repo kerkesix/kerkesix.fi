@@ -18,7 +18,7 @@ tunnistettavaksi. Ja sitten niitä ihmeteltiin.
 Kokonaisuudessaan reissu oli kevyttä ulkoilua mukavassa seurassa.
 Toisille tutussa ja toisille tuntemattomassa maastossa.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/sunnuntailenkki-oittaalla/Thumbnails/Kaarinan%20pyöräily%20001.jpg)](/images/sunnuntailenkki-oittaalla/Kaarinan%20pyöräily%20001.jpg)
 -   [![](/images/sunnuntailenkki-oittaalla/Thumbnails/Kaarinan%20pyöräily%20002.jpg)](/images/sunnuntailenkki-oittaalla/Kaarinan%20pyöräily%20002.jpg)

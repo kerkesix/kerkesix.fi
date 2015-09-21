@@ -61,7 +61,7 @@ takia meni taas aika myöhäiseksi. Se oli kyllä taas yhtä pitkä se vika
 parin kilsan järvipätkä, kuin muistin. Pajulahti ei meinannu lähestyä
 millään vaikka kuinka hiihti."
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/kaukopartiohiihto-2005/Thumbnails/vaelluskaukopartio2005_01b.jpg)](/images/kaukopartiohiihto-2005/vaelluskaukopartio2005_01b.jpg)
 -   [![](/images/kaukopartiohiihto-2005/Thumbnails/vaelluskaukopartio2005_02b.jpg)](/images/kaukopartiohiihto-2005/vaelluskaukopartio2005_02b.jpg)

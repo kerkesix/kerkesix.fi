@@ -20,7 +20,7 @@ pohtia helpompiakin tapoja kuljettaa rattaita.
 
 Mukavaa ulkoilua keväisessä ulkoilmassa.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/kevainen-sunnuntailenkki/Thumbnails/peruskuntosl20070311_01b.jpg)](/images/kevainen-sunnuntailenkki/peruskuntosl20070311_01b.jpg)
 -   [![](/images/kevainen-sunnuntailenkki/Thumbnails/peruskuntosl20070311_02b.jpg)](/images/kevainen-sunnuntailenkki/peruskuntosl20070311_02b.jpg)

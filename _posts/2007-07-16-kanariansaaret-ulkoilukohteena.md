@@ -60,7 +60,7 @@ Lyhyesti ja ytimekkäästi Kanaria-osasto esittäytyi. Mukavaa kesänjatkoa
 kaikille ja tsemppiä erikoispaljon Satkulle lähtijöille. Mulla on
 tuolloin kalenterissa luonnollisesti ”jotain muuta”…
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/kanariansaaret-ulkoilukohteena/Thumbnails/1%20snorklaus.JPG)](/images/kanariansaaret-ulkoilukohteena/1%20snorklaus.JPG)
 -   [![](/images/kanariansaaret-ulkoilukohteena/Thumbnails/2%20kraateri.JPG)](/images/kanariansaaret-ulkoilukohteena/2%20kraateri.JPG)

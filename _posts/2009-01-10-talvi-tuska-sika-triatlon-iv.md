@@ -48,7 +48,7 @@ kuvat! Kiitokset erinomaisen tapahtuman järjestämisestä Tuskaretkille!
 Allekirjoittanut (Flash) sai ainakin pienen kipinän lajiin ja
 suosittelee vastaavan liikunnan harjoittamista kaikelle Kerke-kansalle.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20016.jpg)](/images/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20016.jpg)
 -   [![](/images/talvi-tuska-sika-triatlon-iv/Thumbnails/20090110%20Turku%20018.jpg)](/images/talvi-tuska-sika-triatlon-iv/20090110%20Turku%20018.jpg)

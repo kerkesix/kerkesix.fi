@@ -73,7 +73,7 @@ kohde hiihtovaellukseen loivien tuntureiden takia, ja kivettömät polut
 soveltuvat hyvin pyörävaelluksiin. Alueelta löytyy myös pari
 kiinnostavaa jokea melontaan, koskiluokitukset 1-3.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_01b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_01b.jpg)
 -   [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_02b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_02b.jpg)

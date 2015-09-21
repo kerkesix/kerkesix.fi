@@ -15,7 +15,7 @@ sisälsi kartanlukua vaativassa maastossa sekä reitinvalintatehtäviä.
 Tuokion tavoite oli vahvistaa suunnistusosaamista lähestyvää Jukolan
 Viestiä varten.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/suunnistuskoulutus-latokaskessa/Thumbnails/suunnistuskoulutus20060514_01b.jpg)](/images/suunnistuskoulutus-latokaskessa/suunnistuskoulutus20060514_01b.jpg)
 -   [![](/images/suunnistuskoulutus-latokaskessa/Thumbnails/suunnistuskoulutus20060514_02b.jpg)](/images/suunnistuskoulutus-latokaskessa/suunnistuskoulutus20060514_02b.jpg)

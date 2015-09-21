@@ -22,7 +22,7 @@ jatkaa luokkatilan ulkopuolellakin.
 Lisätietoa reissusta voi lukea retkikunnan
 [nettisivuilta](http://www.pohjoisnapa.fi/).
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/pohjoisnapa-presentaatio/Thumbnails/Pohjoisnapa%20prezentaatio%20001.jpg)](/images/pohjoisnapa-presentaatio/Pohjoisnapa%20prezentaatio%20001.jpg)
 -   [![](/images/pohjoisnapa-presentaatio/Thumbnails/Pohjoisnapa%20prezentaatio%20002.jpg)](/images/pohjoisnapa-presentaatio/Pohjoisnapa%20prezentaatio%20002.jpg)

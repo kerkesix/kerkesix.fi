@@ -33,7 +33,7 @@ urakastaan. Veijarin vastuulla oli mm. kuljetun reitin merkkaus arviolta
 
 Reissusta teki rankan tarjottu sapuska (Blå Band). Pelottavan tehokasta.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/fjallraven-classic-2008/Thumbnails/FC01.jpg)](/images/fjallraven-classic-2008/FC01.jpg)
 -   [![](/images/fjallraven-classic-2008/Thumbnails/FC02.jpg)](/images/fjallraven-classic-2008/FC02.jpg)

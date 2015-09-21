@@ -84,7 +84,7 @@ GPS tallensi reissusta seuraavanlaista dataa:
 -   Kokonaisnousu: 869m
 -   Max elevation: 117m
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_01b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_01b.jpg)
 -   [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_02b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_02b.jpg)

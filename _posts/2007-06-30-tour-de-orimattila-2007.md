@@ -42,7 +42,7 @@ Keskinopeus: 19,6 km/h
 
 Suurin nopeus: 64,4 km/h
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/tour-de-orimattila-2007/Thumbnails/Tour%20de%20Ola%20002.jpg)](/images/tour-de-orimattila-2007/Tour%20de%20Ola%20002.jpg)
 -   [![](/images/tour-de-orimattila-2007/Thumbnails/Tour%20de%20Ola%20003.jpg)](/images/tour-de-orimattila-2007/Tour%20de%20Ola%20003.jpg)

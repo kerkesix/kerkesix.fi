@@ -63,7 +63,7 @@ onnistuneeseen reissuun. Asetetut tavoitteet saavutettiin läpäistyllä
 mitalisuorituksella. Ja vielä jäi onneksi jotain parannettavaa
 seuraaviin kertoihin.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/lumikenkavaellus-sm-2005/Thumbnails/vaelluslumikenkasm2005_06b.jpg)](/images/lumikenkavaellus-sm-2005/vaelluslumikenkasm2005_06b.jpg)
 -   [![](/images/lumikenkavaellus-sm-2005/Thumbnails/vaelluslumikenkasm2005_04b.jpg)](/images/lumikenkavaellus-sm-2005/vaelluslumikenkasm2005_04b.jpg)

@@ -20,7 +20,7 @@ vihreän reitin ja aikaa käytettiin tähän hauskuuteen pari tuntia. Keli
 oli hieman sateinen mutta kylmää ei kukaan tainnut valitella, lämpö
 riitti hyvin.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/sunnuntailenkilla-salmessa/Thumbnails/peruskuntosl20070107_01b.jpg)](/images/sunnuntailenkilla-salmessa/peruskuntosl20070107_01b.jpg)
 -   [![](/images/sunnuntailenkilla-salmessa/Thumbnails/peruskuntosl20070107_02b.jpg)](/images/sunnuntailenkilla-salmessa/peruskuntosl20070107_02b.jpg)

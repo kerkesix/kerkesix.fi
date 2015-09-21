@@ -67,7 +67,7 @@ aerobic-askelia lämpimänä pysymiseksi.
 Kerkesix ry kiittää kaikkia kävelyyn ja huoltoon osallistuneita hyvästä
 tapahtumasta.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/sysimusta-satku-4/Thumbnails/vaellussatku4_01b.jpg)](/images/sysimusta-satku-4/vaellussatku4_01b.jpg)
 -   [![](/images/sysimusta-satku-4/Thumbnails/vaellussatku4_02b.jpg)](/images/sysimusta-satku-4/vaellussatku4_02b.jpg)

@@ -133,7 +133,7 @@ osanottajajoukko ja kunnon kilpailuhenki. Kerkesix:n suomenmestaruutta
 ei silti kukaan voi kiistää! Kiitokset kaikille kannustajille ja
 erityisesti kisan järjestäjille. Ensi vuonna tavataan... ehkä?!?
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/lumikenkavaellus-sm-2008/Thumbnails/IMG_108.jpg)](/images/lumikenkavaellus-sm-2008/IMG_108.jpg)
 -   [![](/images/lumikenkavaellus-sm-2008/Thumbnails/IMG_109.JPG)](/images/lumikenkavaellus-sm-2008/IMG_109.JPG)

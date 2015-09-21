@@ -57,7 +57,7 @@ kännykkäänsä ja puhui lyhyehkön puhelun. Ohittaessani kaveria, tokaisin
 hänelle "otit sitten kännykän mukaan maratonille". Kaverin kääntäessä
 päänsä puoleeni, huomasin että siinähän oli Eki itse...
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/tukholman-maraton-2008/Thumbnails/marakäyrä.JPG)](/images/tukholman-maraton-2008/marakäyrä.JPG)
 -   [![](/images/tukholman-maraton-2008/Thumbnails/Sto08.jpg)](/images/tukholman-maraton-2008/Sto08.jpg)

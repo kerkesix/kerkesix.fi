@@ -74,7 +74,7 @@ ruotsalaisen lentokone- teollisuuden voimannäyte kuljetti meidät kotiin.
 Pääkaupunkiseudun huiputukseen osallistuivat: Arri, Emmi, Jappe, Ninnu
 ja Tipu
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/paakaupunkiseudun-huiputus-26.10.2003/Thumbnails/PKShuiputus_008b.jpg)](/images/paakaupunkiseudun-huiputus-26.10.2003/PKShuiputus_008b.jpg)
 -   [![](/images/paakaupunkiseudun-huiputus-26.10.2003/Thumbnails/PKShuiputus_012b.jpg)](/images/paakaupunkiseudun-huiputus-26.10.2003/PKShuiputus_012b.jpg)

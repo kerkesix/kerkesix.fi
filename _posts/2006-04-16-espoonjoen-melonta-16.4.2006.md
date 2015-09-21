@@ -91,7 +91,7 @@ ohjelmaan niin maisemallisesti, kuin toiminnallisestikin.
 
 Kerkesix melontakausi 2006 on avattu.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_01b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_01b.jpg)
 -   [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_02b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_02b.jpg)

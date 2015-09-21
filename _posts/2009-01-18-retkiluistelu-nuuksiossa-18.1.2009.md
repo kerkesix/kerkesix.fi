@@ -19,7 +19,7 @@ Reittinä kuljettiin myös melontaan soveltuva reitti Kattilajärven ja
 Urjan maastossa. Sovelias nuotiopaikkakin löytyi ja siellä saatiin
 herkuteltua masu täyteen retkievästä.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/retkiluistelu-nuuksiossa-18.1.2009/Thumbnails/Retkiluistelu%20001.JPG)](/images/retkiluistelu-nuuksiossa-18.1.2009/Retkiluistelu%20001.JPG)
 -   [![](/images/retkiluistelu-nuuksiossa-18.1.2009/Thumbnails/Retkiluistelu%20003.JPG)](/images/retkiluistelu-nuuksiossa-18.1.2009/Retkiluistelu%20003.JPG)

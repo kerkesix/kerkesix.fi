@@ -78,7 +78,7 @@ voimistua, muttei kuitenkaan saavuttanut lauantain mittoja.
 Paluu Kerkesix Melontakeskukseen sujui ilman sen suurempaa dramatiikkaa.
 Nautinnollisesti meloen ja hetkestä nauttien.
 
-<div class="image-gallery" markdown="1">
+<div class="th-grid image-gallery" markdown="1">
 
 -   [![](/images/merimelonta-suvisaaristossa-28.-29.5.2005/Thumbnails/melontasuvisaaristo20050528_01b.jpg)](/images/merimelonta-suvisaaristossa-28.-29.5.2005/melontasuvisaaristo20050528_01b.jpg)
 -   [![](/images/merimelonta-suvisaaristossa-28.-29.5.2005/Thumbnails/melontasuvisaaristo20050528_02b.jpg)](/images/merimelonta-suvisaaristossa-28.-29.5.2005/melontasuvisaaristo20050528_02b.jpg)
