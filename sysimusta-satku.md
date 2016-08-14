@@ -17,7 +17,7 @@ jalan 100 km:n matka vuorokauden aikana ohjeistettua reittiä pitkin.
 Satku on parhaimmillaan matkantekoa hyvässä seurassa.
 
 Sysimusta Satku järjestetään vuosittain lokakuun lopulla. Seuraava Sysimusta Satku XV 
-kävellään 5.-6.11.2016. Ilmoittautuminen alkaa 15.8.2016 klo 00.00.
+kävellään 5.-6.11.2016. Tämä Satku on jo täynnä.
 
 Tapahtuma on huollettu ja tarkemmat huolto-ohjeet osallistuja saa
 ilmoittautumisen jälkeen. Huolto perustuu huoltopisteisiin, joita on
