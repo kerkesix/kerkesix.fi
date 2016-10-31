@@ -27,7 +27,7 @@ Sysimustalla Satkulla.
 
 [![](/images/satkujalat/Sysimusta%20Satku%20046.jpg)](/images/satkujalat/Sysimusta%20Satku%20046.jpg)
 
-[![](/images/satkujalat/satkujalat-1.jpg)](/images/satkujalat/satkujalat-1.jpg) 
+[![](/images/satkujalat/satkujalka-1.jpg)](/images/satkujalat/satkujalka-1.jpg) 
 
-[![](/images/satkujalat/satkujalat-2.jpg)](/images/satkujalat/satkujalat-2.jpg) 
+[![](/images/satkujalat/satkujalka-2.jpg)](/images/satkujalat/satkujalka-2.jpg) 
 
