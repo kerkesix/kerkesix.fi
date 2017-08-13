@@ -16,8 +16,9 @@ jokaisella on mahdollisuus voittaa itsensä. Tarkoituksena on kulkea
 jalan 100 km:n matka vuorokauden aikana ohjeistettua reittiä pitkin.
 Satku on parhaimmillaan matkantekoa hyvässä seurassa.
 
-Sysimusta Satku järjestetään vuosittain lokakuun lopulla. Seuraava Sysimusta Satku XV 
-kävellään 5.-6.11.2016. Tämä Satku on jo täynnä.
+Sysimusta Satku järjestetään vuosittain lokakuun lopulla. Seuraava Sysimusta Satku XVI
+kävellään 4.-5.11.2017. Ilmoittautuminen aukeaa 15.8.2017 kello 00.00 osoitteessa
+[https://ilmo.kerkesix.fi/satkuxvi](https://ilmo.kerkesix.fi/satkuxvi)
 
 Tapahtuma on huollettu ja tarkemmat huolto-ohjeet osallistuja saa
 ilmoittautumisen jälkeen. Huolto perustuu huoltopisteisiin, joita on
