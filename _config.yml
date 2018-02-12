@@ -6,10 +6,11 @@ description: Kerkesix ry on monipuolista urheilua ja ulkoilua harrastavien ihmis
 logo: twitter-logo.png
 teaser: # 400x250 px default teaser image used in image archive grid
 locale:
-url: https://kerkesix.fi
-feed_url: http://feeds.feedburner.com/kerkesix
+url: http://kerkesix.fi
 timezone:    Europe/Helsinki
 encoding:    UTF-8
+feed:
+  path: atom.xml
 
 # Jekyll configuration
 
