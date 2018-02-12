@@ -17,13 +17,4 @@ $(document).ready(function(){
 });
 
 // Table of Contents title. Change text to localize
-$("#markdown-toc").prepend("<li><h6>Overview</h6></li>");
-
-// Gallery Popups
-$(document).ready(function(){
-	$('.image-gallery > ul').magnificPopup({
-	  delegate: 'a',
-	  type: 'image',
-	  gallery: { enabled:true }
-	});
-});
+$("#markdown-toc").prepend("<li><h6>{{ site.data.messages.locales[site.locale].overview }}</h6></li>");
