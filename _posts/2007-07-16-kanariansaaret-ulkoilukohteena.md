@@ -7,6 +7,7 @@ toc: false
 comments: true
 ads: false
 author: tipu
+published: false
 ---
 
 Heipähei, ja tervehdys Gran Canarialta. Jokohan olisi aika kirjoitella
@@ -62,10 +63,10 @@ tuolloin kalenterissa luonnollisesti ”jotain muuta”…
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/kanariansaaret-ulkoilukohteena/Thumbnails/1%20snorklaus.JPG)](/images/kanariansaaret-ulkoilukohteena/1%20snorklaus.JPG)
--   [![](/images/kanariansaaret-ulkoilukohteena/Thumbnails/2%20kraateri.JPG)](/images/kanariansaaret-ulkoilukohteena/2%20kraateri.JPG)
--   [![](/images/kanariansaaret-ulkoilukohteena/Thumbnails/3%20Aki,%20Tipu,%20John%20Lennon%20ja%20Sussi.JPG)](/images/kanariansaaret-ulkoilukohteena/3%20Aki,%20Tipu,%20John%20Lennon%20ja%20Sussi.JPG)
--   [![](/images/kanariansaaret-ulkoilukohteena/Thumbnails/5%20Palmitos%20Park%20palon%20jalkeen.JPG)](/images/kanariansaaret-ulkoilukohteena/5%20Palmitos%20Park%20palon%20jalkeen.JPG)
--   [![](/images/kanariansaaret-ulkoilukohteena/Thumbnails/kabanossi.JPG)](/images/kanariansaaret-ulkoilukohteena/kabanossi.JPG)
+- [![](/images/kanariansaaret-ulkoilukohteena/Thumbnails/1%20snorklaus.JPG)](/images/kanariansaaret-ulkoilukohteena/1%20snorklaus.JPG)
+- [![](/images/kanariansaaret-ulkoilukohteena/Thumbnails/2%20kraateri.JPG)](/images/kanariansaaret-ulkoilukohteena/2%20kraateri.JPG)
+- [![](/images/kanariansaaret-ulkoilukohteena/Thumbnails/3%20Aki,%20Tipu,%20John%20Lennon%20ja%20Sussi.JPG)](/images/kanariansaaret-ulkoilukohteena/3%20Aki,%20Tipu,%20John%20Lennon%20ja%20Sussi.JPG)
+- [![](/images/kanariansaaret-ulkoilukohteena/Thumbnails/5%20Palmitos%20Park%20palon%20jalkeen.JPG)](/images/kanariansaaret-ulkoilukohteena/5%20Palmitos%20Park%20palon%20jalkeen.JPG)
+- [![](/images/kanariansaaret-ulkoilukohteena/Thumbnails/kabanossi.JPG)](/images/kanariansaaret-ulkoilukohteena/kabanossi.JPG)
 
 </div>
