@@ -10,8 +10,8 @@ See Makefile.
 
 ## Deploy to firebase
 
-Deployment is done with Google Cloud Container builder on each push, see cloudbuild.yaml for details. To set this up create
-a CI token with `firebase login:ci`, and set up a Cloud Container Builder job with that token.
+Deployment is done with Github actions on each push, see .github folder for details. To set this
+up create a CI token with `firebase login:ci`, save the output to Github secret FIREBASE_TOKEN.
 
 To build and deploy locally for test purposes do
 

@@ -1,0 +1,50 @@
+# Builds the Jekyll site and deploys it to Firebase hosting
+name: Deploy each push
+on:
+  push:
+    branches: [master]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      - name: Fix permissions
+        uses: docker://jekyll/builder:4.1.0
+        with:
+          entrypoint: "/bin/chown"
+          args: -R jekyll:jekyll .
+
+      - name: Build site
+        uses: docker://jekyll/builder:4.1.0
+        with:
+          args: jekyll build
+
+      - name: Archive built site
+        uses: actions/upload-artifact@v2
+        with:
+          name: site
+          path: _site
+
+  deploy:
+    name: Deploy
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+
+      - name: Download Artifact
+        uses: actions/download-artifact@v2
+        with:
+          name: site
+          path: _site
+
+      - name: Deploy to Firebase
+        uses: w9jds/firebase-action@master
+        with:
+          args: deploy --only hosting
+        env:
+          FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
