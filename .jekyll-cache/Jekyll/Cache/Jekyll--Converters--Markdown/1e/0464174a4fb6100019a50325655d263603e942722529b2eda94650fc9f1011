@@ -1,0 +1,86 @@
+I"S<div class="tiles">
+
+	<article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="/vuosijuhla-2014/" title="Syyskokous ja vuosijuhla 2014" class="post-teaser">
+    
+    <!-- <img src="/images/" alt="teaser" itemprop="image"> -->
+    
+  </a>
+  
+  <p class="entry-date date published">
+    <time datetime="2014-11-29" itemprop="datePublished">
+       29. marraskuuta
+         2014
+    </time>
+  </p>
+  
+  <h2 class="post-title" itemprop="name"><a href="/vuosijuhla-2014/">Syyskokous ja vuosijuhla 2014</a></h2>
+  <p class="post-excerpt" itemprop="description">Vuosijuhla järjestettiin perinteitä kunnioittaen Kolmoislammin varaustulipaikalla. Näin on tehty yli viisi vuotta putkeen, mutta kukaan ei ole muistanut pitk...</p>
+</article><!-- /.tile -->
+
+
+	<article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="/kerkesix-sivujen-kuudes-versio-julkaistu/" title="Kerkesix-sivujen kuudes versio julkaistu" class="post-teaser">
+    
+    <!-- <img src="/images/" alt="teaser" itemprop="image"> -->
+    
+  </a>
+  
+  <p class="entry-date date published">
+    <time datetime="2014-11-13" itemprop="datePublished">
+       13. marraskuuta
+         2014
+    </time>
+  </p>
+  
+  <h2 class="post-title" itemprop="name"><a href="/kerkesix-sivujen-kuudes-versio-julkaistu/">Kerkesix-sivujen kuudes versio julkaistu</a></h2>
+  <p class="post-excerpt" itemprop="description">Mikään ei ole niin varmaa kuin muutos: http://kerkesix.fi-sivuista julkaistiin
+tänään kuudes versio. Yhdistyksellä on historiaa takana vajaa 12 vuotta, joten...</p>
+</article><!-- /.tile -->
+
+
+	<article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="/sysimusta-satku-ilmoittautuminen-aukeaa-kello-00.00-linkki-alla/" title="Sysimusta Satku ilmoittautuminen aukeaa kello 00.00 - linkki alla" class="post-teaser">
+    
+    <!-- <img src="/images/" alt="teaser" itemprop="image"> -->
+    
+  </a>
+  
+  <p class="entry-date date published">
+    <time datetime="2014-08-14" itemprop="datePublished">
+       14. elokuuta
+         2014
+    </time>
+  </p>
+  
+  <h2 class="post-title" itemprop="name"><a href="/sysimusta-satku-ilmoittautuminen-aukeaa-kello-00.00-linkki-alla/">Sysimusta Satku ilmoittautuminen aukeaa kello 00.00 - linkki alla</a></h2>
+  <p class="post-excerpt" itemprop="description">Ja sessio täyttyi varsin rivakasti. Kello 00.14 oli jo 50
+ilmoittautumista.Seuraavan kerran ilmoittaudutaan vuoden kuluttua!
+</p>
+</article><!-- /.tile -->
+
+
+	<article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="/satku-13-ilmoittautuminen-alkaa-pian/" title="Vuoden 2014 Sysimusta Satku - ilmoittautuminen alkaa noin 16 tunnin kuluttua." class="post-teaser">
+    
+    <!-- <img src="/images/" alt="teaser" itemprop="image"> -->
+    
+  </a>
+  
+  <p class="entry-date date published">
+    <time datetime="2014-08-14" itemprop="datePublished">
+       14. elokuuta
+         2014
+    </time>
+  </p>
+  
+  <h2 class="post-title" itemprop="name"><a href="/satku-13-ilmoittautuminen-alkaa-pian/">Vuoden 2014 Sysimusta Satku - ilmoittautuminen alkaa noin 16 tunnin kuluttua.</a></h2>
+  <p class="post-excerpt" itemprop="description">Sysimusta Satku XIII käynnistyy sillä, että ilmoitautuminen alkaa
+vuorokauden vaihtuessa noin 16 tunnin kuluttua. Lilnkki
+ilmoittautumiseen julkaistaan tuoll...</p>
+</article><!-- /.tile -->
+
+
+</div>
+<!-- /.tiles -->
+:ET

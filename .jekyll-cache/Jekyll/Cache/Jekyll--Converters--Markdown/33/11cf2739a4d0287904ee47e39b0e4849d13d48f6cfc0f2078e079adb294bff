@@ -1,0 +1,19 @@
+I"�<p>Mikään ei ole niin varmaa kuin muutos: <a href="http://kerkesix.fi">http://kerkesix.fi</a>-sivuista julkaistiin
+tänään kuudes versio. Yhdistyksellä on historiaa takana vajaa 12 vuotta, joten
+yksi versio elää keskimäärin aina pari - kolme vuotta.</p>
+
+<p>Tällä kertaa panostettiin luettavuuteen, nopeuteen, keveyteen, ja parempaan
+toimintaan mobiili- ja tablettilaitteilla. Vanhat sivut olivat toteutettu
+monipuolisen sisällönhallintatyökalun avulla. Tämä aiheutti lisävaatimuksia
+sivujen ajoalustalle, ja lisäksi aiheutti hitautta ja jatkuvaa päivitystarvetta.
+Koska kerkesivuja muokkaa vain pari (teknisesti valveutunutta) henkilöä, menevät
+sisällönhallintatyökalut kerkekäytössä hukkaan. Uudet sivut ovat käytännössä
+staattiset: ne luodaan aina muutoshetkellä kerran datatiedostoista, ja sen jälkeen
+(seuraavaan muutokseen asti) luetaan samoja muuttumattomia tiedostoja uudelleen
+ja uudelleen. Sivustot luodaan <a href="http://jekyllrb.com/">Jekyll-kääntimellä</a>, ja ne ylläpidetään
+<a href="https://github.com/teelahti/kerkesix.fi/tree/gh-pages">Githubin julkisessa säilössä</a>. Kuka vain voi hakea uusimman version
+säilöstä, ja tehdä vaikka oman versionsa sivustosta.</p>
+
+<p>Onnea uusille sivuille!</p>
+
+:ET
