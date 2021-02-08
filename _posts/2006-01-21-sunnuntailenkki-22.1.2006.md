@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Sunnuntailenkki 22.1.2006" 
-categories: 
-tags: [hiihto,juoksu]
-toc: false 
-comments: true 
-ads: false 
+layout: article
+title: "Sunnuntailenkki 22.1.2006"
+categories:
+tags: [hiihto, juoksu]
+toc: false
+comments: true
 ---
 
 Sunnuntailenkki suoritettiin kahdella osastolla, Espoon Latokaskessa
@@ -16,8 +15,8 @@ tunnelmaa ja hiihdon jälkeen odottava kuuma sauna oli piste iin päälle.
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/sunnuntailenkki-22.1.2006/Thumbnails/peruskuntosl20060122_01b.jpg)](/images/sunnuntailenkki-22.1.2006/peruskuntosl20060122_01b.jpg)
--   [![](/images/sunnuntailenkki-22.1.2006/Thumbnails/peruskuntosl20060122_02b.jpg)](/images/sunnuntailenkki-22.1.2006/peruskuntosl20060122_02b.jpg)
--   [![](/images/sunnuntailenkki-22.1.2006/Thumbnails/peruskuntosl20060122_03b.jpg)](/images/sunnuntailenkki-22.1.2006/peruskuntosl20060122_03b.jpg)
+- [![](/images/sunnuntailenkki-22.1.2006/Thumbnails/peruskuntosl20060122_01b.jpg)](/images/sunnuntailenkki-22.1.2006/peruskuntosl20060122_01b.jpg)
+- [![](/images/sunnuntailenkki-22.1.2006/Thumbnails/peruskuntosl20060122_02b.jpg)](/images/sunnuntailenkki-22.1.2006/peruskuntosl20060122_02b.jpg)
+- [![](/images/sunnuntailenkki-22.1.2006/Thumbnails/peruskuntosl20060122_03b.jpg)](/images/sunnuntailenkki-22.1.2006/peruskuntosl20060122_03b.jpg)
 
 </div>

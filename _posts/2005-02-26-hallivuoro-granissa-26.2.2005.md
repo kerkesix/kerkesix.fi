@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Hallivuoro Granissa 26.2.2005" 
-categories: 
+layout: article
+title: "Hallivuoro Granissa 26.2.2005"
+categories:
 tags: [uinti]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Hallivuoro Granissa sai jälleen paikalle aktiivisia harrastajia.
@@ -49,11 +48,11 @@ takaisin paineistamattoman ilman luo.
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/hallivuoro-granissa-26.2.2005/Thumbnails/vesihallia20050226_01b.jpg)](/images/hallivuoro-granissa-26.2.2005/vesihallia20050226_01b.jpg)
--   [![](/images/hallivuoro-granissa-26.2.2005/Thumbnails/vesihallia20050226_02b.jpg)](/images/hallivuoro-granissa-26.2.2005/vesihallia20050226_02b.jpg)
--   [![](/images/hallivuoro-granissa-26.2.2005/Thumbnails/vesihallia20050226_03b.jpg)](/images/hallivuoro-granissa-26.2.2005/vesihallia20050226_03b.jpg)
--   [![](/images/hallivuoro-granissa-26.2.2005/Thumbnails/vesihallia20050226_04b.jpg)](/images/hallivuoro-granissa-26.2.2005/vesihallia20050226_04b.jpg)
--   [![](/images/hallivuoro-granissa-26.2.2005/Thumbnails/vesihallia20050226_05b.jpg)](/images/hallivuoro-granissa-26.2.2005/vesihallia20050226_05b.jpg)
--   [![](/images/hallivuoro-granissa-26.2.2005/Thumbnails/vesihallia20050226_06b.jpg)](/images/hallivuoro-granissa-26.2.2005/vesihallia20050226_06b.jpg)
+- [![](/images/hallivuoro-granissa-26.2.2005/Thumbnails/vesihallia20050226_01b.jpg)](/images/hallivuoro-granissa-26.2.2005/vesihallia20050226_01b.jpg)
+- [![](/images/hallivuoro-granissa-26.2.2005/Thumbnails/vesihallia20050226_02b.jpg)](/images/hallivuoro-granissa-26.2.2005/vesihallia20050226_02b.jpg)
+- [![](/images/hallivuoro-granissa-26.2.2005/Thumbnails/vesihallia20050226_03b.jpg)](/images/hallivuoro-granissa-26.2.2005/vesihallia20050226_03b.jpg)
+- [![](/images/hallivuoro-granissa-26.2.2005/Thumbnails/vesihallia20050226_04b.jpg)](/images/hallivuoro-granissa-26.2.2005/vesihallia20050226_04b.jpg)
+- [![](/images/hallivuoro-granissa-26.2.2005/Thumbnails/vesihallia20050226_05b.jpg)](/images/hallivuoro-granissa-26.2.2005/vesihallia20050226_05b.jpg)
+- [![](/images/hallivuoro-granissa-26.2.2005/Thumbnails/vesihallia20050226_06b.jpg)](/images/hallivuoro-granissa-26.2.2005/vesihallia20050226_06b.jpg)
 
 </div>

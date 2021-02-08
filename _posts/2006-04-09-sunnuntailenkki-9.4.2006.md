@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Sunnuntailenkki Pirttimäessä 9.4.2006" 
-categories: 
-tags: [juoksu,ulkoilu]
-toc: false 
-comments: true 
-ads: false 
+layout: article
+title: "Sunnuntailenkki Pirttimäessä 9.4.2006"
+categories:
+tags: [juoksu, ulkoilu]
+toc: false
+comments: true
 ---
 
 Huhtikuun ensimmäinen sunnuntailenkki pidettiin Pirttimäen
@@ -29,10 +28,10 @@ että keväinen luonto oli jälleen tutustumisen arvoinen paikka.
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/sunnuntailenkki-9.4.2006/Thumbnails/peruskuntosl20060409_01b.jpg)](/images/sunnuntailenkki-9.4.2006/peruskuntosl20060409_01b.jpg)
--   [![](/images/sunnuntailenkki-9.4.2006/Thumbnails/peruskuntosl20060409_02b.jpg)](/images/sunnuntailenkki-9.4.2006/peruskuntosl20060409_02b.jpg)
--   [![](/images/sunnuntailenkki-9.4.2006/Thumbnails/peruskuntosl20060409_03b.jpg)](/images/sunnuntailenkki-9.4.2006/peruskuntosl20060409_03b.jpg)
--   [![](/images/sunnuntailenkki-9.4.2006/Thumbnails/peruskuntosl20060409_04b.jpg)](/images/sunnuntailenkki-9.4.2006/peruskuntosl20060409_04b.jpg)
--   [![](/images/sunnuntailenkki-9.4.2006/Thumbnails/peruskuntosl20060409_05b.jpg)](/images/sunnuntailenkki-9.4.2006/peruskuntosl20060409_05b.jpg)
+- [![](/images/sunnuntailenkki-9.4.2006/Thumbnails/peruskuntosl20060409_01b.jpg)](/images/sunnuntailenkki-9.4.2006/peruskuntosl20060409_01b.jpg)
+- [![](/images/sunnuntailenkki-9.4.2006/Thumbnails/peruskuntosl20060409_02b.jpg)](/images/sunnuntailenkki-9.4.2006/peruskuntosl20060409_02b.jpg)
+- [![](/images/sunnuntailenkki-9.4.2006/Thumbnails/peruskuntosl20060409_03b.jpg)](/images/sunnuntailenkki-9.4.2006/peruskuntosl20060409_03b.jpg)
+- [![](/images/sunnuntailenkki-9.4.2006/Thumbnails/peruskuntosl20060409_04b.jpg)](/images/sunnuntailenkki-9.4.2006/peruskuntosl20060409_04b.jpg)
+- [![](/images/sunnuntailenkki-9.4.2006/Thumbnails/peruskuntosl20060409_05b.jpg)](/images/sunnuntailenkki-9.4.2006/peruskuntosl20060409_05b.jpg)
 
 </div>

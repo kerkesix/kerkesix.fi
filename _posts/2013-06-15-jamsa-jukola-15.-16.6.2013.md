@@ -5,7 +5,6 @@ categories:
 tags: [suunnistus]
 toc: false
 comments: true
-ads: false
 ---
 
 Tänään puskee Kerkesix-suunnistusjoukkue metsään Jämsänkoskella. Tälle
@@ -15,4 +14,4 @@ kanssa. Taoitteina jälleen:
 1.  saada tulos
 2.  tulla maaliin vähintään lähtönumerolla.
 
-Hauskaa tulee olemaan joka tapauksessa. 
+Hauskaa tulee olemaan joka tapauksessa.

@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Kerkesix lukijamatka 2008 Gran Canarialle - päivä 8" 
-categories: 
+layout: article
+title: "Kerkesix lukijamatka 2008 Gran Canarialle - päivä 8"
+categories:
 tags: [lukijamatka]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Kohtuullisen nopeasti menneen viikon jälkeen oli hyvä todeta, että
@@ -30,10 +29,10 @@ Kaikkinensa kelvollinen reissu.
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/kerkesix-lukijamatka-2008-paiva-8/Thumbnails/DSC00946.JPG)](/images/kerkesix-lukijamatka-2008-paiva-8/DSC00946.JPG)
--   [![](/images/kerkesix-lukijamatka-2008-paiva-8/Thumbnails/DSC_1034.JPG)](/images/kerkesix-lukijamatka-2008-paiva-8/DSC_1034.JPG)
--   [![](/images/kerkesix-lukijamatka-2008-paiva-8/Thumbnails/DSC_1051.JPG)](/images/kerkesix-lukijamatka-2008-paiva-8/DSC_1051.JPG)
--   [![](/images/kerkesix-lukijamatka-2008-paiva-8/Thumbnails/DSC_1081.JPG)](/images/kerkesix-lukijamatka-2008-paiva-8/DSC_1081.JPG)
--   [![](/images/kerkesix-lukijamatka-2008-paiva-8/Thumbnails/DSC_1097.JPG)](/images/kerkesix-lukijamatka-2008-paiva-8/DSC_1097.JPG)
+- [![](/images/kerkesix-lukijamatka-2008-paiva-8/Thumbnails/DSC00946.JPG)](/images/kerkesix-lukijamatka-2008-paiva-8/DSC00946.JPG)
+- [![](/images/kerkesix-lukijamatka-2008-paiva-8/Thumbnails/DSC_1034.JPG)](/images/kerkesix-lukijamatka-2008-paiva-8/DSC_1034.JPG)
+- [![](/images/kerkesix-lukijamatka-2008-paiva-8/Thumbnails/DSC_1051.JPG)](/images/kerkesix-lukijamatka-2008-paiva-8/DSC_1051.JPG)
+- [![](/images/kerkesix-lukijamatka-2008-paiva-8/Thumbnails/DSC_1081.JPG)](/images/kerkesix-lukijamatka-2008-paiva-8/DSC_1081.JPG)
+- [![](/images/kerkesix-lukijamatka-2008-paiva-8/Thumbnails/DSC_1097.JPG)](/images/kerkesix-lukijamatka-2008-paiva-8/DSC_1097.JPG)
 
 </div>

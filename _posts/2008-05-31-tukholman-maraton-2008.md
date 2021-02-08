@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Tukholman Maraton 2008" 
-categories: 
-tags: [juoksu,maraton]
-toc: false 
-comments: true 
-ads: false 
+layout: article
+title: "Tukholman Maraton 2008"
+categories:
+tags: [juoksu, maraton]
+toc: false
+comments: true
 ---
 
 Jukkiksen, Anun ja Maken tunnelmia naapurimaan kirmailutapahtumasta:
@@ -37,7 +36,7 @@ Kolmas maraton toden sanoo? Jaa-a, nyt ainakin tietää, miltä tuntuu
 vääntää viimeiset 16 km, kun etenee ensimmäisen puoliskon turhan
 reippahasti. Tukholmassa on tunnetusti poikkeuksellisen hyvä kannustus
 ja kattavat väliaikatiedot. Keli oli lämmin, edellistä vuotta
-leppoisampi. Näillä mennään kohti seuraavaa maratonia. 
+leppoisampi. Näillä mennään kohti seuraavaa maratonia.
 
 \*  \*  \*  \*  \*
 
@@ -59,7 +58,7 @@ päänsä puoleeni, huomasin että siinähän oli Eki itse...
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/tukholman-maraton-2008/Thumbnails/marakäyrä.JPG)](/images/tukholman-maraton-2008/marakäyrä.JPG)
--   [![](/images/tukholman-maraton-2008/Thumbnails/Sto08.jpg)](/images/tukholman-maraton-2008/Sto08.jpg)
+- [![](/images/tukholman-maraton-2008/Thumbnails/marakäyrä.JPG)](/images/tukholman-maraton-2008/marakäyrä.JPG)
+- [![](/images/tukholman-maraton-2008/Thumbnails/Sto08.jpg)](/images/tukholman-maraton-2008/Sto08.jpg)
 
 </div>

@@ -2,10 +2,9 @@
 layout: article
 title: "Näin valmistat vetorenkaan"
 categories:
-tags: [varusteet,renkaanveto]
+tags: [varusteet, renkaanveto]
 toc: false
 comments: true
-ads: false
 ---
 
 ### Vetorengas - mikä ja miksi?
@@ -43,13 +42,13 @@ oma asia.
 Valmistusaineet, ingredients (per
 serving):![](/images/vetorengas/ohjevetorengas_01b.jpg)
 
--   1 auton rengas (koville jätkille nastarengas)
--   6 m 8-10 mm halkaisijan narua
--   50 cm puutarhaletkua, jonka sisäosan halkaisija on laajempi kuin
-    8-10 mm
--   2 sulkurengasta
--   1,5 m lautaa tai vaihtoehtoisesti puoli neliötä jotain levyä ^1^
--   50 cm 3 mm vahvaa päällystettyä kuminauhaa.
+- 1 auton rengas (koville jätkille nastarengas)
+- 6 m 8-10 mm halkaisijan narua
+- 50 cm puutarhaletkua, jonka sisäosan halkaisija on laajempi kuin
+  8-10 mm
+- 2 sulkurengasta
+- 1,5 m lautaa tai vaihtoehtoisesti puoli neliötä jotain levyä ^1^
+- 50 cm 3 mm vahvaa päällystettyä kuminauhaa.
 
 Käytettyjä renkaita voi tiedustella rengasliikkeistä. Yleensä
 rengasliikkeet luovuttavat renkaan sitä tiedustelevalle varsin
@@ -64,14 +63,14 @@ muistaa riittävän vetolujuuden.
 Tarvittavat
 työkalut:![](/images/vetorengas/ohjevetorengas_02b.jpg)
 
--   puukko mallia saa tuhoutua
--   saha
--   30 mm ruuveja 8 kpl ^2^
--   ruuvinväännin tai vahvat ranteet
--   porakone ja 20 mm metallipora, mikäli puukko ei riitä renkaan
-    puhkaisuun.
+- puukko mallia saa tuhoutua
+- saha
+- 30 mm ruuveja 8 kpl ^2^
+- ruuvinväännin tai vahvat ranteet
+- porakone ja 20 mm metallipora, mikäli puukko ei riitä renkaan
+  puhkaisuun.
 
- 
+
 
 ### Ja töihin
 
@@ -80,18 +79,17 @@ vetorenkaan ja etäisyys vetäjästä on noin 2,5 metriä. Katkaise köysi
 sopivan mittaiseksi ja estä köyden pään rispaantuminen esimerkiksi
 sulattamalla.
 
-![](/images/vetorengas/ohjevetorengas_07b.jpg)  ![](/images/vetorengas/ohjevetorengas_08b.jpg) 
+![](/images/vetorengas/ohjevetorengas_07b.jpg)  ![](/images/vetorengas/ohjevetorengas_08b.jpg)
 
 Vetopisteen rakentaminen aloitetaan tekemällä renkaan kitkapinnan ja
 sivun liittymäkohtaan kaksi letkun mentävää reikää noin 25 cm:n päähän
 toisistaan. Reiät voi tehdä puukolla tai muulla soveltuvalla terällä,
 mutta poran käyttöä puoltaa poralla tehdyn reiän reunojen pyöreys.
 Mikäli puukolla tehdään liian syvä viilto, voi rengas revetä viillon
-suuntaan, kun vetoharjoituksessa voima kohdistuu vetopisteeseen. 
+suuntaan, kun vetoharjoituksessa voima kohdistuu vetopisteeseen.
 
 ![](/images/vetorengas/ohjevetorengas_05b.jpg) 
  ![](/images/vetorengas/ohjevetorengas_06b.jpg)
-
 
 Mikäli letku on köyteen nähden ahdas, pujota köyden pää letkun läpi
 ennen kuin alat asettaa letkua paikalleen. Työnnä Letku renkaaseen
@@ -139,7 +137,6 @@ ja raavi maata.
 ![](/images/vetorengas/ohjevetorengas_15b.jpg) 
  ![](/images/vetorengas/ohjevetorengas_20b.jpg)
 
-
 <span class="Apple-style-span">Vetorenkaan vetämiseen kannattaa virittää
 tukeva järjestelmä. Oivallisin valjasratkaisu on ehkäpä juuri
 ahkionvetämiseen valmistettu valjas, mutta muitakin vaihtoehtoja toki
@@ -163,9 +160,9 @@ kaksituntista harjoitusta. Oivallisia vetoja!
 ![](/images/vetorengas/ohjevetorengas_21b.jpg) 
  ![](/images/vetorengas/ohjevetorengas_22b.jpg)
 
-*^1^ Jos haluaa kikkailla niin jotain ainetta laudan tai levyn
+_^1^ Jos haluaa kikkailla niin jotain ainetta laudan tai levyn
 suojaamiseen kosteudelta, myös maalina tunnettua.\
 ^2^ Ruuvien pituus riippuu käytössä olevan laudan paksuudesta.\
 ^3^ Kerkesix ry ei vastaa hajonneista repuista. Mikäli näitä ohjeita
 seurannut henkilö on arvioinut oman kantolaitteensa kestokyvyn väärin,
-on vastuu yksinomaan käyttäjällä.*
+on vastuu yksinomaan käyttäjällä._

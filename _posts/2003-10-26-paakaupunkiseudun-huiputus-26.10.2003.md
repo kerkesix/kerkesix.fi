@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Pääkaupunkiseudun huiputus - 26.10.2003" 
-categories: 
-tags: [ulkoilu,vuoristovaellus]
-toc: false 
-comments: true 
-ads: false 
+layout: article
+title: "Pääkaupunkiseudun huiputus - 26.10.2003"
+categories:
+tags: [ulkoilu, vuoristovaellus]
+toc: false
+comments: true
 ---
 
 Kerkesix ry:n retkikunta lähti talviseen pääkaupunkiseudun luontoon
@@ -76,12 +75,12 @@ ja Tipu
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/paakaupunkiseudun-huiputus-26.10.2003/Thumbnails/PKShuiputus_008b.jpg)](/images/paakaupunkiseudun-huiputus-26.10.2003/PKShuiputus_008b.jpg)
--   [![](/images/paakaupunkiseudun-huiputus-26.10.2003/Thumbnails/PKShuiputus_012b.jpg)](/images/paakaupunkiseudun-huiputus-26.10.2003/PKShuiputus_012b.jpg)
--   [![](/images/paakaupunkiseudun-huiputus-26.10.2003/Thumbnails/PKShuiputus_028b.jpg)](/images/paakaupunkiseudun-huiputus-26.10.2003/PKShuiputus_028b.jpg)
--   [![](/images/paakaupunkiseudun-huiputus-26.10.2003/Thumbnails/PKShuiputus_044b.jpg)](/images/paakaupunkiseudun-huiputus-26.10.2003/PKShuiputus_044b.jpg)
--   [![](/images/paakaupunkiseudun-huiputus-26.10.2003/Thumbnails/PKShuiputus_047b.jpg)](/images/paakaupunkiseudun-huiputus-26.10.2003/PKShuiputus_047b.jpg)
--   [![](/images/paakaupunkiseudun-huiputus-26.10.2003/Thumbnails/PKShuiputus_067b.jpg)](/images/paakaupunkiseudun-huiputus-26.10.2003/PKShuiputus_067b.jpg)
--   [![](/images/paakaupunkiseudun-huiputus-26.10.2003/Thumbnails/PKShuiputus_071b.jpg)](/images/paakaupunkiseudun-huiputus-26.10.2003/PKShuiputus_071b.jpg)
+- [![](/images/paakaupunkiseudun-huiputus-26.10.2003/Thumbnails/PKShuiputus_008b.jpg)](/images/paakaupunkiseudun-huiputus-26.10.2003/PKShuiputus_008b.jpg)
+- [![](/images/paakaupunkiseudun-huiputus-26.10.2003/Thumbnails/PKShuiputus_012b.jpg)](/images/paakaupunkiseudun-huiputus-26.10.2003/PKShuiputus_012b.jpg)
+- [![](/images/paakaupunkiseudun-huiputus-26.10.2003/Thumbnails/PKShuiputus_028b.jpg)](/images/paakaupunkiseudun-huiputus-26.10.2003/PKShuiputus_028b.jpg)
+- [![](/images/paakaupunkiseudun-huiputus-26.10.2003/Thumbnails/PKShuiputus_044b.jpg)](/images/paakaupunkiseudun-huiputus-26.10.2003/PKShuiputus_044b.jpg)
+- [![](/images/paakaupunkiseudun-huiputus-26.10.2003/Thumbnails/PKShuiputus_047b.jpg)](/images/paakaupunkiseudun-huiputus-26.10.2003/PKShuiputus_047b.jpg)
+- [![](/images/paakaupunkiseudun-huiputus-26.10.2003/Thumbnails/PKShuiputus_067b.jpg)](/images/paakaupunkiseudun-huiputus-26.10.2003/PKShuiputus_067b.jpg)
+- [![](/images/paakaupunkiseudun-huiputus-26.10.2003/Thumbnails/PKShuiputus_071b.jpg)](/images/paakaupunkiseudun-huiputus-26.10.2003/PKShuiputus_071b.jpg)
 
 </div>

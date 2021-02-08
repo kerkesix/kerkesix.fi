@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Kerkenetin versio 4 julkaistu" 
-categories: 
+layout: article
+title: "Kerkenetin versio 4 julkaistu"
+categories:
 tags: [kerkesix.fi]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Hitaasti mutta sitäkin epävarmemmin kerhon nettisivut kehittyvät. Nyt on

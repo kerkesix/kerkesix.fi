@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Kajakki hankittu yhdistykselle" 
-categories: 
+layout: article
+title: "Kajakki hankittu yhdistykselle"
+categories:
 tags: [varusteet]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Yhdistys on hankkinut kajakin jäsentensä käyttöön. Kyseessä on väriltään
@@ -16,4 +15,3 @@ Kajakki on yhdistyksen jäsenten käytössä ja on toivottavaa että sillä
 melotaan. Melomaan pääsee ottamalla yhteyden melontavastaava
 Vehviläiseen ja sopimalla milloin voi lähteä melomaan Kerkesix
 melontakeskuksesta.
-

@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Pohjoisnapa-presentaatio" 
-categories: 
+layout: article
+title: "Pohjoisnapa-presentaatio"
+categories:
 tags: [luennot]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Tero ja Toni kävivät hiihtoretkellä pohjoisnavalle keväällä 2006. Tästä
@@ -24,10 +23,10 @@ Lisätietoa reissusta voi lukea retkikunnan
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/pohjoisnapa-presentaatio/Thumbnails/Pohjoisnapa%20prezentaatio%20001.jpg)](/images/pohjoisnapa-presentaatio/Pohjoisnapa%20prezentaatio%20001.jpg)
--   [![](/images/pohjoisnapa-presentaatio/Thumbnails/Pohjoisnapa%20prezentaatio%20002.jpg)](/images/pohjoisnapa-presentaatio/Pohjoisnapa%20prezentaatio%20002.jpg)
--   [![](/images/pohjoisnapa-presentaatio/Thumbnails/Pohjoisnapa%20prezentaatio%20003.jpg)](/images/pohjoisnapa-presentaatio/Pohjoisnapa%20prezentaatio%20003.jpg)
--   [![](/images/pohjoisnapa-presentaatio/Thumbnails/Pohjoisnapa%20prezentaatio%20006.jpg)](/images/pohjoisnapa-presentaatio/Pohjoisnapa%20prezentaatio%20006.jpg)
--   [![](/images/pohjoisnapa-presentaatio/Thumbnails/Pohjoisnapa%20prezentaatio%20008.jpg)](/images/pohjoisnapa-presentaatio/Pohjoisnapa%20prezentaatio%20008.jpg)
+- [![](/images/pohjoisnapa-presentaatio/Thumbnails/Pohjoisnapa%20prezentaatio%20001.jpg)](/images/pohjoisnapa-presentaatio/Pohjoisnapa%20prezentaatio%20001.jpg)
+- [![](/images/pohjoisnapa-presentaatio/Thumbnails/Pohjoisnapa%20prezentaatio%20002.jpg)](/images/pohjoisnapa-presentaatio/Pohjoisnapa%20prezentaatio%20002.jpg)
+- [![](/images/pohjoisnapa-presentaatio/Thumbnails/Pohjoisnapa%20prezentaatio%20003.jpg)](/images/pohjoisnapa-presentaatio/Pohjoisnapa%20prezentaatio%20003.jpg)
+- [![](/images/pohjoisnapa-presentaatio/Thumbnails/Pohjoisnapa%20prezentaatio%20006.jpg)](/images/pohjoisnapa-presentaatio/Pohjoisnapa%20prezentaatio%20006.jpg)
+- [![](/images/pohjoisnapa-presentaatio/Thumbnails/Pohjoisnapa%20prezentaatio%20008.jpg)](/images/pohjoisnapa-presentaatio/Pohjoisnapa%20prezentaatio%20008.jpg)
 
 </div>

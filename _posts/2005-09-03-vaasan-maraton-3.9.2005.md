@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Vaasan Maraton 3.9.2005" 
-categories: 
-tags: [juoksu,maraton]
-toc: false 
-comments: true 
-ads: false 
+layout: article
+title: "Vaasan Maraton 3.9.2005"
+categories:
+tags: [juoksu, maraton]
+toc: false
+comments: true
 ---
 
 Vaasan Maraton syyskuun ensimmäisenä viikonloppuna sai vastaanottaa
@@ -70,4 +69,3 @@ omaan synkkään mieleensä Sysimustan Satkun tapaan, vaikka näitä kahta
 suoritusta ei voi keskenään juuri verrata. Ryhdyin jo muuten
 kotimatkalla pohtimaan, jospa ensi vuonna kipitettäisiin maraton alle
 neljän tunnin aikaan...
-

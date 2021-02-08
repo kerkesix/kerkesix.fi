@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Etelä-Korea ulkoilukohteena" 
-categories: 
+layout: article
+title: "Etelä-Korea ulkoilukohteena"
+categories:
 tags: [ulkoilukohteet]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Morientes Etelä-Koreasta! Tai paikallisella murteella ”anjonghasioo”.
@@ -71,4 +70,3 @@ musiikkiliikkeessä oli myynnissä Apocalyptican ja Nightwishin levyt. Se,
 mistä Suomi tunnetaan, on kuitenkin xylitoli.
 
 Kerkesixen Korean osasto, Heidi \#0546 ja Jussi \#0547
-

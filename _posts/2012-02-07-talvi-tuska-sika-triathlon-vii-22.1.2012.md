@@ -2,10 +2,9 @@
 layout: article
 title: "Talvi Tuska Sika Triathlon VII - 22.1.2012"
 categories:
-tags: [uinti,triathlon,suunnistus,pyöräily]
+tags: [uinti, triathlon, suunnistus, pyöräily]
 toc: false
 comments: true
-ads: false
 ---
 
 ![](/images/talvi-tuska-sika-triathlon-vii-22.1.2012/P1220692.JPG)TTST
@@ -52,4 +51,3 @@ Kiitokset TuskaRetkille hyvin organisoidusta tapahtumasta, Pihville majoituksist
 Jukkikselle kyydeistä ja Japelle kaikesta muusta!
 
 Teemu
-

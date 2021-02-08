@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Kalliokiipeily Jaanankalliolla 28.07.2005" 
-categories: 
+layout: article
+title: "Kalliokiipeily Jaanankalliolla 28.07.2005"
+categories:
 tags: [kiipeily]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Jälleen Hyvinkääläinen kivi kutsui Kerkesix ry:n Jaanankalliolle.
@@ -28,9 +27,9 @@ ensikertaa varten...
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/kalliokiipeily-jaanankalliolla-28.07.2005/Thumbnails/kiipeilykalliolla20050728_01b.jpg)](/images/kalliokiipeily-jaanankalliolla-28.07.2005/kiipeilykalliolla20050728_01b.jpg)
--   [![](/images/kalliokiipeily-jaanankalliolla-28.07.2005/Thumbnails/kiipeilykalliolla20050728_02b.jpg)](/images/kalliokiipeily-jaanankalliolla-28.07.2005/kiipeilykalliolla20050728_02b.jpg)
--   [![](/images/kalliokiipeily-jaanankalliolla-28.07.2005/Thumbnails/kiipeilykalliolla20050728_03b.jpg)](/images/kalliokiipeily-jaanankalliolla-28.07.2005/kiipeilykalliolla20050728_03b.jpg)
--   [![](/images/kalliokiipeily-jaanankalliolla-28.07.2005/Thumbnails/kiipeilykalliolla20050728_04b.jpg)](/images/kalliokiipeily-jaanankalliolla-28.07.2005/kiipeilykalliolla20050728_04b.jpg)
+- [![](/images/kalliokiipeily-jaanankalliolla-28.07.2005/Thumbnails/kiipeilykalliolla20050728_01b.jpg)](/images/kalliokiipeily-jaanankalliolla-28.07.2005/kiipeilykalliolla20050728_01b.jpg)
+- [![](/images/kalliokiipeily-jaanankalliolla-28.07.2005/Thumbnails/kiipeilykalliolla20050728_02b.jpg)](/images/kalliokiipeily-jaanankalliolla-28.07.2005/kiipeilykalliolla20050728_02b.jpg)
+- [![](/images/kalliokiipeily-jaanankalliolla-28.07.2005/Thumbnails/kiipeilykalliolla20050728_03b.jpg)](/images/kalliokiipeily-jaanankalliolla-28.07.2005/kiipeilykalliolla20050728_03b.jpg)
+- [![](/images/kalliokiipeily-jaanankalliolla-28.07.2005/Thumbnails/kiipeilykalliolla20050728_04b.jpg)](/images/kalliokiipeily-jaanankalliolla-28.07.2005/kiipeilykalliolla20050728_04b.jpg)
 
 </div>

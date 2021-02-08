@@ -2,10 +2,9 @@
 layout: article
 title: "Ulkoilukohteena majakat"
 categories:
-tags: [ulkoilukohteet,saaristo]
+tags: [ulkoilukohteet, saaristo]
 toc: false
 comments: true
-ads: false
 image:
   feature: ulkoilukohteena-majakat/bengtskar2.jpg
 ---
@@ -23,7 +22,7 @@ Jääkärit tulivat Orrengrundin tunnusmajakan kautta Saksasta suomeen
 käsikirjoittajia tarinoihin. Raid tappeli Porkkalan Kallbådan majakalla.
 Porvoon Pellingin saaristossa Klovaharunissa elämänsä viettänyt Tove
 Jansson käytti viereistä Glosholmin majakkaa ja sen kartiokattoa
-muumitalon esikuvana. Ja kirjassaan *Muumipappa ja meri* muumiperhe asui
+muumitalon esikuvana. Ja kirjassaan _Muumipappa ja meri_ muumiperhe asui
 jännittävällä majakkasaarella, josta vaikutteet ovat tulleet toisesta
 naapurisaaresta Kummelskäristä.
 
@@ -53,10 +52,9 @@ artikkeli herättää lisää kiinnostusta, ottakaa yhteyttä
 valokuviani on nähtävissä osoitteessa
 <http://www.flickr.com/photos/8699611@N05/sets/>.
 
- 
 
-Isokari – Enskär
-----------------
+
+## Isokari – Enskär
 
 Isokarin majakka Uudenkaupungin edustalla sijaitsee metsäisellä
 Isonkarin (ruots. Enskär) saarella. Samalla saarella toimii
@@ -68,11 +66,11 @@ tarjoaa vierailleen vaihtelevan kokemuksen ja punkkien ja käärmeiden
 vältteleminen on myös ohjelmanumero sinänsä. Saarella toimii kahvila ja
 bed&breakfast jos ei halua virittää omaa telttaa rannalle.
 
- [![](/images/ulkoilukohteena-majakat/isokari2.jpg)](/images/ulkoilukohteena-majakat/isokari2.jpg)
- 
+[![](/images/ulkoilukohteena-majakat/isokari2.jpg)](/images/ulkoilukohteena-majakat/isokari2.jpg)
 
-Bengtskär
----------
+
+
+## Bengtskär
 
 Bengtskärin majakka on Pohjoismaiden korkein majakka ja sijaitsee
 Hiittisten saaristossa. Nykyään majakalla toimii hotelli ja kesäkautena
@@ -89,10 +87,9 @@ tietoa kuljetuksista, hinnoista ja majoituksista.
 [![](/images/ulkoilukohteena-majakat/bengtskar1.jpg)](/images/ulkoilukohteena-majakat/bengtskar1.jpg) 
  [![](/images/ulkoilukohteena-majakat/bengtskar2.jpg)](/images/ulkoilukohteena-majakat/bengtskar2.jpg)
 
- 
 
-Märket
-------
+
+## Märket
 
 [![](/images/ulkoilukohteena-majakat/market1.jpg)](/images/ulkoilukohteena-majakat/market1.jpg)Märketin
 majakka Ahvenanmaan länsipuolella avautui turisteille vuonna 2007, kun
@@ -111,10 +108,9 @@ retkistä[www.majakkaseura.fi](http://www.majakkaseura.fi/) sekä
 kuljetuksista veneenkuljettaja Bengt Granbergiltä (på svenska 0457 313
 5345).
 
- 
 
-Marjaniemi
-----------
+
+## Marjaniemi
 
 [![](/images/ulkoilukohteena-majakat/marjaniemi1.jpg)](/images/ulkoilukohteena-majakat/marjaniemi1.jpg)Marjaniemen
 majakka sijaitsee Oulun kupeessa yhteysaluksen päässä Hailuodossa.
@@ -123,10 +119,9 @@ kalastajakylä. Majakalle pääsee omalla autolla. Retkeen kannattaa
 yhdistää viikonloppuretki Hailuodon vaelluspoluilla, jotka kulkevat
 hiekkarannoilta saaren sisäosien lammille ja autiotupiin.
 
- 
 
-Sälskär
--------
+
+## Sälskär
 
 [![](/images/ulkoilukohteena-majakat/salskar1.jpg)](/images/ulkoilukohteena-majakat/salskar1.jpg)Sälskärin
 majakka sijaitsee Ahvenanmaan luoteisosassa. Kuljetukset majakalle
@@ -141,10 +136,9 @@ kun katsoo valetun hautakammion luukusta sisään. Saarella asuu
 tuhansittain lunnin sukuisia ruokkeja. Matkaa kannattaa tiedustella
 lauttakuski Jan-Anders Hägeriltä på svenska (tel. 0400 229 149).
 
- 
 
-Söderskär
----------
+
+## Söderskär
 
 Söderskär ei enää loista. Valo on sammutettu 1989. Majakka toimii
 nykyään matkakohteena saaren siirryttyä yksityisomistukseen muutama
@@ -164,10 +158,9 @@ kotisivut [www.soderskar.fi](http://www.soderskar.fi/).
 [![](/images/ulkoilukohteena-majakat/soderskar1.jpg)](/images/ulkoilukohteena-majakat/soderskar1.jpg) 
  [![](/images/ulkoilukohteena-majakat/soderskar2.jpg)](/images/ulkoilukohteena-majakat/soderskar2.jpg)
 
- 
 
-Gustafsvärn
-===========
+
+# Gustafsvärn
 
 Gustafsvärnin majakka sijaitsee aivan Hangon kaupungin edustalla.
 Majakkaseura on vuokrannut saaren metsähallitukselta mutta saari on
@@ -185,10 +178,9 @@ suuren osan muuria.
 [![](/images/ulkoilukohteena-majakat/gustafsvarn1.jpg)](/images/ulkoilukohteena-majakat/gustafsvarn1.jpg) 
  [![](/images/ulkoilukohteena-majakat/gustafsvarn2.jpg)](/images/ulkoilukohteena-majakat/gustafsvarn2.jpg)
 
- 
 
-Jussarö
-=======
+
+# Jussarö
 
 [![](/images/ulkoilukohteena-majakat/jussaro1.jpg)](/images/ulkoilukohteena-majakat/jussaro1.jpg)Jussärön
 majakka Tammisaaren saaristossa on hyvä hiihtokohde talvella. Autolla
@@ -199,10 +191,9 @@ tai GPS:n käyttö alkaa olla jo perusteltua.  Alkuperäinen majakka on
 tuhoutunut ja uusi majakka rakennettiin 1920- luvulla Jussärön saaresta
 4 km lounaaseen sijaitsevalle Sundharun nimiselle luodolle.
 
- 
 
-Punkit saaristossa
-==================
+
+# Punkit saaristossa
 
 Majakkamatkailijan on syytä varo punkkeja. Suurimmillaan 3,5 mm pitkä
 punkki on äärimmäisen vaikea nähdä vaatteissa tai iholla.

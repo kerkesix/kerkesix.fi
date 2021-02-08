@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Retki sotamuseoon 13.12.2009" 
-categories: 
-tags: [historia,kulttuurijaos]
-toc: false 
-comments: true 
-ads: false 
+layout: article
+title: "Retki sotamuseoon 13.12.2009"
+categories:
+tags: [historia, kulttuurijaos]
+toc: false
+comments: true
 ---
 
 Helsingissä sijaitsevassa
@@ -22,11 +21,11 @@ meitä tervehtimässä.
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/retki-sotamuseoon-13.12.2009/Thumbnails/1.jpg)](/images/retki-sotamuseoon-13.12.2009/1.jpg)
--   [![](/images/retki-sotamuseoon-13.12.2009/Thumbnails/2.jpg)](/images/retki-sotamuseoon-13.12.2009/2.jpg)
--   [![](/images/retki-sotamuseoon-13.12.2009/Thumbnails/3.jpg)](/images/retki-sotamuseoon-13.12.2009/3.jpg)
--   [![](/images/retki-sotamuseoon-13.12.2009/Thumbnails/4.jpg)](/images/retki-sotamuseoon-13.12.2009/4.jpg)
--   [![](/images/retki-sotamuseoon-13.12.2009/Thumbnails/6.jpg)](/images/retki-sotamuseoon-13.12.2009/6.jpg)
--   [![](/images/retki-sotamuseoon-13.12.2009/Thumbnails/7.jpg)](/images/retki-sotamuseoon-13.12.2009/7.jpg)
+- [![](/images/retki-sotamuseoon-13.12.2009/Thumbnails/1.jpg)](/images/retki-sotamuseoon-13.12.2009/1.jpg)
+- [![](/images/retki-sotamuseoon-13.12.2009/Thumbnails/2.jpg)](/images/retki-sotamuseoon-13.12.2009/2.jpg)
+- [![](/images/retki-sotamuseoon-13.12.2009/Thumbnails/3.jpg)](/images/retki-sotamuseoon-13.12.2009/3.jpg)
+- [![](/images/retki-sotamuseoon-13.12.2009/Thumbnails/4.jpg)](/images/retki-sotamuseoon-13.12.2009/4.jpg)
+- [![](/images/retki-sotamuseoon-13.12.2009/Thumbnails/6.jpg)](/images/retki-sotamuseoon-13.12.2009/6.jpg)
+- [![](/images/retki-sotamuseoon-13.12.2009/Thumbnails/7.jpg)](/images/retki-sotamuseoon-13.12.2009/7.jpg)
 
 </div>

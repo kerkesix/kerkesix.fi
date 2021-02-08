@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Kulttuurijaos Samppalinnan kesäteatterissa 9.7.2008" 
-categories: 
+layout: article
+title: "Kulttuurijaos Samppalinnan kesäteatterissa 9.7.2008"
+categories:
 tags: [kulttuurijaos]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Kesäteatteriin sopien satoi, vaan se ei meitä häirinnyt. Sade kuuluu
@@ -21,12 +20,12 @@ Cindyyn, josta polku vei Uuteen Apteekkiin.
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/kulttuurijaos-samppalinna-2008/Thumbnails/DSC_3108.JPG)](/images/kulttuurijaos-samppalinna-2008/DSC_3108.JPG)
--   [![](/images/kulttuurijaos-samppalinna-2008/Thumbnails/DSC_3111.JPG)](/images/kulttuurijaos-samppalinna-2008/DSC_3111.JPG)
--   [![](/images/kulttuurijaos-samppalinna-2008/Thumbnails/DSC_3112.JPG)](/images/kulttuurijaos-samppalinna-2008/DSC_3112.JPG)
--   [![](/images/kulttuurijaos-samppalinna-2008/Thumbnails/DSC_3116.JPG)](/images/kulttuurijaos-samppalinna-2008/DSC_3116.JPG)
--   [![](/images/kulttuurijaos-samppalinna-2008/Thumbnails/DSC_3117.JPG)](/images/kulttuurijaos-samppalinna-2008/DSC_3117.JPG)
--   [![](/images/kulttuurijaos-samppalinna-2008/Thumbnails/DSC_3124.JPG)](/images/kulttuurijaos-samppalinna-2008/DSC_3124.JPG)
--   [![](/images/kulttuurijaos-samppalinna-2008/Thumbnails/DSC_3126.JPG)](/images/kulttuurijaos-samppalinna-2008/DSC_3126.JPG)
+- [![](/images/kulttuurijaos-samppalinna-2008/Thumbnails/DSC_3108.JPG)](/images/kulttuurijaos-samppalinna-2008/DSC_3108.JPG)
+- [![](/images/kulttuurijaos-samppalinna-2008/Thumbnails/DSC_3111.JPG)](/images/kulttuurijaos-samppalinna-2008/DSC_3111.JPG)
+- [![](/images/kulttuurijaos-samppalinna-2008/Thumbnails/DSC_3112.JPG)](/images/kulttuurijaos-samppalinna-2008/DSC_3112.JPG)
+- [![](/images/kulttuurijaos-samppalinna-2008/Thumbnails/DSC_3116.JPG)](/images/kulttuurijaos-samppalinna-2008/DSC_3116.JPG)
+- [![](/images/kulttuurijaos-samppalinna-2008/Thumbnails/DSC_3117.JPG)](/images/kulttuurijaos-samppalinna-2008/DSC_3117.JPG)
+- [![](/images/kulttuurijaos-samppalinna-2008/Thumbnails/DSC_3124.JPG)](/images/kulttuurijaos-samppalinna-2008/DSC_3124.JPG)
+- [![](/images/kulttuurijaos-samppalinna-2008/Thumbnails/DSC_3126.JPG)](/images/kulttuurijaos-samppalinna-2008/DSC_3126.JPG)
 
 </div>

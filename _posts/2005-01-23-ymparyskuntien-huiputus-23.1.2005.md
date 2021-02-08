@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Ympäryskuntien huiputus 23.1.2005" 
-categories: 
-tags: [vuoristovaellus,ulkoilu]
-toc: false 
-comments: true 
-ads: false 
+layout: article
+title: "Ympäryskuntien huiputus 23.1.2005"
+categories:
+tags: [vuoristovaellus, ulkoilu]
+toc: false
+comments: true
 ---
 
 [![](/images/ymparyskuntien-huiputus-23.1.2005/luokittelematonhuiputus20050123_2b.jpg)](/images/ymparyskuntien-huiputus-23.1.2005/luokittelematonhuiputus20050123_2b.jpg)Kerkesix
@@ -93,4 +92,3 @@ alppilähtö oli ollut oikea ratkaisu, sillä Kirkkonummen korkeimmalle
 kohdalle päästiin vielä valoisan aikaan. Retkikunta katsoi
 suoriutuneensa huiputuksesta noustuaan Kirkkonummen korkeimmalle
 kohdalle 15.44.
-

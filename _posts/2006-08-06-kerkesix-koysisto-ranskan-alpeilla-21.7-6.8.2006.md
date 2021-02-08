@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Kerkesix-köysistö Ranskan Alpeilla 21.7-6.8.2006" 
-categories: 
+layout: article
+title: "Kerkesix-köysistö Ranskan Alpeilla 21.7-6.8.2006"
+categories:
 tags: [vuoristovaellus]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Yhteistyötään Kouvolassa kovasti hionut Kerkesix-köysistö, Heidi, Arde,
@@ -58,4 +57,3 @@ reissusta tuli oikein paljon, mikä varmasti on pidemmän päälle
 arvokkaampaa kuin huiputuskokemus. Upeita maisemia sai myös katsella
 koko ajan, tämän lisäksi ristiseiskaa pelattiin ja ranskalaisia syötiin
 enemmän kuin koskaan – hyvässä seurassa tietenkin!
-

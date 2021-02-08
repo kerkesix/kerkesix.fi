@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Melonta Espoonjoella 18.4.2010" 
-categories: 
+layout: article
+title: "Melonta Espoonjoella 18.4.2010"
+categories:
 tags: [melonta]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Pahimmat jäät olivat sulaneet pois, joten oli aika korkata melontakausi.
@@ -30,13 +29,13 @@ huolimatta ollut ketään makoilemassa.
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/melonta-espoonjoella-18.4.2010/Thumbnails/IMG_0656.JPG)](/images/melonta-espoonjoella-18.4.2010/IMG_0656.JPG)
--   [![](/images/melonta-espoonjoella-18.4.2010/Thumbnails/IMG_0661.JPG)](/images/melonta-espoonjoella-18.4.2010/IMG_0661.JPG)
--   [![](/images/melonta-espoonjoella-18.4.2010/Thumbnails/IMG_0671.JPG)](/images/melonta-espoonjoella-18.4.2010/IMG_0671.JPG)
--   [![](/images/melonta-espoonjoella-18.4.2010/Thumbnails/IMG_0679.JPG)](/images/melonta-espoonjoella-18.4.2010/IMG_0679.JPG)
--   [![](/images/melonta-espoonjoella-18.4.2010/Thumbnails/IMG_0681.JPG)](/images/melonta-espoonjoella-18.4.2010/IMG_0681.JPG)
--   [![](/images/melonta-espoonjoella-18.4.2010/Thumbnails/IMG_0684.JPG)](/images/melonta-espoonjoella-18.4.2010/IMG_0684.JPG)
--   [![](/images/melonta-espoonjoella-18.4.2010/Thumbnails/IMG_0690.JPG)](/images/melonta-espoonjoella-18.4.2010/IMG_0690.JPG)
--   [![](/images/melonta-espoonjoella-18.4.2010/Thumbnails/IMG_0698.JPG)](/images/melonta-espoonjoella-18.4.2010/IMG_0698.JPG)
+- [![](/images/melonta-espoonjoella-18.4.2010/Thumbnails/IMG_0656.JPG)](/images/melonta-espoonjoella-18.4.2010/IMG_0656.JPG)
+- [![](/images/melonta-espoonjoella-18.4.2010/Thumbnails/IMG_0661.JPG)](/images/melonta-espoonjoella-18.4.2010/IMG_0661.JPG)
+- [![](/images/melonta-espoonjoella-18.4.2010/Thumbnails/IMG_0671.JPG)](/images/melonta-espoonjoella-18.4.2010/IMG_0671.JPG)
+- [![](/images/melonta-espoonjoella-18.4.2010/Thumbnails/IMG_0679.JPG)](/images/melonta-espoonjoella-18.4.2010/IMG_0679.JPG)
+- [![](/images/melonta-espoonjoella-18.4.2010/Thumbnails/IMG_0681.JPG)](/images/melonta-espoonjoella-18.4.2010/IMG_0681.JPG)
+- [![](/images/melonta-espoonjoella-18.4.2010/Thumbnails/IMG_0684.JPG)](/images/melonta-espoonjoella-18.4.2010/IMG_0684.JPG)
+- [![](/images/melonta-espoonjoella-18.4.2010/Thumbnails/IMG_0690.JPG)](/images/melonta-espoonjoella-18.4.2010/IMG_0690.JPG)
+- [![](/images/melonta-espoonjoella-18.4.2010/Thumbnails/IMG_0698.JPG)](/images/melonta-espoonjoella-18.4.2010/IMG_0698.JPG)
 
 </div>

@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Vuoden 2008 ensimmäinen Sunnuntailenkki" 
-categories: 
+layout: article
+title: "Vuoden 2008 ensimmäinen Sunnuntailenkki"
+categories:
 tags: [juoksu]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Latokaskesta lähdettiin liikkeelle kahdessa osastossa, juoksuryhmä ja
@@ -15,4 +14,3 @@ hikiosion jälkeen oli ohjelmassa saunomista ja pientä välipalaa.
 Liitteenä on karttareitti juoksulenkistä.
 
 Viikon kuluttua 13.1.2008 lenkki lähtee Iirislahdesta. Kello 14.00.
-

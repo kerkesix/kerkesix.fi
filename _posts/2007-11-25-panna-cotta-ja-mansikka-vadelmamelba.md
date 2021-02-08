@@ -1,22 +1,21 @@
 ---
-layout: article 
-title: "Panna Cotta ja mansikka-vadelmamelba" 
-categories: 
+layout: article
+title: "Panna Cotta ja mansikka-vadelmamelba"
+categories:
 tags: [ruoka]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Vuosijuhlassa 24.11.2007
 
 #### Panna Cotta
 
--   500 ml Creme Fraiche
--   100 ml maito
--   100 g sokeri
--   10 g liivate
--   Vaniljatanko
+- 500 ml Creme Fraiche
+- 100 ml maito
+- 100 g sokeri
+- 10 g liivate
+- Vaniljatanko
 
 Laita liivatteet kylmään veteen likoamaan. Tämän jälkeen halkaise
 vaniljatanko ja laita kattilaan. Laita samaan kattilaan myös Creme
@@ -36,11 +35,10 @@ myös suoraan annoskulhoihin.
 
 #### Mansikka-vadelmamelba
 
--   300g mansikka
--   100 g vadelma
--   100-200g hillosokeri (osa voi olla hyytelösokeria)
+- 300g mansikka
+- 100 g vadelma
+- 100-200g hillosokeri (osa voi olla hyytelösokeria)
 
 Kiehauta marjat ja soseuta ne. Lisää maun mukaan sokeri ja jäähdytä.
 Kaada joko tarjoiluastialla olevan Panna Cotan päälle viiruiksi, tai
 annoskulhoihin kerrokseksi Panna Cotan päälle.
-

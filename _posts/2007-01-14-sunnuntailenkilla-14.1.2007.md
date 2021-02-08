@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Sunnuntailenkillä 14.1.2007" 
-categories: 
+layout: article
+title: "Sunnuntailenkillä 14.1.2007"
+categories:
 tags: [juoksu]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Valoisan ajan sunnuntailenkkejä jatkettiin ja tällä kertaa
@@ -21,4 +20,3 @@ odotusta jälkikärki ei kuitenkaan tehnyt hosaa.
 Yhdessä reippailu alentaa lähtökynnyksen inhimilliselle tasolle.
 Yksinään tuollaiseen ilmaan lähteminen olisi saattanut vaatia
 yli-inhimillisiä ponnistuksia…
-

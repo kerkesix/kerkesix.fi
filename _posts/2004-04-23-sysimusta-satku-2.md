@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Sysimusta Satku II - 23.4.2004" 
-categories: 
+layout: article
+title: "Sysimusta Satku II - 23.4.2004"
+categories:
 tags: [satku]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Taas oli aika kokeilla miten pieni keho kestää 100 kilometrin vastusta.
@@ -39,13 +38,13 @@ satkuilijoista.
 Pimeällä osuudella satkuilijat pääsivät tutustumaan lajin todelliseen
 luonteeseen kun rasitus ja väsymys tuovat omat elementtinsä eteenpäin
 kulkemiseen. Pimeys kestikin aina aamuviiteen saakka, jolloin
-puolimatkan Vihti oli jo ohitettu. 
+puolimatkan Vihti oli jo ohitettu.
 
 Kun aurinko nousi oli kävelyä jatkavien määrä pudonnut kahdeksasta
 viiteen ja kahden kolmasosan jälkeen 66 kilometrin kohdalla jäljellä oli
 enää kaksi satkuilijaa, Sepe ja Tero. Samoihin aikoihin myös toinen
 huoltoauto poistui Iltsun ohjastamana samalla tarjoten kyydin kävelyn jo
-keskeyttäneille jatkaa matkaansa kotiin lepäämään. 
+keskeyttäneille jatkaa matkaansa kotiin lepäämään.
 
 Kun matkaa oli kuljettu 80 km, oli suurin osa matkasta jo kuljettu,
 mutta jäljellä olevat 20 km eivät missään mielessä olleet helppoja.
@@ -58,46 +57,46 @@ tehnyt..." Aikaa Sysimustaan Satkuun kului 17 tuntia 47 minuuttia.
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20001.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20001.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20002.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20002.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20007b.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20007b.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20011.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20011.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20015.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20015.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20026.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20026.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20027.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20027.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20028.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20028.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20030.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20030.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20031.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20031.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20036.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20036.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20038.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20038.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20040.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20040.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20046.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20046.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20048.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20048.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20055.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20055.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20056.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20056.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20058.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20058.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20059.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20059.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20060.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20060.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20066.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20066.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20078.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20078.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20089.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20089.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20090.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20090.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20100.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20100.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20101.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20101.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20103.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20103.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20110.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20110.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20111.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20111.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20119.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20119.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20124.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20124.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20126.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20126.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20128.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20128.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20130.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20130.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20137.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20137.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20140.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20140.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20142.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20142.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20143.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20143.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20145.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20145.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20147.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20147.jpg)
--   [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20153.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20153.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20001.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20001.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20002.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20002.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20007b.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20007b.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20011.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20011.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20015.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20015.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20026.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20026.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20027.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20027.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20028.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20028.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20030.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20030.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20031.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20031.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20036.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20036.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20038.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20038.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20040.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20040.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20046.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20046.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20048.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20048.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20055.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20055.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20056.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20056.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20058.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20058.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20059.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20059.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20060.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20060.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20066.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20066.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20078.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20078.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20089.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20089.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20090.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20090.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20100.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20100.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20101.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20101.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20103.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20103.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20110.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20110.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20111.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20111.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20119.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20119.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20124.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20124.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20126.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20126.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20128.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20128.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20130.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20130.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20137.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20137.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20140.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20140.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20142.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20142.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20143.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20143.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20145.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20145.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20147.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20147.jpg)
+- [![](/images/sysimusta-satku-2/Thumbnails/Sysimusta%20Satku%202%20153.jpg)](/images/sysimusta-satku-2/Sysimusta%20Satku%202%20153.jpg)
 
 </div>

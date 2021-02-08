@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Kiipeilytuokio 2.12.2004" 
-categories: 
+layout: article
+title: "Kiipeilytuokio 2.12.2004"
+categories:
 tags: [kiipeily]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Kerkesix ry:n kiipeilyharjoitus Liikuntamyllyssä sujui hyvinkin
@@ -20,4 +19,3 @@ harrastajat oppivat varmasti myös tekniikkaa ja käytännön toimia.
 kohokohta oli Vuoden Kiipeilijän palkitseminen. Apo, joka oli ollut
 estynyt saapumaan vuosijuhlaan, vastaanotti Vuoden Kiipeilijän
 kiertopalkinnon palkintolautakunnan puheenjohtajalta.
-

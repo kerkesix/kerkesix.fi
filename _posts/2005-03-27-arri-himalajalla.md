@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Arri Himalajalla" 
-categories: 
+layout: article
+title: "Arri Himalajalla"
+categories:
 tags: [vuoristovaellus]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Yhdistyksen jäsen Arri on tällä hetkellä matkalla kohti Mount Everestiä
@@ -14,4 +13,3 @@ Kerkesix toivottaa Arrille ja muille retkikunnan jäsenille onnistunutta
 reissua. Retkikunta on ensimmäinen täysin suomalainen retkikunta Mt
 Everestillä. Matkan kulkua voi seurata retkikunnan nettisivuilta
 osoitteessa [www.everest.fi](http://www.everest.fi/).
-

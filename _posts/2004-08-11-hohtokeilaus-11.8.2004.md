@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Hohtokeilaus 11.8.2004" 
-categories: 
+layout: article
+title: "Hohtokeilaus 11.8.2004"
+categories:
 tags: [keilaus]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 ![](/images/hohtokeilaus-11.8.2004/kerkekeilaa%20002.jpg)Heinäkuussa
@@ -22,4 +21,3 @@ pistettä) sai rautaisen ammattitaidon omaava Katja!
 oli erityisen hauska urheilutapahtuma ja osumatarkkudesta jäi itse
 kullekin vielä jotain hampaankoloon seuraavalla kerralla
 korjattavaksi...
-

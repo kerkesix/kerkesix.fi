@@ -5,7 +5,6 @@ categories:
 tags: [yhdistys]
 toc: false
 comments: true
-ads: false
 author: tero
 ---
 

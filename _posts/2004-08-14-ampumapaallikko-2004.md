@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Ampumapäällikkökilpailu 2004" 
-categories: 
+layout: article
+title: "Ampumapäällikkökilpailu 2004"
+categories:
 tags: [ampumapäällikkö]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Jo ensimmäisen kerran järjestetty Kerkesix Ampumapäällikkökilpailu
@@ -55,20 +54,20 @@ saunaa ja iltapalaa. Oivallista!
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_01b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_01b.jpg)
--   [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_02b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_02b.jpg)
--   [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_03b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_03b.jpg)
--   [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_04b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_04b.jpg)
--   [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_05b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_05b.jpg)
--   [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_06b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_06b.jpg)
--   [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_07b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_07b.jpg)
--   [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_08b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_08b.jpg)
--   [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_09b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_09b.jpg)
--   [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_12b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_12b.jpg)
--   [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_13b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_13b.jpg)
--   [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_14b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_14b.jpg)
--   [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_15b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_15b.jpg)
--   [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_16b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_16b.jpg)
--   [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_17b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_17b.jpg)
+- [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_01b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_01b.jpg)
+- [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_02b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_02b.jpg)
+- [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_03b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_03b.jpg)
+- [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_04b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_04b.jpg)
+- [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_05b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_05b.jpg)
+- [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_06b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_06b.jpg)
+- [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_07b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_07b.jpg)
+- [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_08b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_08b.jpg)
+- [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_09b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_09b.jpg)
+- [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_12b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_12b.jpg)
+- [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_13b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_13b.jpg)
+- [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_14b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_14b.jpg)
+- [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_15b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_15b.jpg)
+- [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_16b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_16b.jpg)
+- [![](/images/ampumapaallikko-2004/Thumbnails/ampupaal2004_17b.jpg)](/images/ampumapaallikko-2004/ampupaal2004_17b.jpg)
 
 </div>

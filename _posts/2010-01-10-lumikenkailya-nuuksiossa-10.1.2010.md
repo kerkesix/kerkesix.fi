@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Lumikenkäilyä Nuuksiossa 10.1.2010" 
-categories: 
-tags: [lumikenkäily,nuuksio]
-toc: false 
-comments: true 
-ads: false 
+layout: article
+title: "Lumikenkäilyä Nuuksiossa 10.1.2010"
+categories:
+tags: [lumikenkäily, nuuksio]
+toc: false
+comments: true
 ---
 
 Runsasluminen talvi mahdollisti lumikenkien hyödyllisen käytön tällä
@@ -34,28 +33,28 @@ Velskolaan.
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20005.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20005.jpg)
--   [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20007.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20007.jpg)
--   [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20013.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20013.jpg)
--   [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20016.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20016.jpg)
--   [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20023.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20023.jpg)
--   [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20028.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20028.jpg)
--   [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20033.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20033.jpg)
--   [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20042.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20042.jpg)
--   [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20055.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20055.jpg)
--   [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20056.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20056.jpg)
--   [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20058.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20058.jpg)
--   [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20061.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20061.jpg)
--   [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20064.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20064.jpg)
--   [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20068.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20068.jpg)
--   [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20069.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20069.jpg)
--   [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20071.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20071.jpg)
--   [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20073.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20073.jpg)
--   [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20080.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20080.jpg)
--   [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20082.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20082.jpg)
--   [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20084.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20084.jpg)
--   [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20120.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20120.jpg)
--   [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20128.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20128.jpg)
--   [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20143.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20143.jpg)
+- [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20005.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20005.jpg)
+- [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20007.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20007.jpg)
+- [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20013.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20013.jpg)
+- [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20016.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20016.jpg)
+- [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20023.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20023.jpg)
+- [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20028.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20028.jpg)
+- [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20033.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20033.jpg)
+- [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20042.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20042.jpg)
+- [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20055.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20055.jpg)
+- [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20056.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20056.jpg)
+- [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20058.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20058.jpg)
+- [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20061.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20061.jpg)
+- [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20064.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20064.jpg)
+- [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20068.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20068.jpg)
+- [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20069.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20069.jpg)
+- [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20071.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20071.jpg)
+- [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20073.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20073.jpg)
+- [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20080.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20080.jpg)
+- [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20082.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20082.jpg)
+- [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20084.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20084.jpg)
+- [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20120.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20120.jpg)
+- [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20128.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20128.jpg)
+- [![](/images/lumikenkailya-nuuksiossa-10.1.2010/Thumbnails/lumikenk%20143.jpg)](/images/lumikenkailya-nuuksiossa-10.1.2010/lumikenk%20143.jpg)
 
 </div>

@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Suunnistusta 12.5.2005" 
-categories: 
+layout: article
+title: "Suunnistusta 12.5.2005"
+categories:
 tags: [suunnistus]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 ![](/images/suunnistusta-12.5.2005/suunnistus20050512_02b.jpg)Suunnistustuokiot
@@ -26,4 +25,3 @@ kompassin kanssa, voit ilmoittautua jäsenille tarkoitetulle
 peruskurssille. Kurssilla opetetaan liikkumaan kartan ja kompassin
 kanssa luonnossa, ei ensisijaisesti valmenneta
 kilpa/kuntosuunnistamiseen. Lisätietoja puheenjohtajalta.
-

@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Reitti 2000 fillareilla" 
-categories: 
+layout: article
+title: "Reitti 2000 fillareilla"
+categories:
 tags: [pyöräily]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Homma oli yksinkertainen. Pyörän selkään ja reittimerkintöjä seuraten.
@@ -75,37 +74,37 @@ kaksi tuntia.
 
 GPS tallensi reissusta seuraavanlaista dataa:
 
--   Matka: 110km
--   Huippunopeus: 56.3km
--   Ajoaika: 7h 34min
--   Keskinopeus ilman taukoja: 14.5 km/h
--   Keskinopeus: 10.6 km/h
--   Tauot: 2h 50min
--   Kokonaisnousu: 869m
--   Max elevation: 117m
+- Matka: 110km
+- Huippunopeus: 56.3km
+- Ajoaika: 7h 34min
+- Keskinopeus ilman taukoja: 14.5 km/h
+- Keskinopeus: 10.6 km/h
+- Tauot: 2h 50min
+- Kokonaisnousu: 869m
+- Max elevation: 117m
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_01b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_01b.jpg)
--   [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_02b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_02b.jpg)
--   [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_03b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_03b.jpg)
--   [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_04b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_04b.jpg)
--   [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_05b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_05b.jpg)
--   [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_06b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_06b.jpg)
--   [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_07b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_07b.jpg)
--   [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_08b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_08b.jpg)
--   [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_09b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_09b.jpg)
--   [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_10b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_10b.jpg)
--   [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_11b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_11b.jpg)
--   [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_12b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_12b.jpg)
--   [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_13b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_13b.jpg)
--   [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_14b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_14b.jpg)
--   [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_15b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_15b.jpg)
--   [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_16b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_16b.jpg)
--   [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_17b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_17b.jpg)
--   [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_18b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_18b.jpg)
--   [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_19b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_19b.jpg)
--   [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_20b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_20b.jpg)
--   [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_21b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_21b.jpg)
+- [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_01b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_01b.jpg)
+- [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_02b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_02b.jpg)
+- [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_03b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_03b.jpg)
+- [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_04b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_04b.jpg)
+- [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_05b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_05b.jpg)
+- [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_06b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_06b.jpg)
+- [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_07b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_07b.jpg)
+- [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_08b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_08b.jpg)
+- [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_09b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_09b.jpg)
+- [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_10b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_10b.jpg)
+- [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_11b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_11b.jpg)
+- [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_12b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_12b.jpg)
+- [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_13b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_13b.jpg)
+- [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_14b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_14b.jpg)
+- [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_15b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_15b.jpg)
+- [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_16b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_16b.jpg)
+- [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_17b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_17b.jpg)
+- [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_18b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_18b.jpg)
+- [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_19b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_19b.jpg)
+- [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_20b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_20b.jpg)
+- [![](/images/reitti-2000-fillareilla/Thumbnails/peruskuntofillarireitti2k2006_21b.jpg)](/images/reitti-2000-fillareilla/peruskuntofillarireitti2k2006_21b.jpg)
 
 </div>

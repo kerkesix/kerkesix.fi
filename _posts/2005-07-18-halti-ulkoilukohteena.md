@@ -5,18 +5,16 @@ categories:
 tags: [ulkoilukohteet]
 toc: false
 comments: true
-ads: false
 ---
 
 Suomen korkein maantieteellinen piste hijaitsee [Käsivarren
 erämaa-alueella](http://www.luontoon.fi/Retkikohteet/eramaaalueet/kasivarsi/Sivut/Default.aspx) norjan
 vastaisella rajalla Haltilla. Tässä kohde-esittelyssä kerrotaan hieman
-alueesta ja esitellään yksi retki alueelle. 
+alueesta ja esitellään yksi retki alueelle.
 
 ![](/images/halti-ulkoilukohteena/Haltilla%2020050715%20086.jpg)  ![](/images/halti-ulkoilukohteena/Haltilla%2020050715%20043.jpg)
 
-Reitti
-------
+## Reitti
 
 ![](/images/halti-ulkoilukohteena/Haltilla%2020050715%20007.jpg)Kalottireitti
 on selkeästi merkitty vajaa puoli metriä korkeilla oranssipäisillä
@@ -27,8 +25,7 @@ kaikkea rakkaa. Matkaa tuli yhteensä n. 108 km. Autiotupia on reilun
 kymmenen kilometrin välein, upeita leiripaikkoja teltan pystyttämiseen
 missä vaan.
 
-Varusteet
----------
+## Varusteet
 
 Rinkka painoi parikymmentä kiloa. Ylimääräistä painoa toivat liian suuri
 määrä vaihtovaatteita: sukkia, kalsareita, paitoja. T-paitojakin on eri
@@ -51,8 +48,7 @@ jätin ilmapatjan painon takia pois, olisi ollut parempien yöunien vuoksi
 hyvä olla mukana, nyt piti hakea hyvää asentoa, johon se yö sitten
 osittain kului.
 
-Aikataulu
----------
+## Aikataulu
 
 Vaeltamiseen ennakolta suunniteltu aika vaihteli 4-6 päivän välillä,
 eväät olisivat riittäneet koko viikoksi. Kun kulkee yksin, niin matka
@@ -72,7 +68,7 @@ Oikoreitin voisi tehdä lähtemällä Norjan puolelta ja mennä Haltille ja
 palata kulkemaani reittiä. Tämä on n. 25 – 30 km lyhyempi verrattuna
 menopaluureittiin.
 
- 
+
 
 ### 13.7.2005 keskiviikko,
 
@@ -133,7 +129,7 @@ pihalla.
 ![](/images/halti-ulkoilukohteena/Haltilla%2020050715%20040e.jpg) 
  ![](/images/halti-ulkoilukohteena/Haltilla%2020050715%20066.jpg)
 
-  
+
 
 ### 15.7.2005 perjantai,
 
@@ -252,7 +248,7 @@ kuvastui taivasta kohden.
 
 Tulomatkalla ollut alamäki Meekonjärvelle oli nyt ylämäki, tavoite oli
 nousta rauhallisesti jyrkkä osuus ja huilata tasamaalla. Ei ollut
-kuitenkaan kovin tiukka nousu, kun malttoi pitää vauhdin kohtuullisena. 
+kuitenkaan kovin tiukka nousu, kun malttoi pitää vauhdin kohtuullisena.
 
 Kaukana edessä yli viiden km päässä siinsi pari kiveä kutsuvasti aivan
 kuin maja apurakennuksineen, se oli vain luuloa. Itse asiassa
@@ -315,8 +311,7 @@ lunastamaan junalippua. Lipputoimisto oli vielä kiinni, joten ajoin
 aikaa kuluttamaan Kolarin kylälle. Heti kohta oli sopivasti paari tien
 varrella ja siellä pistettiin lohisoppa tykötarpeineen tuulensuojaan.
 
-Palaute
--------
+## Palaute
 
 Tein matkan suunnittelun viime tingassa, kuten normaalisti, mitään
 oleellista ei kuitenkaan jäänyt hoitamatta. Ensisijainen tavoite oli

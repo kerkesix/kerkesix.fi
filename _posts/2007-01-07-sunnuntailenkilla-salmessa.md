@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Sunnuntailenkillä Salmessa" 
-categories: 
+layout: article
+title: "Sunnuntailenkillä Salmessa"
+categories:
 tags: [ulkoilu]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Vuoden 2007 alusta sunnuntailenkit siirrettiin valoisan aikaan alkamaan
@@ -22,7 +21,7 @@ riitti hyvin.
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/sunnuntailenkilla-salmessa/Thumbnails/peruskuntosl20070107_01b.jpg)](/images/sunnuntailenkilla-salmessa/peruskuntosl20070107_01b.jpg)
--   [![](/images/sunnuntailenkilla-salmessa/Thumbnails/peruskuntosl20070107_02b.jpg)](/images/sunnuntailenkilla-salmessa/peruskuntosl20070107_02b.jpg)
+- [![](/images/sunnuntailenkilla-salmessa/Thumbnails/peruskuntosl20070107_01b.jpg)](/images/sunnuntailenkilla-salmessa/peruskuntosl20070107_01b.jpg)
+- [![](/images/sunnuntailenkilla-salmessa/Thumbnails/peruskuntosl20070107_02b.jpg)](/images/sunnuntailenkilla-salmessa/peruskuntosl20070107_02b.jpg)
 
 </div>

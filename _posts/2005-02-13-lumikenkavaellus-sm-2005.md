@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Lumikenkävaelluksen SM 12.-13.2.2005" 
-categories: 
+layout: article
+title: "Lumikenkävaelluksen SM 12.-13.2.2005"
+categories:
 tags: [lumikenkäily]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Kerkesix ry lähetti joukkueen vuoden 2005 Lumikenkävaelluksen
@@ -65,18 +64,18 @@ seuraaviin kertoihin.
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/lumikenkavaellus-sm-2005/Thumbnails/vaelluslumikenkasm2005_06b.jpg)](/images/lumikenkavaellus-sm-2005/vaelluslumikenkasm2005_06b.jpg)
--   [![](/images/lumikenkavaellus-sm-2005/Thumbnails/vaelluslumikenkasm2005_04b.jpg)](/images/lumikenkavaellus-sm-2005/vaelluslumikenkasm2005_04b.jpg)
--   [![](/images/lumikenkavaellus-sm-2005/Thumbnails/vaelluslumikenkasm2005_02b.jpg)](/images/lumikenkavaellus-sm-2005/vaelluslumikenkasm2005_02b.jpg)
--   [![](/images/lumikenkavaellus-sm-2005/Thumbnails/vaelluslumikenkasm2005_03b.jpg)](/images/lumikenkavaellus-sm-2005/vaelluslumikenkasm2005_03b.jpg)
--   [![](/images/lumikenkavaellus-sm-2005/Thumbnails/vaelluslumikenkasm2005_05b.jpg)](/images/lumikenkavaellus-sm-2005/vaelluslumikenkasm2005_05b.jpg)
--   [![](/images/lumikenkavaellus-sm-2005/Thumbnails/vaelluslumikenkasm2005_08b.jpg)](/images/lumikenkavaellus-sm-2005/vaelluslumikenkasm2005_08b.jpg)
--   [![](/images/lumikenkavaellus-sm-2005/Thumbnails/vaelluslumikenkasm2005_12b.jpg)](/images/lumikenkavaellus-sm-2005/vaelluslumikenkasm2005_12b.jpg)
--   [![](/images/lumikenkavaellus-sm-2005/Thumbnails/vaelluslumikenkasm2005_07b.jpg)](/images/lumikenkavaellus-sm-2005/vaelluslumikenkasm2005_07b.jpg)
--   [![](/images/lumikenkavaellus-sm-2005/Thumbnails/vaelluslumikenkasm2005_10b.jpg)](/images/lumikenkavaellus-sm-2005/vaelluslumikenkasm2005_10b.jpg)
--   [![](/images/lumikenkavaellus-sm-2005/Thumbnails/vaelluslumikenkasm2005_13b.jpg)](/images/lumikenkavaellus-sm-2005/vaelluslumikenkasm2005_13b.jpg)
--   [![](/images/lumikenkavaellus-sm-2005/Thumbnails/vaelluslumikenkasm2005_09b.jpg)](/images/lumikenkavaellus-sm-2005/vaelluslumikenkasm2005_09b.jpg)
--   [![](/images/lumikenkavaellus-sm-2005/Thumbnails/vaelluslumikenkasm2005_11b.jpg)](/images/lumikenkavaellus-sm-2005/vaelluslumikenkasm2005_11b.jpg)
--   [![](/images/lumikenkavaellus-sm-2005/Thumbnails/vaelluslumikenkasm2005_01b.jpg)](/images/lumikenkavaellus-sm-2005/vaelluslumikenkasm2005_01b.jpg)
+- [![](/images/lumikenkavaellus-sm-2005/Thumbnails/vaelluslumikenkasm2005_06b.jpg)](/images/lumikenkavaellus-sm-2005/vaelluslumikenkasm2005_06b.jpg)
+- [![](/images/lumikenkavaellus-sm-2005/Thumbnails/vaelluslumikenkasm2005_04b.jpg)](/images/lumikenkavaellus-sm-2005/vaelluslumikenkasm2005_04b.jpg)
+- [![](/images/lumikenkavaellus-sm-2005/Thumbnails/vaelluslumikenkasm2005_02b.jpg)](/images/lumikenkavaellus-sm-2005/vaelluslumikenkasm2005_02b.jpg)
+- [![](/images/lumikenkavaellus-sm-2005/Thumbnails/vaelluslumikenkasm2005_03b.jpg)](/images/lumikenkavaellus-sm-2005/vaelluslumikenkasm2005_03b.jpg)
+- [![](/images/lumikenkavaellus-sm-2005/Thumbnails/vaelluslumikenkasm2005_05b.jpg)](/images/lumikenkavaellus-sm-2005/vaelluslumikenkasm2005_05b.jpg)
+- [![](/images/lumikenkavaellus-sm-2005/Thumbnails/vaelluslumikenkasm2005_08b.jpg)](/images/lumikenkavaellus-sm-2005/vaelluslumikenkasm2005_08b.jpg)
+- [![](/images/lumikenkavaellus-sm-2005/Thumbnails/vaelluslumikenkasm2005_12b.jpg)](/images/lumikenkavaellus-sm-2005/vaelluslumikenkasm2005_12b.jpg)
+- [![](/images/lumikenkavaellus-sm-2005/Thumbnails/vaelluslumikenkasm2005_07b.jpg)](/images/lumikenkavaellus-sm-2005/vaelluslumikenkasm2005_07b.jpg)
+- [![](/images/lumikenkavaellus-sm-2005/Thumbnails/vaelluslumikenkasm2005_10b.jpg)](/images/lumikenkavaellus-sm-2005/vaelluslumikenkasm2005_10b.jpg)
+- [![](/images/lumikenkavaellus-sm-2005/Thumbnails/vaelluslumikenkasm2005_13b.jpg)](/images/lumikenkavaellus-sm-2005/vaelluslumikenkasm2005_13b.jpg)
+- [![](/images/lumikenkavaellus-sm-2005/Thumbnails/vaelluslumikenkasm2005_09b.jpg)](/images/lumikenkavaellus-sm-2005/vaelluslumikenkasm2005_09b.jpg)
+- [![](/images/lumikenkavaellus-sm-2005/Thumbnails/vaelluslumikenkasm2005_11b.jpg)](/images/lumikenkavaellus-sm-2005/vaelluslumikenkasm2005_11b.jpg)
+- [![](/images/lumikenkavaellus-sm-2005/Thumbnails/vaelluslumikenkasm2005_01b.jpg)](/images/lumikenkavaellus-sm-2005/vaelluslumikenkasm2005_01b.jpg)
 
 </div>

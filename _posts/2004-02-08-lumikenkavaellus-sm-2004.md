@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Lumikenkävaelluksen SM 7.-8.2.2004" 
-categories: 
-tags: [lumikenkäily,vaellus]
-toc: false 
-comments: true 
-ads: false 
+layout: article
+title: "Lumikenkävaelluksen SM 7.-8.2.2004"
+categories:
+tags: [lumikenkäily, vaellus]
+toc: false
+comments: true
 ---
 
 Kerkesix lähetti kaksi partiota osallistumaan Umpihankihiidon
@@ -43,10 +42,10 @@ kotisivut](http://www.umpihankihiihto.pudasjarvi.fi/)
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/lumikenkavaellus-sm-2004/Thumbnails/Lumik-SM04_011b.jpg)](/images/lumikenkavaellus-sm-2004/Lumik-SM04_011b.jpg)
--   [![](/images/lumikenkavaellus-sm-2004/Thumbnails/Lumik-SM04_017b.jpg)](/images/lumikenkavaellus-sm-2004/Lumik-SM04_017b.jpg)
--   [![](/images/lumikenkavaellus-sm-2004/Thumbnails/Lumik-SM04_048b.jpg)](/images/lumikenkavaellus-sm-2004/Lumik-SM04_048b.jpg)
--   [![](/images/lumikenkavaellus-sm-2004/Thumbnails/Lumik-SM04_053b.jpg)](/images/lumikenkavaellus-sm-2004/Lumik-SM04_053b.jpg)
--   [![](/images/lumikenkavaellus-sm-2004/Thumbnails/Lumik-SM04_057b.jpg)](/images/lumikenkavaellus-sm-2004/Lumik-SM04_057b.jpg)
+- [![](/images/lumikenkavaellus-sm-2004/Thumbnails/Lumik-SM04_011b.jpg)](/images/lumikenkavaellus-sm-2004/Lumik-SM04_011b.jpg)
+- [![](/images/lumikenkavaellus-sm-2004/Thumbnails/Lumik-SM04_017b.jpg)](/images/lumikenkavaellus-sm-2004/Lumik-SM04_017b.jpg)
+- [![](/images/lumikenkavaellus-sm-2004/Thumbnails/Lumik-SM04_048b.jpg)](/images/lumikenkavaellus-sm-2004/Lumik-SM04_048b.jpg)
+- [![](/images/lumikenkavaellus-sm-2004/Thumbnails/Lumik-SM04_053b.jpg)](/images/lumikenkavaellus-sm-2004/Lumik-SM04_053b.jpg)
+- [![](/images/lumikenkavaellus-sm-2004/Thumbnails/Lumik-SM04_057b.jpg)](/images/lumikenkavaellus-sm-2004/Lumik-SM04_057b.jpg)
 
 </div>

@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Kaukopartiohiihto 4.3.2005" 
-categories: 
+layout: article
+title: "Kaukopartiohiihto 4.3.2005"
+categories:
 tags: [hiihto]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Kaukopartiohiihto houkutteli jälleen Salpausselälle väkeä ympäri Suomen.
@@ -63,9 +62,9 @@ millään vaikka kuinka hiihti."
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/kaukopartiohiihto-2005/Thumbnails/vaelluskaukopartio2005_01b.jpg)](/images/kaukopartiohiihto-2005/vaelluskaukopartio2005_01b.jpg)
--   [![](/images/kaukopartiohiihto-2005/Thumbnails/vaelluskaukopartio2005_02b.jpg)](/images/kaukopartiohiihto-2005/vaelluskaukopartio2005_02b.jpg)
--   [![](/images/kaukopartiohiihto-2005/Thumbnails/vaelluskaukopartio2005_03b.jpg)](/images/kaukopartiohiihto-2005/vaelluskaukopartio2005_03b.jpg)
--   [![](/images/kaukopartiohiihto-2005/Thumbnails/vaelluskaukopartio2005_04b.jpg)](/images/kaukopartiohiihto-2005/vaelluskaukopartio2005_04b.jpg)
+- [![](/images/kaukopartiohiihto-2005/Thumbnails/vaelluskaukopartio2005_01b.jpg)](/images/kaukopartiohiihto-2005/vaelluskaukopartio2005_01b.jpg)
+- [![](/images/kaukopartiohiihto-2005/Thumbnails/vaelluskaukopartio2005_02b.jpg)](/images/kaukopartiohiihto-2005/vaelluskaukopartio2005_02b.jpg)
+- [![](/images/kaukopartiohiihto-2005/Thumbnails/vaelluskaukopartio2005_03b.jpg)](/images/kaukopartiohiihto-2005/vaelluskaukopartio2005_03b.jpg)
+- [![](/images/kaukopartiohiihto-2005/Thumbnails/vaelluskaukopartio2005_04b.jpg)](/images/kaukopartiohiihto-2005/vaelluskaukopartio2005_04b.jpg)
 
 </div>

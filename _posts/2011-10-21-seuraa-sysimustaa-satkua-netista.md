@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Seuraa Sysimustaa Satkua netistä" 
-categories: 
+layout: article
+title: "Seuraa Sysimustaa Satkua netistä"
+categories:
 tags: [satku]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Kymmenettä Sysimustaa Satkua juhlistetaan tuomalla penkkikävelijöiden
@@ -15,5 +14,4 @@ asti kävelijät liikkuvat.
 
 Kommentteja niin matkalta kuin kotoa voi lähettää Twitterin kautta
 (\#kerkesix) luettavaksi
-[Viserrykset](http://satku.kerkesix.fi/satkux/Tweet)-sivulta. 
-
+[Viserrykset](http://satku.kerkesix.fi/satkux/Tweet)-sivulta.

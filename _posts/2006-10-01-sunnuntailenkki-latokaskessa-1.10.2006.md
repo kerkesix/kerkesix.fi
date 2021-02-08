@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Sunnuntailenkki Latokaskessa 1.10.2006" 
-categories: 
+layout: article
+title: "Sunnuntailenkki Latokaskessa 1.10.2006"
+categories:
 tags: [juoksu]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Sunnuntai-iltojen Kerkelenkki on muodostunut vuosien saatossa
@@ -18,4 +17,3 @@ Tälläkin kertaa vettä satoi, salamat välkkyivät ja ukkonen jyrisi, kun
 seitsemän innokasta lenkkeilijää hölkötti pitkin Latokasken
 takamaastoja. Vauhti pysyi hyvänä ja tunnelma oli korkealla, eikä muita
 kulkijoita tarvinnut juuri väistellä.
-

@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Saariston lyhyt rengasreitti pyöräillen 29.5.2010" 
-categories: 
-tags: [pyöräily,saaristo]
-toc: false 
-comments: true 
-ads: false 
+layout: article
+title: "Saariston lyhyt rengasreitti pyöräillen 29.5.2010"
+categories:
+tags: [pyöräily, saaristo]
+toc: false
+comments: true
 ---
 
 Pihvi oli kutsunut Kerke-kansaa pyöräretkelle Turun saaristoon.
@@ -68,4 +67,3 @@ niskaan.
 
 p.s. Kuvia ei ole. Jos haluaa nähdä miltä reissussa näytti, niin
 kannattaa osallistua...
-

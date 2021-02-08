@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Hallivuoro Granissa 23.11.2004" 
-categories: 
-tags: [uinti,melonta]
-toc: false 
-comments: true 
-ads: false 
+layout: article
+title: "Hallivuoro Granissa 23.11.2004"
+categories:
+tags: [uinti, melonta]
+toc: false
+comments: true
 ---
 
 Yhdistyksen hallivuorolla oli tarjolla monipuolista ohjelmaa. Tällä
@@ -47,4 +46,3 @@ nousi pinnalle yllättävän pienellä pussiin puhalletulla ilmamäärällä ja
 täysi kellukepussi jaksoi pitää kolme rumaa miestä kajakin päällä
 pinnalla. oli myös ilo havaita että eskimokäännöskin onnistui kerhon
 keltaisella kostajalla mainiosti.
-

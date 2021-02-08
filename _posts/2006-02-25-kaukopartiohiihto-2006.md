@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Kaukopartiohiihto Pajulahti-Utti 25.2.2006" 
-categories: 
+layout: article
+title: "Kaukopartiohiihto Pajulahti-Utti 25.2.2006"
+categories:
 tags: [hiihto]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Olimme liikkeellä kolmen miehen partiolla (2 turkulaista ja 1
@@ -46,4 +45,3 @@ oikeaa fiilistä ollaan tuolla hakemassa. GPS:n matkamittariin kertyi
 vain 64 kilometriä, vaikka olisi pitänyt tulla noin 75 kilometriä eli
 joko olimme oikoneet sopivasti tai sitten Paaskosken reittimuutos oli
 syönyt kilometrejä.
-

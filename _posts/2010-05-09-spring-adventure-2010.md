@@ -2,10 +2,9 @@
 layout: article
 title: "Spring Adventure 2010"
 categories:
-tags: [multisport,suunnistus,juoksu,pyöräily]
+tags: [multisport, suunnistus, juoksu, pyöräily]
 toc: false
 comments: true
-ads: false
 image:
   feature: spring-adventure-2010/Image0003.jpg
 ---

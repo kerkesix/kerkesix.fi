@@ -5,7 +5,6 @@ categories:
 tags: [ruoka]
 toc: false
 comments: true
-ads: false
 author: tero
 image:
   feature: lihankuivausohje/kuivaliha-feature.jpg
@@ -29,9 +28,8 @@ siitä ei saa hyvällä mielikuvituksellakaan. Tässä siis: lihan kuivatus.
 Otetaan riittävästi lihaa. Nauta on yleisintä ja halvinta, mutta myös
 hevonen, poro, kauris tms. ovat hyviä kuivatettavaksi. Naudan lihasta
 paistit käyvät mainiosti kuivaukseen. Uuniin tai pieneen
-kotikuivuriin mahtuu yleensä maksimissaan noin 1-2 kg lihaa. Lihasta 
+kotikuivuriin mahtuu yleensä maksimissaan noin 1-2 kg lihaa. Lihasta
 siistitään pahimmat kalvot pois.
-
 
 [![](/images/lihankuivausohje/Kuivaliha_02.jpg)](/images/lihankuivausohje/Kuivaliha_02.jpg)
 Liha leikataan syiden suuntaisesti, noin 0,5 cm paksuiksi, 5 cm leveiksi ja

@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Suunnistuskoulutus Latokaskessa" 
-categories: 
+layout: article
+title: "Suunnistuskoulutus Latokaskessa"
+categories:
 tags: [suunnistus]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Kerkesix-suunnistukoulutusohjelman mukainen harjoitus järjestettiin
@@ -17,9 +16,9 @@ Viestiä varten.
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/suunnistuskoulutus-latokaskessa/Thumbnails/suunnistuskoulutus20060514_01b.jpg)](/images/suunnistuskoulutus-latokaskessa/suunnistuskoulutus20060514_01b.jpg)
--   [![](/images/suunnistuskoulutus-latokaskessa/Thumbnails/suunnistuskoulutus20060514_02b.jpg)](/images/suunnistuskoulutus-latokaskessa/suunnistuskoulutus20060514_02b.jpg)
--   [![](/images/suunnistuskoulutus-latokaskessa/Thumbnails/suunnistuskoulutus20060514_03b.jpg)](/images/suunnistuskoulutus-latokaskessa/suunnistuskoulutus20060514_03b.jpg)
--   [![](/images/suunnistuskoulutus-latokaskessa/Thumbnails/suunnistuskoulutus20060514_04b.jpg)](/images/suunnistuskoulutus-latokaskessa/suunnistuskoulutus20060514_04b.jpg)
+- [![](/images/suunnistuskoulutus-latokaskessa/Thumbnails/suunnistuskoulutus20060514_01b.jpg)](/images/suunnistuskoulutus-latokaskessa/suunnistuskoulutus20060514_01b.jpg)
+- [![](/images/suunnistuskoulutus-latokaskessa/Thumbnails/suunnistuskoulutus20060514_02b.jpg)](/images/suunnistuskoulutus-latokaskessa/suunnistuskoulutus20060514_02b.jpg)
+- [![](/images/suunnistuskoulutus-latokaskessa/Thumbnails/suunnistuskoulutus20060514_03b.jpg)](/images/suunnistuskoulutus-latokaskessa/suunnistuskoulutus20060514_03b.jpg)
+- [![](/images/suunnistuskoulutus-latokaskessa/Thumbnails/suunnistuskoulutus20060514_04b.jpg)](/images/suunnistuskoulutus-latokaskessa/suunnistuskoulutus20060514_04b.jpg)
 
 </div>

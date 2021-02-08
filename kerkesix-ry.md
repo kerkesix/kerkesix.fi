@@ -5,7 +5,6 @@ permalink: /kerkesix-ry/
 tags: [yhdistys]
 toc: false
 comments: false
-ads: false
 image:
   feature: kerkesix-ry/feature-campfire.jpg
   credit: Tero Koski

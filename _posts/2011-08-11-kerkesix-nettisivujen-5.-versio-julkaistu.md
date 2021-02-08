@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Kerkesix nettisivujen 5. versio julkaistu!" 
-categories: 
+layout: article
+title: "Kerkesix nettisivujen 5. versio julkaistu!"
+categories:
 tags: [kerkesix.fi]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Kerke-netin uusin ja 5. versio on ulkona kaikkien käytettävänä. Uutta
@@ -16,4 +15,3 @@ skandinaavisen muotoilun perinteitä noudattaen yksinkertaisuuteen.
 Kerkesix-sähköpostin löytää samasta osoitteesta kuin ennenkin:
 [posti.kerkesix.fi](http://posti.kerkesix.fi) ja postilaatikon
 toiminnallisuuskin on tuttu ja turvallinen.
-

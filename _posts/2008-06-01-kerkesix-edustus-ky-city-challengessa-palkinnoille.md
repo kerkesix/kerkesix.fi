@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Kerkesix edustus KY City Challengessa palkinnoille" 
-categories: 
-tags: [melonta,pyöräily,suunnistus]
-toc: false 
-comments: true 
-ads: false 
+layout: article
+title: "Kerkesix edustus KY City Challengessa palkinnoille"
+categories:
+tags: [melonta, pyöräily, suunnistus]
+toc: false
+comments: true
 ---
 
 Kerkesix edustusta KY City Challengessa   Opiskelijoille tarkoitettu
@@ -25,4 +24,3 @@ lukuun ottamatta kilpailu sujui loistavasti. Myös sää suosi eikä
 rakkuloita, kumin puhkeamisia tai muita ikäviä yllätyksiä tullut eteen.
 
 <http://www.kycitychallenge.fi/>
-

@@ -5,7 +5,6 @@ categories:
 tags: [yhdistys]
 toc: false
 comments: true
-ads: false
 ---
 
 21.9.2003 pidettiin yhdistyksen perustava kokous Kauniaisten uimahallin
@@ -20,14 +19,14 @@ urheiluhenkeä ja pysyvää harrastusta urheilu- ja ulkoilutoimintaan.
 
 Tarkoituksensa toteuttamiseksi yhdistys:
 
--   järjestää harjoitus- ja valmennustilaisuuksia
--   antaa tietopuolista opetusta
--   järjestää koti- ja ulkomaisia harjoitus- ja kilpailumatkoja
-    jäsenilleen
--   toimeenpanee kilpailuja, näytöksiä, kursseja ja juhlia
--   toimii yhteistyössä muiden urheilu- ja
-    ulkoiluharrastajien kanssa, sekä ylläpitää yhteyksiä muihin
-    urheilu- ja ulkoiluyhdistyksiin
--   hankkii tarvittavia välineitä yhdistyksen käyttöön.
+- järjestää harjoitus- ja valmennustilaisuuksia
+- antaa tietopuolista opetusta
+- järjestää koti- ja ulkomaisia harjoitus- ja kilpailumatkoja
+  jäsenilleen
+- toimeenpanee kilpailuja, näytöksiä, kursseja ja juhlia
+- toimii yhteistyössä muiden urheilu- ja
+  ulkoiluharrastajien kanssa, sekä ylläpitää yhteyksiä muihin
+  urheilu- ja ulkoiluyhdistyksiin
+- hankkii tarvittavia välineitä yhdistyksen käyttöön.
 
 Tästä on hyvä jatkaa.

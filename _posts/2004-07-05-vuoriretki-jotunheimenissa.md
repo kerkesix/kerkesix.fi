@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Vuoriretki Jotunheimenissa" 
-categories: 
-tags: [vaellus,vuoristovaellus]
-toc: false 
-comments: true 
-ads: false 
+layout: article
+title: "Vuoriretki Jotunheimenissa"
+categories:
+tags: [vaellus, vuoristovaellus]
+toc: false
+comments: true
 ---
 
 Kesän 2004 vuoriretki suuntautui Norjaan Jotunheimenin
@@ -120,22 +119,22 @@ viimeiseksi kerraksi kun vierailemme täällä.
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/Vuoriretki%202004%20112.jpg)](/images/vuoriretki-jotunheimenissa/Vuoriretki%202004%20112.jpg)
--   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_01b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_01b.jpg)
--   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_02b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_02b.jpg)
--   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_05b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_05b.jpg)
--   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_06b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_06b.jpg)
--   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_07b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_07b.jpg)
--   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_08b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_08b.jpg)
--   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_09b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_09b.jpg)
--   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_10b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_10b.jpg)
--   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_11b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_11b.jpg)
--   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_12b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_12b.jpg)
--   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_14b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_14b.jpg)
--   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_15b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_15b.jpg)
--   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_16b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_16b.jpg)
--   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_17b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_17b.jpg)
--   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_18b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_18b.jpg)
--   [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_19b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_19b.jpg)
+- [![](/images/vuoriretki-jotunheimenissa/Thumbnails/Vuoriretki%202004%20112.jpg)](/images/vuoriretki-jotunheimenissa/Vuoriretki%202004%20112.jpg)
+- [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_01b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_01b.jpg)
+- [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_02b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_02b.jpg)
+- [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_05b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_05b.jpg)
+- [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_06b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_06b.jpg)
+- [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_07b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_07b.jpg)
+- [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_08b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_08b.jpg)
+- [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_09b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_09b.jpg)
+- [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_10b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_10b.jpg)
+- [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_11b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_11b.jpg)
+- [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_12b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_12b.jpg)
+- [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_14b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_14b.jpg)
+- [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_15b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_15b.jpg)
+- [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_16b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_16b.jpg)
+- [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_17b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_17b.jpg)
+- [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_18b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_18b.jpg)
+- [![](/images/vuoriretki-jotunheimenissa/Thumbnails/vuoriretki2004_19b.jpg)](/images/vuoriretki-jotunheimenissa/vuoriretki2004_19b.jpg)
 
 </div>

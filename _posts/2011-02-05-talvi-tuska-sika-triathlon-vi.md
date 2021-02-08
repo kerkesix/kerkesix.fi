@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Talvi Tuska Sika Triathlon VI - 5.2.2011" 
-categories: 
-tags: [hiihto,retkiluistelu,pyöräily,triathlon]
-toc: false 
-comments: true 
-ads: false 
+layout: article
+title: "Talvi Tuska Sika Triathlon VI - 5.2.2011"
+categories:
+tags: [hiihto, retkiluistelu, pyöräily, triathlon]
+toc: false
+comments: true
 ---
 
 Pihvi houkutteli väkeä Tuskaretkien vuosittaiseen TTST tapahtumaan ja
@@ -33,9 +32,9 @@ jälkeiselle huollolle!
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/talvi-tuska-sika-triathlon-vi/Thumbnails/1.jpg)](/images/talvi-tuska-sika-triathlon-vi/1.jpg)
--   [![](/images/talvi-tuska-sika-triathlon-vi/Thumbnails/2.jpg)](/images/talvi-tuska-sika-triathlon-vi/2.jpg)
--   [![](/images/talvi-tuska-sika-triathlon-vi/Thumbnails/3.jpg)](/images/talvi-tuska-sika-triathlon-vi/3.jpg)
--   [![](/images/talvi-tuska-sika-triathlon-vi/Thumbnails/4.jpg)](/images/talvi-tuska-sika-triathlon-vi/4.jpg)
+- [![](/images/talvi-tuska-sika-triathlon-vi/Thumbnails/1.jpg)](/images/talvi-tuska-sika-triathlon-vi/1.jpg)
+- [![](/images/talvi-tuska-sika-triathlon-vi/Thumbnails/2.jpg)](/images/talvi-tuska-sika-triathlon-vi/2.jpg)
+- [![](/images/talvi-tuska-sika-triathlon-vi/Thumbnails/3.jpg)](/images/talvi-tuska-sika-triathlon-vi/3.jpg)
+- [![](/images/talvi-tuska-sika-triathlon-vi/Thumbnails/4.jpg)](/images/talvi-tuska-sika-triathlon-vi/4.jpg)
 
 </div>

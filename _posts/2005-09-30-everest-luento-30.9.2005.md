@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Everest-luento 30.9.2005" 
-categories: 
-tags: [luennot,vuoristovaellus]
-toc: false 
-comments: true 
-ads: false 
+layout: article
+title: "Everest-luento 30.9.2005"
+categories:
+tags: [luennot, vuoristovaellus]
+toc: false
+comments: true
 ---
 
 Arrin Everest-luento kokosi runsaslukuisen yleisön kuuntelemaan
@@ -27,4 +26,3 @@ läheiseen ravintolaan.
 
 Lisätietoja aiheesta retkikunnan
 [nettisivuilta](http://lsvjkilta.fi/arkisto/everest/index.html).
-

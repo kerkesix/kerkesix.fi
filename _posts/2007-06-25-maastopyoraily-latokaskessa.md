@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Maastopyöräily Latokaskessa" 
-categories: 
+layout: article
+title: "Maastopyöräily Latokaskessa"
+categories:
 tags: [pyöräily]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Fillareiden selässä alueella Latokaski - Saarniraivio - Mikkelä -
@@ -21,4 +20,3 @@ riittävän haastavaa reittiä. Osan matkasta reitti kulki samoja polkuja
 pitkin, mitä ajettiin myös MTB Enduron Espoon osakilpailussa 2006. Samaa
 reitti voidaan jatkossakin käyttää, mutta alue tarjoaa mahdollisuuden
 myös varioida lenkkiä.
-

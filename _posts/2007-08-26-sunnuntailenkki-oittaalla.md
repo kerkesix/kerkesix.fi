@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Sunnuntailenkki Oittaalla" 
-categories: 
+layout: article
+title: "Sunnuntailenkki Oittaalla"
+categories:
 tags: [juoksu]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Pienoinen ukkonen ja sade pohjustivat sunnuntailenkin alkua, mutta
@@ -20,10 +19,10 @@ Toisille tutussa ja toisille tuntemattomassa maastossa.
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/sunnuntailenkki-oittaalla/Thumbnails/Kaarinan%20pyöräily%20001.jpg)](/images/sunnuntailenkki-oittaalla/Kaarinan%20pyöräily%20001.jpg)
--   [![](/images/sunnuntailenkki-oittaalla/Thumbnails/Kaarinan%20pyöräily%20002.jpg)](/images/sunnuntailenkki-oittaalla/Kaarinan%20pyöräily%20002.jpg)
--   [![](/images/sunnuntailenkki-oittaalla/Thumbnails/Kaarinan%20pyöräily%20003.jpg)](/images/sunnuntailenkki-oittaalla/Kaarinan%20pyöräily%20003.jpg)
--   [![](/images/sunnuntailenkki-oittaalla/Thumbnails/Kaarinan%20pyöräily%20004.jpg)](/images/sunnuntailenkki-oittaalla/Kaarinan%20pyöräily%20004.jpg)
--   [![](/images/sunnuntailenkki-oittaalla/Thumbnails/Kaarinan%20pyöräily%20005.jpg)](/images/sunnuntailenkki-oittaalla/Kaarinan%20pyöräily%20005.jpg)
+- [![](/images/sunnuntailenkki-oittaalla/Thumbnails/Kaarinan%20pyöräily%20001.jpg)](/images/sunnuntailenkki-oittaalla/Kaarinan%20pyöräily%20001.jpg)
+- [![](/images/sunnuntailenkki-oittaalla/Thumbnails/Kaarinan%20pyöräily%20002.jpg)](/images/sunnuntailenkki-oittaalla/Kaarinan%20pyöräily%20002.jpg)
+- [![](/images/sunnuntailenkki-oittaalla/Thumbnails/Kaarinan%20pyöräily%20003.jpg)](/images/sunnuntailenkki-oittaalla/Kaarinan%20pyöräily%20003.jpg)
+- [![](/images/sunnuntailenkki-oittaalla/Thumbnails/Kaarinan%20pyöräily%20004.jpg)](/images/sunnuntailenkki-oittaalla/Kaarinan%20pyöräily%20004.jpg)
+- [![](/images/sunnuntailenkki-oittaalla/Thumbnails/Kaarinan%20pyöräily%20005.jpg)](/images/sunnuntailenkki-oittaalla/Kaarinan%20pyöräily%20005.jpg)
 
 </div>

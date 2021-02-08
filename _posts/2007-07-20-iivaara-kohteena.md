@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Iivaara kohteena" 
-categories: 
+layout: article
+title: "Iivaara kohteena"
+categories:
 tags: [ulkoilukohteet]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Kuusamossa sijaitseva  Iivaara (korkeus 469,4 m) löytyi hieman
@@ -19,7 +18,7 @@ metsäautotieosuudesta, joista kumpikin on noin puolet matkasta.
 Reittimerkinnät näyttivät olevan pääsääntöisesti asetettu ensiksi
 hiekkatie, sitten metsäpolku moodiin. Meidän ratkaisu oli kuitenkin
 aloittaa maasto-osuudella ja lopuksi siirtyä helpompaa tietä pitkin
-takaisin lähtöpisteelle. 
+takaisin lähtöpisteelle.
 
 Parkkipaikan jälkeen ensimmäiseksi vastaan tulee pieni suo, ja hetken
 matkaa sen jälkeen löytyy ensimmäinen nuotiopaikka. Maasto oli meille
@@ -59,10 +58,9 @@ käytimme aikaa 40 minuuttia.
 
 Lisätietoja Iivaarasta seuraavien linkkien takaa:
 
--   [luontoon.fi](http://www.luontoon.fi/iivaara)
--   [ruka.fi](http://www.ruka.fi/kesa/nahtavyydet/?file=content_exec&id=189)
--   pohjois-pohjanmaan
-    [ympäristökeskus](http://www.ely-keskus.fi/web/ely/ely-pohjois-pohjanmaa#.Vdy6odOqqko)
--   [Ajo-ohje](http://www.luontoon.fi/iivaara/kartatjakulkuyhteydet)
-    (luontoon.fi)
-
+- [luontoon.fi](http://www.luontoon.fi/iivaara)
+- [ruka.fi](http://www.ruka.fi/kesa/nahtavyydet/?file=content_exec&id=189)
+- pohjois-pohjanmaan
+  [ympäristökeskus](http://www.ely-keskus.fi/web/ely/ely-pohjois-pohjanmaa#.Vdy6odOqqko)
+- [Ajo-ohje](http://www.luontoon.fi/iivaara/kartatjakulkuyhteydet)
+  (luontoon.fi)

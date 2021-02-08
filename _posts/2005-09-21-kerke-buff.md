@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Kerke-Buff" 
-categories: 
+layout: article
+title: "Kerke-Buff"
+categories:
 tags: [varusteet]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 KSX-Buffit ovat tulleet! Nyt on jokaisella veijarilla mahdollisuus
@@ -14,4 +13,3 @@ tutulla printillä. Merchandice, sitä pitää olla. Rajoitettu erä. Hinta
 21,00 EUR.
 
 ![](/images/kerke-buff/uutisetbuff_06b.jpg) ![](/images/kerke-buff/uutisetbuff_08b.jpg)
-

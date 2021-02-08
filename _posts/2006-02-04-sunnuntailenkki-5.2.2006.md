@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Sunnuntailenkki 5.2.2006" 
-categories: 
+layout: article
+title: "Sunnuntailenkki 5.2.2006"
+categories:
 tags: [juoksu]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Helmikuun ensimmäiselle sunnuntailenkille oli tarkoitus lähteä vetämään
@@ -17,4 +16,3 @@ ja jälleen kirpeään pakkaseen.
 Lenkki sujui mallikkaasti ja talvinen päivä näytti parhaat puolensa
 jäädyttämällä ulkoilijat etenkin naamasta. Matkalla tehtiin myös
 vahvistettu havainto lumikosta!
-

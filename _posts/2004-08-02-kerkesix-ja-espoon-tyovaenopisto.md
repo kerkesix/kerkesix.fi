@@ -2,10 +2,9 @@
 layout: article
 title: "Kerkesix ja Espoon työväenopisto"
 categories:
-tags: [suunnistus,ulkoilu]
+tags: [suunnistus, ulkoilu]
 toc: false
 comments: true
-ads: false
 ---
 
 Kerkesix ry kouluttaa. Espoon työväenopiston kurssit "Suunnistus tutuksi"

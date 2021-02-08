@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Ampumapäällikkökilpailu 2005" 
-categories: 
+layout: article
+title: "Ampumapäällikkökilpailu 2005"
+categories:
 tags: [ampumapäällikkö]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Yhdistyksen ampumamestaruuskilpailu järjestettiin jo toisen kerran.
@@ -51,14 +50,14 @@ Flash jatkaa hallitsevana yhdistyksen ampumapäällikkönä!
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/ampumapaallikko-2005/Thumbnails/luokittelematonampumapaallikko2005_02b.jpg)](/images/ampumapaallikko-2005/luokittelematonampumapaallikko2005_02b.jpg)
--   [![](/images/ampumapaallikko-2005/Thumbnails/luokittelematonampumapaallikko2005_03b.jpg)](/images/ampumapaallikko-2005/luokittelematonampumapaallikko2005_03b.jpg)
--   [![](/images/ampumapaallikko-2005/Thumbnails/luokittelematonampumapaallikko2005_04b.jpg)](/images/ampumapaallikko-2005/luokittelematonampumapaallikko2005_04b.jpg)
--   [![](/images/ampumapaallikko-2005/Thumbnails/luokittelematonampumapaallikko2005_05b.jpg)](/images/ampumapaallikko-2005/luokittelematonampumapaallikko2005_05b.jpg)
--   [![](/images/ampumapaallikko-2005/Thumbnails/luokittelematonampumapaallikko2005_06b.jpg)](/images/ampumapaallikko-2005/luokittelematonampumapaallikko2005_06b.jpg)
--   [![](/images/ampumapaallikko-2005/Thumbnails/luokittelematonampumapaallikko2005_07b.jpg)](/images/ampumapaallikko-2005/luokittelematonampumapaallikko2005_07b.jpg)
--   [![](/images/ampumapaallikko-2005/Thumbnails/luokittelematonampumapaallikko2005_08b.jpg)](/images/ampumapaallikko-2005/luokittelematonampumapaallikko2005_08b.jpg)
--   [![](/images/ampumapaallikko-2005/Thumbnails/luokittelematonampumapaallikko2005_09b.jpg)](/images/ampumapaallikko-2005/luokittelematonampumapaallikko2005_09b.jpg)
--   [![](/images/ampumapaallikko-2005/Thumbnails/luokittelematonampumapaallikko2005_11b.jpg)](/images/ampumapaallikko-2005/luokittelematonampumapaallikko2005_11b.jpg)
+- [![](/images/ampumapaallikko-2005/Thumbnails/luokittelematonampumapaallikko2005_02b.jpg)](/images/ampumapaallikko-2005/luokittelematonampumapaallikko2005_02b.jpg)
+- [![](/images/ampumapaallikko-2005/Thumbnails/luokittelematonampumapaallikko2005_03b.jpg)](/images/ampumapaallikko-2005/luokittelematonampumapaallikko2005_03b.jpg)
+- [![](/images/ampumapaallikko-2005/Thumbnails/luokittelematonampumapaallikko2005_04b.jpg)](/images/ampumapaallikko-2005/luokittelematonampumapaallikko2005_04b.jpg)
+- [![](/images/ampumapaallikko-2005/Thumbnails/luokittelematonampumapaallikko2005_05b.jpg)](/images/ampumapaallikko-2005/luokittelematonampumapaallikko2005_05b.jpg)
+- [![](/images/ampumapaallikko-2005/Thumbnails/luokittelematonampumapaallikko2005_06b.jpg)](/images/ampumapaallikko-2005/luokittelematonampumapaallikko2005_06b.jpg)
+- [![](/images/ampumapaallikko-2005/Thumbnails/luokittelematonampumapaallikko2005_07b.jpg)](/images/ampumapaallikko-2005/luokittelematonampumapaallikko2005_07b.jpg)
+- [![](/images/ampumapaallikko-2005/Thumbnails/luokittelematonampumapaallikko2005_08b.jpg)](/images/ampumapaallikko-2005/luokittelematonampumapaallikko2005_08b.jpg)
+- [![](/images/ampumapaallikko-2005/Thumbnails/luokittelematonampumapaallikko2005_09b.jpg)](/images/ampumapaallikko-2005/luokittelematonampumapaallikko2005_09b.jpg)
+- [![](/images/ampumapaallikko-2005/Thumbnails/luokittelematonampumapaallikko2005_11b.jpg)](/images/ampumapaallikko-2005/luokittelematonampumapaallikko2005_11b.jpg)
 
 </div>

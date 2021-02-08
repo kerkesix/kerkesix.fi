@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Saariston Rengasreitti (lyhyt) 30.6.2013" 
-categories: 
+layout: article
+title: "Saariston Rengasreitti (lyhyt) 30.6.2013"
+categories:
 tags: []
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Pihvi houkutteli porukkaa fillaroimaan Turun saaristoon. Pyöräilykeli
@@ -75,5 +74,4 @@ Matkaa 109,3 km.
 
 Kittoos Pihvi!
 
- 
 

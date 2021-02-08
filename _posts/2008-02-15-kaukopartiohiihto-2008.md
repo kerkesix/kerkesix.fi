@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Kaukopartiohiihto 2008 - 15.2.2008" 
-categories: 
+layout: article
+title: "Kaukopartiohiihto 2008 - 15.2.2008"
+categories:
 tags: [hiihto]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Epämääräisen lumitilanteen vuoksi käytössä oli tällä kertaa vain yksi 75
@@ -42,25 +41,25 @@ ja risukkoinen lisälenkki.
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/kaukopartiohiihto-2008/Thumbnails/KP01.jpg)](/images/kaukopartiohiihto-2008/KP01.jpg)
--   [![](/images/kaukopartiohiihto-2008/Thumbnails/KP02.jpg)](/images/kaukopartiohiihto-2008/KP02.jpg)
--   [![](/images/kaukopartiohiihto-2008/Thumbnails/KP03.jpg)](/images/kaukopartiohiihto-2008/KP03.jpg)
--   [![](/images/kaukopartiohiihto-2008/Thumbnails/KP04.jpg)](/images/kaukopartiohiihto-2008/KP04.jpg)
--   [![](/images/kaukopartiohiihto-2008/Thumbnails/KP05.jpg)](/images/kaukopartiohiihto-2008/KP05.jpg)
--   [![](/images/kaukopartiohiihto-2008/Thumbnails/KP06.jpg)](/images/kaukopartiohiihto-2008/KP06.jpg)
--   [![](/images/kaukopartiohiihto-2008/Thumbnails/KP07.jpg)](/images/kaukopartiohiihto-2008/KP07.jpg)
--   [![](/images/kaukopartiohiihto-2008/Thumbnails/KP08.jpg)](/images/kaukopartiohiihto-2008/KP08.jpg)
--   [![](/images/kaukopartiohiihto-2008/Thumbnails/KP09.jpg)](/images/kaukopartiohiihto-2008/KP09.jpg)
--   [![](/images/kaukopartiohiihto-2008/Thumbnails/KP10.jpg)](/images/kaukopartiohiihto-2008/KP10.jpg)
--   [![](/images/kaukopartiohiihto-2008/Thumbnails/KP11.jpg)](/images/kaukopartiohiihto-2008/KP11.jpg)
--   [![](/images/kaukopartiohiihto-2008/Thumbnails/KP12.jpg)](/images/kaukopartiohiihto-2008/KP12.jpg)
--   [![](/images/kaukopartiohiihto-2008/Thumbnails/KP13.jpg)](/images/kaukopartiohiihto-2008/KP13.jpg)
--   [![](/images/kaukopartiohiihto-2008/Thumbnails/KP14.jpg)](/images/kaukopartiohiihto-2008/KP14.jpg)
--   [![](/images/kaukopartiohiihto-2008/Thumbnails/KP15.jpg)](/images/kaukopartiohiihto-2008/KP15.jpg)
--   [![](/images/kaukopartiohiihto-2008/Thumbnails/KP16.jpg)](/images/kaukopartiohiihto-2008/KP16.jpg)
--   [![](/images/kaukopartiohiihto-2008/Thumbnails/KP17.jpg)](/images/kaukopartiohiihto-2008/KP17.jpg)
--   [![](/images/kaukopartiohiihto-2008/Thumbnails/KP18.jpg)](/images/kaukopartiohiihto-2008/KP18.jpg)
--   [![](/images/kaukopartiohiihto-2008/Thumbnails/KP19.jpg)](/images/kaukopartiohiihto-2008/KP19.jpg)
--   [![](/images/kaukopartiohiihto-2008/Thumbnails/KP20.jpg)](/images/kaukopartiohiihto-2008/KP20.jpg)
+- [![](/images/kaukopartiohiihto-2008/Thumbnails/KP01.jpg)](/images/kaukopartiohiihto-2008/KP01.jpg)
+- [![](/images/kaukopartiohiihto-2008/Thumbnails/KP02.jpg)](/images/kaukopartiohiihto-2008/KP02.jpg)
+- [![](/images/kaukopartiohiihto-2008/Thumbnails/KP03.jpg)](/images/kaukopartiohiihto-2008/KP03.jpg)
+- [![](/images/kaukopartiohiihto-2008/Thumbnails/KP04.jpg)](/images/kaukopartiohiihto-2008/KP04.jpg)
+- [![](/images/kaukopartiohiihto-2008/Thumbnails/KP05.jpg)](/images/kaukopartiohiihto-2008/KP05.jpg)
+- [![](/images/kaukopartiohiihto-2008/Thumbnails/KP06.jpg)](/images/kaukopartiohiihto-2008/KP06.jpg)
+- [![](/images/kaukopartiohiihto-2008/Thumbnails/KP07.jpg)](/images/kaukopartiohiihto-2008/KP07.jpg)
+- [![](/images/kaukopartiohiihto-2008/Thumbnails/KP08.jpg)](/images/kaukopartiohiihto-2008/KP08.jpg)
+- [![](/images/kaukopartiohiihto-2008/Thumbnails/KP09.jpg)](/images/kaukopartiohiihto-2008/KP09.jpg)
+- [![](/images/kaukopartiohiihto-2008/Thumbnails/KP10.jpg)](/images/kaukopartiohiihto-2008/KP10.jpg)
+- [![](/images/kaukopartiohiihto-2008/Thumbnails/KP11.jpg)](/images/kaukopartiohiihto-2008/KP11.jpg)
+- [![](/images/kaukopartiohiihto-2008/Thumbnails/KP12.jpg)](/images/kaukopartiohiihto-2008/KP12.jpg)
+- [![](/images/kaukopartiohiihto-2008/Thumbnails/KP13.jpg)](/images/kaukopartiohiihto-2008/KP13.jpg)
+- [![](/images/kaukopartiohiihto-2008/Thumbnails/KP14.jpg)](/images/kaukopartiohiihto-2008/KP14.jpg)
+- [![](/images/kaukopartiohiihto-2008/Thumbnails/KP15.jpg)](/images/kaukopartiohiihto-2008/KP15.jpg)
+- [![](/images/kaukopartiohiihto-2008/Thumbnails/KP16.jpg)](/images/kaukopartiohiihto-2008/KP16.jpg)
+- [![](/images/kaukopartiohiihto-2008/Thumbnails/KP17.jpg)](/images/kaukopartiohiihto-2008/KP17.jpg)
+- [![](/images/kaukopartiohiihto-2008/Thumbnails/KP18.jpg)](/images/kaukopartiohiihto-2008/KP18.jpg)
+- [![](/images/kaukopartiohiihto-2008/Thumbnails/KP19.jpg)](/images/kaukopartiohiihto-2008/KP19.jpg)
+- [![](/images/kaukopartiohiihto-2008/Thumbnails/KP20.jpg)](/images/kaukopartiohiihto-2008/KP20.jpg)
 
 </div>

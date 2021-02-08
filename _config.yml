@@ -24,7 +24,6 @@ highlighter: rouge
 gems:
   - jekyll-sitemap
   - jekyll-redirect-from
-  - jekyll-gist
   - jekyll-feed
 
 # Site owner
@@ -43,24 +42,28 @@ owner:
 google_analytics: UA-24940535-1
 google_verify:
 
-include:
-  - .htaccess
 exclude:
   - "*.less"
-  - "*.sublime-project"
-  - "*.sublime-workspace"
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
+  - .jekyll-cache
   - .sass-cache
+  - .github
+  - .gitignore
+  - .gitattributes
+  - .jshintrc
+  - .firebaserc
+  - .editorconfig
   - CHANGELOG
   - Capfile
+  - cloudbuild.yaml
   - Gemfile
   - Gruntfile.js
   - LICENSE
   - README
+  - Makefile
   - Rakefile
-  - config
   - gulpfile.js
   - lib
   - log

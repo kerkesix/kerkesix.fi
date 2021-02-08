@@ -5,7 +5,6 @@ categories:
 tags: []
 toc: false
 comments: true
-ads: false
 ---
 
 Aikataulua julkistetaan tässä lisää: kello 13.00 alkaa kirjautuminen

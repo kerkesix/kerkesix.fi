@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Sysimusta Satku XII - enää 10 vuorokautta alkuun" 
-categories: 
+layout: article
+title: "Sysimusta Satku XII - enää 10 vuorokautta alkuun"
+categories:
 tags: [satku]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Reilun viikon kuluttua jalat tikkaavat asfalttia huolella ja kilsat
@@ -13,4 +12,3 @@ kuluvat...
 
 Linkin takaa voi käydä fiilistelemässä viime vuoden reissun
 tunnelmia: <http://www.youtube.com/watch?v=EDWAB8lgOeA>
-

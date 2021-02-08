@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Umpihankihiihdon MM ja Lumikenkävaelluksen SM 2006" 
-categories: 
-tags: [lumikenkäily,hiihto]
-toc: false 
-comments: true 
-ads: false 
+layout: article
+title: "Umpihankihiihdon MM ja Lumikenkävaelluksen SM 2006"
+categories:
+tags: [lumikenkäily, hiihto]
+toc: false
+comments: true
 ---
 
 Jälleen oli aika lähteä Syötteen maastoon. [Pudasjärven
@@ -58,23 +57,23 @@ hopeasijalle ja Kerkesix Blue Tits tuli maaliin neljäntenä.
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_01b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_01b.jpg)
--   [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_02b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_02b.jpg)
--   [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_03b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_03b.jpg)
--   [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_04b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_04b.jpg)
--   [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_05b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_05b.jpg)
--   [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_06b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_06b.jpg)
--   [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_07b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_07b.jpg)
--   [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_08b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_08b.jpg)
--   [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_09b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_09b.jpg)
--   [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_10b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_10b.jpg)
--   [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_11b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_11b.jpg)
--   [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_12b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_12b.jpg)
--   [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_15b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_15b.jpg)
--   [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_21b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_21b.jpg)
--   [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_22b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_22b.jpg)
--   [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_23b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_23b.jpg)
--   [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_24b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_24b.jpg)
--   [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_25b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_25b.jpg)
+- [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_01b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_01b.jpg)
+- [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_02b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_02b.jpg)
+- [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_03b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_03b.jpg)
+- [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_04b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_04b.jpg)
+- [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_05b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_05b.jpg)
+- [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_06b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_06b.jpg)
+- [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_07b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_07b.jpg)
+- [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_08b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_08b.jpg)
+- [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_09b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_09b.jpg)
+- [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_10b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_10b.jpg)
+- [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_11b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_11b.jpg)
+- [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_12b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_12b.jpg)
+- [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_15b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_15b.jpg)
+- [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_21b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_21b.jpg)
+- [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_22b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_22b.jpg)
+- [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_23b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_23b.jpg)
+- [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_24b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_24b.jpg)
+- [![](/images/lumikenkavaellus-sm-2006/Thumbnails/vaelluslumikenkasm2006_25b.jpg)](/images/lumikenkavaellus-sm-2006/vaelluslumikenkasm2006_25b.jpg)
 
 </div>

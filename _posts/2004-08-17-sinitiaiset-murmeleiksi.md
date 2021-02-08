@@ -5,7 +5,6 @@ categories:
 tags: [erä-sm]
 toc: false
 comments: true
-ads: false
 ---
 
 Emmi ja Ninnu lähtevät Erä-SM kilpailuun uudella nimellä. Viime vuoden

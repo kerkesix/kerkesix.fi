@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Lokakuun 22. päivänä kävellään: SYSIMUSTA SATKU X" 
-categories: 
+layout: article
+title: "Lokakuun 22. päivänä kävellään: SYSIMUSTA SATKU X"
+categories:
 tags: [satku]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Kymmenes Sysimusta Satku kävellään 22.10.2011. Ilmoittautuminen
@@ -15,4 +14,3 @@ sisällä. Osallistumismaksu 35 EUR.
 
 Tapahtuman sisältö seuraa perinteistä kaavaa: kävelyä, pimeyttä ja
 hyvää/pahaa mieltä.
-

@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Tuskaretket ry 10 vuotta" 
-categories: 
+layout: article
+title: "Tuskaretket ry 10 vuotta"
+categories:
 tags: [juhlat]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 [![](/images/tuskaretket-ry-10-vuotta-v/1.JPG)Tuskaretket
@@ -25,17 +24,16 @@ vuoden aikana venyttänyt ja muokannut tapoja retkeillä, käyttämällä
 erilaisia tapoja liikkua retkeillä ja elää, Kerkesix huomioi Tuskaretkiä
 kahdella tavalla:
 
--   2,0 kg:n pajavasara kaiverruksella: "10-vuotiaalle Tuskaretket
-    ry:lle 1.10.2011 Kerkesi ry", jotta Tuskaretket voisivat jatkossakin
-    muokata retkeily- ja liikuntamaailmaa uudenlaiseksi.
--   50,00 EUR stipendi osoitettavaksi Tuskaretket ry:n hallituksen
-    valitsemalle sopivalle taholle, jonka katsotaan edistäneen/edistävän
-    kollektiivista tuskaperäistä kokemusta sen yhteishenkeä
-    kasvattavassa muodossa.
+- 2,0 kg:n pajavasara kaiverruksella: "10-vuotiaalle Tuskaretket
+  ry:lle 1.10.2011 Kerkesi ry", jotta Tuskaretket voisivat jatkossakin
+  muokata retkeily- ja liikuntamaailmaa uudenlaiseksi.
+- 50,00 EUR stipendi osoitettavaksi Tuskaretket ry:n hallituksen
+  valitsemalle sopivalle taholle, jonka katsotaan edistäneen/edistävän
+  kollektiivista tuskaperäistä kokemusta sen yhteishenkeä
+  kasvattavassa muodossa.
 
 Jatkossakin yhdistyksiemme on tarkoitus tehdä toimintavaihtoa ja näillä
 näkymin seuraavan kerran vierailemme Turussa TalviTuskaSikaTriathlon
 VII:n merkeissä.
 
 Vielä kerran onnittelut ensimäisestä 10 vuodesta.
-

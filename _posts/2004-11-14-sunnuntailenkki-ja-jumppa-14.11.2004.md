@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Sunnuntailenkki ja jumppa 14.11.2004" 
-categories: 
+layout: article
+title: "Sunnuntailenkki ja jumppa 14.11.2004"
+categories:
 tags: [juoksu]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 ![](/images/sunnuntailenkki-ja-jumppa-14.11.2004/peruskuntolenkkijumppa_2b.jpg)Sunnuntailenkki
@@ -20,4 +19,3 @@ suoritettiin kiertoharjoitteluna lihaskunto-osuus. Venytyssarjat
 harjoituksen päätteeksi verrytti lihaksia.
 
 ![](/images/sunnuntailenkki-ja-jumppa-14.11.2004/peruskuntolenkkijumppa_1b.jpg)  ![](/images/sunnuntailenkki-ja-jumppa-14.11.2004/peruskuntolenkkijumppa_3b.jpg)
-

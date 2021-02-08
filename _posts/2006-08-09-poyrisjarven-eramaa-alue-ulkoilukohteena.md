@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Pöyrisjärven erämaa-alue ulkoilukohteena" 
-categories: 
+layout: article
+title: "Pöyrisjärven erämaa-alue ulkoilukohteena"
+categories:
 tags: [ulkoilukohteet]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Kun Toni ehdotti minulle kunnonkohotus-retkeä johonkin päin Suomea
@@ -75,22 +74,22 @@ kiinnostavaa jokea melontaan, koskiluokitukset 1-3.
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_01b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_01b.jpg)
--   [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_02b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_02b.jpg)
--   [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_03b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_03b.jpg)
--   [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_04b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_04b.jpg)
--   [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_05b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_05b.jpg)
--   [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_06b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_06b.jpg)
--   [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_07b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_07b.jpg)
--   [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_08b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_08b.jpg)
--   [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_09b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_09b.jpg)
--   [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_10b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_10b.jpg)
--   [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_11b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_11b.jpg)
--   [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_12b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_12b.jpg)
--   [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_13b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_13b.jpg)
--   [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_14b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_14b.jpg)
--   [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_15b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_15b.jpg)
--   [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_16b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_16b.jpg)
--   [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_17b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_17b.jpg)
+- [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_01b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_01b.jpg)
+- [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_02b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_02b.jpg)
+- [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_03b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_03b.jpg)
+- [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_04b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_04b.jpg)
+- [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_05b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_05b.jpg)
+- [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_06b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_06b.jpg)
+- [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_07b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_07b.jpg)
+- [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_08b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_08b.jpg)
+- [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_09b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_09b.jpg)
+- [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_10b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_10b.jpg)
+- [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_11b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_11b.jpg)
+- [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_12b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_12b.jpg)
+- [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_13b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_13b.jpg)
+- [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_14b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_14b.jpg)
+- [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_15b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_15b.jpg)
+- [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_16b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_16b.jpg)
+- [![](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/Thumbnails/kohteetlappipoyrisjarvi_17b.jpg)](/images/poyrisjarven-eramaa-alue-ulkoilukohteena/kohteetlappipoyrisjarvi_17b.jpg)
 
 </div>

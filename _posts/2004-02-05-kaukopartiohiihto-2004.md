@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Kaukopartiohiihto 5.2.2004" 
-categories: 
-tags: [hiihto,vaellus]
-toc: false 
-comments: true 
-ads: false 
+layout: article
+title: "Kaukopartiohiihto 5.2.2004"
+categories:
+tags: [hiihto, vaellus]
+toc: false
+comments: true
 ---
 
 [![](/images/kaukopartiohiihto-2004/kakepate2004_1b.jpg)](/images/kaukopartiohiihto-2004/kakepate2004_1b.jpg)Utti-Pajulahti
@@ -20,4 +19,3 @@ Yhdistystä tapahtumassa edustivat 150 km:n matkalla Jappe ja Sepe, 75
 km:n osuuksilla Arto, Ninnu, Tero ja Toni.
 
 [![](/images/kaukopartiohiihto-2004/kakepate2004_2b.jpg)](/images/kaukopartiohiihto-2004/kakepate2004_2b.jpg)  [![](/images/kaukopartiohiihto-2004/kakepate2004_3b.jpg)](/images/kaukopartiohiihto-2004/kakepate2004_3b.jpg)
-

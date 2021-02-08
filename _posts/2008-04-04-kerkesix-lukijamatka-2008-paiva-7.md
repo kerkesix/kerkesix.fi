@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Kerkesix lukijamatka 2008 Gran Canarialle - päivä 7" 
-categories: 
+layout: article
+title: "Kerkesix lukijamatka 2008 Gran Canarialle - päivä 7"
+categories:
 tags: [lukijamatka]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Paljon onnea ja niin edespäin kaikui laulu kun Emmi vietti synttäreitä.
@@ -24,18 +23,18 @@ jälleen Karaoken ihmeitä tekevän taian pariin ravintola Savoon.
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/kerkesix-lukijamatka-2008-paiva-7/Thumbnails/DSC_0828.JPG)](/images/kerkesix-lukijamatka-2008-paiva-7/DSC_0828.JPG)
--   [![](/images/kerkesix-lukijamatka-2008-paiva-7/Thumbnails/DSC_0838.JPG)](/images/kerkesix-lukijamatka-2008-paiva-7/DSC_0838.JPG)
--   [![](/images/kerkesix-lukijamatka-2008-paiva-7/Thumbnails/DSC_0845.JPG)](/images/kerkesix-lukijamatka-2008-paiva-7/DSC_0845.JPG)
--   [![](/images/kerkesix-lukijamatka-2008-paiva-7/Thumbnails/DSC_0858.JPG)](/images/kerkesix-lukijamatka-2008-paiva-7/DSC_0858.JPG)
--   [![](/images/kerkesix-lukijamatka-2008-paiva-7/Thumbnails/DSC_0860.JPG)](/images/kerkesix-lukijamatka-2008-paiva-7/DSC_0860.JPG)
--   [![](/images/kerkesix-lukijamatka-2008-paiva-7/Thumbnails/DSC_0884.JPG)](/images/kerkesix-lukijamatka-2008-paiva-7/DSC_0884.JPG)
--   [![](/images/kerkesix-lukijamatka-2008-paiva-7/Thumbnails/DSC_0914.JPG)](/images/kerkesix-lukijamatka-2008-paiva-7/DSC_0914.JPG)
--   [![](/images/kerkesix-lukijamatka-2008-paiva-7/Thumbnails/DSC_0923.JPG)](/images/kerkesix-lukijamatka-2008-paiva-7/DSC_0923.JPG)
--   [![](/images/kerkesix-lukijamatka-2008-paiva-7/Thumbnails/DSC_0942.JPG)](/images/kerkesix-lukijamatka-2008-paiva-7/DSC_0942.JPG)
--   [![](/images/kerkesix-lukijamatka-2008-paiva-7/Thumbnails/DSC_0966.JPG)](/images/kerkesix-lukijamatka-2008-paiva-7/DSC_0966.JPG)
--   [![](/images/kerkesix-lukijamatka-2008-paiva-7/Thumbnails/DSC_0979.JPG)](/images/kerkesix-lukijamatka-2008-paiva-7/DSC_0979.JPG)
--   [![](/images/kerkesix-lukijamatka-2008-paiva-7/Thumbnails/DSC_0981.JPG)](/images/kerkesix-lukijamatka-2008-paiva-7/DSC_0981.JPG)
--   [![](/images/kerkesix-lukijamatka-2008-paiva-7/Thumbnails/DSC_1005.JPG)](/images/kerkesix-lukijamatka-2008-paiva-7/DSC_1005.JPG)
+- [![](/images/kerkesix-lukijamatka-2008-paiva-7/Thumbnails/DSC_0828.JPG)](/images/kerkesix-lukijamatka-2008-paiva-7/DSC_0828.JPG)
+- [![](/images/kerkesix-lukijamatka-2008-paiva-7/Thumbnails/DSC_0838.JPG)](/images/kerkesix-lukijamatka-2008-paiva-7/DSC_0838.JPG)
+- [![](/images/kerkesix-lukijamatka-2008-paiva-7/Thumbnails/DSC_0845.JPG)](/images/kerkesix-lukijamatka-2008-paiva-7/DSC_0845.JPG)
+- [![](/images/kerkesix-lukijamatka-2008-paiva-7/Thumbnails/DSC_0858.JPG)](/images/kerkesix-lukijamatka-2008-paiva-7/DSC_0858.JPG)
+- [![](/images/kerkesix-lukijamatka-2008-paiva-7/Thumbnails/DSC_0860.JPG)](/images/kerkesix-lukijamatka-2008-paiva-7/DSC_0860.JPG)
+- [![](/images/kerkesix-lukijamatka-2008-paiva-7/Thumbnails/DSC_0884.JPG)](/images/kerkesix-lukijamatka-2008-paiva-7/DSC_0884.JPG)
+- [![](/images/kerkesix-lukijamatka-2008-paiva-7/Thumbnails/DSC_0914.JPG)](/images/kerkesix-lukijamatka-2008-paiva-7/DSC_0914.JPG)
+- [![](/images/kerkesix-lukijamatka-2008-paiva-7/Thumbnails/DSC_0923.JPG)](/images/kerkesix-lukijamatka-2008-paiva-7/DSC_0923.JPG)
+- [![](/images/kerkesix-lukijamatka-2008-paiva-7/Thumbnails/DSC_0942.JPG)](/images/kerkesix-lukijamatka-2008-paiva-7/DSC_0942.JPG)
+- [![](/images/kerkesix-lukijamatka-2008-paiva-7/Thumbnails/DSC_0966.JPG)](/images/kerkesix-lukijamatka-2008-paiva-7/DSC_0966.JPG)
+- [![](/images/kerkesix-lukijamatka-2008-paiva-7/Thumbnails/DSC_0979.JPG)](/images/kerkesix-lukijamatka-2008-paiva-7/DSC_0979.JPG)
+- [![](/images/kerkesix-lukijamatka-2008-paiva-7/Thumbnails/DSC_0981.JPG)](/images/kerkesix-lukijamatka-2008-paiva-7/DSC_0981.JPG)
+- [![](/images/kerkesix-lukijamatka-2008-paiva-7/Thumbnails/DSC_1005.JPG)](/images/kerkesix-lukijamatka-2008-paiva-7/DSC_1005.JPG)
 
 </div>

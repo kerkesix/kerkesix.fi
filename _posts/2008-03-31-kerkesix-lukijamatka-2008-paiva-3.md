@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Kerkesix lukijamatka 2008 Gran Canarialle - päivä 3" 
-categories: 
+layout: article
+title: "Kerkesix lukijamatka 2008 Gran Canarialle - päivä 3"
+categories:
 tags: [lukijamatka]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Aamu alkoi perinteisellä aamiaisella, joka sisälsi (huoneesta
@@ -29,22 +28,22 @@ Finnkaraokea...
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0355.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0355.JPG)
--   [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0356.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0356.JPG)
--   [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0365.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0365.JPG)
--   [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0371.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0371.JPG)
--   [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0379.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0379.JPG)
--   [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0385.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0385.JPG)
--   [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0388.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0388.JPG)
--   [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0402.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0402.JPG)
--   [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0403.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0403.JPG)
--   [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0404.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0404.JPG)
--   [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0417.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0417.JPG)
--   [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0423.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0423.JPG)
--   [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0464.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0464.JPG)
--   [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0487.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0487.JPG)
--   [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0491.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0491.JPG)
--   [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0494.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0494.JPG)
--   [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0508.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0508.JPG)
+- [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0355.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0355.JPG)
+- [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0356.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0356.JPG)
+- [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0365.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0365.JPG)
+- [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0371.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0371.JPG)
+- [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0379.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0379.JPG)
+- [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0385.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0385.JPG)
+- [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0388.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0388.JPG)
+- [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0402.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0402.JPG)
+- [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0403.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0403.JPG)
+- [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0404.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0404.JPG)
+- [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0417.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0417.JPG)
+- [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0423.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0423.JPG)
+- [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0464.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0464.JPG)
+- [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0487.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0487.JPG)
+- [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0491.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0491.JPG)
+- [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0494.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0494.JPG)
+- [![](/images/kerkesix-lukijamatka-2008-paiva-3/Thumbnails/DSC_0508.JPG)](/images/kerkesix-lukijamatka-2008-paiva-3/DSC_0508.JPG)
 
 </div>

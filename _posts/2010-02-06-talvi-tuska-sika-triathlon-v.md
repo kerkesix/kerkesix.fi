@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Talvi Tuska Sika Triathlon V - 6.2.2010" 
-categories: 
-tags: [pyöräily,retkiluistelu,juoksu,triathlon]
-toc: false 
-comments: true 
-ads: false 
+layout: article
+title: "Talvi Tuska Sika Triathlon V - 6.2.2010"
+categories:
+tags: [pyöräily, retkiluistelu, juoksu, triathlon]
+toc: false
+comments: true
 ---
 
 Aktiivisena kehonräkkäyksen kannattajana Pihvi oli järjestämässä
@@ -20,6 +19,4 @@ aktiviteetit sijoittuivat Uittamo - Kupittaa - Kaarina väliselle
 alueelle.
 
 Tapahtuma oli järjestetty täsmällisesti, kisan jälkeen uimahalli oli
-käytössä ja ruokaa oli tarjolla. Hiki tuli, mutta kivaa oli. 
-
-
+käytössä ja ruokaa oli tarjolla. Hiki tuli, mutta kivaa oli.

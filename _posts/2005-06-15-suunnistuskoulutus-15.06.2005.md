@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Suunnistuskoulutus 15.06.2005" 
-categories: 
+layout: article
+title: "Suunnistuskoulutus 15.06.2005"
+categories:
 tags: [suunnistus]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Suunnistuksen perusteita käytiin läpi jäsenille tarkoitetulla
@@ -36,9 +35,9 @@ kompassin käytöstä kuin myös reitinvalintatekniikasta.
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/suunnistuskoulutus-15.06.2005/Thumbnails/suunnistuskoulutus200500615_01b.jpg)](/images/suunnistuskoulutus-15.06.2005/suunnistuskoulutus200500615_01b.jpg)
--   [![](/images/suunnistuskoulutus-15.06.2005/Thumbnails/suunnistuskoulutus200500615_02b.jpg)](/images/suunnistuskoulutus-15.06.2005/suunnistuskoulutus200500615_02b.jpg)
--   [![](/images/suunnistuskoulutus-15.06.2005/Thumbnails/suunnistuskoulutus200500615_03b.jpg)](/images/suunnistuskoulutus-15.06.2005/suunnistuskoulutus200500615_03b.jpg)
--   [![](/images/suunnistuskoulutus-15.06.2005/Thumbnails/suunnistuskoulutus200500615_04b.jpg)](/images/suunnistuskoulutus-15.06.2005/suunnistuskoulutus200500615_04b.jpg)
+- [![](/images/suunnistuskoulutus-15.06.2005/Thumbnails/suunnistuskoulutus200500615_01b.jpg)](/images/suunnistuskoulutus-15.06.2005/suunnistuskoulutus200500615_01b.jpg)
+- [![](/images/suunnistuskoulutus-15.06.2005/Thumbnails/suunnistuskoulutus200500615_02b.jpg)](/images/suunnistuskoulutus-15.06.2005/suunnistuskoulutus200500615_02b.jpg)
+- [![](/images/suunnistuskoulutus-15.06.2005/Thumbnails/suunnistuskoulutus200500615_03b.jpg)](/images/suunnistuskoulutus-15.06.2005/suunnistuskoulutus200500615_03b.jpg)
+- [![](/images/suunnistuskoulutus-15.06.2005/Thumbnails/suunnistuskoulutus200500615_04b.jpg)](/images/suunnistuskoulutus-15.06.2005/suunnistuskoulutus200500615_04b.jpg)
 
 </div>

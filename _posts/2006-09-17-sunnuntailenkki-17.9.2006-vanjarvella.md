@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Sunnuntailenkki 17.9.2006 Vanjarvella" 
-categories: 
+layout: article
+title: "Sunnuntailenkki 17.9.2006 Vanjarvella"
+categories:
 tags: [juoksu]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Apo järjesti mallikkaasti Syyskauden ensimmäisen sunnuntailenkin uusilla
@@ -21,4 +20,3 @@ niin kannattaa tulla mukaan. Tapahtumat-osiosta löytyy kaikki sovitut
 sunnuntailenkit ja muutkin tapahtumat. Ideana on
 sunnuntai-iltapäivisin/iltaisin harrastaa rentouttavaa ulkoilua
 porukalla.
-

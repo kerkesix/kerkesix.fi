@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Artikkeli Sysimusta Satkusta viikkolehti Seeprassa" 
-categories: 
-tags: [satku,ksx-mediassa]
-toc: false 
-comments: true 
-ads: false 
+layout: article
+title: "Artikkeli Sysimusta Satkusta viikkolehti Seeprassa"
+categories:
+tags: [satku, ksx-mediassa]
+toc: false
+comments: true
 ---
 
 Artikkeli Sysimusta Satku IV:sta viikkolehti Seeprassa. Artikkelissa
@@ -19,4 +18,3 @@ ja [sivu
 2](/images/artikkeli-sysimusta-satkusta-viikkolehti-seeprassa/am100_2.pdf).
 Viikkolehti Seepra 1.11.2005. "Sysimusta Satku onnistui hyvin".
 Viikkolehti Seepra 25.10.2005.
-

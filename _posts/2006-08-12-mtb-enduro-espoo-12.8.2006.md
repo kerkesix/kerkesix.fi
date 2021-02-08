@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "MTB Enduro Espoo 12.8.2006" 
-categories: 
+layout: article
+title: "MTB Enduro Espoo 12.8.2006"
+categories:
 tags: [pyöräily]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Maastopyöräenduro toimii lähes samoin kuin moottorisoitu versiokin. On
@@ -24,9 +23,9 @@ Tapahtuma oli oivallisesti järjestetty ja aikataulu toimi minuutilleen.
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/mtb-enduro-espoo-12.8.2006/Thumbnails/peruskuntofillarienduro20060812_01b.jpg)](/images/mtb-enduro-espoo-12.8.2006/peruskuntofillarienduro20060812_01b.jpg)
--   [![](/images/mtb-enduro-espoo-12.8.2006/Thumbnails/peruskuntofillarienduro20060812_02b.jpg)](/images/mtb-enduro-espoo-12.8.2006/peruskuntofillarienduro20060812_02b.jpg)
--   [![](/images/mtb-enduro-espoo-12.8.2006/Thumbnails/peruskuntofillarienduro20060812_03b.jpg)](/images/mtb-enduro-espoo-12.8.2006/peruskuntofillarienduro20060812_03b.jpg)
--   [![](/images/mtb-enduro-espoo-12.8.2006/Thumbnails/peruskuntofillarienduro20060812_04b.jpg)](/images/mtb-enduro-espoo-12.8.2006/peruskuntofillarienduro20060812_04b.jpg)
+- [![](/images/mtb-enduro-espoo-12.8.2006/Thumbnails/peruskuntofillarienduro20060812_01b.jpg)](/images/mtb-enduro-espoo-12.8.2006/peruskuntofillarienduro20060812_01b.jpg)
+- [![](/images/mtb-enduro-espoo-12.8.2006/Thumbnails/peruskuntofillarienduro20060812_02b.jpg)](/images/mtb-enduro-espoo-12.8.2006/peruskuntofillarienduro20060812_02b.jpg)
+- [![](/images/mtb-enduro-espoo-12.8.2006/Thumbnails/peruskuntofillarienduro20060812_03b.jpg)](/images/mtb-enduro-espoo-12.8.2006/peruskuntofillarienduro20060812_03b.jpg)
+- [![](/images/mtb-enduro-espoo-12.8.2006/Thumbnails/peruskuntofillarienduro20060812_04b.jpg)](/images/mtb-enduro-espoo-12.8.2006/peruskuntofillarienduro20060812_04b.jpg)
 
 </div>

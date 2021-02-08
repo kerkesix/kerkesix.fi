@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Jääkiipeily Valkealassa 25.3.2005" 
-categories: 
+layout: article
+title: "Jääkiipeily Valkealassa 25.3.2005"
+categories:
 tags: [kiipeily]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Stadisentrisen käsityksen rikkomiseksi Kerkesix järjesti jääkiipeilyä
@@ -26,13 +25,13 @@ odotellessa...
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/jaakiipeilya-valkeassa-25.3.2005/Thumbnails/1.JPG)](/images/jaakiipeilya-valkeassa-25.3.2005/1.JPG)
--   [![](/images/jaakiipeilya-valkeassa-25.3.2005/Thumbnails/2.JPG)](/images/jaakiipeilya-valkeassa-25.3.2005/2.JPG)
--   [![](/images/jaakiipeilya-valkeassa-25.3.2005/Thumbnails/3.jpg)](/images/jaakiipeilya-valkeassa-25.3.2005/3.jpg)
--   [![](/images/jaakiipeilya-valkeassa-25.3.2005/Thumbnails/4.jpg)](/images/jaakiipeilya-valkeassa-25.3.2005/4.jpg)
--   [![](/images/jaakiipeilya-valkeassa-25.3.2005/Thumbnails/5.jpg)](/images/jaakiipeilya-valkeassa-25.3.2005/5.jpg)
--   [![](/images/jaakiipeilya-valkeassa-25.3.2005/Thumbnails/6.JPG)](/images/jaakiipeilya-valkeassa-25.3.2005/6.JPG)
--   [![](/images/jaakiipeilya-valkeassa-25.3.2005/Thumbnails/7.JPG)](/images/jaakiipeilya-valkeassa-25.3.2005/7.JPG)
--   [![](/images/jaakiipeilya-valkeassa-25.3.2005/Thumbnails/8.jpg)](/images/jaakiipeilya-valkeassa-25.3.2005/8.jpg)
+- [![](/images/jaakiipeilya-valkeassa-25.3.2005/Thumbnails/1.JPG)](/images/jaakiipeilya-valkeassa-25.3.2005/1.JPG)
+- [![](/images/jaakiipeilya-valkeassa-25.3.2005/Thumbnails/2.JPG)](/images/jaakiipeilya-valkeassa-25.3.2005/2.JPG)
+- [![](/images/jaakiipeilya-valkeassa-25.3.2005/Thumbnails/3.jpg)](/images/jaakiipeilya-valkeassa-25.3.2005/3.jpg)
+- [![](/images/jaakiipeilya-valkeassa-25.3.2005/Thumbnails/4.jpg)](/images/jaakiipeilya-valkeassa-25.3.2005/4.jpg)
+- [![](/images/jaakiipeilya-valkeassa-25.3.2005/Thumbnails/5.jpg)](/images/jaakiipeilya-valkeassa-25.3.2005/5.jpg)
+- [![](/images/jaakiipeilya-valkeassa-25.3.2005/Thumbnails/6.JPG)](/images/jaakiipeilya-valkeassa-25.3.2005/6.JPG)
+- [![](/images/jaakiipeilya-valkeassa-25.3.2005/Thumbnails/7.JPG)](/images/jaakiipeilya-valkeassa-25.3.2005/7.JPG)
+- [![](/images/jaakiipeilya-valkeassa-25.3.2005/Thumbnails/8.jpg)](/images/jaakiipeilya-valkeassa-25.3.2005/8.jpg)
 
 </div>

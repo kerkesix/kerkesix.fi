@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Sysimusta Satku VII - 25.10.2008" 
-categories: 
+layout: article
+title: "Sysimusta Satku VII - 25.10.2008"
+categories:
 tags: [satku]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 "Kroppa aivan hajalla, mieli korkealla. Osaa taas arvostaa arjen
@@ -88,74 +87,74 @@ kertakaikkisen lempeä. Tuuli oli kyllä voimakas ja sai aukeilla
 paikoilla ilman tuntumaan silloin tällöin viileähköltä. Ilmavirta yltyi
 yön ja aamun aikana jopa niin voimakkaaksi, että siitä suivaantuneena
 yksi vanhahko kuusi päätti päivänsä heittäytymällä tien poikki
-aiheuttaen huollolle kohtuullisen kiertoajelun. 
+aiheuttaen huollolle kohtuullisen kiertoajelun.
 
 Tänä vuonna Sysimustalle Satkulle lähti 56 innokasta, joista 50% saapui
 kävellen Pirttimäkeen.
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20001.jpg)](/images/sysimusta-satku-7/Satku%20VII%20001.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20003.jpg)](/images/sysimusta-satku-7/Satku%20VII%20003.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20005.jpg)](/images/sysimusta-satku-7/Satku%20VII%20005.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20014.jpg)](/images/sysimusta-satku-7/Satku%20VII%20014.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20022.jpg)](/images/sysimusta-satku-7/Satku%20VII%20022.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20025.jpg)](/images/sysimusta-satku-7/Satku%20VII%20025.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20026.jpg)](/images/sysimusta-satku-7/Satku%20VII%20026.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20032.jpg)](/images/sysimusta-satku-7/Satku%20VII%20032.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20041.jpg)](/images/sysimusta-satku-7/Satku%20VII%20041.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20045.jpg)](/images/sysimusta-satku-7/Satku%20VII%20045.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20052.jpg)](/images/sysimusta-satku-7/Satku%20VII%20052.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20055.jpg)](/images/sysimusta-satku-7/Satku%20VII%20055.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20058.jpg)](/images/sysimusta-satku-7/Satku%20VII%20058.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20060.jpg)](/images/sysimusta-satku-7/Satku%20VII%20060.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20064.jpg)](/images/sysimusta-satku-7/Satku%20VII%20064.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20070.jpg)](/images/sysimusta-satku-7/Satku%20VII%20070.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20075.jpg)](/images/sysimusta-satku-7/Satku%20VII%20075.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20076.jpg)](/images/sysimusta-satku-7/Satku%20VII%20076.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20078.jpg)](/images/sysimusta-satku-7/Satku%20VII%20078.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20080.jpg)](/images/sysimusta-satku-7/Satku%20VII%20080.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20082.jpg)](/images/sysimusta-satku-7/Satku%20VII%20082.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20083.jpg)](/images/sysimusta-satku-7/Satku%20VII%20083.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20089.jpg)](/images/sysimusta-satku-7/Satku%20VII%20089.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20090.jpg)](/images/sysimusta-satku-7/Satku%20VII%20090.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20094.jpg)](/images/sysimusta-satku-7/Satku%20VII%20094.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20095.jpg)](/images/sysimusta-satku-7/Satku%20VII%20095.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20104.jpg)](/images/sysimusta-satku-7/Satku%20VII%20104.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20105.jpg)](/images/sysimusta-satku-7/Satku%20VII%20105.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20109.jpg)](/images/sysimusta-satku-7/Satku%20VII%20109.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20116.jpg)](/images/sysimusta-satku-7/Satku%20VII%20116.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20120.jpg)](/images/sysimusta-satku-7/Satku%20VII%20120.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20123.jpg)](/images/sysimusta-satku-7/Satku%20VII%20123.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20125.jpg)](/images/sysimusta-satku-7/Satku%20VII%20125.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20127.jpg)](/images/sysimusta-satku-7/Satku%20VII%20127.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20129.jpg)](/images/sysimusta-satku-7/Satku%20VII%20129.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20134.jpg)](/images/sysimusta-satku-7/Satku%20VII%20134.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20138.jpg)](/images/sysimusta-satku-7/Satku%20VII%20138.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20139.jpg)](/images/sysimusta-satku-7/Satku%20VII%20139.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20141.jpg)](/images/sysimusta-satku-7/Satku%20VII%20141.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20142.jpg)](/images/sysimusta-satku-7/Satku%20VII%20142.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20145.jpg)](/images/sysimusta-satku-7/Satku%20VII%20145.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20154.jpg)](/images/sysimusta-satku-7/Satku%20VII%20154.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20157.jpg)](/images/sysimusta-satku-7/Satku%20VII%20157.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20158.jpg)](/images/sysimusta-satku-7/Satku%20VII%20158.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20159.jpg)](/images/sysimusta-satku-7/Satku%20VII%20159.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20160.jpg)](/images/sysimusta-satku-7/Satku%20VII%20160.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20163.jpg)](/images/sysimusta-satku-7/Satku%20VII%20163.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20167.jpg)](/images/sysimusta-satku-7/Satku%20VII%20167.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20172.jpg)](/images/sysimusta-satku-7/Satku%20VII%20172.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20173.jpg)](/images/sysimusta-satku-7/Satku%20VII%20173.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20178.jpg)](/images/sysimusta-satku-7/Satku%20VII%20178.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20179.jpg)](/images/sysimusta-satku-7/Satku%20VII%20179.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20183.jpg)](/images/sysimusta-satku-7/Satku%20VII%20183.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20185.jpg)](/images/sysimusta-satku-7/Satku%20VII%20185.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20187.jpg)](/images/sysimusta-satku-7/Satku%20VII%20187.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20190.jpg)](/images/sysimusta-satku-7/Satku%20VII%20190.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20195.jpg)](/images/sysimusta-satku-7/Satku%20VII%20195.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20199.jpg)](/images/sysimusta-satku-7/Satku%20VII%20199.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20201.jpg)](/images/sysimusta-satku-7/Satku%20VII%20201.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20206.jpg)](/images/sysimusta-satku-7/Satku%20VII%20206.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20210.jpg)](/images/sysimusta-satku-7/Satku%20VII%20210.jpg)
--   [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20213.jpg)](/images/sysimusta-satku-7/Satku%20VII%20213.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20001.jpg)](/images/sysimusta-satku-7/Satku%20VII%20001.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20003.jpg)](/images/sysimusta-satku-7/Satku%20VII%20003.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20005.jpg)](/images/sysimusta-satku-7/Satku%20VII%20005.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20014.jpg)](/images/sysimusta-satku-7/Satku%20VII%20014.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20022.jpg)](/images/sysimusta-satku-7/Satku%20VII%20022.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20025.jpg)](/images/sysimusta-satku-7/Satku%20VII%20025.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20026.jpg)](/images/sysimusta-satku-7/Satku%20VII%20026.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20032.jpg)](/images/sysimusta-satku-7/Satku%20VII%20032.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20041.jpg)](/images/sysimusta-satku-7/Satku%20VII%20041.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20045.jpg)](/images/sysimusta-satku-7/Satku%20VII%20045.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20052.jpg)](/images/sysimusta-satku-7/Satku%20VII%20052.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20055.jpg)](/images/sysimusta-satku-7/Satku%20VII%20055.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20058.jpg)](/images/sysimusta-satku-7/Satku%20VII%20058.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20060.jpg)](/images/sysimusta-satku-7/Satku%20VII%20060.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20064.jpg)](/images/sysimusta-satku-7/Satku%20VII%20064.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20070.jpg)](/images/sysimusta-satku-7/Satku%20VII%20070.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20075.jpg)](/images/sysimusta-satku-7/Satku%20VII%20075.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20076.jpg)](/images/sysimusta-satku-7/Satku%20VII%20076.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20078.jpg)](/images/sysimusta-satku-7/Satku%20VII%20078.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20080.jpg)](/images/sysimusta-satku-7/Satku%20VII%20080.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20082.jpg)](/images/sysimusta-satku-7/Satku%20VII%20082.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20083.jpg)](/images/sysimusta-satku-7/Satku%20VII%20083.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20089.jpg)](/images/sysimusta-satku-7/Satku%20VII%20089.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20090.jpg)](/images/sysimusta-satku-7/Satku%20VII%20090.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20094.jpg)](/images/sysimusta-satku-7/Satku%20VII%20094.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20095.jpg)](/images/sysimusta-satku-7/Satku%20VII%20095.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20104.jpg)](/images/sysimusta-satku-7/Satku%20VII%20104.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20105.jpg)](/images/sysimusta-satku-7/Satku%20VII%20105.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20109.jpg)](/images/sysimusta-satku-7/Satku%20VII%20109.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20116.jpg)](/images/sysimusta-satku-7/Satku%20VII%20116.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20120.jpg)](/images/sysimusta-satku-7/Satku%20VII%20120.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20123.jpg)](/images/sysimusta-satku-7/Satku%20VII%20123.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20125.jpg)](/images/sysimusta-satku-7/Satku%20VII%20125.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20127.jpg)](/images/sysimusta-satku-7/Satku%20VII%20127.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20129.jpg)](/images/sysimusta-satku-7/Satku%20VII%20129.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20134.jpg)](/images/sysimusta-satku-7/Satku%20VII%20134.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20138.jpg)](/images/sysimusta-satku-7/Satku%20VII%20138.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20139.jpg)](/images/sysimusta-satku-7/Satku%20VII%20139.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20141.jpg)](/images/sysimusta-satku-7/Satku%20VII%20141.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20142.jpg)](/images/sysimusta-satku-7/Satku%20VII%20142.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20145.jpg)](/images/sysimusta-satku-7/Satku%20VII%20145.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20154.jpg)](/images/sysimusta-satku-7/Satku%20VII%20154.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20157.jpg)](/images/sysimusta-satku-7/Satku%20VII%20157.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20158.jpg)](/images/sysimusta-satku-7/Satku%20VII%20158.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20159.jpg)](/images/sysimusta-satku-7/Satku%20VII%20159.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20160.jpg)](/images/sysimusta-satku-7/Satku%20VII%20160.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20163.jpg)](/images/sysimusta-satku-7/Satku%20VII%20163.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20167.jpg)](/images/sysimusta-satku-7/Satku%20VII%20167.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20172.jpg)](/images/sysimusta-satku-7/Satku%20VII%20172.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20173.jpg)](/images/sysimusta-satku-7/Satku%20VII%20173.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20178.jpg)](/images/sysimusta-satku-7/Satku%20VII%20178.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20179.jpg)](/images/sysimusta-satku-7/Satku%20VII%20179.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20183.jpg)](/images/sysimusta-satku-7/Satku%20VII%20183.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20185.jpg)](/images/sysimusta-satku-7/Satku%20VII%20185.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20187.jpg)](/images/sysimusta-satku-7/Satku%20VII%20187.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20190.jpg)](/images/sysimusta-satku-7/Satku%20VII%20190.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20195.jpg)](/images/sysimusta-satku-7/Satku%20VII%20195.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20199.jpg)](/images/sysimusta-satku-7/Satku%20VII%20199.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20201.jpg)](/images/sysimusta-satku-7/Satku%20VII%20201.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20206.jpg)](/images/sysimusta-satku-7/Satku%20VII%20206.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20210.jpg)](/images/sysimusta-satku-7/Satku%20VII%20210.jpg)
+- [![](/images/sysimusta-satku-7/Thumbnails/Satku%20VII%20213.jpg)](/images/sysimusta-satku-7/Satku%20VII%20213.jpg)
 
 </div>

@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Kalliokiipeily Jaanankalliolla 27.05.2005" 
-categories: 
+layout: article
+title: "Kalliokiipeily Jaanankalliolla 27.05.2005"
+categories:
 tags: [kiipeily]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Kerkesixin kiipeilydivisioona järjesti kalliokiipeilysession
@@ -25,9 +24,9 @@ slingivarmistus).
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/kalliokiipeily-jaanankalliolla-27.05.2005/Thumbnails/kiipeilykalliolla20050527_01b.jpg)](/images/kalliokiipeily-jaanankalliolla-27.05.2005/kiipeilykalliolla20050527_01b.jpg)
--   [![](/images/kalliokiipeily-jaanankalliolla-27.05.2005/Thumbnails/kiipeilykalliolla20050527_02b.jpg)](/images/kalliokiipeily-jaanankalliolla-27.05.2005/kiipeilykalliolla20050527_02b.jpg)
--   [![](/images/kalliokiipeily-jaanankalliolla-27.05.2005/Thumbnails/kiipeilykalliolla20050527_03b.jpg)](/images/kalliokiipeily-jaanankalliolla-27.05.2005/kiipeilykalliolla20050527_03b.jpg)
--   [![](/images/kalliokiipeily-jaanankalliolla-27.05.2005/Thumbnails/kiipeilykalliolla20050527_04b.jpg)](/images/kalliokiipeily-jaanankalliolla-27.05.2005/kiipeilykalliolla20050527_04b.jpg)
+- [![](/images/kalliokiipeily-jaanankalliolla-27.05.2005/Thumbnails/kiipeilykalliolla20050527_01b.jpg)](/images/kalliokiipeily-jaanankalliolla-27.05.2005/kiipeilykalliolla20050527_01b.jpg)
+- [![](/images/kalliokiipeily-jaanankalliolla-27.05.2005/Thumbnails/kiipeilykalliolla20050527_02b.jpg)](/images/kalliokiipeily-jaanankalliolla-27.05.2005/kiipeilykalliolla20050527_02b.jpg)
+- [![](/images/kalliokiipeily-jaanankalliolla-27.05.2005/Thumbnails/kiipeilykalliolla20050527_03b.jpg)](/images/kalliokiipeily-jaanankalliolla-27.05.2005/kiipeilykalliolla20050527_03b.jpg)
+- [![](/images/kalliokiipeily-jaanankalliolla-27.05.2005/Thumbnails/kiipeilykalliolla20050527_04b.jpg)](/images/kalliokiipeily-jaanankalliolla-27.05.2005/kiipeilykalliolla20050527_04b.jpg)
 
 </div>

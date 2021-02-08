@@ -5,17 +5,14 @@ permalink: /sysimusta-satku-ohje/
 tags: [satku]
 toc: true
 comments: false
-ads: false
 ---
 
-Ohjeita, mihin?
----------------
+## Ohjeita, mihin?
 
 Sysimusta Satku on siis pitkähkö yhtäjaksoinen vaellussuoritus. Näitä
 ohjeita voi soveltaa myös muihin pitkiin jaloilla tehtäviin marsseihin.
 
-Miten valmistautua?
--------------------
+## Miten valmistautua?
 
 Tapahtumaa edeltävän viikon aikana syö, juo ja lepää riittävästi. Hyvän
 ja onnistuneen suorituksen mahdollisuus on todennäköisempi, kun elimistö
@@ -32,8 +29,7 @@ Satkua. Tämä operaatio on syytä suorittaa hyvissä ajoin (noin viikko
 ennen suoritusta), jottei ärtynyt iho ja parin päivän sänki aiheuta
 suurempaa vahinkoa.
 
-Minkälaiset varusteet?
-----------------------
+## Minkälaiset varusteet?
 
 Vaatetus kannattaa olla kevyt ja säähän soveltuva. Vuodenaika huomioiden
 on hyvä varautua monenlaiseen keliin. Lämpötila voi vaihdella jopa
@@ -77,8 +73,7 @@ Jos kovasti askarruttaa tämä varustepuoli, niin
 [esimerkinomainen varustelista](/sysimusta-satku-varustelistaesimerkki) saattaa
 auttaa ensihätään.
 
-Entäpä ruoka ja juoma?
-----------------------
+## Entäpä ruoka ja juoma?
 
 Sysimusta Satku on huollettu tapahtuma ja tapahtuman aikana huolto
 tarjoaa vettä juomaksi. Tämän lisäksi voi jokainen osallistuja pakata
@@ -94,8 +89,7 @@ suuriin kokkausoperaatioihin ei ole tarvetta, mutta eväiden popsiminen
 matkan aikana on yhtälailla energiansaannin kuin mielenvirkeyden
 kannalta oleellista.
 
-Yleistä turvallisuudesta
-------------------------
+## Yleistä turvallisuudesta
 
 Satkuilijoiden tulee kulkea vähintään kahden hengen ryhmissä, ja
 jokaisella osallistujalla on oltava matkapuhelin ja tapahtuman johdon
@@ -113,16 +107,15 @@ Huoltolaatikkoon kannattaakin varata lämmintä, kuivaa vaatetta jonka voi
 pukea päälle keskeyttäessä. Odotusta saattaa kestää parikin tuntia ennen
 kuin huoltoauto kuljettaa keskeyttäneen kävelijän lämpimään lepäämään.
 
-Pakolliset varusteet
---------------------
+## Pakolliset varusteet
 
 Jokaisella osallistujalla on oltava seuraava pakollinen varustus mukana:
 
--   Heijastinliivi
--   valaisin
--   matkapuhelin virtalähde täynnä ja päällä
--   kartta ja reittiohje (tapahtuman järjestäjiltä)
--   huollon yhteystiedot (tapahtuman järjestäjiltä).
+- Heijastinliivi
+- valaisin
+- matkapuhelin virtalähde täynnä ja päällä
+- kartta ja reittiohje (tapahtuman järjestäjiltä)
+- huollon yhteystiedot (tapahtuman järjestäjiltä).
 
 Muu varustus on enemmän tai vähemmän hyödyllistä, mutta aikaisempien
 kokemusten perusteella

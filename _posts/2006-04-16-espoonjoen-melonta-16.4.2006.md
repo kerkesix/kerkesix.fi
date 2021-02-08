@@ -5,7 +5,6 @@ categories:
 tags: [melonta]
 toc: false
 comments: true
-ads: false
 ---
 
 [Espoonjoki](http://koti.mbnet.fi/ugo/espoonkuvat/joki.html) on
@@ -21,7 +20,7 @@ mutkittelevaa ja viehättävää metsämaastoa ja Glimsjoki tarjosi
 lehtipuiden reunustamia peltoja ja kosteikkoja.
 
 Lähtöpaikka sijaitsi [Espoon
-pitkäjärven](https://fi.wikipedia.org/wiki/Pitk%C3%A4j%C3%A4rvi_(Espoo))
+pitkäjärven](<https://fi.wikipedia.org/wiki/Pitk%C3%A4j%C3%A4rvi_(Espoo)>)
 lounaispäässä, josta Kvarnbyån alkaa virrata. Heti alkuun meloimme läpi
 [Träskändan
 kartanon](http://fi.wikipedia.org/wiki/Tr%C3%A4sk%C3%A4ndan_kartano) puiston.
@@ -93,23 +92,23 @@ Kerkesix melontakausi 2006 on avattu.
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_01b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_01b.jpg)
--   [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_02b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_02b.jpg)
--   [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_03b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_03b.jpg)
--   [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_04b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_04b.jpg)
--   [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_05b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_05b.jpg)
--   [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_06b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_06b.jpg)
--   [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_07b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_07b.jpg)
--   [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_08b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_08b.jpg)
--   [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_09b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_09b.jpg)
--   [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_10b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_10b.jpg)
--   [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_11b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_11b.jpg)
--   [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_12b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_12b.jpg)
--   [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_13b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_13b.jpg)
--   [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_14b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_14b.jpg)
--   [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_15b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_15b.jpg)
--   [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_16b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_16b.jpg)
--   [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_17b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_17b.jpg)
--   [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_18b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_18b.jpg)
+- [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_01b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_01b.jpg)
+- [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_02b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_02b.jpg)
+- [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_03b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_03b.jpg)
+- [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_04b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_04b.jpg)
+- [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_05b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_05b.jpg)
+- [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_06b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_06b.jpg)
+- [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_07b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_07b.jpg)
+- [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_08b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_08b.jpg)
+- [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_09b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_09b.jpg)
+- [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_10b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_10b.jpg)
+- [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_11b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_11b.jpg)
+- [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_12b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_12b.jpg)
+- [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_13b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_13b.jpg)
+- [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_14b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_14b.jpg)
+- [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_15b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_15b.jpg)
+- [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_16b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_16b.jpg)
+- [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_17b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_17b.jpg)
+- [![](/images/espoonjoen-melonta-16.4.2006/Thumbnails/melontaespoonjoki20060416_18b.jpg)](/images/espoonjoen-melonta-16.4.2006/melontaespoonjoki20060416_18b.jpg)
 
 </div>

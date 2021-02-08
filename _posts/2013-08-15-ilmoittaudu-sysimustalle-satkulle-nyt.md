@@ -5,7 +5,6 @@ categories:
 tags: [satku]
 toc: false
 comments: true
-ads: false
 ---
 
 <http://satku.kerkesix.fi/registration>

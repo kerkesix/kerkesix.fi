@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Linnun jalkarengas museolle." 
-categories: 
-tags: [melonta,saaristo]
-toc: false 
-comments: true 
-ads: false 
+layout: article
+title: "Linnun jalkarengas museolle."
+categories:
+tags: [melonta, saaristo]
+toc: false
+comments: true
 ---
 
 28-29.5 järjestetyn melontaretken yhteydessä löydettiin majoituspaikan
@@ -25,4 +24,3 @@ linnusta jo paljon enemmän. Haahkanaaras oli rengastettu vuosi sitten
 kahden kilometrin päässä löytöpaikalta. Kyseessä oli ennen vuotta 2003
 syntynyt, terve, pesivä naaras. Eli hyväksi havaittu pesintäympäristö
 houkutti vuodesta toiseen takaisin.
-

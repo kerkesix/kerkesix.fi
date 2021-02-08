@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Köysitreeni Käärmekalliolla 29.10.2004" 
-categories: 
+layout: article
+title: "Köysitreeni Käärmekalliolla 29.10.2004"
+categories:
 tags: [kiipeily]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Kerkesix Ry:n kiipeilyjaosto järjesti toimeliaan kiipeily- ja
@@ -36,17 +35,17 @@ useita kuukaudessa.
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/koysitreeni-kaarmekalliolla-29.10.2004/Thumbnails/kalliolla%20002.jpg)](/images/koysitreeni-kaarmekalliolla-29.10.2004/kalliolla%20002.jpg)
--   [![](/images/koysitreeni-kaarmekalliolla-29.10.2004/Thumbnails/kalliolla%20003.jpg)](/images/koysitreeni-kaarmekalliolla-29.10.2004/kalliolla%20003.jpg)
--   [![](/images/koysitreeni-kaarmekalliolla-29.10.2004/Thumbnails/kalliolla%20004.jpg)](/images/koysitreeni-kaarmekalliolla-29.10.2004/kalliolla%20004.jpg)
--   [![](/images/koysitreeni-kaarmekalliolla-29.10.2004/Thumbnails/kalliolla%20005.jpg)](/images/koysitreeni-kaarmekalliolla-29.10.2004/kalliolla%20005.jpg)
--   [![](/images/koysitreeni-kaarmekalliolla-29.10.2004/Thumbnails/kalliolla%20006.jpg)](/images/koysitreeni-kaarmekalliolla-29.10.2004/kalliolla%20006.jpg)
--   [![](/images/koysitreeni-kaarmekalliolla-29.10.2004/Thumbnails/kalliolla%20010.jpg)](/images/koysitreeni-kaarmekalliolla-29.10.2004/kalliolla%20010.jpg)
--   [![](/images/koysitreeni-kaarmekalliolla-29.10.2004/Thumbnails/kalliolla%20011.jpg)](/images/koysitreeni-kaarmekalliolla-29.10.2004/kalliolla%20011.jpg)
--   [![](/images/koysitreeni-kaarmekalliolla-29.10.2004/Thumbnails/kalliolla%20023.jpg)](/images/koysitreeni-kaarmekalliolla-29.10.2004/kalliolla%20023.jpg)
--   [![](/images/koysitreeni-kaarmekalliolla-29.10.2004/Thumbnails/kalliolla%20032.jpg)](/images/koysitreeni-kaarmekalliolla-29.10.2004/kalliolla%20032.jpg)
--   [![](/images/koysitreeni-kaarmekalliolla-29.10.2004/Thumbnails/kalliolla%20036.jpg)](/images/koysitreeni-kaarmekalliolla-29.10.2004/kalliolla%20036.jpg)
--   [![](/images/koysitreeni-kaarmekalliolla-29.10.2004/Thumbnails/kalliolla%20039.jpg)](/images/koysitreeni-kaarmekalliolla-29.10.2004/kalliolla%20039.jpg)
--   [![](/images/koysitreeni-kaarmekalliolla-29.10.2004/Thumbnails/kalliolla%20044.jpg)](/images/koysitreeni-kaarmekalliolla-29.10.2004/kalliolla%20044.jpg)
+- [![](/images/koysitreeni-kaarmekalliolla-29.10.2004/Thumbnails/kalliolla%20002.jpg)](/images/koysitreeni-kaarmekalliolla-29.10.2004/kalliolla%20002.jpg)
+- [![](/images/koysitreeni-kaarmekalliolla-29.10.2004/Thumbnails/kalliolla%20003.jpg)](/images/koysitreeni-kaarmekalliolla-29.10.2004/kalliolla%20003.jpg)
+- [![](/images/koysitreeni-kaarmekalliolla-29.10.2004/Thumbnails/kalliolla%20004.jpg)](/images/koysitreeni-kaarmekalliolla-29.10.2004/kalliolla%20004.jpg)
+- [![](/images/koysitreeni-kaarmekalliolla-29.10.2004/Thumbnails/kalliolla%20005.jpg)](/images/koysitreeni-kaarmekalliolla-29.10.2004/kalliolla%20005.jpg)
+- [![](/images/koysitreeni-kaarmekalliolla-29.10.2004/Thumbnails/kalliolla%20006.jpg)](/images/koysitreeni-kaarmekalliolla-29.10.2004/kalliolla%20006.jpg)
+- [![](/images/koysitreeni-kaarmekalliolla-29.10.2004/Thumbnails/kalliolla%20010.jpg)](/images/koysitreeni-kaarmekalliolla-29.10.2004/kalliolla%20010.jpg)
+- [![](/images/koysitreeni-kaarmekalliolla-29.10.2004/Thumbnails/kalliolla%20011.jpg)](/images/koysitreeni-kaarmekalliolla-29.10.2004/kalliolla%20011.jpg)
+- [![](/images/koysitreeni-kaarmekalliolla-29.10.2004/Thumbnails/kalliolla%20023.jpg)](/images/koysitreeni-kaarmekalliolla-29.10.2004/kalliolla%20023.jpg)
+- [![](/images/koysitreeni-kaarmekalliolla-29.10.2004/Thumbnails/kalliolla%20032.jpg)](/images/koysitreeni-kaarmekalliolla-29.10.2004/kalliolla%20032.jpg)
+- [![](/images/koysitreeni-kaarmekalliolla-29.10.2004/Thumbnails/kalliolla%20036.jpg)](/images/koysitreeni-kaarmekalliolla-29.10.2004/kalliolla%20036.jpg)
+- [![](/images/koysitreeni-kaarmekalliolla-29.10.2004/Thumbnails/kalliolla%20039.jpg)](/images/koysitreeni-kaarmekalliolla-29.10.2004/kalliolla%20039.jpg)
+- [![](/images/koysitreeni-kaarmekalliolla-29.10.2004/Thumbnails/kalliolla%20044.jpg)](/images/koysitreeni-kaarmekalliolla-29.10.2004/kalliolla%20044.jpg)
 
 </div>

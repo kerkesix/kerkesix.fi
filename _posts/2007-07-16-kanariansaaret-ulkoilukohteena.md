@@ -5,7 +5,6 @@ categories:
 tags: [ulkoilukohteet]
 toc: false
 comments: true
-ads: false
 author: tipu
 published: false
 ---

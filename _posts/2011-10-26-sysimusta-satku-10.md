@@ -1,18 +1,17 @@
 ---
-layout: article 
-title: "Sysimusta Satku X - 22.10.2011" 
-categories: 
+layout: article
+title: "Sysimusta Satku X - 22.10.2011"
+categories:
 tags: [satku]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Kymmenes Sysimusta Satku käveltiin säässä kuivassa ja selkeässä säässä.
 No välillä oli vähän pimeää, mutta muuten oikein selkeää. Vaikka
 erilaiset sairaudet ja urheiluvammat jaloissa sekä korvien välissä
 kaatoivat kävelijöitä ennätysmäärän aivan viimemetreillä, lähti 47
-innokasta kävelijää matkaan lauantaina kello 14.28 Portaan kylältä. 
+innokasta kävelijää matkaan lauantaina kello 14.28 Portaan kylältä.
 
 Jo viime vuonna oli Satkulla otettu käyttöön sähköinen
 seurantajärjestelmä ja tänä vuonna se saatiin entistä parempaan
@@ -22,7 +21,7 @@ ominaisuutta käytettiinkin kiitettävästi. Vuorovaikutteista oli
 visertelyn mahdollisuus Twitterin kautta. Matkalta saatiin tuntoja otka
 välittyivät netin kautta kaikille kiinnostuneille.
 
-47 kävelijää lähti liikkeelle ja 26 kulki omin jaloin Pirttimäkeen. 
+47 kävelijää lähti liikkeelle ja 26 kulki omin jaloin Pirttimäkeen.
 
 \*  \*  \*  \*  \*  \*
 
@@ -67,7 +66,7 @@ ei tarvitse nukkua... \#kerkesix\
 
 Kunnon tankkaus peksu&munat niin jaksaa huoltaa ja kantaa lihavampiakin
 @JappeAho kävelijöitä ;) \#kerkesix Kohta nokka kohti Pirttimäkeä.\
-anttimerilainen 
+anttimerilainen
 
 bussikuljetus kävelyn aloitukseen menossa! \#kerkesix\
 JappeAho
@@ -82,7 +81,7 @@ Matkalla strattiin. \#kerkesix\
 SuviPellikka
 
 Startti! \#kerkesix\
-anttimerilainen 
+anttimerilainen
 
 Yritin just laittaa Nokialaisen navigaattoriin Kunnarlantietä. Vastaus
 oli tyly: "reitti on liian pitkä kävelytilaan..." Great. \#kerkesix\
@@ -97,7 +96,7 @@ JappeAho
 
 RT “@alexstubb: @anttimerilainen Wau, kuullostaa mahtavalta! Go
 Sysimustasatku Go!” \#kerkesix\
-anttimerilainen 
+anttimerilainen
 
 Sysimusta Satku: kaikki kävelijät lähteneet Pilpalan huoltopisteeltä.
 Aika hypätä pyörän selkään. bit.ly/phswXe \#kerkesix\
@@ -129,7 +128,7 @@ lalat.... \#kerkesix\
 JappeAho
 
 Vihti ready! Tulkaa jo! \#kerkesix\
-anttimerilainen 
+anttimerilainen
 
 Sysimustan seurantapalvelimen piirakkagraafi korjattu. Alkaa pikku
 hiljaa näyttämään graafit myös punaista satku.kerkesix.fi \#kerkesix\
@@ -172,7 +171,7 @@ hyvin orkanisoidusta tapahtumasta ja kannustuksesta. \#kerkesix\
 TuomasSarasin
 
 Vikat maalissa klo 12.00! \#kerkesix eli 21h 33 min.\
-anttimerilainen 
+anttimerilainen
 
 \#kerkesix Kiitokset!!! Rakkoja 0 :) Rautakangetkin joustaa enemmän ku
 mun jalat :) t.Mikko\<\
@@ -180,33 +179,33 @@ mikkoim
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/sysimusta-satku-10/Thumbnails/graafit.jpg)](/images/sysimusta-satku-10/graafit.jpg)
--   [![](/images/sysimusta-satku-10/Thumbnails/satku10%20001.JPG)](/images/sysimusta-satku-10/satku10%20001.JPG)
--   [![](/images/sysimusta-satku-10/Thumbnails/satku10%20002.JPG)](/images/sysimusta-satku-10/satku10%20002.JPG)
--   [![](/images/sysimusta-satku-10/Thumbnails/satku10%20003.JPG)](/images/sysimusta-satku-10/satku10%20003.JPG)
--   [![](/images/sysimusta-satku-10/Thumbnails/satku10%20004.JPG)](/images/sysimusta-satku-10/satku10%20004.JPG)
--   [![](/images/sysimusta-satku-10/Thumbnails/satku10%20005.JPG)](/images/sysimusta-satku-10/satku10%20005.JPG)
--   [![](/images/sysimusta-satku-10/Thumbnails/satku10%20006.JPG)](/images/sysimusta-satku-10/satku10%20006.JPG)
--   [![](/images/sysimusta-satku-10/Thumbnails/satku10%20007.JPG)](/images/sysimusta-satku-10/satku10%20007.JPG)
--   [![](/images/sysimusta-satku-10/Thumbnails/satku10%20008.JPG)](/images/sysimusta-satku-10/satku10%20008.JPG)
--   [![](/images/sysimusta-satku-10/Thumbnails/satku10%20009.JPG)](/images/sysimusta-satku-10/satku10%20009.JPG)
--   [![](/images/sysimusta-satku-10/Thumbnails/satku10%20010.JPG)](/images/sysimusta-satku-10/satku10%20010.JPG)
--   [![](/images/sysimusta-satku-10/Thumbnails/satku10%20011.JPG)](/images/sysimusta-satku-10/satku10%20011.JPG)
--   [![](/images/sysimusta-satku-10/Thumbnails/satku10%20012.JPG)](/images/sysimusta-satku-10/satku10%20012.JPG)
--   [![](/images/sysimusta-satku-10/Thumbnails/satku10%20014.JPG)](/images/sysimusta-satku-10/satku10%20014.JPG)
--   [![](/images/sysimusta-satku-10/Thumbnails/satku10%20015.JPG)](/images/sysimusta-satku-10/satku10%20015.JPG)
--   [![](/images/sysimusta-satku-10/Thumbnails/satku10%20017.JPG)](/images/sysimusta-satku-10/satku10%20017.JPG)
--   [![](/images/sysimusta-satku-10/Thumbnails/satku10%20018.JPG)](/images/sysimusta-satku-10/satku10%20018.JPG)
--   [![](/images/sysimusta-satku-10/Thumbnails/satku10%20019.JPG)](/images/sysimusta-satku-10/satku10%20019.JPG)
--   [![](/images/sysimusta-satku-10/Thumbnails/satku10%20020.JPG)](/images/sysimusta-satku-10/satku10%20020.JPG)
--   [![](/images/sysimusta-satku-10/Thumbnails/satku10%20021.JPG)](/images/sysimusta-satku-10/satku10%20021.JPG)
--   [![](/images/sysimusta-satku-10/Thumbnails/satku10%20022.JPG)](/images/sysimusta-satku-10/satku10%20022.JPG)
--   [![](/images/sysimusta-satku-10/Thumbnails/satku10%20023.JPG)](/images/sysimusta-satku-10/satku10%20023.JPG)
--   [![](/images/sysimusta-satku-10/Thumbnails/satku10%20025.JPG)](/images/sysimusta-satku-10/satku10%20025.JPG)
--   [![](/images/sysimusta-satku-10/Thumbnails/satku10%20026.JPG)](/images/sysimusta-satku-10/satku10%20026.JPG)
--   [![](/images/sysimusta-satku-10/Thumbnails/satku10%20028.JPG)](/images/sysimusta-satku-10/satku10%20028.JPG)
--   [![](/images/sysimusta-satku-10/Thumbnails/satku10%20031.JPG)](/images/sysimusta-satku-10/satku10%20031.JPG)
--   [![](/images/sysimusta-satku-10/Thumbnails/satku10%20032.JPG)](/images/sysimusta-satku-10/satku10%20032.JPG)
--   [![](/images/sysimusta-satku-10/Thumbnails/satku10%20033.JPG)](/images/sysimusta-satku-10/satku10%20033.JPG)
+- [![](/images/sysimusta-satku-10/Thumbnails/graafit.jpg)](/images/sysimusta-satku-10/graafit.jpg)
+- [![](/images/sysimusta-satku-10/Thumbnails/satku10%20001.JPG)](/images/sysimusta-satku-10/satku10%20001.JPG)
+- [![](/images/sysimusta-satku-10/Thumbnails/satku10%20002.JPG)](/images/sysimusta-satku-10/satku10%20002.JPG)
+- [![](/images/sysimusta-satku-10/Thumbnails/satku10%20003.JPG)](/images/sysimusta-satku-10/satku10%20003.JPG)
+- [![](/images/sysimusta-satku-10/Thumbnails/satku10%20004.JPG)](/images/sysimusta-satku-10/satku10%20004.JPG)
+- [![](/images/sysimusta-satku-10/Thumbnails/satku10%20005.JPG)](/images/sysimusta-satku-10/satku10%20005.JPG)
+- [![](/images/sysimusta-satku-10/Thumbnails/satku10%20006.JPG)](/images/sysimusta-satku-10/satku10%20006.JPG)
+- [![](/images/sysimusta-satku-10/Thumbnails/satku10%20007.JPG)](/images/sysimusta-satku-10/satku10%20007.JPG)
+- [![](/images/sysimusta-satku-10/Thumbnails/satku10%20008.JPG)](/images/sysimusta-satku-10/satku10%20008.JPG)
+- [![](/images/sysimusta-satku-10/Thumbnails/satku10%20009.JPG)](/images/sysimusta-satku-10/satku10%20009.JPG)
+- [![](/images/sysimusta-satku-10/Thumbnails/satku10%20010.JPG)](/images/sysimusta-satku-10/satku10%20010.JPG)
+- [![](/images/sysimusta-satku-10/Thumbnails/satku10%20011.JPG)](/images/sysimusta-satku-10/satku10%20011.JPG)
+- [![](/images/sysimusta-satku-10/Thumbnails/satku10%20012.JPG)](/images/sysimusta-satku-10/satku10%20012.JPG)
+- [![](/images/sysimusta-satku-10/Thumbnails/satku10%20014.JPG)](/images/sysimusta-satku-10/satku10%20014.JPG)
+- [![](/images/sysimusta-satku-10/Thumbnails/satku10%20015.JPG)](/images/sysimusta-satku-10/satku10%20015.JPG)
+- [![](/images/sysimusta-satku-10/Thumbnails/satku10%20017.JPG)](/images/sysimusta-satku-10/satku10%20017.JPG)
+- [![](/images/sysimusta-satku-10/Thumbnails/satku10%20018.JPG)](/images/sysimusta-satku-10/satku10%20018.JPG)
+- [![](/images/sysimusta-satku-10/Thumbnails/satku10%20019.JPG)](/images/sysimusta-satku-10/satku10%20019.JPG)
+- [![](/images/sysimusta-satku-10/Thumbnails/satku10%20020.JPG)](/images/sysimusta-satku-10/satku10%20020.JPG)
+- [![](/images/sysimusta-satku-10/Thumbnails/satku10%20021.JPG)](/images/sysimusta-satku-10/satku10%20021.JPG)
+- [![](/images/sysimusta-satku-10/Thumbnails/satku10%20022.JPG)](/images/sysimusta-satku-10/satku10%20022.JPG)
+- [![](/images/sysimusta-satku-10/Thumbnails/satku10%20023.JPG)](/images/sysimusta-satku-10/satku10%20023.JPG)
+- [![](/images/sysimusta-satku-10/Thumbnails/satku10%20025.JPG)](/images/sysimusta-satku-10/satku10%20025.JPG)
+- [![](/images/sysimusta-satku-10/Thumbnails/satku10%20026.JPG)](/images/sysimusta-satku-10/satku10%20026.JPG)
+- [![](/images/sysimusta-satku-10/Thumbnails/satku10%20028.JPG)](/images/sysimusta-satku-10/satku10%20028.JPG)
+- [![](/images/sysimusta-satku-10/Thumbnails/satku10%20031.JPG)](/images/sysimusta-satku-10/satku10%20031.JPG)
+- [![](/images/sysimusta-satku-10/Thumbnails/satku10%20032.JPG)](/images/sysimusta-satku-10/satku10%20032.JPG)
+- [![](/images/sysimusta-satku-10/Thumbnails/satku10%20033.JPG)](/images/sysimusta-satku-10/satku10%20033.JPG)
 
 </div>

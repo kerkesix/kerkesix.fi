@@ -5,7 +5,6 @@ permalink: /kokemuksia-ja-vinkkeja-sysimustalta-satkulta/
 tags: [satku]
 toc: false
 comments: false
-ads: false
 ---
 
 Sysimustalle Satkulle osallistuneilta on kysytty palautetta ja ohessa on

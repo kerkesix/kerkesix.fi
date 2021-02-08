@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Kerkesix-laavu" 
-categories: 
+layout: article
+title: "Kerkesix-laavu"
+categories:
 tags: [laavu]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 ![](/images/kerkesix-laavu/Laavu7b.jpg)  ![](/images/kerkesix-laavu/erasm2004_07b.jpg)
@@ -72,11 +71,10 @@ itselleen oman Kerkesix-laavun. Voit myös teettää oman Kerkesix-laavun
 niin Laatuteltassa osataan valmistaa sellainen. Mikäli tarvitset
 tarkempia ohjeita laavun valmistamiseksi, ota yhteyttä yhdistykseemme.
 
-![](/images/kerkesix-laavu/Laavu10b.jpg)*^1^Takatolppana
+![](/images/kerkesix-laavu/Laavu10b.jpg)_^1^Takatolppana
 olemme käyttäneet alumiinikaaresta sopivan mittaiseksi leikattua
 kaarenpätkää, jonka päät on suojattu esimerkiksi teipillä siten, ettei
-terävä alumiini leikkaa tunnelia rikki.*
+terävä alumiini leikkaa tunnelia rikki._
 
-*^2^ Purjelenkkeinä käytämme puolijoukkueteltan purjelenkkejä, joidenka
-halkaisija on 30mm.*
-
+_^2^ Purjelenkkeinä käytämme puolijoukkueteltan purjelenkkejä, joidenka
+halkaisija on 30mm._

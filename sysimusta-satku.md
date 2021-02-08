@@ -5,7 +5,6 @@ permalink: /sysimusta-satku/
 tags: [satku]
 toc: false
 comments: false
-ads: false
 image:
   feature: sysimusta-satku/satku-feature.jpg
 modified: 2016-08-14
@@ -58,5 +57,5 @@ rajoihinsa.
 - [Ohjeita Sysimustalle Satkulle aikovalle](/sysimusta-satku-ohje)
 - [Esimerkki varustelistasta](/sysimusta-satku-varustelistaesimerkki)
 - [Kokemuksia ja vinkkejä entisiltä
-    kävelijöiltä](/kokemuksia-ja-vinkkeja-sysimustalta-satkulta)
+  kävelijöiltä](/kokemuksia-ja-vinkkeja-sysimustalta-satkulta)
 - [Satku-Suomi -sanakirja](/satku-suomi-sanakirja)

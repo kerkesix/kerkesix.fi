@@ -5,7 +5,6 @@ categories:
 tags: [renkaanveto]
 toc: false
 comments: true
-ads: false
 ---
 
 ![](/images/renkaanveto-20.12.2005/peruskuntorengas20051220_02b.jpg)

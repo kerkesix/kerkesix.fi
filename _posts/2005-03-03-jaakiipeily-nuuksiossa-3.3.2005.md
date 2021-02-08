@@ -1,11 +1,10 @@
 ---
-layout: article 
-title: "Jääkiipeily Nuuksiossa 3.3.2005" 
-categories: 
-tags: [kiipeily,nuuksio]
-toc: false 
-comments: true 
-ads: false 
+layout: article
+title: "Jääkiipeily Nuuksiossa 3.3.2005"
+categories:
+tags: [kiipeily, nuuksio]
+toc: false
+comments: true
 ---
 
 Kerkesix ry:n kiipeilyharjoitus siirtyi Liikuntamyllystä Nöykkiön kautta
@@ -35,10 +34,10 @@ jatkaa matkaa.
 
 <div class="th-grid image-gallery" markdown="1">
 
--   [![](/images/jaakiipeily-nuuksiossa-3.3.2005/Thumbnails/kiipeilyjaa20050303_01b.jpg)](/images/jaakiipeily-nuuksiossa-3.3.2005/kiipeilyjaa20050303_01b.jpg)
--   [![](/images/jaakiipeily-nuuksiossa-3.3.2005/Thumbnails/kiipeilyjaa20050303_02b.jpg)](/images/jaakiipeily-nuuksiossa-3.3.2005/kiipeilyjaa20050303_02b.jpg)
--   [![](/images/jaakiipeily-nuuksiossa-3.3.2005/Thumbnails/kiipeilyjaa20050303_03b.jpg)](/images/jaakiipeily-nuuksiossa-3.3.2005/kiipeilyjaa20050303_03b.jpg)
--   [![](/images/jaakiipeily-nuuksiossa-3.3.2005/Thumbnails/kiipeilyjaa20050303_04b.jpg)](/images/jaakiipeily-nuuksiossa-3.3.2005/kiipeilyjaa20050303_04b.jpg)
--   [![](/images/jaakiipeily-nuuksiossa-3.3.2005/Thumbnails/kiipeilyjaa20050303_05b.jpg)](/images/jaakiipeily-nuuksiossa-3.3.2005/kiipeilyjaa20050303_05b.jpg)
+- [![](/images/jaakiipeily-nuuksiossa-3.3.2005/Thumbnails/kiipeilyjaa20050303_01b.jpg)](/images/jaakiipeily-nuuksiossa-3.3.2005/kiipeilyjaa20050303_01b.jpg)
+- [![](/images/jaakiipeily-nuuksiossa-3.3.2005/Thumbnails/kiipeilyjaa20050303_02b.jpg)](/images/jaakiipeily-nuuksiossa-3.3.2005/kiipeilyjaa20050303_02b.jpg)
+- [![](/images/jaakiipeily-nuuksiossa-3.3.2005/Thumbnails/kiipeilyjaa20050303_03b.jpg)](/images/jaakiipeily-nuuksiossa-3.3.2005/kiipeilyjaa20050303_03b.jpg)
+- [![](/images/jaakiipeily-nuuksiossa-3.3.2005/Thumbnails/kiipeilyjaa20050303_04b.jpg)](/images/jaakiipeily-nuuksiossa-3.3.2005/kiipeilyjaa20050303_04b.jpg)
+- [![](/images/jaakiipeily-nuuksiossa-3.3.2005/Thumbnails/kiipeilyjaa20050303_05b.jpg)](/images/jaakiipeily-nuuksiossa-3.3.2005/kiipeilyjaa20050303_05b.jpg)
 
 </div>

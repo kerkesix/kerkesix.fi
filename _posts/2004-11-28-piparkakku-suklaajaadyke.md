@@ -1,21 +1,20 @@
 ---
-layout: article 
-title: "Piparkakku-suklaajäädyke" 
-categories: 
+layout: article
+title: "Piparkakku-suklaajäädyke"
+categories:
 tags: [ruoka]
-toc: false 
-comments: true 
-ads: false 
+toc: false
+comments: true
 ---
 
 Vuosijuhlassa 27.11.2004 (resepti 8 annokselle)
 
--   2 dl piparkakunmuruja
--   3/4 dl fariinisokeria
--   3 ½ dl kuohukermaa
--   3 valkuaista
--   1 ½ dl sokeria
--   60 g tummaa suklaata -karkeahkona rouheena
+- 2 dl piparkakunmuruja
+- 3/4 dl fariinisokeria
+- 3 ½ dl kuohukermaa
+- 3 valkuaista
+- 1 ½ dl sokeria
+- 60 g tummaa suklaata -karkeahkona rouheena
 
 Koristeeksi:\
 1 ½ dl vatkattua kermaa\
@@ -31,4 +30,3 @@ massa noin litran vetoisen kulhoon, peitä se ja jäädytä.
 
 Lähde: [Viini-ruoka mailing
 list](http://lists.oulu.fi/mailman/listinfo/viini-ruoka) 31.10.2001.
-
