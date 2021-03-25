@@ -1,19 +1,16 @@
 {
   "hosting": {
-      "public": "_site",
-      "ignore": [
-          "firebase.json",
-          "**/.*",
-          "/_data/**",
-          "/_includes/**",
-          "/_layouts/**",
-          "/_posts/**",
-          "/_sass/**",
-          "/_templates/**",
-          "/css/**",
-          "/fonts/**",
-          "/images/**",
-          "/js/**"
-      ]
+    "public": "out",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "/_posts/**",
+      "/components/**",
+      "/lib/**",
+      "/pages/**",
+      "/public/**",
+      "/styles/**",
+      "/tools/**"
+    ]
   }
 }

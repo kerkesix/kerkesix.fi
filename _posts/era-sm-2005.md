@@ -1,0 +1,118 @@
+---
+title: "Erä-SM Evon Eksymä 8.-11.9.2005"
+date: "2005-09-11"
+tags: [erä-sm, vaellus, laavu]
+gallery:
+  - thb: "/assets/blog/era-sm-2005/Thumbnails/vaelluserasm2005_01.jpg"
+    img: "/assets/blog/era-sm-2005/vaelluserasm2005_01.jpg"
+  - thb: "/assets/blog/era-sm-2005/Thumbnails/vaelluserasm2005_02b.jpg"
+    img: "/assets/blog/era-sm-2005/vaelluserasm2005_02b.jpg"
+  - thb: "/assets/blog/era-sm-2005/Thumbnails/vaelluserasm2005_03b.jpg"
+    img: "/assets/blog/era-sm-2005/vaelluserasm2005_03b.jpg"
+  - thb: "/assets/blog/era-sm-2005/Thumbnails/vaelluserasm2005_03c.jpg"
+    img: "/assets/blog/era-sm-2005/vaelluserasm2005_03c.jpg"
+  - thb: "/assets/blog/era-sm-2005/Thumbnails/vaelluserasm2005_03d.jpg"
+    img: "/assets/blog/era-sm-2005/vaelluserasm2005_03d.jpg"
+  - thb: "/assets/blog/era-sm-2005/Thumbnails/vaelluserasm2005_04b.jpg"
+    img: "/assets/blog/era-sm-2005/vaelluserasm2005_04b.jpg"
+  - thb: "/assets/blog/era-sm-2005/Thumbnails/vaelluserasm2005_05b.jpg"
+    img: "/assets/blog/era-sm-2005/vaelluserasm2005_05b.jpg"
+  - thb: "/assets/blog/era-sm-2005/Thumbnails/vaelluserasm2005_06b.jpg"
+    img: "/assets/blog/era-sm-2005/vaelluserasm2005_06b.jpg"
+  - thb: "/assets/blog/era-sm-2005/Thumbnails/vaelluserasm2005_07b.jpg"
+    img: "/assets/blog/era-sm-2005/vaelluserasm2005_07b.jpg"
+  - thb: "/assets/blog/era-sm-2005/Thumbnails/vaelluserasm2005_09b.jpg"
+    img: "/assets/blog/era-sm-2005/vaelluserasm2005_09b.jpg"
+  - thb: "/assets/blog/era-sm-2005/Thumbnails/vaelluserasm2005_10b.jpg"
+    img: "/assets/blog/era-sm-2005/vaelluserasm2005_10b.jpg"
+  - thb: "/assets/blog/era-sm-2005/Thumbnails/vaelluserasm2005_11b.jpg"
+    img: "/assets/blog/era-sm-2005/vaelluserasm2005_11b.jpg"
+  - thb: "/assets/blog/era-sm-2005/Thumbnails/vaelluserasm2005_12b.jpg"
+    img: "/assets/blog/era-sm-2005/vaelluserasm2005_12b.jpg"
+  - thb: "/assets/blog/era-sm-2005/Thumbnails/vaelluserasm2005_13b.jpg"
+    img: "/assets/blog/era-sm-2005/vaelluserasm2005_13b.jpg"
+  - thb: "/assets/blog/era-sm-2005/Thumbnails/vaelluserasm2005_13c.jpg"
+    img: "/assets/blog/era-sm-2005/vaelluserasm2005_13c.jpg"
+  - thb: "/assets/blog/era-sm-2005/Thumbnails/vaelluserasm2005_13d.jpg"
+    img: "/assets/blog/era-sm-2005/vaelluserasm2005_13d.jpg"
+  - thb: "/assets/blog/era-sm-2005/Thumbnails/vaelluserasm2005_13e.jpg"
+    img: "/assets/blog/era-sm-2005/vaelluserasm2005_13e.jpg"
+  - thb: "/assets/blog/era-sm-2005/Thumbnails/vaelluserasm2005_15b.jpg"
+    img: "/assets/blog/era-sm-2005/vaelluserasm2005_15b.jpg"
+  - thb: "/assets/blog/era-sm-2005/Thumbnails/vaelluserasm2005_16b.jpg"
+    img: "/assets/blog/era-sm-2005/vaelluserasm2005_16b.jpg"
+  - thb: "/assets/blog/era-sm-2005/Thumbnails/vaelluserasm2005_17b.jpg"
+    img: "/assets/blog/era-sm-2005/vaelluserasm2005_17b.jpg"
+  - thb: "/assets/blog/era-sm-2005/Thumbnails/vaelluserasm2005_17c.jpg"
+    img: "/assets/blog/era-sm-2005/vaelluserasm2005_17c.jpg"
+  - thb: "/assets/blog/era-sm-2005/Thumbnails/vaelluserasm2005_17d.jpg"
+    img: "/assets/blog/era-sm-2005/vaelluserasm2005_17d.jpg"
+  - thb: "/assets/blog/era-sm-2005/Thumbnails/vaelluserasm2005_18a.jpg"
+    img: "/assets/blog/era-sm-2005/vaelluserasm2005_18a.jpg"
+  - thb: "/assets/blog/era-sm-2005/Thumbnails/vaelluserasm2005_18b.jpg"
+    img: "/assets/blog/era-sm-2005/vaelluserasm2005_18b.jpg"
+  - thb: "/assets/blog/era-sm-2005/Thumbnails/vaelluserasm2005_24d.jpg"
+    img: "/assets/blog/era-sm-2005/vaelluserasm2005_24d.jpg"
+  - thb: "/assets/blog/era-sm-2005/Thumbnails/vaelluserasm2005_24e.jpg"
+    img: "/assets/blog/era-sm-2005/vaelluserasm2005_24e.jpg"
+  - thb: "/assets/blog/era-sm-2005/Thumbnails/vaelluserasm2005_24f.jpg"
+    img: "/assets/blog/era-sm-2005/vaelluserasm2005_24f.jpg"
+  - thb: "/assets/blog/era-sm-2005/Thumbnails/vaelluserasm2005_25b.jpg"
+    img: "/assets/blog/era-sm-2005/vaelluserasm2005_25b.jpg"
+  - thb: "/assets/blog/era-sm-2005/Thumbnails/vaelluserasm2005_25c.jpg"
+    img: "/assets/blog/era-sm-2005/vaelluserasm2005_25c.jpg"
+  - thb: "/assets/blog/era-sm-2005/Thumbnails/vaelluserasm2005_26a.jpg"
+    img: "/assets/blog/era-sm-2005/vaelluserasm2005_26a.jpg"
+  - thb: "/assets/blog/era-sm-2005/Thumbnails/vaelluserasm2005_26b.jpg"
+    img: "/assets/blog/era-sm-2005/vaelluserasm2005_26b.jpg"
+  - thb: "/assets/blog/era-sm-2005/Thumbnails/vaelluserasm2005_27.jpg"
+    img: "/assets/blog/era-sm-2005/vaelluserasm2005_27.jpg"
+---
+
+[Suomen Ladun](http://www.suomenlatu.fi/) ja [Hämeenlinnan
+Suunnistajien](http://www.hameenlinnansuunnistajat.fi/) järjestämä
+Erävaelluksen suomenmestaruuskilpailu Evon Eksymä järjestettiin
+hämäläisessä maastossa Evolla. Kerkesix oli ilmoittanut kisaan
+ennätykselliset neljä partiota, joista yhden joukkueen osallistuminen
+peruuntui edellisenä päivänä loukkaantumiseen takia. Kolme partiota
+pääsikin liikkeelle [Evon
+metsäoppilaitoksen](http://www.evo.hamk.fi/)alueelta kohti maastoa ja
+rasteja.
+
+Maasto oli tyypillistä hämäläistä metsää, joten usein reittejä sai hakea
+kivikoiden ja ryteiköiden välistä. Hiki nousi pintaan ja matka eteni
+vaihtelevalla nopeudella. Vastapainoksi Evon metsät tarjosivat komeita
+maisemia ja monimuotoista metsää. Reitti oli kuitenkin kokonaisuudessaan
+vaativa ja aikataulut tiukat, joten tavoiteaikojen saavuttaminen ei
+ollut aivan yksinkertaista. Mutta ei ole tarkoituskaan, että jokainen
+partio saa suunnistuksesta täydet pisteet... Yöunet jäivät lyhyiksi ja
+heräämisen jälkeen kesti aikansa ennen kuin partiot olivat taas
+huippuiskussa.
+
+Rastitehtävät olivat vaihtelevia, sillä joukossa oli todellisia helmiä
+ja loistavasti toteutettuja tehtäviä. Toisaalta osa tehtävistä oli
+hyvinkin kyseenalaisesti muotoiltuja, joten kilpailijoiden oli todella
+vaikea ymmärtää mitä tehtävällä oikein haluttiin. Mutta
+luonnontunnistustehtävät kuuluivat ehdottomasti kisan parhaimmistoon,
+sillä tunnistettavaksi oli saatu autenttista materiaalia. Esimerkiksi
+täytettyjen eläinten tunnistaminen oli mielekästä puuhaa ja tehtävänä
+erinomainen.
+
+Paikalla oli paljon tuttuja ja tämä onkin yksi tapahtuman parhaista
+puolista. Ei pelkästään se että pääsee metsään kisailemaan, vaan myös se
+että tapaa monia ihmisiä, joihin ei muulloin törmää. Kuulumisia
+saatiinkin runsaasti vaihdettua.
+
+Ilahduttavaa oli myös huomata, että kisailijoilla oli majoitteena
+käytössään [Kerkesix-laavuja](/kerkesix-laavu/). Näitä bongattiinkin
+yöpymisrasteilla ainakin kolme kappaletta Kerkesix-joukkueiden
+käyttämien lisäksi.
+
+Rata oli rankka ja jalkoja kuluttava, mikä vaikutti siihen, että monet
+joukkueet joutuivat keskeyttämään suorituksensa. Kerkesix Murmelitkin
+joutuivat taipumaan ja pojat siirtyivät lauantaina katsomon puolelle.
+Kolmesta liikkeelle lähteneestä partiosta maaliin saapui Team Marmot ja
+Kerkesix Orankit. Team Marmot sijoittui naisten sarjassa kolmanneksi ja
+hankki toisen suomenmestaruussijoituksen ja -mitalin yhdistyksen
+palkintokaappiin tänä vuonna. Orankit olivat asettaneet tavoitteekseen
+päästä 20 parhaan joukkoon ja sijoituksella 18 tämä onnistui.

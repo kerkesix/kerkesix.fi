@@ -1,0 +1,54 @@
+---
+title: "Hagellus 15.-16.5.2004"
+date: "2004-05-16"
+tags: [vaellus]
+gallery:
+  - thb: "/assets/blog/hagellus-2004/Thumbnails/hagellus_2004_019b.jpg"
+    img: "/assets/blog/hagellus-2004/hagellus_2004_019b.jpg"
+  - thb: "/assets/blog/hagellus-2004/Thumbnails/hagellus_2004_029b.jpg"
+    img: "/assets/blog/hagellus-2004/hagellus_2004_029b.jpg"
+  - thb: "/assets/blog/hagellus-2004/Thumbnails/hagellus_2004_031b.jpg"
+    img: "/assets/blog/hagellus-2004/hagellus_2004_031b.jpg"
+  - thb: "/assets/blog/hagellus-2004/Thumbnails/hagellus_2004_040b.jpg"
+    img: "/assets/blog/hagellus-2004/hagellus_2004_040b.jpg"
+  - thb: "/assets/blog/hagellus-2004/Thumbnails/hagellus_2004_054b.jpg"
+    img: "/assets/blog/hagellus-2004/hagellus_2004_054b.jpg"
+  - thb: "/assets/blog/hagellus-2004/Thumbnails/hagellus_2004_056b.jpg"
+    img: "/assets/blog/hagellus-2004/hagellus_2004_056b.jpg"
+  - thb: "/assets/blog/hagellus-2004/Thumbnails/hagellus_2004_101b.jpg"
+    img: "/assets/blog/hagellus-2004/hagellus_2004_101b.jpg"
+---
+
+Toimintasuunnitelman mukaisesti Kerkesix ry lähetti partion
+Hagellukseen, Pirkanmaan laskuvarjojääkärien jokakeväiseen jotokseen
+hakemaan karhunkallon seuran haltuun. Partioon kuului Iltsu, Jappe ja
+Toni. Seuran jäsenistä Apo oli paikalla toimitsijan ominaisuudessa.
+
+Sadekuurojen välillä aurinko jaksoi aina välillä muistuttaa meitä
+olemassaolostaan ja vaatteet kuivuivat joksikin aikaa, kunnes taas
+satoi... Yöllä lämpötilakin kävi pakkasen puolella, mutta urhea
+kerkepartio selvisi täydellisen majoitteen,
+[Kerkesix-laavun](/kerkesix-laavu/) ansiosta.
+
+Rastit olivat sotilastaitoja mittaavia tehtäviä, joiden perusteella
+saatujen pisteiden mukaan kilpailu ratkaistiin. Tväl-materiaalia täytyi
+tunnistaa käyttökelpoiseksi ja hylätä soveltumaton osa, ja Apilaksen
+käyttäminen oli myös osattava selittää. Rastivälit kuljettiin maastossa
+suunnistaen, jolloin partio havaitsi alueella valtavan suuren
+vaakapuiden esiintymän...
+
+Tehtävänä oli myös suojamiinoitteen rakentaminen ja vihollisen miinojen
+väistely. Räjäytystoimet niin puunkaadon kuin teräspalkin katkaisun
+yhteydessä kuuluivat toimintaan, ja teräspalkin luona partio havaitsi
+myös Apon, joka oli valvomassa rastia. Matkalla partion täytyi vastailla
+myös kirjallisiin kysymyksiin, joissa kysyttiin mm. [Leopard
+2](http://fi.wikipedia.org/wiki/Leopard_2):n teknisiä tietoja...
+
+Ennen yörastia partion täytyi vielä ylittää vesistö turvallisesti, jonka
+jälkeen partio sai majoittua ja levätä ennen seuraavaa päivää.
+
+Aamulla sää oli muuttunut pelkästään aurinkoiseksi ja metsässä oli ilo
+vaellella. Radioliikenne, pistooliammunta, jotoksen tunnistus ja ensiapu
+olivat sunnuntain tehtävälistalla, ennen kuin partio oli tehtävänsä
+suorittanut. Karhunkallo jäi tällä kertaa saamatta, partio Kerkesix
+sijoittui neljänneksi, mutta kerta se on vuodenkin päästä...

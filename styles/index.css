@@ -1,0 +1,51 @@
+@tailwind base;
+
+/* Write your own custom base styles here */
+@layer base {
+  h2 {
+    @apply text-3xl mt-3 mb-2;
+  }
+  h3 {
+    @apply text-3xl mt-3 mb-2;
+  }
+  h4 {
+    @apply text-2xl mt-3 mb-2;
+  }
+  h5 {
+    @apply text-lg mt-2 mb-1;
+  }
+  p {
+    @apply my-3;
+  }
+  ul,
+  dl {
+    @apply list-none list-inside mt-1 mb-2;
+  }
+  dt {
+    @apply font-semibold;
+  }
+  dd {
+    @apply ml-6 mb-2;
+  }
+  a {
+    @apply text-yellow-600;
+  }
+  a:hover {
+    @apply text-yellow-600 underline;
+  }
+  blockquote {
+    @apply p-2 mx-6 mb-4 border-l-4 border-gray-400 italic;
+  }
+}
+
+/* Start purging... */
+@tailwind components;
+/* Stop purging. */
+
+/* Write you own custom component styles here */
+
+/* Start purging... */
+@tailwind utilities;
+/* Stop purging. */
+
+/* Your own custom utilities */

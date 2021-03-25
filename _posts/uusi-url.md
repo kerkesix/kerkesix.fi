@@ -1,0 +1,16 @@
+---
+title: "Uusi URL yhdistykselle: ksx.fi"
+date: "2005-01-16"
+tags: [kerkesix.fi]
+---
+
+Kerkenetti kehittyy. Yhdistys on hankkinut käyttöönsä myös
+ksx.fi -verkkotunnuksen. Suomeksi tämä tarkoittaa, että halutessasi
+tulla Kerkesix ry:n nettisivuille voit käyttää sekä osoitetta
+kerkesix.fi tai sitten ksx.fi! Yllämainittuihin URL:eihin voi lisätä
+etuliitteen "www.", jos siitä sattuu pitämään.
+
+Tämä sama alias-toteutus koskee myös sähköpostiosoitteita, joten Jakke
+Jäsenen meiliosoite on tulevaisuudessa sekä jakke.jasen@kerkesix.fi että
+jakke.jasen@ksx.fi. Tämä ei siis edellytä kerkemeilin käyttäjiltä mitään
+toimenpiteitä vaan molemmat osoitteet toimivat jo nyt yhdenaikaisesti.

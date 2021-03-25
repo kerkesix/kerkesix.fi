@@ -1,0 +1,185 @@
+---
+title: "Erä SM Hossan Juntu 30.8.-2.9.2007"
+date: "2007-09-02"
+tags: [erä-sm, vaellus]
+gallery:
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/001.jpg"
+    img: "/assets/blog/era-sm-2007/001.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/004.jpg"
+    img: "/assets/blog/era-sm-2007/004.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/005.jpg"
+    img: "/assets/blog/era-sm-2007/005.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/006.jpg"
+    img: "/assets/blog/era-sm-2007/006.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/007.jpg"
+    img: "/assets/blog/era-sm-2007/007.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/008.jpg"
+    img: "/assets/blog/era-sm-2007/008.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/009.jpg"
+    img: "/assets/blog/era-sm-2007/009.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/010.jpg"
+    img: "/assets/blog/era-sm-2007/010.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/011.jpg"
+    img: "/assets/blog/era-sm-2007/011.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/013.jpg"
+    img: "/assets/blog/era-sm-2007/013.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/014.jpg"
+    img: "/assets/blog/era-sm-2007/014.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/015.jpg"
+    img: "/assets/blog/era-sm-2007/015.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/016.jpg"
+    img: "/assets/blog/era-sm-2007/016.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/017.jpg"
+    img: "/assets/blog/era-sm-2007/017.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/018.jpg"
+    img: "/assets/blog/era-sm-2007/018.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/019.jpg"
+    img: "/assets/blog/era-sm-2007/019.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/020.jpg"
+    img: "/assets/blog/era-sm-2007/020.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/022.jpg"
+    img: "/assets/blog/era-sm-2007/022.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/023.jpg"
+    img: "/assets/blog/era-sm-2007/023.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/024.jpg"
+    img: "/assets/blog/era-sm-2007/024.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/026.jpg"
+    img: "/assets/blog/era-sm-2007/026.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/027.jpg"
+    img: "/assets/blog/era-sm-2007/027.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/028.jpg"
+    img: "/assets/blog/era-sm-2007/028.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/029.jpg"
+    img: "/assets/blog/era-sm-2007/029.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/030.jpg"
+    img: "/assets/blog/era-sm-2007/030.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/031.jpg"
+    img: "/assets/blog/era-sm-2007/031.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/032.jpg"
+    img: "/assets/blog/era-sm-2007/032.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/034.jpg"
+    img: "/assets/blog/era-sm-2007/034.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/035.jpg"
+    img: "/assets/blog/era-sm-2007/035.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/036.jpg"
+    img: "/assets/blog/era-sm-2007/036.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/039.jpg"
+    img: "/assets/blog/era-sm-2007/039.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/040.jpg"
+    img: "/assets/blog/era-sm-2007/040.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/041.jpg"
+    img: "/assets/blog/era-sm-2007/041.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/042.jpg"
+    img: "/assets/blog/era-sm-2007/042.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/043.jpg"
+    img: "/assets/blog/era-sm-2007/043.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/044.jpg"
+    img: "/assets/blog/era-sm-2007/044.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/045.jpg"
+    img: "/assets/blog/era-sm-2007/045.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/046.jpg"
+    img: "/assets/blog/era-sm-2007/046.jpg"
+  - thb: "/assets/blog/era-sm-2007/Thumbnails/047.jpg"
+    img: "/assets/blog/era-sm-2007/047.jpg"
+---
+
+Kerkesix lähti ennätyksellisen runsaslukuisena - neljän joukkueen
+voimin - Hossan Juntu 2007  Erävaelluksen SM -kilpailuihin. Koska
+julkinen liikenne kulki harvakseltaan Suomussalmen ja Hossan suuntaan,
+lähdettiin reissuun kahdella autolla. Matka Helsingistä Suomussalmelle
+kesti noin kahdeksan tuntia. Suomussalmella yövyttiin Kiannon
+Kuohut -hotellissa. Perinteisen tavan mukaan kilpailijat söivät aamulla
+hotelliaamiaisella itsensä kipeäksi. Suomussalmelta oli vielä vajaa
+tunnin ajomatka varsinaiselle kohdealueelle Hossaan.
+
+Kilpailut menivät sujuvasti ja kisajärjestäjät olivat lähes
+poikkeuksetta iloisia ja hyväntuulisia. Vaikka yritys oli hyvä olivat
+tehtävät ikävä kyllä liian usein perinteistä Erävaelluksen SM -tasoa:
+
+- aika oli aina paperilla, mutta sitä valvottiin vain satunnaisesti
+  tehtävästä riippuen
+- tehtävissä kysyttiin yhtä ja vastaukseksi odotettiin toista:
+  "Tunnista kangasmateriaalit" -kysymykseen odotettiin vastaukseksi
+  kankaiden kauppanimiä jne.
+- arvosteluperusteet joutui arvaamaan
+- pistemäärät olivat epäsuhdassa: 5 minuutin teltanpystytyksellä sai
+  20 pistettä, mutta yönikkaroinneista vain 5 pistettä.
+
+Kerkesix-partioiden lopputulokset olivat:
+
+- Kerkesix Blue Tits 5. (naisten sarja)
+- Kerkesix Koirat, 34. (avoin sarja)
+- Kerkesix Rotat, 11. (avoin sarja)
+- Kerkesix Korpit, keskeytti (avoin sarja)
+
+Tarkemmat tulokset löytyvät Hossan
+Juntu -sivuilta (linkki poistettu toimimattomana).
+
+#### Torstai - Kulkua postikorttimaisemissa
+
+Ilma oli selkeä ja hieno. Lähtöalueella syötiin normaalin tavan mukaan
+viimeiset paniikkieväät, tervehdittiin muita kilpailijoita, ja
+arvioitiin reppujen painoja. Kilpailujen avajaiset olivat hienot, joskin
+lippulaulu aiheutti amerikkalaisuudessaan hienoisia naurunpyrskähdyksiä.
+
+Lähdön jälkeen siirryttiin uskomattoman hienoihin harjumaisemiin. Maasto
+oli kuivaa ja helppokulkuista - kengätkin säilyivät kuivana lähes
+yörastille asti.
+
+#### Perjantai - Takaisin maanpinnalle (tai suohon)
+
+Perjantai palautti maan pinnalle: kangasmaastosta siirryttiin rämeelle.
+Maasto oli soista, ja ratamestari varmisti elämyksen sijoittamalla
+kaikki rastit keskelle soita. Tämä linja jatkuikin sitten kilpailun
+loppuun asti. Muutaman suovierailun jälkeen Kerkesix Rotat ottivatkin
+itselleen käyttöön säännön, etteivät mene yhdellekään suolle jolle on
+kartassa annettu nimi. Tämä sääntö pelasti paljolta pahalta.
+
+#### Lauantai - Leuka rinnassa kohti uusia pettymyksiä
+
+Lauantai- aamu alkoi vahvasti: taivas oli lonkeron värinen ja sade
+ropisi laavun kattoon.  Vaan eipä auttanut itku markkinoilla, liikkeelle
+oli lähdettävä. Normaalisti odottaa että päivä alkaa parantua iltapäivää
+kohti, mutta tällä kertaa tuntui että päivä meni vain huonommaksi
+aamupäivän mittaan. Antikliimaksi koettiin rastin kolme kohdalla, kun
+alkoi olla rehellisesti kylmä ja otsan yksisarvinen kasvoi ja kasvoi.
+Kerkesix Rotat miettivät juuri laavun virittämistä sateensuojaksi
+varusteiden päälle lisäämistä varten, kun rasti kolme tuli ja pelasti:
+rastihenkilöt olivat pelimiehiä (ja -henkilöitä), ja olivat laittaneet
+paperirastin sisätiloihin vanhaan navettaan. Navetassa oli hyvä vaihtaa
+paperitehtävää tehdessä lisää vaatetta päälle.
+
+Kerkesix Korpit keskeyttivät toisen kisaajan jalkavaivojen vuoksi
+lauantaina aamupäivällä, ja siirtyivät suoraan Erä-Hossan
+mallasrastille.
+
+#### Sunnuntai - Aapiskukolle töitä
+
+Normaalista poiketen sunnuntaiaamun lähtö ei ollut yhteislähtö, vaan
+normaalien kisapäivien kaltainen lentävä lähtö. Suurin osa lähti
+liikkeelle aikaisimpaan mahdolliseen aikaan, mutta Kerkesix Rotat
+päättivät ottaa rauhallisen lähdön ja olivat vielä makuupusseissa kun
+muut partiot pyyhälsivät otsalamput otsalla ja leipä huulessa ohi.
+Ratkaisu oli siinä mielessä onnistunut, että pimeällä suunnistamista
+tuli vähemmän, ja paniikinomainen sykyily väheni kun sai suunnistaa
+lähes yksin.
+
+Päivän suunnistusreitti oli mukava ja järkevästi suunniteltu. Rasteja
+oli vaihtelevassa maastossa ja niitä oli paikka paikoin jopa ilo hakea.
+Lisärasteja olisi saanut olla niin paljon ettei yksikään joukkue hae
+kaikkia, nyt rastit olivat ripeällä kävelyllä kaikki haettavissa.
+
+Kerkesix Rotille pienen rypyn päivän kulkuun aiheutti reitin lopun
+käskytys: päivän ohjeessa luki että maalissa pitää olla kello 11.00
+mennessä jottei pisteet vähene, ja viimeiseltä pakolliselta rastilta on
+viitoitus maaliin. Huono puoli oli että viitoituksen pituus oli kerrottu
+vain rastimääritteissä, jotka jäivät tietenkin lukematta. Tämäkään ei
+olisi ollut ongelma ellei viitoituksen pituus olisi ollut 5,2 km! Rotat
+olivat viimeisellä pakollisella rastilla kello 10.12, joten ei auttanut
+kuin ottaa lusikka kauniiseen käteen ja alkaa juoksemaan. Matka tuntui
+yllättävän pitkältä, mikä selittyi sillä että jälkeenpäin kartalta
+mittaamalla matkaa oli 6,2 km. Rotat olivat onneksi 10.58 maalissa,
+joten pisteet eivät laskeneet.
+
+Maalissa saunottiin, nuoltiin haavat, ja lähdettiin moottorimarssille
+takaisin kohti pääkaupunkiseutua.

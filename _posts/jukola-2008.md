@@ -1,0 +1,84 @@
+---
+title: "Tampere-Jukola 14.-15.6.2008"
+date: "2008-06-15"
+tags: [jukola, suunnistus]
+gallery:
+  - thb: "/assets/blog/jukola-2008/Thumbnails/01.jpg"
+    img: "/assets/blog/jukola-2008/01.jpg"
+  - thb: "/assets/blog/jukola-2008/Thumbnails/02.jpg"
+    img: "/assets/blog/jukola-2008/02.jpg"
+  - thb: "/assets/blog/jukola-2008/Thumbnails/03.jpg"
+    img: "/assets/blog/jukola-2008/03.jpg"
+  - thb: "/assets/blog/jukola-2008/Thumbnails/05.jpg"
+    img: "/assets/blog/jukola-2008/05.jpg"
+  - thb: "/assets/blog/jukola-2008/Thumbnails/06.jpg"
+    img: "/assets/blog/jukola-2008/06.jpg"
+  - thb: "/assets/blog/jukola-2008/Thumbnails/07.jpg"
+    img: "/assets/blog/jukola-2008/07.jpg"
+  - thb: "/assets/blog/jukola-2008/Thumbnails/08.jpg"
+    img: "/assets/blog/jukola-2008/08.jpg"
+  - thb: "/assets/blog/jukola-2008/Thumbnails/09.jpg"
+    img: "/assets/blog/jukola-2008/09.jpg"
+  - thb: "/assets/blog/jukola-2008/Thumbnails/10.jpg"
+    img: "/assets/blog/jukola-2008/10.jpg"
+  - thb: "/assets/blog/jukola-2008/Thumbnails/11.jpg"
+    img: "/assets/blog/jukola-2008/11.jpg"
+  - thb: "/assets/blog/jukola-2008/Thumbnails/12.jpg"
+    img: "/assets/blog/jukola-2008/12.jpg"
+  - thb: "/assets/blog/jukola-2008/Thumbnails/13.jpg"
+    img: "/assets/blog/jukola-2008/13.jpg"
+  - thb: "/assets/blog/jukola-2008/Thumbnails/14.jpg"
+    img: "/assets/blog/jukola-2008/14.jpg"
+  - thb: "/assets/blog/jukola-2008/Thumbnails/15.jpg"
+    img: "/assets/blog/jukola-2008/15.jpg"
+  - thb: "/assets/blog/jukola-2008/Thumbnails/16.jpg"
+    img: "/assets/blog/jukola-2008/16.jpg"
+  - thb: "/assets/blog/jukola-2008/Thumbnails/17.jpg"
+    img: "/assets/blog/jukola-2008/17.jpg"
+  - thb: "/assets/blog/jukola-2008/Thumbnails/18.jpg"
+    img: "/assets/blog/jukola-2008/18.jpg"
+---
+
+Teiskossa Tampereen pohjoisosissa suunnistettiin ja eksyttiin [Jukolan
+Viestiä](http://fi.wikipedia.org/wiki/Jukolan_viesti). Perinteinen
+tavoitteiden asettaminen oli taas kerran karannut käsistä ja Tampere
+Jukolaan ilmoitettiin kaksi joukkuetta.
+Siinä olikin ensimmäinen tavoite saatu aluilleen, kaksi joukkuetta
+Jukolaan. Pikku hiljaa kun kävi selväksi että kaksi joukkuetta tulee,
+tavoite täsmentyi, siten että kaksi joukkuetta piti saada maaliin. Tämä
+olikin hieman haastavampi osio, sillä ilmoittautuneita saatiin kasaan
+vain 11 ja osuuksia kahdella joukkueella oli yhteensä 14. Ratkaisu
+löytyi ja jokaiselle osuudelle saatiin suunnistaja. Apuun kutsuttiin
+jäsenet Simo Hovari (juossut usein aikaisemminkin Jukolassa), Pekka
+Karvo ja Ramon Hoiskari. Ulkomuodollisesti herrat Hovari, Karvo ja
+Hoiskari muistuttivat poikkeuksellisen paljon Ilpoa, Pihviä ja Jappea...
+Kun alkoi olla selvää, että kaksi joukkuetta lähtee liikkeelle ja vielä
+ilmeisesti saapuu maaliin, todettiin parhaimman suorituksen Kerkesix
+ry:n suunnistusjoukkueella Jukolassa olleen 715. Tällä kertaa
+tuloslistalla numeron haluttiin alkavan enintään kuutosella. Perinteinen
+tavoite oli myös ettei kukaan joutuisi yhteislähtöön.
+
+Leiripaikan valinnassa Kerkesix oli saanut korvaamatonta apua Mattilan
+Matilta, joka oli urheasti taistellut tiensä läpi Tampereen aina Kaanaan
+lentokentälle ja voimia säästelemättä oli paaluttanut ja aidannut alueen
+neljälle joukkueelle. Leiripaikan perustamisesta ja valinnasta iso
+kiitos Masalle. Leirialue oli sen verran komea, että fanitusosastoa kävi
+kiitettävästi paikalla.
+
+Sade alkoi sopivasti ennen lähtöä ja kesti parin ensimmäisen osuuden
+verran, siis juuri niiden pimeimpien. Välillä olikin kuivempaa, mutta
+tulihan sitä vettä taas yhteislähdön jälkeen. Rata oli osin haastava,
+sillä alueelle oli jälleen löydetty riittävästi vapaaehtoisia kasaamaan
+kiviä sekä vaakapuita reitille ja sen varrelle. Pari mielenkiintoista
+ojaa oli myös saatu järjestettyä. Erityisesti kiitosta sai ojien
+sisältö, vyötäröön saakka yltävä muta... Reitillä oli toki myös nopeaa
+maastoa, joten kelpasihan siellä temuta. Maasto ja kostea sää hidastivat
+kuitenkin ilmeisesti hieman kisaa, sillä ratamestarin ihanneajasta
+jäätiin muutama minuutti (tähän toimitus haluaa lisätä, että Kerkesix
+ry:n joukkueet jäivät ratamestarin ihanneajasta hieman enemmän).
+
+Tavoitteisiin Päästiin jälleen osittain, sillä kaksi joukkuetta saatiin
+kisaan mukaan ja jopa maaliin saakka. Joukkue 776 paransi tulosta ja
+sijoittui sijalle 639, mikä oli varsin kelvollinen onnistuminen.
+Yhteislähtöön mentiin kummankin joukkueen voimin. Siinä on parannettavaa
+ensi vuodelle.

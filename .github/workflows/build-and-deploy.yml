@@ -1,4 +1,4 @@
-# Builds the Jekyll site and deploys it to Firebase hosting
+# Builds the Next.js site and deploys it to Firebase hosting
 name: Deploy each push
 on:
   push:
@@ -10,22 +10,16 @@ jobs:
     steps:
       - uses: actions/checkout@v1
 
-      - name: Fix permissions
-        uses: docker://jekyll/builder:4.1.0
-        with:
-          entrypoint: "/bin/chown"
-          args: -R jekyll:jekyll .
-
-      - name: Build site
-        uses: docker://jekyll/builder:4.1.0
-        with:
-          args: jekyll build
+      # - name: Build site
+      #   uses: docker://jekyll/builder:4.1.0
+      #   with:
+      #     args: jekyll build
 
       - name: Archive built site
         uses: actions/upload-artifact@v2
         with:
           name: site
-          path: _site
+          path: out
 
   deploy:
     name: Deploy
@@ -39,7 +33,7 @@ jobs:
         uses: actions/download-artifact@v2
         with:
           name: site
-          path: _site
+          path: out
 
       - name: Deploy to Firebase
         uses: w9jds/firebase-action@master

@@ -1,0 +1,127 @@
+---
+title: "Erä-SM Pärttylinvaellus 28.-31.8.2008"
+date: "2008-08-31"
+tags: [erä-sm, vaellus]
+gallery:
+  - thb: "/assets/blog/era-sm-2008/Thumbnails/P01.jpg"
+    img: "/assets/blog/era-sm-2008/P01.jpg"
+  - thb: "/assets/blog/era-sm-2008/Thumbnails/P02.jpg"
+    img: "/assets/blog/era-sm-2008/P02.jpg"
+  - thb: "/assets/blog/era-sm-2008/Thumbnails/P03.jpg"
+    img: "/assets/blog/era-sm-2008/P03.jpg"
+  - thb: "/assets/blog/era-sm-2008/Thumbnails/P04.jpg"
+    img: "/assets/blog/era-sm-2008/P04.jpg"
+  - thb: "/assets/blog/era-sm-2008/Thumbnails/P05.jpg"
+    img: "/assets/blog/era-sm-2008/P05.jpg"
+  - thb: "/assets/blog/era-sm-2008/Thumbnails/P06.jpg"
+    img: "/assets/blog/era-sm-2008/P06.jpg"
+  - thb: "/assets/blog/era-sm-2008/Thumbnails/P07.jpg"
+    img: "/assets/blog/era-sm-2008/P07.jpg"
+  - thb: "/assets/blog/era-sm-2008/Thumbnails/P08.jpg"
+    img: "/assets/blog/era-sm-2008/P08.jpg"
+  - thb: "/assets/blog/era-sm-2008/Thumbnails/P09.jpg"
+    img: "/assets/blog/era-sm-2008/P09.jpg"
+  - thb: "/assets/blog/era-sm-2008/Thumbnails/P10.jpg"
+    img: "/assets/blog/era-sm-2008/P10.jpg"
+  - thb: "/assets/blog/era-sm-2008/Thumbnails/P11.jpg"
+    img: "/assets/blog/era-sm-2008/P11.jpg"
+  - thb: "/assets/blog/era-sm-2008/Thumbnails/P12.jpg"
+    img: "/assets/blog/era-sm-2008/P12.jpg"
+  - thb: "/assets/blog/era-sm-2008/Thumbnails/P13.jpg"
+    img: "/assets/blog/era-sm-2008/P13.jpg"
+  - thb: "/assets/blog/era-sm-2008/Thumbnails/P14.jpg"
+    img: "/assets/blog/era-sm-2008/P14.jpg"
+  - thb: "/assets/blog/era-sm-2008/Thumbnails/P15.jpg"
+    img: "/assets/blog/era-sm-2008/P15.jpg"
+  - thb: "/assets/blog/era-sm-2008/Thumbnails/P16.jpg"
+    img: "/assets/blog/era-sm-2008/P16.jpg"
+  - thb: "/assets/blog/era-sm-2008/Thumbnails/P17.jpg"
+    img: "/assets/blog/era-sm-2008/P17.jpg"
+  - thb: "/assets/blog/era-sm-2008/Thumbnails/P18.jpg"
+    img: "/assets/blog/era-sm-2008/P18.jpg"
+  - thb: "/assets/blog/era-sm-2008/Thumbnails/P19.jpg"
+    img: "/assets/blog/era-sm-2008/P19.jpg"
+  - thb: "/assets/blog/era-sm-2008/Thumbnails/P20.jpg"
+    img: "/assets/blog/era-sm-2008/P20.jpg"
+  - thb: "/assets/blog/era-sm-2008/Thumbnails/P21.jpg"
+    img: "/assets/blog/era-sm-2008/P21.jpg"
+  - thb: "/assets/blog/era-sm-2008/Thumbnails/P22.jpg"
+    img: "/assets/blog/era-sm-2008/P22.jpg"
+  - thb: "/assets/blog/era-sm-2008/Thumbnails/P23.jpg"
+    img: "/assets/blog/era-sm-2008/P23.jpg"
+  - thb: "/assets/blog/era-sm-2008/Thumbnails/P24.jpg"
+    img: "/assets/blog/era-sm-2008/P24.jpg"
+  - thb: "/assets/blog/era-sm-2008/Thumbnails/P25.jpg"
+    img: "/assets/blog/era-sm-2008/P25.jpg"
+  - thb: "/assets/blog/era-sm-2008/Thumbnails/P26.jpg"
+    img: "/assets/blog/era-sm-2008/P26.jpg"
+  - thb: "/assets/blog/era-sm-2008/Thumbnails/P27.jpg"
+    img: "/assets/blog/era-sm-2008/P27.jpg"
+  - thb: "/assets/blog/era-sm-2008/Thumbnails/P28.jpg"
+    img: "/assets/blog/era-sm-2008/P28.jpg"
+  - thb: "/assets/blog/era-sm-2008/Thumbnails/P29.jpg"
+    img: "/assets/blog/era-sm-2008/P29.jpg"
+  - thb: "/assets/blog/era-sm-2008/Thumbnails/P30.jpg"
+    img: "/assets/blog/era-sm-2008/P30.jpg"
+  - thb: "/assets/blog/era-sm-2008/Thumbnails/P31.jpg"
+    img: "/assets/blog/era-sm-2008/P31.jpg"
+  - thb: "/assets/blog/era-sm-2008/Thumbnails/P32.jpg"
+    img: "/assets/blog/era-sm-2008/P32.jpg"
+---
+
+Erävaelluksen SM-kisat järjestettiin tänä vuonna Sodankylässä,
+kisakeskuksena Kommattivaara. Vain yksi Kerkevartio oli mukana, mitä
+kanssakilpailijoiden joukossa kummasteltiin. Mäyrät pääsivät maaliin,
+sijoitus avoimessa sarjassa 27. Lainassa ollut (kiitos!) kerkelaavu
+toimi erinomaisesti.
+
+Ennakkoon kerrottiin kisan mittaavan todellisia erätaitoja. Tehtävät
+olivat hyvin suunniteltuja ja selkeitä, ilman kikkailuja. Alkutehtävältä
+suunnattiin K-pisteelle, mistä saatiin kartta, johon oli merkattuna
+to-la rastit. Ennen pitkää tutustuttiin verrattomaan ryteikköön ja
+soiseen maaperään. Suunnistamisen ja rastitehtävien ohella poimittiin
+500g syömiskelpoisia marjoja.
+
+Kannattaisi varmaan lukea ennakko-ohjeet. Niissä kerrottiin mm. kartasta
+puuttunut tieto erannosta, jonka suuruusluokka selvisi käytännössä
+perjantaina tielinjan suunnan avulla tehdyssä kompassinkalibroinnissa.
+10 astetta oikealle tekee ihan kivan poikkeaman jo lyhyemmälläkin
+matkalla. Parempi kompassihan oli unohtunut autoon, mutta sillä
+surkeammalla selvittiin. Ylitysrastilla tehtävänä oli rakentaa A-pukki
+ja Maken uusi ylitystapa kirjattiin eritysmaininnalla ylös. Kontatenkin
+pääsee.
+
+Soita oli paljon ja ne olivat märkiä; rastit sijoitettu ansiokkaasti
+joko suolle tai suon reunaan. Järjestäjät suosittelivatkin ennakkoon
+tukevapohjaisia kumisaappaita, mutta aika harvalla sellaisia näki...
+Ehkä merkittävin suoelämys koettiin Känsälammen ympäristössä, jossa
+kahlattiin hyvän matkaa hyllyvällä avosuolla toivoen parasta.
+Päivätehtävänä oli jousipyssyn ja nuolen rakentaminen ja sittemmin ao
+välineillä maalikarhun ampuminen tai ainakin yrittäminen. Loppumatkasta
+hieman kohmeinen kyykärmes osui reitille, mutta tuli ajoissa huomatuksi.
+
+Lauantaina teputettiin alkumatkalla epätyypillistä, jopa kuivaa
+kulku-uraa. Suo siellä rakka täällä. Rasteina mm. marjojen tunnistusta
+ja karttahahmotusta
+[koordinaattiviivastoa](http://www.oh2kku.ham.fi/misc/koordinaattilevy/koordinaattilevy-20000-50000-6.pdf)apuna
+käyttäen. Keittorastilla sai sopivasti tankattua. Paluu arkeen oli
+kuitenkin edessä: huomattavan märkä suorasti viilensi jalakset ja
+rastitehtävänä oli sopivasti suohiihtoa. Loppupäivä meni teitä pitkin,
+kantapäiden ja akillesjänteiden huomautellessa olemassaolostaan.
+Silmäpusseihin meinasi kompastua. La-illan piristys oli toiseksi
+viimeinen rasti, jossa nuuskittiin erilaisia palavia nesteitä
+bensiinistä lähtien.
+
+Viimeisenä yönä oli pakkasta. Pikataival alkoi klo 3.30 parin kilometrin
+siirtymisellä. Lähtö oli klo 4.00 ja klo 9.00 mennessä tulisi olla
+maalissa. Suunnistuskartta oli vanha ja soita tuli taas vastaan, mutta
+myös helppokulkuista kangasmaastoa. 20 vuotta vanha hakkuuaukea kartalta
+muistuttaa ällistyttävän paljon nuorehkoa metsää.
+
+Mäyrät eivät periaatteesta suostuneet juoksemaan, reipas kävelyvauhti ei
+riittänyt perusradalle, mutta takarajaan jäi aikaa.
+
+Kävelymatkaa kertyi tälläkin kertaa tarkistusmittauksen jälkeen melko
+tarkalleen 140 kilsaa.
+
+Mäy!
