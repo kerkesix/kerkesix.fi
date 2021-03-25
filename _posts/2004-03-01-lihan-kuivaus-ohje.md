@@ -5,7 +5,7 @@ categories:
 tags: [ruoka]
 toc: false
 comments: true
-author: tero
+author: Tero
 image:
   feature: lihankuivausohje/kuivaliha-feature.jpg
 ---

@@ -5,7 +5,7 @@ categories:
 tags: [yhdistys]
 toc: false
 comments: true
-author: tero
+author: Tero
 ---
 
 Mikään ei ole niin varmaa kuin muutos: <http://kerkesix.fi>-sivuista julkaistiin

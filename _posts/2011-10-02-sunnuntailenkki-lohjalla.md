@@ -7,7 +7,7 @@ toc: false
 comments: true
 image:
   feature: sunnuntailenkki-lohjalla/02102011092.jpg
-author: jappe
+author: Jappe
 ---
 
 [TT:n](http://teelahti.fi) sanoin:
