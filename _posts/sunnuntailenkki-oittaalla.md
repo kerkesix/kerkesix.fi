@@ -3,16 +3,16 @@ title: "Sunnuntailenkki Oittaalla"
 date: "2007-08-26"
 tags: [juoksu]
 gallery:
-  - thb: "/assets/blog/sunnuntailenkki-oittaalla/Thumbnails/Kaarinan%20pyöräily%20001.jpg"
-    img: "/assets/blog/sunnuntailenkki-oittaalla/Kaarinan%20pyöräily%20001.jpg"
-  - thb: "/assets/blog/sunnuntailenkki-oittaalla/Thumbnails/Kaarinan%20pyöräily%20002.jpg"
-    img: "/assets/blog/sunnuntailenkki-oittaalla/Kaarinan%20pyöräily%20002.jpg"
-  - thb: "/assets/blog/sunnuntailenkki-oittaalla/Thumbnails/Kaarinan%20pyöräily%20003.jpg"
-    img: "/assets/blog/sunnuntailenkki-oittaalla/Kaarinan%20pyöräily%20003.jpg"
-  - thb: "/assets/blog/sunnuntailenkki-oittaalla/Thumbnails/Kaarinan%20pyöräily%20004.jpg"
-    img: "/assets/blog/sunnuntailenkki-oittaalla/Kaarinan%20pyöräily%20004.jpg"
-  - thb: "/assets/blog/sunnuntailenkki-oittaalla/Thumbnails/Kaarinan%20pyöräily%20005.jpg"
-    img: "/assets/blog/sunnuntailenkki-oittaalla/Kaarinan%20pyöräily%20005.jpg"
+  - thb: "/assets/blog/sunnuntailenkki-oittaalla/kaarina-01.jpg"
+    img: "/assets/blog/sunnuntailenkki-oittaalla/kaarina-01.jpg"
+  - thb: "/assets/blog/sunnuntailenkki-oittaalla/kaarina-02.jpg"
+    img: "/assets/blog/sunnuntailenkki-oittaalla/kaarina-02.jpg"
+  - thb: "/assets/blog/sunnuntailenkki-oittaalla/kaarina-03.jpg"
+    img: "/assets/blog/sunnuntailenkki-oittaalla/kaarina-03.jpg"
+  - thb: "/assets/blog/sunnuntailenkki-oittaalla/kaarina-04.jpg"
+    img: "/assets/blog/sunnuntailenkki-oittaalla/kaarina-04.jpg"
+  - thb: "/assets/blog/sunnuntailenkki-oittaalla/kaarina-05.jpg"
+    img: "/assets/blog/sunnuntailenkki-oittaalla/kaarina-05.jpg"
 ---
 
 Pienoinen ukkonen ja sade pohjustivat sunnuntailenkin alkua, mutta
