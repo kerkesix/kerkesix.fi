@@ -1,6 +1,7 @@
 import ErrorPage from "next/error";
 import Container from "../components/container";
 import PostBody from "../components/post-body";
+import PostGallery from "../components/post-gallery";
 import Header from "../components/header";
 import PostHeader from "../components/post-header";
 import Layout from "../components/layout";
@@ -31,6 +32,7 @@ export default function Post({ post }) {
             author={post.author}
           />
           <PostBody content={post.content} />
+          <PostGallery imgs={post.gallery} />
         </article>
       </Container>
     </Layout>
@@ -46,6 +48,7 @@ export async function getStaticProps({ params }) {
     "content",
     "ogImage",
     "coverImage",
+    "gallery",
   ]);
   const content = await markdownToHtml(post.content || "");
 
