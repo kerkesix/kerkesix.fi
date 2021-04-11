@@ -8,12 +8,32 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
 
-      # - name: Build site
-      #   uses: docker://jekyll/builder:4.1.0
-      #   with:
-      #     args: jekyll build
+      # See https://github.com/actions/cache/blob/main/examples.md#node---yarn
+      - name: Get yarn cache directory path
+        id: yarn-cache-dir-path
+        run: echo "::set-output name=dir::$(yarn config get cacheFolder)"
+
+      - uses: actions/cache@v2
+        id: yarn-cache # use this to check for `cache-hit` (`steps.yarn-cache.outputs.cache-hit != 'true'`)
+        with:
+          path: ${{ steps.yarn-cache-dir-path.outputs.dir }}
+          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-yarn-
+
+      - name: Install and Build 🔧
+        uses: actions/setup-node@v1
+        with:
+          node-version: "15.x"
+      - run: yarn install
+      - run: yarn run build
+        # env:
+        #   CI: false
 
       - name: Archive built site
         uses: actions/upload-artifact@v2
