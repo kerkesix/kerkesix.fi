@@ -33,7 +33,7 @@ const GroupedPosts = ({ index, list, title }) => (
 const List = ({ posts }) => (
   <ul>
     {posts.map((p, i) => (
-      <li key={i}>
+      <li key={i} className="mb-1 md:mb-0">
         <Link href={`/${p.slug}`}>{p.title}</Link>
       </li>
     ))}
